@@ -7,7 +7,7 @@ https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/bbc.one.scot.
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/bbc.two.uk.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="BBC2.uk" tvg-name="BBC2.uk" tvg-logo="https://i.imgur.com/SDWN5VW.png" group-title="Freeview",BBC Two
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62411.ts
-#EXTINF:-1 tvg-chno="5" tvg-id="STV.uk" tvg-name="STV.uk" tvg-logo="https://media.tv4.live/stv.central.uk.png" group-title="Freeview",STV FHD
+#EXTINF:-1 tvg-chno="5" tvg-id="stv.central.uk" tvg-name="STV.uk" tvg-logo="https://media.tv4.live/stv.central.uk.png" group-title="Freeview",STV FHD
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175624.ts
 #EXTINF:-1 tvg-chno="6" tvg-id="stv.central.uk" tvg-name="stv.central.uk" tvg-logo="https://i.imgur.com/dtwGqVM.png" group-title="Freeview",STV HD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/stv.central.uk.m3u8
@@ -17,19 +17,19 @@ http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175686.ts
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/channel.4.uk.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="Channel4.uk" tvg-name="Channel4.uk" tvg-logo="https://i.imgur.com/2i7bWZi.png" group-title="Freeview",Channel 4 HD
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62384.ts
-#EXTINF:-1 tvg-chno="10" tvg-id="Channel4plus1.uk" tvg-name="Channel4plus1.uk" tvg-logo="https://i.imgur.com/XX1FoCf.png" group-title="Freeview",Channel 4 +1
+#EXTINF:-1 tvg-chno="10" tvg-id=“Channel.4+1.uk” tvg-name="Channel4plus1.uk" tvg-logo="https://i.imgur.com/XX1FoCf.png" group-title="Freeview",Channel 4 +1
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62382.ts
 #EXTINF:-1 tvg-chno="11" tvg-id="channel.5.uk" tvg-name="channel.5.uk" tvg-logo="https://i.imgur.com/XqZNTY9.png" group-title="Freeview",Channel 5 FHD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/channel.5.uk.m3u8
 #EXTINF:-1 tvg-chno="12" tvg-id="Channel5.uk" tvg-name="Channel5.uk" tvg-logo="https://i.imgur.com/DjDA1wk.png" group-title="Freeview",Channel 5
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62375.ts
-#EXTINF:-1 tvg-chno="13" tvg-id="Channel5plus1.uk" tvg-name="Channel5plus1.uk" tvg-logo="https://i.imgur.com/91Vuqc4.png" group-title="Freeview",Channel 5 +1
+#EXTINF:-1 tvg-chno="13" tvg-id="Channel.5+1.uk" tvg-name="Channel5plus1.uk" tvg-logo="https://i.imgur.com/91Vuqc4.png" group-title="Freeview",Channel 5 +1
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62374.ts
 #EXTINF:-1 tvg-chno="14" tvg-id="BBCRedButton.uk" tvg-name="BBCRedButton.uk" tvg-logo="https://i.imgur.com/1a5oKqt.png" group-title="Freeview",BBC Red Button
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/180746.ts
 #EXTINF:-1 tvg-chno="15" tvg-id="bbc.one.uk" tvg-name="bbc.one.uk" tvg-logo="https://i.imgur.com/vcXaxWc.png" group-title="Freeview",BBC One FHD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/bbc.one.uk.m3u8
-#EXTINF:-1 tvg-chno="16" tvg-id="BBC1.uk" tvg-name="BBC1.uk" tvg-logo="https://i.imgur.com/wEl58u4.png" group-title="Freeview",BBC One
+#EXTINF:-1 tvg-chno="16" tvg-id="bbc.one.uk" tvg-name="BBC1.uk" tvg-logo="https://i.imgur.com/wEl58u4.png" group-title="Freeview",BBC One
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62414.ts
 #EXTINF:-1 tvg-chno="17" tvg-id="bbc.four.uk" tvg-name="bbc.four.uk" tvg-logo="https://i.imgur.com/1qtbGHq.png" group-title="Freeview",BBC Four HD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/bbc.four.uk.m3u8
@@ -39,13 +39,13 @@ http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/79875.ts
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62405.ts
 #EXTINF:-1 tvg-chno="20" tvg-id="ITV.uk" tvg-name="ITV.uk" tvg-logo="https://i.imgur.com/2IZfVFR.png" group-title="Freeview",ITV
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62402.ts
-#EXTINF:-1 tvg-chno="21" tvg-id="ITVPlus1.uk" tvg-name="ITVPlus1.uk" tvg-logo="https://i.imgur.com/1961cDX.png" group-title="Freeview",ITV +1
+#EXTINF:-1 tvg-chno="21" tvg-id="ITV+1.uk" tvg-name="ITVPlus1.uk" tvg-logo="https://i.imgur.com/1961cDX.png" group-title="Freeview",ITV +1
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62393.ts
 #EXTINF:-1 tvg-chno="22" tvg-id="itv.2.uk" tvg-name="itv.2.uk" tvg-logo="https://media.tv4.live/itv.2.uk.png" group-title="Freeview",ITV2 FHD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/itv.2.uk.m3u8
 #EXTINF:-1 tvg-chno="23" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="https://i.imgur.com/rC5ih0i.png" group-title="Freeview",ITV2 HD
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62391.ts
-#EXTINF:-1 tvg-chno="24" tvg-id="ITV2.uk" tvg-name="ITV2.uk" tvg-logo="https://i.imgur.com/H3cZWOC.png" group-title="Freeview",ITV2
+#EXTINF:-1 tvg-chno="24" tvg-id="itv.2.uk" tvg-name="ITV2.uk" tvg-logo="https://i.imgur.com/H3cZWOC.png" group-title="Freeview",ITV2
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62392.ts
 #EXTINF:-1 tvg-chno="25" tvg-id="ITV2plus1.uk" tvg-name="ITV2plus1.uk" tvg-logo="https://i.imgur.com/OXBLNn7.png" group-title="Freeview",ITV2 +1
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/102518.ts
