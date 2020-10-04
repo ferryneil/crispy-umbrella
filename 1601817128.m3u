@@ -1,74 +1,29 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="216" tvg-id="QLD - Brisbane - 9HD" tvg-name="QLD - Brisbane - 9HD" tvg-logo="https://i.imgur.com/hWvDcaM.png" group-title="Entertainment: Australia",9 Brisbane
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156904
-#EXTINF:-1 tvg-chno="217" tvg-id="9GemBrisbane.au.au" tvg-name="9GemBrisbane.au.au" tvg-logo="https://i.imgur.com/CiCOsFq.png" group-title="Entertainment: Australia",9GEM Brisbane
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156907
-#EXTINF:-1 tvg-chno="218" tvg-id="9LifeBrisbane.au.au" tvg-name="9LifeBrisbane.au.au" tvg-logo="https://i.imgur.com/nIFxdV0.png" group-title="Entertainment: Australia",9LIFE Brisbane
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156911
-#EXTINF:-1 tvg-chno="219" tvg-id="ABCBrisbane.au.au" tvg-name="ABCBrisbane.au.au" tvg-logo="https://i.imgur.com/6dGhGae.png" group-title="Entertainment: Australia",ABC Brisbane
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156898
-#EXTINF:-1 tvg-chno="220" tvg-id="SBSBrisbane.au.au" tvg-name="SBSBrisbane.au.au" tvg-logo="https://i.imgur.com/DiMtlRh.png" group-title="Entertainment: Australia",SBS Brisbane
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156918
-#EXTINF:-1 tvg-chno="221" tvg-id="9Melbourne.au.au" tvg-name="9Melbourne.au.au" tvg-logo="https://i.imgur.com/hWvDcaM.png" group-title="Entertainment: Australia",9 Melbourne
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156886
-#EXTINF:-1 tvg-chno="222" tvg-id="9GemMelbourne.au.au" tvg-name="9GemMelbourne.au.au" tvg-logo="https://i.imgur.com/CiCOsFq.png" group-title="Entertainment: Australia",9GEM Melbourne
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156887
-#EXTINF:-1 tvg-chno="223" tvg-id="9GoMelbourne.au.au" tvg-name="9GoMelbourne.au.au" tvg-logo="https://i.imgur.com/FByEi65.png" group-title="Entertainment: Australia",9GO! Melbourne
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156888
-#EXTINF:-1 tvg-chno="224" tvg-id="9LifeMelbourne.au.au" tvg-name="9LifeMelbourne.au.au" tvg-logo="https://i.imgur.com/nIFxdV0.png" group-title="Entertainment: Australia",9LIFE Melbourne
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156889
-#EXTINF:-1 tvg-chno="225" tvg-id="ABCComedyMelbourne.au.au" tvg-name="ABCComedyMelbourne.au.au" tvg-logo="https://i.imgur.com/61Cdm0A.png" group-title="Entertainment: Australia",ABC Comedy Melbourne
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156881
-#EXTINF:-1 tvg-chno="226" tvg-id="ABCMelbourne.au.au" tvg-name="ABCMelbourne.au.au" tvg-logo="https://i.imgur.com/6dGhGae.png" group-title="Entertainment: Australia",ABC Melbourne
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156880
-#EXTINF:-1 tvg-chno="227" tvg-id="ABCMEMelbourne.au.au" tvg-name="ABCMEMelbourne.au.au" tvg-logo="https://i.imgur.com/ddwmRe8.png" group-title="Entertainment: Australia",ABC ME Melbourne
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156882
-#EXTINF:-1 tvg-chno="228" tvg-id="SBSFoodMelbourne.au.au" tvg-name="SBSFoodMelbourne.au.au" tvg-logo="https://i.imgur.com/gynCGKa.png" group-title="Entertainment: Australia",SBS Food Melbourne
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156893
-#EXTINF:-1 tvg-chno="229" tvg-id="SBSMelbourne.au.au" tvg-name="SBSMelbourne.au.au" tvg-logo="https://i.imgur.com/DiMtlRh.png" group-title="Entertainment: Australia",SBS Melbourne
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156894
-#EXTINF:-1 tvg-chno="230" tvg-id="9GemPerth.au.au" tvg-name="9GemPerth.au.au" tvg-logo="https://i.imgur.com/CiCOsFq.png" group-title="Entertainment: Australia",9 Gem Perth HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/wa.perth.9gem.perth.au.m3u8
-#EXTINF:-1 tvg-chno="231" tvg-id="wa.perth.9go.perth.au" tvg-name="wa.perth.9go.perth.au" tvg-logo="https://i.imgur.com/FByEi65.png" group-title="Entertainment: Australia",9 Go! Perth HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/wa.perth.9go.perth.au.m3u8
-#EXTINF:-1 tvg-chno="232" tvg-id="wa.perth.9life.perth.au" tvg-name="wa.perth.9life.perth.au" tvg-logo="https://i.imgur.com/nIFxdV0.png" group-title="Entertainment: Australia",9 Life Perth HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/wa.perth.9life.perth.au.m3u8
-#EXTINF:-1 tvg-chno="233" tvg-id="wa.perth.9hd.perth.au" tvg-name="wa.perth.9hd.perth.au" tvg-logo="https://i.imgur.com/hWvDcaM.png" group-title="Entertainment: Australia",9 Perth HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/wa.perth.9hd.perth.au.m3u8
-#EXTINF:-1 tvg-chno="234" tvg-id="ABCKidsPerth.au.au" tvg-name="ABCKidsPerth.au.au" tvg-logo="https://i.imgur.com/g4Nac27.png" group-title="Entertainment: Australia",ABC Kids Perth
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156864
-#EXTINF:-1 tvg-chno="235" tvg-id="wa.perth.abc.news.au" tvg-name="wa.perth.abc.news.au" tvg-logo="https://i.imgur.com/KA9Hu7R.png" group-title="Entertainment: Australia",ABC News Perth
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/wa.perth.abc.news.au.m3u8
-#EXTINF:-1 tvg-chno="236" tvg-id="wa.perth.abc.au" tvg-name="wa.perth.abc.au" tvg-logo="https://i.imgur.com/ev38wle.png" group-title="Entertainment: Australia",ABC Perth
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/wa.perth.abc.au.m3u8
-#EXTINF:-1 tvg-chno="237" tvg-id="SBSFoodPerth.au.au" tvg-name="SBSFoodPerth.au.au" tvg-logo="https://i.imgur.com/gynCGKa.png" group-title="Entertainment: Australia",SBS Food Perth
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156875
-#EXTINF:-1 tvg-chno="238" tvg-id="SBSPerth.au.au" tvg-name="SBSPerth.au.au" tvg-logo="https://i.imgur.com/DiMtlRh.png" group-title="Entertainment: Australia",SBS Perth
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156872
-#EXTINF:-1 tvg-chno="239" tvg-id="SBSWorldMoviesPerth.au.au" tvg-name="SBSWorldMoviesPerth.au.au" tvg-logo="https://i.imgur.com/NZpwL6f.png" group-title="Entertainment: Australia",SBS World Movies Perth
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156873
-#EXTINF:-1 tvg-chno="240" tvg-id="nsw.sydney.7two.sydney.au" tvg-name="nsw.sydney.7two.sydney.au" tvg-logo="https://i.imgur.com/YkarKG5.png" group-title="Entertainment: Australia",7TWO Sydney HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.7two.sydney.au.m3u8
-#EXTINF:-1 tvg-chno="241" tvg-id="nsw.sydney.9gem.sydney.au" tvg-name="nsw.sydney.9gem.sydney.au" tvg-logo="https://i.imgur.com/CiCOsFq.png" group-title="Entertainment: Australia",9 Gem Sydney HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.9gem.sydney.au.m3u8
-#EXTINF:-1 tvg-chno="242" tvg-id="nsw.sydney.9go.sydney.au" tvg-name="nsw.sydney.9go.sydney.au" tvg-logo="https://i.imgur.com/FByEi65.png" group-title="Entertainment: Australia",9 Go! Sydney HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.9go.sydney.au.m3u8
-#EXTINF:-1 tvg-chno="243" tvg-id="nsw.sydney.9life.sydney.au" tvg-name="nsw.sydney.9life.sydney.au" tvg-logo="https://i.imgur.com/nIFxdV0.png" group-title="Entertainment: Australia",9 Life Sydney HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.9life.sydney.au.m3u8
-#EXTINF:-1 tvg-chno="244" tvg-id="9Sydney.au.au" tvg-name="9Sydney.au.au" tvg-logo="https://i.imgur.com/hWvDcaM.png" group-title="Entertainment: Australia",9 Sydney HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.9.sydney.au.m3u8
-#EXTINF:-1 tvg-chno="245" tvg-id="nsw.sydney.10.bold.sydney.au" tvg-name="nsw.sydney.10.bold.sydney.au" tvg-logo="https://i.imgur.com/4BwX55s.png" group-title="Entertainment: Australia",10 Bold Sydney FHD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.10.bold.sydney.au.m3u8
-#EXTINF:-1 tvg-chno="246" tvg-id="nsw.sydney.10.peach.sydney.au" tvg-name="nsw.sydney.10.peach.sydney.au" tvg-logo="https://i.imgur.com/HBuS71h.png" group-title="Entertainment: Australia",10 Peach Sydney
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.10.peach.sydney.au.m3u8
-#EXTINF:-1 tvg-chno="247" tvg-id="nsw.sydney.10.sydney.au" tvg-name="nsw.sydney.10.sydney.au" tvg-logo="https://i.imgur.com/HwIxnIy.png" group-title="Entertainment: Australia",10 Sydney FHD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.10.sydney.au.m3u8
-#EXTINF:-1 tvg-chno="248" tvg-id="ABCSydney.au.au" tvg-name="ABCSydney.au.au" tvg-logo="https://i.imgur.com/6dGhGae.png" group-title="Entertainment: Australia",ABC Sydney
-http://line.ult-ott.com:8000/892c21c682/7abf020705/156899
-#EXTINF:-1 tvg-chno="249" tvg-id="nsw.sydney.sbs.food.nsw.au" tvg-name="nsw.sydney.sbs.food.nsw.au" tvg-logo="https://i.imgur.com/gynCGKa.png" group-title="Entertainment: Australia",SBS Food Sydney
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.sbs.food.nsw.au.m3u8
-#EXTINF:-1 tvg-chno="250" tvg-id="nsw.sydney.sbs.au" tvg-name="nsw.sydney.sbs.au" tvg-logo="https://i.imgur.com/DiMtlRh.png" group-title="Entertainment: Australia",SBS Sydney HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.sbs.au.m3u8
-#EXTINF:-1 tvg-chno="251" tvg-id="nsw.sydney.sky.news.au" tvg-name="nsw.sydney.sky.news.au" tvg-logo="https://i.imgur.com/aWavB8Q.png" group-title="Entertainment: Australia",Sky News AU HD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/nsw.sydney.sky.news.au.m3u8
-
+#EXTINF:-1 tvg-chno="338" tvg-id="BBC.One.NI.uk" tvg-name="BBC.One.NI.uk" tvg-logo="https://i.imgur.com/UhHMrAE.png" group-title="Entertainment: Ireland",BBC One NI HD
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175596.ts
+#EXTINF:-1 tvg-chno="339" tvg-id="BBC.One.NI.uk" tvg-name="BBC.One.NI.uk" tvg-logo="https://i.imgur.com/iGdAB8X.png" group-title="Entertainment: Ireland",BBC One NI
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175594.ts
+#EXTINF:-1 tvg-chno="340" tvg-id="BBC.Two.NI.uk" tvg-name="BBC.Two.NI.uk" tvg-logo="https://i.imgur.com/OfFqlze.png" group-title="Entertainment: Ireland",BBC Two NI
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175570.ts
+#EXTINF:-1 tvg-chno="341" tvg-id="RTE One" tvg-name="RTE One" tvg-logo="https://media.tv4.live/rte.1.uk.png" group-title="Entertainment: Ireland",RTE One FHD
+https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/rte.1.uk.m3u8
+#EXTINF:-1 tvg-chno="342" tvg-id="rte.1.uk" tvg-name="rte.1.uk" tvg-logo="https://i.imgur.com/u98Q8Xn.png" group-title="Entertainment: Ireland",RTE One HD
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175600.ts
+#EXTINF:-1 tvg-chno="343" tvg-id="rte.2.uk" tvg-name="rte.2.uk" tvg-logo="https://media.tv4.live/rte.2.uk.png" group-title="Entertainment: Ireland",RTE Two FHD
+https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/rte.2.uk.m3u8
+#EXTINF:-1 tvg-chno="344" tvg-id="rte.2.uk" tvg-name="rte.2.uk" tvg-logo="https://i.imgur.com/kyrjezn.png" group-title="Entertainment: Ireland",RTE Two HD
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175598.ts
+#EXTINF:-1 tvg-chno="345" tvg-id="rte.jr.uk" tvg-name="rte.jr.uk" tvg-logo="https://i.imgur.com/q30hlAs.png" group-title="Entertainment: Ireland",RTE Jr
+https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/rte.jr.uk.m3u8
+#EXTINF:-1 tvg-chno="346" tvg-id="virgin.media.one.uk" tvg-name="virgin.media.one.uk" tvg-logo="https://i.imgur.com/ly51cXZ.png" group-title="Entertainment: Ireland",Virgin One FHD
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175617.ts
+#EXTINF:-1 tvg-chno="347" tvg-id="virgin.media.one.uk" tvg-name="virgin.media.one.uk" tvg-logo="https://i.imgur.com/FE6xIP5.png" group-title="Entertainment: Ireland",Virgin One
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175614.ts
+#EXTINF:-1 tvg-chno="348" tvg-id="virgin.media.two.uk" tvg-name="virgin.media.two.uk" tvg-logo="https://i.imgur.com/P58ZqBT.png" group-title="Entertainment: Ireland",Virgin Two FHD
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175611.ts
+#EXTINF:-1 tvg-chno="349" tvg-id="virgin.media.two.uk" tvg-name="virgin.media.two.uk" tvg-logo="https://i.imgur.com/iVLpnqR.png" group-title="Entertainment: Ireland",Virgin Two
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175610.ts
+#EXTINF:-1 tvg-chno="350" tvg-id="virgin.media.three.uk" tvg-name="virgin.media.three.uk" tvg-logo="https://i.imgur.com/niGXOXC.png" group-title="Entertainment: Ireland",Virgin Three FHD
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175608.ts
+#EXTINF:-1 tvg-chno="351" tvg-id="virgin.media.three.uk" tvg-name="virgin.media.three.uk" tvg-logo="https://i.imgur.com/niGXOXC.png" group-title="Entertainment: Ireland",Virgin Three
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175606.ts
