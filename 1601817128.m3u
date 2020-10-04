@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="216" tvg-id="QLD - Brisbane - 9HD" tvg-name="9Brisbane.au.au" tvg-logo="https://i.imgur.com/hWvDcaM.png" group-title="Entertainment: Australia",9 Brisbane
+#EXTINF:-1 tvg-chno="216" tvg-id="QLD - Brisbane - 9HD" tvg-name="QLD - Brisbane - 9HD" tvg-logo="https://i.imgur.com/hWvDcaM.png" group-title="Entertainment: Australia",9 Brisbane
 http://line.ult-ott.com:8000/892c21c682/7abf020705/156904
 #EXTINF:-1 tvg-chno="217" tvg-id="9GemBrisbane.au.au" tvg-name="9GemBrisbane.au.au" tvg-logo="https://i.imgur.com/CiCOsFq.png" group-title="Entertainment: Australia",9GEM Brisbane
 http://line.ult-ott.com:8000/892c21c682/7abf020705/156907
