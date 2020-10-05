@@ -1,0 +1,41 @@
+﻿<?xml version="1.0"?>
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml 
+  and http://webgrabplus.com/sites/default/files/downloads/Misc/Documented_Configuration_Files.zip -->
+   
+  <filename>guide.xml</filename>
+  <mode></mode>
+  <postprocess grab="y" run="n">rex</postprocess>
+  <user-agent>Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36 Edg/79.0.309.71</user-agent>
+  <!--<decryptkey site="site-name">decrypt_userkey</decryptkey>-->
+  <license wg-username="ferryneil" registered-email="neilneilsmith@hotmail.com" password="123dc76d" />-->
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <timespan>0</timespan>
+  <update>f</update>
+ 
+  <!--
+            Replace the next dummy channel entry with the channels you want.
+			You can look into the installed siteini.pack folder on your computer
+  
+            For the latest version,
+            see http://webgrabplus.com/epg-channels for the available sites/channels
+  -->
+  
+ <channel update="i" site="tvguide.co.uk" site_id="428" xmltv_id="Channel 4 + 1">Channel 4 + 1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="729" xmltv_id="Channel 5 +1">Channel 5 +1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="697" xmltv_id="ITV London +1">ITV London +1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="376" xmltv_id="ITV2 +1">ITV2 +1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="474" xmltv_id="ITV3+1">ITV3+1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="530" xmltv_id="ITV4 + 1">ITV4 + 1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="957" xmltv_id="ITVBe+1">ITVBe+1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="371" xmltv_id="E4 +1">E4 +1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="429" xmltv_id="More4 +1">More4 +1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="901" xmltv_id="5* +1">5* +1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="572" xmltv_id="5USA +1">5USA +1</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="80" xmltv_id="BBC1 N Ireland">BBC1 N Ireland</channel>
+ <channel update="i" site="tvguide.co.uk" site_id="99" xmltv_id="BBC2 N Ireland">BBC2 N Ireland</channel>
+
+ 
+</settings>
