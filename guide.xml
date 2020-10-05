@@ -1,0 +1,278 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="5STAR">
+    <display-name lang="en">5STAR</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/374.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <programme start="20201005060000 +0100" stop="20201005070000 +0100" channel="5STAR">
+    <title lang="en">Teleshopping</title>
+    <desc lang="en">A chance to buy goods from the comfort of home.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/6b4a5960-98b8-587e-8a9c-c4bc2f5f1656.jpg" />
+    <star-rating system="GB">
+      <value>2.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005070000 +0100" stop="20201005073000 +0100" channel="5STAR">
+    <title lang="en">Teleshopping</title>
+    <sub-title lang="en">H2O HD Steam Mop</sub-title>
+    <desc lang="en">A chance to buy goods from the comfort of home.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/6b4a5960-98b8-587e-8a9c-c4bc2f5f1656.jpg" />
+    <star-rating system="GB">
+      <value>2.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005073000 +0100" stop="20201005080000 +0100" channel="5STAR">
+    <title lang="en">High Street TV Teleshopping</title>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/9ea949f9-39a3-5727-af21-e07471d10a0b.jpg" />
+  </programme>
+  <programme start="20201005080000 +0100" stop="20201005082000 +0100" channel="5STAR">
+    <title lang="en">Will &amp; Grace</title>
+    <sub-title lang="en">Saving Grace, Again - Part One</sub-title>
+    <desc lang="en">Part one of two. Grace goes on an enjoyable date, but returns to find a message on the answering machine from Leo, so Will decides they should go on a road trip to take her mind off her cheating ex. Meanwhile, Jack and Karen try to arrange dates for each other. American sitcom, starring Debra Messing.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/053dfae6-6160-5c32-86ea-897916f98f9c.jpg" />
+    <episode-num system="xmltv_ns">6.7/24.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005082000 +0100" stop="20201005084500 +0100" channel="5STAR">
+    <title lang="en">Will &amp; Grace</title>
+    <sub-title lang="en">Saving Grace, Again - Part Two</sub-title>
+    <desc lang="en">Part two of two. The group embarks on a road trip in an attempt to help Grace forget about Leo, but Jack and Karen soon get bored with the car journey. Jack spots a man whose face he remembers from an old TV advert, and makes him a tempting offer.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/053dfae6-6160-5c32-86ea-897916f98f9c.jpg" />
+    <episode-num system="xmltv_ns">6.8/24.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005084500 +0100" stop="20201005091000 +0100" channel="5STAR">
+    <title lang="en">Will &amp; Grace</title>
+    <sub-title lang="en">Queens for a Day - Part One</sub-title>
+    <desc lang="en">Part one of two. Will offers to cook Thanksgiving dinner when Vince's mother injures her leg, but soon realises it is more trouble than it is worth. Meanwhile, Jack gives advice to Ro, who feels unable to tell her family and fiance she is gay. American sitcom, guest starring Jamie-Lynn DiScala (The Sopranos).(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/053dfae6-6160-5c32-86ea-897916f98f9c.jpg" />
+    <episode-num system="xmltv_ns">6.9/24.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005091000 +0100" stop="20201005094000 +0100" channel="5STAR">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">The Baby - Part Two</sub-title>
+    <desc lang="en">Part two of two. Vanessa hires a midwife, who plans to involve the whole family in the birth. Comedy, starring Damon Wayans and Tisha Campbell-Martin.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/3dbf81c8-7346-5682-8061-838a27a3cc9b.jpg" />
+    <episode-num system="xmltv_ns">3.29/30.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005094000 +0100" stop="20201005100500 +0100" channel="5STAR">
+    <title lang="en">My Wife and Kids</title>
+    <sub-title lang="en">Fantasy Camp - Part Two</sub-title>
+    <desc lang="en">Part two of two. Michael resorts to some inventive ploys to ensure he is able to still play against his idol. Guest starring Michael Jordan.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/3dbf81c8-7346-5682-8061-838a27a3cc9b.jpg" />
+    <episode-num system="xmltv_ns">4.1/26.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005100500 +0100" stop="20201005110500 +0100" channel="5STAR">
+    <title lang="en">The Nightmare Neighbour Next Door</title>
+    <desc lang="en">A group of residents in Guildford object when the occupant of a one-bedroom council flat decides to transform his home into a 'cannabis cafe'. Having turned a blind eye to their unruly neighbour's all-night parties and unwelcome lodgers, this latest development proves to be a step too far. In a small community in Wales, new arrivals cause a stir when they decide to convert a local pub into their new home, and in Lincolnshire, a young father becomes the victim of a violent assault after asking the man living in the flat below his to keep the noise down.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b41b556a-f927-5ed2-a66d-1d75f4493cf0.jpg" />
+    <episode-num system="xmltv_ns">3.5/8.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005110500 +0100" stop="20201005120500 +0100" channel="5STAR">
+    <title lang="en">The Nightmare Neighbour Next Door</title>
+    <sub-title lang="en">When Neighbours Attack</sub-title>
+    <desc lang="en">The series investigating residential disputes continues, turning attention to feuds that turned violent. Among the stories highlighted are that of former paratrooper Rod who was attacked outside his own home by a knife-wielding neighbour, and 71-year-old Michael, a Suffolk villager whose fellow residents claim he has systematically harassed them, culminating in an assault in which he punched one of his neighbours repeatedly - an incident that was caught on camera. The programme also considers the devastating consequences when personal altercations end up escalating into neighbourhood wars, revealing how a conflict between the Webbs and the Browns in transformed their street in Devon into a war-zone.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fa42777d-4db8-5115-9951-566d27293bc1.jpg" />
+    <episode-num system="xmltv_ns">3.6/8.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005120500 +0100" stop="20201005130000 +0100" channel="5STAR">
+    <title lang="en">Can't Pay? We'll Take It Away</title>
+    <desc lang="en">An evasive man in west London is given a choice between paying up or relinquishing his luxury car, there's a writ for the organiser of a music festival, an aggressive rent defaulter needs evicting, and an entire hole family is angered in Hertfordshire when the agents call to collect a loan owed to a woman's ex-partner.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/63c9085e-1fe7-538b-b4cc-bb699b1ff8ab.jpg" />
+    <episode-num system="xmltv_ns">4.22/42.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005130000 +0100" stop="20201005140000 +0100" channel="5STAR">
+    <title lang="en">Can't Pay? We'll Take It Away</title>
+    <desc lang="en">Agents Max and Steve in East London try to recover over £7,000 owed by a restaurant owner for an unpaid gas bill, while officers Gareth and Mitch in Gloucestershire seek just under £3,000 from the owner of a car wash. Stewart and Vic are in Manchester trying to recover nearly £5,000 owed by a blinds and shutters supplier to a dissatisfied customer.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e7d4c424-aaca-5985-942b-6e7098597071.jpg" />
+    <episode-num system="xmltv_ns">4.32/42.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005140000 +0100" stop="20201005150000 +0100" channel="5STAR">
+    <title lang="en">Can't Pay? We'll Take It Away</title>
+    <desc lang="en">Gareth and Mitch are on the trail of £2,500 in unpaid parking tickets in Cardiff, and while the debtor is not at home, they notice his car is sporting false number plates and call the police. The duo also face an angry defendant in Swindon when trying to collect £2,000 for unpaid rent on a lock-up, while in Buckinghamshire, Matt and Garry consider seizing a haul of luxury watches to pay more than £16,000 owed to a landlord.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ca12eaa1-ef18-5bd2-8f58-e44f8375af70.jpg" />
+    <episode-num system="xmltv_ns">4.34/42.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005150000 +0100" stop="20201005160000 +0100" channel="5STAR">
+    <title lang="en">Can't Pay? We'll Take It Away</title>
+    <desc lang="en">Stewart and Elmor set out to evict a tenant from a property in Manchester but when the man claims he knew nothing about the court order tempers begin to fray. A car salesman in Cumbria is not happy about paying £4,500 to a dissatisfied customer, and in Shropshire a pub licensee claims she is unable to pay the rent she owes to her ex-landlord. With emotions running high, can she cut a new deal?(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/8a20604b-f621-58f5-8339-6fea0c2bf6d4.jpg" />
+    <episode-num system="xmltv_ns">4.35/42.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005160000 +0100" stop="20201005170000 +0100" channel="5STAR">
+    <title lang="en">Police Interceptors</title>
+    <desc lang="en">The high-speed police interception officers pursue a thief in a souped-up Ford Mondeo who outwits their turbocharged cars and causes chaos when he drives up a one-way street in the wrong direction. After one of the unit's vehicles is rammed, a stinger device is called upon to stop the criminal in his tracks.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e3235728-94c3-540e-9696-ac0c869e79c6.jpg" />
+    <episode-num system="xmltv_ns">0.2/7.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005170000 +0100" stop="20201005180000 +0100" channel="5STAR">
+    <title lang="en">Police Interceptors</title>
+    <desc lang="en">A police chase ends with the driver of a stolen Lexus crashing the luxury motor, and the police interception unit deals with an Essex girl whose car is 'too sexy' for the law. Elsewhere, a high-speed pursuit results in a head-on collision with one of the team's vehicles.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e3235728-94c3-540e-9696-ac0c869e79c6.jpg" />
+    <episode-num system="xmltv_ns">0.4/7.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005180000 +0100" stop="20201005183000 +0100" channel="5STAR">
+    <title lang="en">Neighbours</title>
+    <desc lang="en">Australian soap opera, charting the lives and loves of the residents of the suburb of Erinsborough.(n)</desc>
+    <category lang="en">Soap</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/a88961ec-cb76-52e6-9763-f1f4a7fed55f.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005183000 +0100" stop="20201005190000 +0100" channel="5STAR">
+    <title lang="en">Home and Away</title>
+    <desc lang="en">Australian soap opera charting the latest comings and goings of the residents of Summer Bay.(n)</desc>
+    <category lang="en">Soap</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/03e9e421-cdb2-50ab-8697-706422e96143.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005190000 +0100" stop="20201005200000 +0100" channel="5STAR">
+    <title lang="en">Criminals: Caught on Camera</title>
+    <sub-title lang="en">Car Thieves &amp; Thugs: Caught On Camera</sub-title>
+    <desc lang="en">Journalist Nick Wallis joins police forces around the nation to discover how CCTV and technological advances are helping to bring criminals to justice. In this edition, he introduces footage of reckless acts behind the wheel by criminals and other drivers exhibiting a complete disregard for the safety of others.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5fc8b597-86f5-5a03-a8ca-62820e2dafd4.jpg" />
+    <episode-num system="xmltv_ns">1.2/8.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005200000 +0100" stop="20201005210000 +0100" channel="5STAR">
+    <title lang="en">Bargain-Loving Brits in the Sun</title>
+    <desc lang="en">Expats Graham and Linda hope want to open a takeaway in Benalmadena which specialises in selling pies, but their dream has been put on hold until the council grants them permission. Will it all prove to be pie in the sky? Caravan site boss Bambi and her neighbour Johnny, who is also her former dance partner, try to rekindle their old magic at the campsite charity fete. Taffy and Leanne have set up their own pool maintenance business - but it's their own pool that is causing them the biggest headache.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/dd8a4ff6-caad-50fc-ae30-edd82037b7d0.jpg" />
+    <episode-num system="xmltv_ns">4.6/8.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005210000 +0100" stop="20201005220000 +0100" channel="5STAR">
+    <title lang="en">Filthy House SOS</title>
+    <desc lang="en">Richard and Brennan are in Oldham, coming to the aid of 70-year-old part-time DJ Olly, a compulsive shopper, whose house is packed to the rafters with junk.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ef090ea4-177b-5e10-98fa-0873537f2abf.jpg" />
+    <episode-num system="xmltv_ns">1.1/12.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005220000 +0100" stop="20201005230000 +0100" channel="5STAR">
+    <title lang="en">Harry &amp; Meghan: Royals at War</title>
+    <sub-title lang="en">William &amp; Harry: Princes at War?</sub-title>
+    <desc lang="en">In light of the Duke and Duchess of Sussex's decision to step back as senior royals, another chance to see these two documentaries assessing their relationship with William and Kate. Documentary assessing rumours of a rift between the Dukes of Cambridge and Sussex, asking if there is any truth to the claims or if it has been blown out of proportion by the media. The programme analyses how William and Harry's sibling relationship has changed over the years, from the strong bond formed by their mother's death in 1997 to meeting their wives and starting families of their own.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/34a32757-e393-5cf1-859a-73cf446fc0b8.jpg" />
+    <episode-num system="xmltv_ns">0.0/2.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>0.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005230000 +0100" stop="20201006000000 +0100" channel="5STAR">
+    <title lang="en">The Gypsies Next Door</title>
+    <desc lang="en">Travellers' constant struggle to live side by side with settled communities - from the point of view of both sides. Gypsy Bill has fallen out with his neighbours in Kent, so he organises a charity event to promote a more positive image of his people. Twenty-one-year-old traveller Georgia, settled with her own beauty business, realises she will need help from her family, and Warwickshire resident Jo sets out to find evidence of animal cruelty in traveller camps.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/d641cab1-6b45-56b7-9442-af155c3cdc53.jpg" />
+    <episode-num system="xmltv_ns">0.1/4.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.6/10</value>
+    </star-rating>
+  </programme>
+</tv>
