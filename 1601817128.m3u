@@ -1,29 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="338" tvg-id="BBC One Northern Ireland" tvg-name="BBC One Northern Ireland" tvg-logo="https://i.imgur.com/UhHMrAE.png" group-title="Entertainment: Ireland",BBC One NI HD
+#EXTINF:-1 tvg-chno="338" tvg-id="BBC1 N Ireland" tvg-name="BBC One Northern Ireland" tvg-logo="https://i.imgur.com/UhHMrAE.png" group-title="Entertainment: Ireland",BBC One NI HD
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175596.ts
-#EXTINF:-1 tvg-chno="339" tvg-id="BBC.One.NI.uk" tvg-name="BBC.One.NI.uk" tvg-logo="https://i.imgur.com/iGdAB8X.png" group-title="Entertainment: Ireland",BBC One NI
+#EXTINF:-1 tvg-chno="339" tvg-id="BBC1 N Ireland" tvg-name="BBC.One.NI.uk" tvg-logo="https://i.imgur.com/iGdAB8X.png" group-title="Entertainment: Ireland",BBC One NI
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175594.ts
-#EXTINF:-1 tvg-chno="340" tvg-id="BBC.Two.NI.uk" tvg-name="BBC.Two.NI.uk" tvg-logo="https://i.imgur.com/OfFqlze.png" group-title="Entertainment: Ireland",BBC Two NI
+#EXTINF:-1 tvg-chno="340" tvg-id="BBC2 N Ireland" tvg-name="BBC.Two.NI.uk" tvg-logo="https://i.imgur.com/OfFqlze.png" group-title="Entertainment: Ireland",BBC Two NI
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175570.ts
-#EXTINF:-1 tvg-chno="341" tvg-id="RTE One" tvg-name="RTE One" tvg-logo="https://media.tv4.live/rte.1.uk.png" group-title="Entertainment: Ireland",RTE One FHD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/rte.1.uk.m3u8
-#EXTINF:-1 tvg-chno="342" tvg-id="rte.1.uk" tvg-name="rte.1.uk" tvg-logo="https://i.imgur.com/u98Q8Xn.png" group-title="Entertainment: Ireland",RTE One HD
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175600.ts
-#EXTINF:-1 tvg-chno="343" tvg-id="rte.2.uk" tvg-name="rte.2.uk" tvg-logo="https://media.tv4.live/rte.2.uk.png" group-title="Entertainment: Ireland",RTE Two FHD
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/rte.2.uk.m3u8
-#EXTINF:-1 tvg-chno="344" tvg-id="rte.2.uk" tvg-name="rte.2.uk" tvg-logo="https://i.imgur.com/kyrjezn.png" group-title="Entertainment: Ireland",RTE Two HD
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175598.ts
-#EXTINF:-1 tvg-chno="345" tvg-id="rte.jr.uk" tvg-name="rte.jr.uk" tvg-logo="https://i.imgur.com/q30hlAs.png" group-title="Entertainment: Ireland",RTE Jr
-https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/rte.jr.uk.m3u8
-#EXTINF:-1 tvg-chno="346" tvg-id="virgin.media.one.uk" tvg-name="virgin.media.one.uk" tvg-logo="https://i.imgur.com/ly51cXZ.png" group-title="Entertainment: Ireland",Virgin One FHD
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175617.ts
-#EXTINF:-1 tvg-chno="347" tvg-id="virgin.media.one.uk" tvg-name="virgin.media.one.uk" tvg-logo="https://i.imgur.com/FE6xIP5.png" group-title="Entertainment: Ireland",Virgin One
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175614.ts
-#EXTINF:-1 tvg-chno="348" tvg-id="virgin.media.two.uk" tvg-name="virgin.media.two.uk" tvg-logo="https://i.imgur.com/P58ZqBT.png" group-title="Entertainment: Ireland",Virgin Two FHD
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175611.ts
-#EXTINF:-1 tvg-chno="349" tvg-id="virgin.media.two.uk" tvg-name="virgin.media.two.uk" tvg-logo="https://i.imgur.com/iVLpnqR.png" group-title="Entertainment: Ireland",Virgin Two
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175610.ts
-#EXTINF:-1 tvg-chno="350" tvg-id="virgin.media.three.uk" tvg-name="virgin.media.three.uk" tvg-logo="https://i.imgur.com/niGXOXC.png" group-title="Entertainment: Ireland",Virgin Three FHD
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175608.ts
-#EXTINF:-1 tvg-chno="351" tvg-id="virgin.media.three.uk" tvg-name="virgin.media.three.uk" tvg-logo="https://i.imgur.com/niGXOXC.png" group-title="Entertainment: Ireland",Virgin Three
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175606.ts
