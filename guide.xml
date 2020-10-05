@@ -1,278 +1,654 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="5STAR">
-    <display-name lang="en">5STAR</display-name>
-    <icon src="http://my.tvguide.co.uk/channel_logos/374.png" />
+  <channel id="BBC1 N Ireland">
+    <display-name lang="en">BBC1 N Ireland</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/80.png" />
     <url>http://www.tvguide.co.uk</url>
   </channel>
-  <programme start="20201005060000 +0100" stop="20201005070000 +0100" channel="5STAR">
-    <title lang="en">Teleshopping</title>
-    <desc lang="en">A chance to buy goods from the comfort of home.(n)</desc>
-    <category lang="en">Leisure</category>
-    <category lang="en">Hobbies</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/6b4a5960-98b8-587e-8a9c-c4bc2f5f1656.jpg" />
-    <star-rating system="GB">
-      <value>2.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005070000 +0100" stop="20201005073000 +0100" channel="5STAR">
-    <title lang="en">Teleshopping</title>
-    <sub-title lang="en">H2O HD Steam Mop</sub-title>
-    <desc lang="en">A chance to buy goods from the comfort of home.(n)</desc>
-    <category lang="en">Leisure</category>
-    <category lang="en">Hobbies</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/6b4a5960-98b8-587e-8a9c-c4bc2f5f1656.jpg" />
-    <star-rating system="GB">
-      <value>2.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005073000 +0100" stop="20201005080000 +0100" channel="5STAR">
-    <title lang="en">High Street TV Teleshopping</title>
-    <category lang="en">Leisure</category>
-    <category lang="en">Hobbies</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/9ea949f9-39a3-5727-af21-e07471d10a0b.jpg" />
-  </programme>
-  <programme start="20201005080000 +0100" stop="20201005082000 +0100" channel="5STAR">
-    <title lang="en">Will &amp; Grace</title>
-    <sub-title lang="en">Saving Grace, Again - Part One</sub-title>
-    <desc lang="en">Part one of two. Grace goes on an enjoyable date, but returns to find a message on the answering machine from Leo, so Will decides they should go on a road trip to take her mind off her cheating ex. Meanwhile, Jack and Karen try to arrange dates for each other. American sitcom, starring Debra Messing.(n)</desc>
-    <category lang="en">Sitcom</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/053dfae6-6160-5c32-86ea-897916f98f9c.jpg" />
-    <episode-num system="xmltv_ns">6.7/24.</episode-num>
+  <channel id="BBC2 N Ireland">
+    <display-name lang="en">BBC2 N Ireland</display-name>
+    <icon src="http://my.tvguide.co.uk/channel_logos/99.png" />
+    <url>http://www.tvguide.co.uk</url>
+  </channel>
+  <programme start="20201005060000 +0100" stop="20201005091500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Breakfast</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <desc lang="en">Dan Walker and Louise Minchin present a round-up of national and international news, plus current affairs, arts and entertainment, and weather.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b9bc4659-ce07-55ac-894d-66e2bfe95c9a.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
     <subtitles />
     <star-rating system="GB">
-      <value>5.8/10</value>
+      <value>1.8/10</value>
     </star-rating>
   </programme>
-  <programme start="20201005082000 +0100" stop="20201005084500 +0100" channel="5STAR">
-    <title lang="en">Will &amp; Grace</title>
-    <sub-title lang="en">Saving Grace, Again - Part Two</sub-title>
-    <desc lang="en">Part two of two. The group embarks on a road trip in an attempt to help Grace forget about Leo, but Jack and Karen soon get bored with the car journey. Jack spots a man whose face he remembers from an old TV advert, and makes him a tempting offer.(n)</desc>
-    <category lang="en">Sitcom</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/053dfae6-6160-5c32-86ea-897916f98f9c.jpg" />
-    <episode-num system="xmltv_ns">6.8/24.</episode-num>
+  <programme start="20201005091500 +0100" stop="20201005100000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Rip Off Britain</title>
+    <desc lang="en">Angela Rippon, Gloria Hunniford and Julia Somerville investigate a fresh crop of scams aimed at parting people from their cash, beginning with hackers intercepting customer accounts with some of the biggest names in the fast food business, leaving the clients to foot the bill. Plus, the devious distraction tactics criminals are using to dupe unsuspecting car owners out of hundreds of pounds, and how companies are failing victims of identity fraud..(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e042040a-3d5e-52b5-8adf-dbef54dca700.jpg" />
+    <episode-num system="xmltv_ns">11.10/20.</episode-num>
     <subtitles />
     <star-rating system="GB">
-      <value>5.8/10</value>
+      <value>3.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20201005084500 +0100" stop="20201005091000 +0100" channel="5STAR">
-    <title lang="en">Will &amp; Grace</title>
-    <sub-title lang="en">Queens for a Day - Part One</sub-title>
-    <desc lang="en">Part one of two. Will offers to cook Thanksgiving dinner when Vince's mother injures her leg, but soon realises it is more trouble than it is worth. Meanwhile, Jack gives advice to Ro, who feels unable to tell her family and fiance she is gay. American sitcom, guest starring Jamie-Lynn DiScala (The Sopranos).(n)</desc>
-    <category lang="en">Sitcom</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/053dfae6-6160-5c32-86ea-897916f98f9c.jpg" />
-    <episode-num system="xmltv_ns">6.9/24.</episode-num>
+  <programme start="20201005100000 +0100" stop="20201005110000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Homes Under the Hammer</title>
+    <desc lang="en">Martin Roberts, Dion Dublin and Martell Maxwell follow the progress as couples and a father-and-son team tackle renovation projects in Stoke, Liverpool and Birmingham.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/bad66788-daf5-5e5c-a170-5c502fe00c4f.jpg" />
+    <episode-num system="xmltv_ns">20.75/81.</episode-num>
+    <previously-shown />
     <subtitles />
     <star-rating system="GB">
-      <value>5.8/10</value>
+      <value>4/10</value>
     </star-rating>
   </programme>
-  <programme start="20201005091000 +0100" stop="20201005094000 +0100" channel="5STAR">
-    <title lang="en">My Wife and Kids</title>
-    <sub-title lang="en">The Baby - Part Two</sub-title>
-    <desc lang="en">Part two of two. Vanessa hires a midwife, who plans to involve the whole family in the birth. Comedy, starring Damon Wayans and Tisha Campbell-Martin.(n)</desc>
+  <programme start="20201005110000 +0100" stop="20201005114500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Critical Incident</title>
+    <desc lang="en">A village becomes the scene of a violent gunfight, firearms officers fear for their lives when confronted by an armed man, and two paramedics are victims of a terrifying attack.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fd5399dd-1e6f-506d-b703-2c8915091414.jpg" />
+    <episode-num system="xmltv_ns">1.5/15.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005114500 +0100" stop="20201005121500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Paramedics on Scene</title>
+    <desc lang="en">Documentary following Scottish Ambulance Service crews in Glasgow and Edinburgh as they respond to 999 calls, including one about a child who has fallen in a loch.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e06178f4-a7f1-5afc-abce-41a543d00dc9.jpg" />
+    <episode-num system="xmltv_ns">0.0/10.</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20201005121500 +0100" stop="20201005130000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Bargain Hunt</title>
+    <sub-title lang="en">Brackley 6</sub-title>
+    <desc lang="en">Richard Madley and Stephanie Connell help two teams look for items at the Brackley Antiques Cellar in Northamptonshire, while presenter Eric Knowles views one of the largest shoe collections in the world.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/11c978a3-e8bf-516e-a659-a7a3f00f3c20.jpg" />
+    <episode-num system="xmltv_ns">56..</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005130000 +0100" stop="20201005133000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">BBC News at One</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/89bc202d-8d32-54a8-8219-d1e43433c9ad.jpg" />
+    <subtitles />
+  </programme>
+  <programme start="20201005133000 +0100" stop="20201005134500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">BBC Newsline</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <desc lang="en">Local news worth watching from across Northern Ireland.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/d926fb56-3e67-575b-b5ad-d2b8bc54e8f2.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005134500 +0100" stop="20201005143000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">The Indian Doctor</title>
+    <sub-title lang="en">Foreign Bodies</sub-title>
+    <desc lang="en">A smallpox epidemic in India prompts Prem's mother-in-law to visit her daughter in Trefelin, Wales, and the husband of whom she does not approve. Meanwhile, local evangelist minister Herbert Todd struggles to keep his teenage daughter Verity under control, and receptionist Gina tries to get her baby baptised. Comedy drama, starring Sanjeev Bhaskar.(n)</desc>
     <category lang="en">Comedy</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/3dbf81c8-7346-5682-8061-838a27a3cc9b.jpg" />
-    <episode-num system="xmltv_ns">3.29/30.</episode-num>
+    <icon src="https://images.tvguide.co.uk/pa/640/2f0016f5-625f-5e13-aac6-a3fd498ec646.jpg" />
+    <episode-num system="xmltv_ns">1.0/5.</episode-num>
+    <previously-shown />
     <subtitles />
     <star-rating system="GB">
-      <value>4.7/10</value>
+      <value>2.9/10</value>
     </star-rating>
   </programme>
-  <programme start="20201005094000 +0100" stop="20201005100500 +0100" channel="5STAR">
-    <title lang="en">My Wife and Kids</title>
-    <sub-title lang="en">Fantasy Camp - Part Two</sub-title>
-    <desc lang="en">Part two of two. Michael resorts to some inventive ploys to ensure he is able to still play against his idol. Guest starring Michael Jordan.(n)</desc>
-    <category lang="en">Comedy</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/3dbf81c8-7346-5682-8061-838a27a3cc9b.jpg" />
-    <episode-num system="xmltv_ns">4.1/26.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>4.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005100500 +0100" stop="20201005110500 +0100" channel="5STAR">
-    <title lang="en">The Nightmare Neighbour Next Door</title>
-    <desc lang="en">A group of residents in Guildford object when the occupant of a one-bedroom council flat decides to transform his home into a 'cannabis cafe'. Having turned a blind eye to their unruly neighbour's all-night parties and unwelcome lodgers, this latest development proves to be a step too far. In a small community in Wales, new arrivals cause a stir when they decide to convert a local pub into their new home, and in Lincolnshire, a young father becomes the victim of a violent assault after asking the man living in the flat below his to keep the noise down.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/b41b556a-f927-5ed2-a66d-1d75f4493cf0.jpg" />
-    <episode-num system="xmltv_ns">3.5/8.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>5.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005110500 +0100" stop="20201005120500 +0100" channel="5STAR">
-    <title lang="en">The Nightmare Neighbour Next Door</title>
-    <sub-title lang="en">When Neighbours Attack</sub-title>
-    <desc lang="en">The series investigating residential disputes continues, turning attention to feuds that turned violent. Among the stories highlighted are that of former paratrooper Rod who was attacked outside his own home by a knife-wielding neighbour, and 71-year-old Michael, a Suffolk villager whose fellow residents claim he has systematically harassed them, culminating in an assault in which he punched one of his neighbours repeatedly - an incident that was caught on camera. The programme also considers the devastating consequences when personal altercations end up escalating into neighbourhood wars, revealing how a conflict between the Webbs and the Browns in transformed their street in Devon into a war-zone.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/fa42777d-4db8-5115-9951-566d27293bc1.jpg" />
-    <episode-num system="xmltv_ns">3.6/8.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>5.6/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005120500 +0100" stop="20201005130000 +0100" channel="5STAR">
-    <title lang="en">Can't Pay? We'll Take It Away</title>
-    <desc lang="en">An evasive man in west London is given a choice between paying up or relinquishing his luxury car, there's a writ for the organiser of a music festival, an aggressive rent defaulter needs evicting, and an entire hole family is angered in Hertfordshire when the agents call to collect a loan owed to a woman's ex-partner.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/63c9085e-1fe7-538b-b4cc-bb699b1ff8ab.jpg" />
-    <episode-num system="xmltv_ns">4.22/42.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>3.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005130000 +0100" stop="20201005140000 +0100" channel="5STAR">
-    <title lang="en">Can't Pay? We'll Take It Away</title>
-    <desc lang="en">Agents Max and Steve in East London try to recover over £7,000 owed by a restaurant owner for an unpaid gas bill, while officers Gareth and Mitch in Gloucestershire seek just under £3,000 from the owner of a car wash. Stewart and Vic are in Manchester trying to recover nearly £5,000 owed by a blinds and shutters supplier to a dissatisfied customer.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/e7d4c424-aaca-5985-942b-6e7098597071.jpg" />
-    <episode-num system="xmltv_ns">4.32/42.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>3.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005140000 +0100" stop="20201005150000 +0100" channel="5STAR">
-    <title lang="en">Can't Pay? We'll Take It Away</title>
-    <desc lang="en">Gareth and Mitch are on the trail of £2,500 in unpaid parking tickets in Cardiff, and while the debtor is not at home, they notice his car is sporting false number plates and call the police. The duo also face an angry defendant in Swindon when trying to collect £2,000 for unpaid rent on a lock-up, while in Buckinghamshire, Matt and Garry consider seizing a haul of luxury watches to pay more than £16,000 owed to a landlord.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/ca12eaa1-ef18-5bd2-8f58-e44f8375af70.jpg" />
-    <episode-num system="xmltv_ns">4.34/42.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>3.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005150000 +0100" stop="20201005160000 +0100" channel="5STAR">
-    <title lang="en">Can't Pay? We'll Take It Away</title>
-    <desc lang="en">Stewart and Elmor set out to evict a tenant from a property in Manchester but when the man claims he knew nothing about the court order tempers begin to fray. A car salesman in Cumbria is not happy about paying £4,500 to a dissatisfied customer, and in Shropshire a pub licensee claims she is unable to pay the rent she owes to her ex-landlord. With emotions running high, can she cut a new deal?(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/8a20604b-f621-58f5-8339-6fea0c2bf6d4.jpg" />
-    <episode-num system="xmltv_ns">4.35/42.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>3.1/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005160000 +0100" stop="20201005170000 +0100" channel="5STAR">
-    <title lang="en">Police Interceptors</title>
-    <desc lang="en">The high-speed police interception officers pursue a thief in a souped-up Ford Mondeo who outwits their turbocharged cars and causes chaos when he drives up a one-way street in the wrong direction. After one of the unit's vehicles is rammed, a stinger device is called upon to stop the criminal in his tracks.(n)</desc>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/e3235728-94c3-540e-9696-ac0c869e79c6.jpg" />
-    <episode-num system="xmltv_ns">0.2/7.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>5.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005170000 +0100" stop="20201005180000 +0100" channel="5STAR">
-    <title lang="en">Police Interceptors</title>
-    <desc lang="en">A police chase ends with the driver of a stolen Lexus crashing the luxury motor, and the police interception unit deals with an Essex girl whose car is 'too sexy' for the law. Elsewhere, a high-speed pursuit results in a head-on collision with one of the team's vehicles.(n)</desc>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/e3235728-94c3-540e-9696-ac0c869e79c6.jpg" />
-    <episode-num system="xmltv_ns">0.4/7.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>5.9/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005180000 +0100" stop="20201005183000 +0100" channel="5STAR">
-    <title lang="en">Neighbours</title>
-    <desc lang="en">Australian soap opera, charting the lives and loves of the residents of the suburb of Erinsborough.(n)</desc>
-    <category lang="en">Soap</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/a88961ec-cb76-52e6-9763-f1f4a7fed55f.jpg" />
-    <subtitles />
-    <star-rating system="GB">
-      <value>4.3/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005183000 +0100" stop="20201005190000 +0100" channel="5STAR">
-    <title lang="en">Home and Away</title>
-    <desc lang="en">Australian soap opera charting the latest comings and goings of the residents of Summer Bay.(n)</desc>
-    <category lang="en">Soap</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/03e9e421-cdb2-50ab-8697-706422e96143.jpg" />
-    <subtitles />
-    <star-rating system="GB">
-      <value>3.4/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005190000 +0100" stop="20201005200000 +0100" channel="5STAR">
-    <title lang="en">Criminals: Caught on Camera</title>
-    <sub-title lang="en">Car Thieves &amp; Thugs: Caught On Camera</sub-title>
-    <desc lang="en">Journalist Nick Wallis joins police forces around the nation to discover how CCTV and technological advances are helping to bring criminals to justice. In this edition, he introduces footage of reckless acts behind the wheel by criminals and other drivers exhibiting a complete disregard for the safety of others.(n)</desc>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/5fc8b597-86f5-5a03-a8ca-62820e2dafd4.jpg" />
-    <episode-num system="xmltv_ns">1.2/8.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>2.7/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005200000 +0100" stop="20201005210000 +0100" channel="5STAR">
-    <title lang="en">Bargain-Loving Brits in the Sun</title>
-    <desc lang="en">Expats Graham and Linda hope want to open a takeaway in Benalmadena which specialises in selling pies, but their dream has been put on hold until the council grants them permission. Will it all prove to be pie in the sky? Caravan site boss Bambi and her neighbour Johnny, who is also her former dance partner, try to rekindle their old magic at the campsite charity fete. Taffy and Leanne have set up their own pool maintenance business - but it's their own pool that is causing them the biggest headache.(n)</desc>
+  <programme start="20201005143000 +0100" stop="20201005150000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Hairy Bikers' Best of British</title>
+    <sub-title lang="en">Food Festivals</sub-title>
+    <desc lang="en">Si King and Dave Myers continue their culinary journey through time by celebrating Britain's numerous food festivals. The duo reveal the fascinating stories behind the events and sample some of the dishes on offer.(n)</desc>
     <category lang="en">Leisure</category>
     <category lang="en">Hobbies</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/dd8a4ff6-caad-50fc-ae30-edd82037b7d0.jpg" />
-    <episode-num system="xmltv_ns">4.6/8.</episode-num>
-    <subtitles />
-    <star-rating system="GB">
-      <value>7.5/10</value>
-    </star-rating>
-  </programme>
-  <programme start="20201005210000 +0100" stop="20201005220000 +0100" channel="5STAR">
-    <title lang="en">Filthy House SOS</title>
-    <desc lang="en">Richard and Brennan are in Oldham, coming to the aid of 70-year-old part-time DJ Olly, a compulsive shopper, whose house is packed to the rafters with junk.(n)</desc>
-    <category lang="en">Education</category>
-    <category lang="en">Science</category>
-    <category lang="en">Factual</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/ef090ea4-177b-5e10-98fa-0873537f2abf.jpg" />
-    <episode-num system="xmltv_ns">1.1/12.</episode-num>
+    <icon src="https://images.tvguide.co.uk/pa/640/6d9b7981-5bff-5c81-87b6-6c02f6c0bfea.jpg" />
+    <episode-num system="xmltv_ns">0.20/30.</episode-num>
+    <previously-shown />
     <subtitles />
     <star-rating system="GB">
       <value>5.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20201005220000 +0100" stop="20201005230000 +0100" channel="5STAR">
-    <title lang="en">Harry &amp; Meghan: Royals at War</title>
-    <sub-title lang="en">William &amp; Harry: Princes at War?</sub-title>
-    <desc lang="en">In light of the Duke and Duchess of Sussex's decision to step back as senior royals, another chance to see these two documentaries assessing their relationship with William and Kate. Documentary assessing rumours of a rift between the Dukes of Cambridge and Sussex, asking if there is any truth to the claims or if it has been blown out of proportion by the media. The programme analyses how William and Harry's sibling relationship has changed over the years, from the strong bond formed by their mother's death in 1997 to meeting their wives and starting families of their own.(n)</desc>
-    <category lang="en">News</category>
-    <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/34a32757-e393-5cf1-859a-73cf446fc0b8.jpg" />
-    <episode-num system="xmltv_ns">0.0/2.</episode-num>
+  <programme start="20201005150000 +0100" stop="20201005154500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Escape to the Country</title>
+    <sub-title lang="en">Shropshire &amp; Herefordshire</sub-title>
+    <desc lang="en">Nicki Chapman heads to Shropshire and Herefordshire to help a recently retired couple with a £550,000 budget find a dream country home that is full of traditional period charm. Nicki also visits the Weston Park Model Air Show.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f7428c9a-075c-5e7e-a419-300fe77cd3b9.jpg" />
+    <episode-num system="xmltv_ns">20.8/39.</episode-num>
     <subtitles />
     <star-rating system="GB">
-      <value>0.3/10</value>
+      <value>5.3/10</value>
     </star-rating>
   </programme>
-  <programme start="20201005230000 +0100" stop="20201006000000 +0100" channel="5STAR">
-    <title lang="en">The Gypsies Next Door</title>
-    <desc lang="en">Travellers' constant struggle to live side by side with settled communities - from the point of view of both sides. Gypsy Bill has fallen out with his neighbours in Kent, so he organises a charity event to promote a more positive image of his people. Twenty-one-year-old traveller Georgia, settled with her own beauty business, realises she will need help from her family, and Warwickshire resident Jo sets out to find evidence of animal cruelty in traveller camps.(n)</desc>
+  <programme start="20201005154500 +0100" stop="20201005163000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Garden Rescue</title>
+    <sub-title lang="en">Hagley</sub-title>
+    <desc lang="en">Charlie Dimmock and the Rich brothers come up with alternative designs for the garden of a retired couple in Worcestershire who want to get rid of their unsafe grey slab patio.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b88a2d66-d0bd-5a78-a45c-961e431632c2.jpg" />
+    <episode-num system="xmltv_ns">2.28/30.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005163000 +0100" stop="20201005171500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">The Repair Shop</title>
+    <desc lang="en">Jay Blades and the team restore three more treasured family heirlooms, working on a writing bureau, a pair of dancing clogs, and two gold-plated ploughing trophies.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/15a547f8-3cfe-5ebe-9203-9402afd19b19.jpg" />
+    <episode-num system="xmltv_ns">4.22/40.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005171500 +0100" stop="20201005180000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Pointless</title>
+    <desc lang="en">Quiz in which contestants try to score the fewest points possible by giving the least obvious correct answers to questions. Presented by Alexander Armstrong, with Richard Osman.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e8b9e82d-cba4-5299-82ac-ca44cb7139f2.jpg" />
+    <episode-num system="xmltv_ns">22.53/55.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005180000 +0100" stop="20201005183000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">BBC News at Six</title>
+    <sub-title lang="en">05/10/2020</sub-title>
     <category lang="en">News</category>
     <category lang="en">Current Affairs</category>
-    <icon src="https://images.tvguide.co.uk/pa/640/d641cab1-6b45-56b7-9442-af155c3cdc53.jpg" />
-    <episode-num system="xmltv_ns">0.1/4.</episode-num>
+    <icon src="https://images.tvguide.co.uk/pa/640/159ff8f3-2b20-59de-8eb7-9f25b7687392.jpg" />
+    <subtitles />
+  </programme>
+  <programme start="20201005183000 +0100" stop="20201005190000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">BBC Newsline</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b3e0fc9e-1785-5a19-a442-95b6fc33bea6.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005190000 +0100" stop="20201005193500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">The One Show</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <desc lang="en">Alex Jones and Jermaine Jenas host the first visit of the week to the One Show studio, featuring the usual mix of topical stories and celebrity chat.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/9d2b35ef-c2df-59f5-b1ac-a4ca4a0a0dec.jpg" />
+    <episode-num system="xmltv_ns">2019..</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005193500 +0100" stop="20201005200500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Life Is Magic</title>
+    <desc lang="en">Illusionist Joel M from Bangor, Co Down, takes his conjuring skills to parties and events around the country, helping to create life-changing celebrations that people will talk about for years to come. In the first edition he meets the student formal committee at Our Lady of Lourdes High School in Ballymoney to help plan an epic trick for their formal dance.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e73f1aef-3c6c-5a1e-8ef3-1a6c99f85b9b.jpg" />
+    <episode-num system="xmltv_ns">0.0.</episode-num>
+    <subtitles />
+  </programme>
+  <programme start="20201005200500 +0100" stop="20201005203000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">EastEnders</title>
+    <desc lang="en">Mick's suspicions of Frankie increase when he finds out she is looking after Ollie and he pushes her for answers. Gray is struggling to look after his children and work on Whitney's case - and when it turns out that the first hearing is the same day as Chantelle's funeral, his colleague insists on taking him off the case. Suki finds Jags' jeans covered in blood, and Callum promises Ben he'll be at Lexi's dance recital - only for Thompson to call him into the station yet again.(n)</desc>
+    <category lang="en">Soap</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5f31d9dd-0d96-50aa-a072-90139d6ea706.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005203000 +0100" stop="20201005210000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Panorama</title>
+    <sub-title lang="en">Australia Burning - Panorama</sub-title>
+    <desc lang="en">Thirty-four people died in Australia last year as the worst bushfires in living memory swept across the country , with an area roughly the size of England devastated and thousands of homes destroyed. A year on, Clive Myrie hears from the people living in the path of the fires and the firefighters who risked their lives to save them, and asks if these levels of destruction are to become normal.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/20dc854a-ec9a-52b8-bc51-735f5e210a3b.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005210000 +0100" stop="20201005220000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Me, My Brother and Our Balls</title>
+    <desc lang="en">Documentary in which Love Island star Chris Hughes and his brother Ben explore male fertility, looking at why the subject is not taken seriously enough. They meet one of the UK's leading experts for a step-by-step guide to sperm, hear how infertility affects masculinity from a GB Olympic rower, and consider how their fertility struggles could impact on their family, and their girlfriends, in the long term.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c0d8aa5c-2c77-5118-9ee4-cce40514c0ac.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>0/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005220000 +0100" stop="20201005223000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">BBC News at Ten</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/9470ce28-fbee-51b0-81c6-9ad7db2dd39c.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005223000 +0100" stop="20201005224000 +0100" channel="BBC1 N Ireland">
+    <title lang="en">BBC Newsline</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/723f812b-77bf-542e-b555-1275d7ba7cb6.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005224000 +0100" stop="20201005224500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Weather</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/23612026-102a-50ef-a16f-265c83ef0637.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005224500 +0100" stop="20201005231500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">True North</title>
+    <sub-title lang="en">True North: Saving the Shipyard</sub-title>
+    <desc lang="en">Like much of the UK's shipbuilding industry, Harland &amp; Wolff suffered a steady decline in recent years and in the summer of 2019 it entered administration - appearing to spell the end of the company after almost 160 years. This documentary tells the inside story of the Belfast workers who helped rescue the company from closure, with access to the workers, union reps, administrators and bosses at the heart of the struggle.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0977cfcd-c2e1-5a10-83e1-aa1442f2a271.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005231500 +0100" stop="20201005234500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Stand Up for Live Comedy</title>
+    <desc lang="en">Paddy Raff hosts the showcase for emerging comic talent from Belfast. Rachel Fairburn unpicks the joys of sisterhood, Mary O'Connell explains why she is a bad feminist and Shane Todd breaks down sectarianism over a coffee. Paddy rounds off the show with an insight into what makes a Belfast audience unique.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/e919b2de-2e95-5bda-a969-ed58bef6b62a.jpg" />
+    <episode-num system="xmltv_ns">0.1/6.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005234500 +0100" stop="20201006000500 +0100" channel="BBC1 N Ireland">
+    <title lang="en">Sunny D</title>
+    <sub-title lang="en">D Is for Declarations</sub-title>
+    <desc lang="en">Comedy, written by and starring Dane Baptiste as a frustrated 29-year-old, still living at home with his parents. Dane dreads a party to celebrate his dad's 65th birthday, knowing his relatives are going to have awkward questions about his career and love life. When he tries to boost his confidence with the aid of a bottle of rum, it leads to some awkward revelations and an accidental proposal.(n)</desc>
+    <category lang="en">Sitcom</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b6ce3a15-da4a-5e40-8509-1437da4ee4d5.jpg" />
+    <episode-num system="xmltv_ns">0.0/4.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005040000 +0100" stop="20201005063500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">This Is BBC Two</title>
+    <desc lang="en">Preview of upcoming programmes from BBC Two.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/5d9598fa-bf04-52eb-8f50-493f25117d3f.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005063500 +0100" stop="20201005073000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Countryfile</title>
+    <sub-title lang="en">The Lake District</sub-title>
+    <desc lang="en">Ellie Harrison and Joe Crowley are in the Lake District to celebrate the 250th anniversary of William Wordsworth's birth, and also mark 50 years of Langdale and Ambleside Mountain Rescue. Plus, Adam Henson find out where he will get the best prices for his rams - online or at a traditional livestock market?(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/cb690eb5-a391-5e9d-875c-37f681332a5b.jpg" />
+    <episode-num system="xmltv_ns">2019.38/52.</episode-num>
+    <previously-shown />
     <subtitles />
     <star-rating system="GB">
       <value>6.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005073000 +0100" stop="20201005080000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Beechgrove</title>
+    <desc lang="en">Carole Baxter creates a bog garden from scratch in her rural garden and George Anderson is in his allotment, where he checks on his apples and pears. Brian Cunningham puts his no-mow garden to bed for the winter and adds some sparkles of spring interest and Kirsty Wilson is in her flat looking at reviving interest in a plant that has gone out of fashion, the African violet.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/fc8a082f-d34d-5d1c-8d71-17765f873daf.jpg" />
+    <episode-num system="xmltv_ns">41.22/26.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005080000 +0100" stop="20201005083000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Mortimer &amp; Whitehouse: Gone Fishing</title>
+    <desc lang="en">Paul and Bob fish for brown trout on the river Test in Hampshire, using a Victorian fly-casting technique pioneered in the area as well as an authentic 19th-century rod. The Mayflies are hatching, and the famously short-lived insects inspire some thoughts on the ephemeral nature of life, and what they would do if they only had 24 hours left.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ef2e8acb-76fa-5cee-9fab-9373365989d7.jpg" />
+    <episode-num system="xmltv_ns">2.3/6.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005083000 +0100" stop="20201005090000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">The Week in Parliament</title>
+    <sub-title lang="en">01/10/2020</sub-title>
+    <desc lang="en">A round-up of the week's proceedings in Parliament, presented by David Cornock..(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political</category>
+    <category lang="en">Economics</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/54fe009f-814c-58fc-9000-e8f5992aab5e.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005090000 +0100" stop="20201005100000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">BBC News at 9</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b333e731-294b-5d53-bebf-889163b681b4.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005100000 +0100" stop="20201005121500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">BBC News</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/281dc9b3-5852-544f-9c05-8c9366d863b2.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.2/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005121500 +0100" stop="20201005130000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Politics Live</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <desc lang="en">Update on politics from Westminster and beyond.(n)</desc>
+    <category lang="en">Social</category>
+    <category lang="en">Political</category>
+    <category lang="en">Economics</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/9c6453c0-ed61-5fd1-8901-580f3b583f2a.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005130000 +0100" stop="20201005134500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Decimate</title>
+    <desc lang="en">A team of three must keep the £20,000 cash wall intact by answering questions correctly. However, if they are Decimated, they will leave with nothing. Quiz show, hosted by Shane Richie.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/414475de-9b1a-5781-8633-44f14cef72ad.jpg" />
+    <episode-num system="xmltv_ns">1.4/25.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>0.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005134500 +0100" stop="20201005143000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Make Me a Dealer</title>
+    <sub-title lang="en">Nottingham: Melissa &amp; Paolo</sub-title>
+    <desc lang="en">Paul Martin is in Nottingham, where vintage fan Melissa Mason and jewellery designer Paolo Moscardini learn the tricks of the buying trade to see who can make the most profit.(n)</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Game Show</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/13f69976-577c-590a-8a43-6ac1143705a7.jpg" />
+    <episode-num system="xmltv_ns">1.18/20.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005143000 +0100" stop="20201005151500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">800 Words</title>
+    <desc lang="en">When Woody and Smiler find yet another thing wrong with the Turners' house they have to evacuate to the motel, where George encounters Dean - a feared nemesis from his childhood.(n)</desc>
+    <category lang="en">Comedy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/62ca703c-6ad8-5087-a017-b5c0ca96e6f1.jpg" />
+    <episode-num system="xmltv_ns">0.4/8.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>2.8/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005151500 +0100" stop="20201005161500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">The Great British Sewing Bee</title>
+    <desc lang="en">The sewing room is transported back to the 1960s as the six remaining contestants revive vintage garments, take on time-honoured techniques and wrestle with antique equipment in an attempt to show Patrick Grant and Esme Young they deserve a place in the quarter finals. For their first task they are asked to follow a pattern for a colour block dress, then must work with PVC to transform a rain mac in the alteration challenge, before creating fitted jackets inspired by the era. Claudia Winkleman presents.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/f182a5d0-455f-546f-86bb-b1f63a1a4b4c.jpg" />
+    <episode-num system="xmltv_ns">3.4/8.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005161500 +0100" stop="20201005171500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Gorilla Family and Me</title>
+    <desc lang="en">Part one of two. Wildlife cameraman Gordon Buchanan travels to the Democratic Republic of the Congo, where he realises a lifelong dream by spending time with Grauer's gorillas, the largest primates on earth. He meets the fearsome alpha male Chimanuka and two babies, one a lonely orphan and as Gordon gains the trust of these mysterious, seldom seen animals, he discovers their incredible compassion and gets caught up in a battle between giant rival silverbacks for control of the family.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/137ab59d-0492-5a82-baad-1172f15f8022.jpg" />
+    <episode-num system="xmltv_ns">0.0/2.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005171500 +0100" stop="20201005180000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Flog It</title>
+    <sub-title lang="en">Newby Hall</sub-title>
+    <desc lang="en">Mark Stacey and Michael Baggott assess items brought into Newby Hall in North Yorkshire. Mark comes across an interesting Clarice Cliff cake plate and Michael enjoys an ancient Chinese urn. Presenter Paul Martin takes in the splendours of the country house's Adams interiors.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/22794446-a165-5382-8cb0-1aaf935c6cb3.jpg" />
+    <episode-num system="xmltv_ns">16.16/40.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.5/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005180000 +0100" stop="20201005183000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Richard Osman's House of Games</title>
+    <desc lang="en">Former winners Rick Edwards, Scarlett Moffatt, Naga Munchetty and David O'Doherty test their general knowledge skills on this week's special House of Games: Champion editions.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/08d43e76-b2db-5d88-9879-f3a1c36cf072.jpg" />
+    <episode-num system="xmltv_ns">2.40/100.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005183000 +0100" stop="20201005190000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Fish Town</title>
+    <desc lang="en">James Cosmo narrates a documentary about the port of Peterhead and the people working on land and at sea to put fish on the nation's plates. The fishing boat Reliance, skippered by John Clarke, heads to the Shetland Isles in search of whitefish and prawns, while the Ocean Endeavour ventures to Rockall, one of the UK's most remote fishing grounds, in search of haddock.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/7cfe647f-74cb-561f-87bc-a773164118b3.jpg" />
+    <episode-num system="xmltv_ns">0.0/6.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.9/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005190000 +0100" stop="20201005193000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">The Yorkshire Dales</title>
+    <sub-title lang="en">Wharfedale</sub-title>
+    <desc lang="en">Adventurer Paul Rose's trip concludes in Wharfedale, where he talks to some of the women whose story inspired the film Calendar Girls, finds out why bats are under threat in the area and meets families from inner-city Bradford who are having their first Dales experience.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0ef3d291-81de-5220-8541-2e1340c3c944.jpg" />
+    <episode-num system="xmltv_ns">0.2/3.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005193000 +0100" stop="20201005200000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Mastermind</title>
+    <desc lang="en">The return of the quiz in which contestants answer questions on specialist subjects and then test their general knowledge.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/833c7295-f59d-5dbd-8c28-e05467786e8f.jpg" />
+    <episode-num system="xmltv_ns">17.0/30.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>5.3/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005200000 +0100" stop="20201005203000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Only Connect</title>
+    <sub-title lang="en">Sliders v Ticket Collectors</sub-title>
+    <desc lang="en">Victoria Coren Mitchell hosts another first-round match as shuffleboard players the Sliders take on live entertainment fans the Ticket Collectors. The teams must use patience, lateral thinking and sheer inspiration to make connections between four things that may appear at first not to be linked, with one set of clues consisting of Hoopoe, Kittiwake, Chiffchaff, and Cuckoo.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/c8ea4c81-d295-5288-9745-358b8d9466b5.jpg" />
+    <episode-num system="xmltv_ns">15.2/28.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.6/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005203000 +0100" stop="20201005210000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">University Challenge</title>
+    <desc lang="en">The penultimate first-round match of the academic quiz sees four students from the University of Edinburgh pitting their wits against a team from the University of Manchester in a bid to reach the second stage of the competition. Jeremy Paxman asks the questions.(n)</desc>
+    <category lang="en">General</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/597c5899-c774-5309-ae5d-c4926c9ebe3e.jpg" />
+    <episode-num system="xmltv_ns">26.12/37.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>9.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005210000 +0100" stop="20201005220000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">In the Face of Terror</title>
+    <desc lang="en">Documentary following the stories of ordinary people fighting for truth and justice following acts of terror. The first one featured is a hostage crisis in Syria that culminated in seven beheadings by a British executioner, later dubbed Jihadi John, while the second looks at the far-right attack in Christchurch, New Zealand, in which 51 people were shot dead in the city's mosques.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b03e1cb2-ebf4-5b63-9fe8-14593f17be05.jpg" />
+    <episode-num system="xmltv_ns">0.0/3.</episode-num>
+    <subtitles />
+    <star-rating system="GB">
+      <value>1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005220000 +0100" stop="20201005223500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Croí Uladh le John Toal</title>
+    <desc lang="en">John meets Becky Convery and her talented dog, Miley in Maghera. In Omeath, a group of Irish speakers started to make currachs to give themselves a different language focus. John meets Neville McCann and his friends to see the currach that they have made. In Irish.(n)</desc>
+    <category lang="en">Education</category>
+    <category lang="en">Science</category>
+    <category lang="en">Factual</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/b9d93240-64b2-5e3d-a516-bc094902c6d8.jpg" />
+    <episode-num system="xmltv_ns">0.2/4.</episode-num>
+    <previously-shown />
+    <subtitles />
+  </programme>
+  <programme start="20201005223500 +0100" stop="20201005224500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Rick Stein's Long Weekends</title>
+    <sub-title lang="en">Bordeaux</sub-title>
+    <desc lang="en">The chef takes a culinary break in Bordeaux, where he helps judge a local wine contest and hires a 2CV for an excursion to the coast - abundant with mussels and oysters.(n)</desc>
+    <category lang="en">Leisure</category>
+    <category lang="en">Hobbies</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/ea8ba5db-3b3f-52ac-8c3c-138de00a70cb.jpg" />
+    <episode-num system="xmltv_ns">0.0/10.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>6.4/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005224500 +0100" stop="20201005232500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Newsnight</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <desc lang="en">Analysis of the day's events, presented by Emily Maitlis.(n)</desc>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/9008e3b8-b2f9-5db0-a2b5-2c68e074ebea.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>4.1/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005232500 +0100" stop="20201005233000 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Weather</title>
+    <sub-title lang="en">05/10/2020</sub-title>
+    <category lang="en">News</category>
+    <category lang="en">Current Affairs</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/23612026-102a-50ef-a16f-265c83ef0637.jpg" />
+    <subtitles />
+    <star-rating system="GB">
+      <value>8.7/10</value>
+    </star-rating>
+  </programme>
+  <programme start="20201005233000 +0100" stop="20201006001500 +0100" channel="BBC2 N Ireland">
+    <title lang="en">Heroes</title>
+    <sub-title lang="en">Five Years Gone</sub-title>
+    <desc lang="en">The future holds disappointment for Hiro when he discovers that people with secret powers are considered terrorists. As the time-traveller prepares for a showdown with the President he confronts some familiar faces who have changed over the years.(n)</desc>
+    <category lang="en">Fantasy</category>
+    <icon src="https://images.tvguide.co.uk/pa/640/0ac3ac56-7e2a-53e9-973e-2029571bd451.jpg" />
+    <episode-num system="xmltv_ns">0.19/23.</episode-num>
+    <previously-shown />
+    <subtitles />
+    <star-rating system="GB">
+      <value>7.7/10</value>
     </star-rating>
   </programme>
 </tv>
