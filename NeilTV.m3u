@@ -735,7 +735,7 @@ http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62556.ts
 http://line.ult-ott.com:80/live/892c21c682/7abf020705/30510.ts
 #EXTINF:-1 tvg-chno="368" tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-logo="https://i.imgur.com/RYcOURr.png" group-title="Movies: Sky Cinema",Sky Cinema Greats HD
 http://line.ult-ott.com:80/live/892c21c682/7abf020705/30512.ts
-#EXTINF:-1 tvg-chno="369" tvg-id="sky.cinema.animation.uk" tvg-name="sky.cinema.animation.uk" tvg-logo="https://i.imgur.com/tuJTeee.png" group-title="Movies: Sky Cinema",Sky Cinema Animation HD
+#EXTINF:-1 tvg-chno="369" tvg-id="SkyAnimationHD" tvg-name="sky.cinema.animation.uk" tvg-logo="https://i.imgur.com/tuJTeee.png" group-title="Movies: Sky Cinema",Sky Cinema Animation HD
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175790.ts
 #EXTINF:-1 tvg-chno="370" tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-logo="https://i.imgur.com/KmZuvSL.png" group-title="Movies: Sky Cinema",Sky Cinema Family HD
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175819.ts
@@ -757,7 +757,7 @@ http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175792.ts
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/145130.ts
 #EXTINF:-1 tvg-chno="379" tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-logo="https://i.imgur.com/9YmqcJT.png" group-title="Movies: Sky Cinema",Sky Cinema Greats
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/145137.ts
-#EXTINF:-1 tvg-chno="380" tvg-id="sky.cinema.animation.uk" tvg-name="sky.cinema.animation.uk" tvg-logo="https://i.imgur.com/mdCErQ1.png" group-title="Movies: Sky Cinema",Sky Cinema Animation
+#EXTINF:-1 tvg-chno="380" tvg-id="SkyAnimationHD" tvg-name="sky.cinema.animation.uk" tvg-logo="https://i.imgur.com/mdCErQ1.png" group-title="Movies: Sky Cinema",Sky Cinema Animation
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175777.ts
 #EXTINF:-1 tvg-chno="381" tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-logo="https://i.imgur.com/401dJn6.png" group-title="Movies: Sky Cinema",Sky Cinema Family
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175788.ts
