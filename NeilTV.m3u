@@ -675,11 +675,11 @@ https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/yes.tv.ckcs.c
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/ytv.youth.television.east.ca.m3u8
 #EXTINF:-1 tvg-chno="338" tvg-id="ytv.youth.television.east.ca" tvg-name="ytv.youth.television.east.ca" tvg-logo="https://i.imgur.com/U9DEGpW.png" group-title="Entertainment: Canada",YTV
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/177187.ts
-#EXTINF:-1 tvg-chno="339" tvg-id="BBC.One.NI.uk" tvg-name="BBC.One.NI.uk" tvg-logo="https://i.imgur.com/UhHMrAE.png" group-title="Entertainment: Ireland",BBC One NI HD
+#EXTINF:-1 tvg-chno="339" tvg-id="BBC1 N Ireland" tvg-name="BBC.One.NI.uk" tvg-logo="https://i.imgur.com/UhHMrAE.png" group-title="Entertainment: Ireland",BBC One NI HD
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175596.ts
-#EXTINF:-1 tvg-chno="340" tvg-id="BBC.One.NI.uk" tvg-name="BBC.One.NI.uk" tvg-logo="https://i.imgur.com/iGdAB8X.png" group-title="Entertainment: Ireland",BBC One NI
+#EXTINF:-1 tvg-chno="340" tvg-id="BBC1 N Ireland" tvg-name="BBC.One.NI.uk" tvg-logo="https://i.imgur.com/iGdAB8X.png" group-title="Entertainment: Ireland",BBC One NI
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175594.ts
-#EXTINF:-1 tvg-chno="341" tvg-id="BBC.Two.NI.uk" tvg-name="BBC.Two.NI.uk" tvg-logo="https://i.imgur.com/OfFqlze.png" group-title="Entertainment: Ireland",BBC Two NI
+#EXTINF:-1 tvg-chno="341" tvg-id="BBC2 N Ireland" tvg-name="BBC.Two.NI.uk" tvg-logo="https://i.imgur.com/OfFqlze.png" group-title="Entertainment: Ireland",BBC Two NI
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175570.ts
 #EXTINF:-1 tvg-chno="342" tvg-id="rte.1.uk" tvg-name="rte.1.uk" tvg-logo="https://media.tv4.live/rte.1.uk.png" group-title="Entertainment: Ireland",RTE One FHD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/rte.1.uk.m3u8
@@ -711,7 +711,7 @@ https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/sky.cinema.se
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/sky.cinema.hits.uk.m3u8
 #EXTINF:-1 tvg-chno="356" tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-logo="https://i.imgur.com/RYcOURr.png" group-title="Movies: Sky Cinema",Sky Cinema Greats FHD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/sky.cinema.greats.uk.m3u8
-#EXTINF:-1 tvg-chno="357" tvg-id="SkyAnimationHD" tvg-name="sky.cinema.animation.uk" tvg-logo="https://i.imgur.com/tuJTeee.png" group-title="Movies: Sky Cinema",Sky Cinema Animation FHD
+#EXTINF:-1 tvg-chno="357" tvg-id="SkyAnimationHD" tvg-name="SkyAnimationHD" tvg-logo="https://i.imgur.com/tuJTeee.png" group-title="Movies: Sky Cinema",Sky Cinema Animation FHD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/sky.cinema.animation.uk.m3u8
 #EXTINF:-1 tvg-chno="358" tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-logo="https://i.imgur.com/KmZuvSL.png" group-title="Movies: Sky Cinema",Sky Cinema Family FHD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/sky.cinema.family.uk.m3u8
@@ -735,7 +735,7 @@ http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/62556.ts
 http://line.ult-ott.com:80/live/892c21c682/7abf020705/30510.ts
 #EXTINF:-1 tvg-chno="368" tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-logo="https://i.imgur.com/RYcOURr.png" group-title="Movies: Sky Cinema",Sky Cinema Greats HD
 http://line.ult-ott.com:80/live/892c21c682/7abf020705/30512.ts
-#EXTINF:-1 tvg-chno="369" tvg-id="SkyAnimationHD" tvg-name="sky.cinema.animation.uk" tvg-logo="https://i.imgur.com/tuJTeee.png" group-title="Movies: Sky Cinema",Sky Cinema Animation HD
+#EXTINF:-1 tvg-chno="369" tvg-id="SkyAnimationHD" tvg-name="SkyAnimationHD" tvg-logo="https://i.imgur.com/tuJTeee.png" group-title="Movies: Sky Cinema",Sky Cinema Animation HD
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175790.ts
 #EXTINF:-1 tvg-chno="370" tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-logo="https://i.imgur.com/KmZuvSL.png" group-title="Movies: Sky Cinema",Sky Cinema Family HD
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175819.ts
@@ -757,7 +757,7 @@ http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175792.ts
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/145130.ts
 #EXTINF:-1 tvg-chno="379" tvg-id="sky.cinema.greats.uk" tvg-name="sky.cinema.greats.uk" tvg-logo="https://i.imgur.com/9YmqcJT.png" group-title="Movies: Sky Cinema",Sky Cinema Greats
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/145137.ts
-#EXTINF:-1 tvg-chno="380" tvg-id="SkyAnimationHD" tvg-name="sky.cinema.animation.uk" tvg-logo="https://i.imgur.com/mdCErQ1.png" group-title="Movies: Sky Cinema",Sky Cinema Animation
+#EXTINF:-1 tvg-chno="380" tvg-id="SkyAnimationHD" tvg-name="SkyAnimationHD" tvg-logo="https://i.imgur.com/mdCErQ1.png" group-title="Movies: Sky Cinema",Sky Cinema Animation
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175777.ts
 #EXTINF:-1 tvg-chno="381" tvg-id="sky.cinema.family.uk" tvg-name="sky.cinema.family.uk" tvg-logo="https://i.imgur.com/401dJn6.png" group-title="Movies: Sky Cinema",Sky Cinema Family
 http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175788.ts
