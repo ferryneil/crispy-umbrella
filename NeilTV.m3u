@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="1" tvg-id="bbc.one.scot.uk" tvg-name="bbc.one.scot.uk" tvg-logo="https://i.imgur.com/LqUPVbi.png" group-title="Freeview",BBC One Scotland FHD
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175609.ts
-#EXTINF:-1 tvg-chno="2" tvg-id="bbc.one.scot.uk" tvg-name="bbc.one.scot.uk" tvg-logo="https://i.imgur.com/nGcKJzu.png" group-title="Freeview",BBC One Scotland HD
+#EXTINF:-1 tvg-chno="1" tvg-id="bbc.one.scot.uk" tvg-name="bbc.one.scot.uk" tvg-logo="https://i.imgur.com/nGcKJzu.png" group-title="Freeview",BBC One Scotland HD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/bbc.one.scot.uk.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="bbc.one.scot.uk" tvg-name="bbc.one.scot.uk" tvg-logo="https://i.imgur.com/LqUPVbi.png" group-title="Freeview",BBC One Scotland
+http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175609.ts
 #EXTINF:-1 tvg-chno="3" tvg-id="bbc.two.uk" tvg-name="bbc.two.uk" tvg-logo="https://media.tv4.live/bbc.two.uk.png" group-title="Freeview",BBC Two FHD
 https://tv4.live/api/stream/neilneil72@gmail.com/611857/livetv.epg/bbc.two.uk.m3u8
 #EXTINF:-1 tvg-chno="4" tvg-id="bbc.two.uk" tvg-name="bbc.two.uk" tvg-logo="https://i.imgur.com/SDWN5VW.png" group-title="Freeview",BBC Two
