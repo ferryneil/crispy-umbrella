@@ -14,7 +14,12 @@
   </channel>
   <channel id="Warner TV HD">
     <display-name lang="en">Warner TV HD</display-name>
-    <url>http://www.unifi.com.my</url>
+    <icon src="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" />
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BBC Lifestyle">
+    <display-name lang="en">BBC Lifestyle</display-name>
+    <url>http://www.www.tm.com.my</url>
   </channel>
   <channel id="BBC R1">
     <display-name lang="en">BBC R1</display-name>
@@ -156,6 +161,550 @@
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb1083.png" />
     <url>http://www.tv.sky.com</url>
   </channel>
+  <channel id="Scotland (Borders) - 102.2 Smooth Radio">
+    <display-name lang="en">Scotland (Borders) - 102.2 Smooth Radio</display-name>
+    <icon src="http://images.atlas.metabroadcast.com/shaman.metabroadcast.com/bt/channels/hmpy_1024_497_20170508_201705171322.png" />
+    <url>http://www.tv.bt.com</url>
+  </channel>
+  <channel id="Scotland (Borders) - 95-106 Capital FM">
+    <display-name lang="en">Scotland (Borders) - 95-106 Capital FM</display-name>
+    <icon src="http://images.atlas.metabroadcast.com/pressassociation.com/channels/p180419.png" />
+    <url>http://www.tv.bt.com</url>
+  </channel>
+  <programme start="20201020003500 +0000" stop="20201020012500 +0000" channel="Warner TV HD">
+    <title lang="en">DC's Legends of Tomorrow</title>
+    <desc lang="en">Constantine must choose who to save from Hell.(n)</desc>
+    <credits>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+      <actor>Maisie Richardson Sellers</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Matt Ryan</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Nick Zano</actor>
+      <actor>Dominic Purcell</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X304003.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020012500 +0000" stop="20201020021500 +0000" channel="Warner TV HD">
+    <title lang="en">Person of Interest</title>
+    <desc lang="en">The war with HR reaches its boiling point.(n)</desc>
+    <credits>
+      <actor>Jim Caviezel</actor>
+      <actor>Taraji P. Henderson</actor>
+      <actor>Kevin Chapman</actor>
+      <actor>Sarah Shahi</actor>
+      <actor>Amy Acker</actor>
+      <actor>Michael Emerson</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020021500 +0000" stop="20201020030500 +0000" channel="Warner TV HD">
+    <title lang="en">World's Dumbest</title>
+    <desc lang="en">Not to brag, but we've got 20 of the World's Dumbest Show Offs and they're about to take center stage.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20201020030500 +0000" stop="20201020033000 +0000" channel="Warner TV HD">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">At a cooking class, Michael gets crabby when chopping salad and brings the heat to instantly cook a meatball with his breath.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020033000 +0000" stop="20201020035500 +0000" channel="Warner TV HD">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">Michael explores the true depth of a deep-dish pizza, and later, he plays doctor to a patient questioning his own vision and sanity.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020035500 +0000" stop="20201020044500 +0000" channel="Warner TV HD">
+    <title lang="en">Breaking the Magician's Code</title>
+    <desc lang="en">The Masked Magician reveals the secrets behind Magic's biggest illusions including making a 3 ton truck disappear in the blink of an eye.(n)</desc>
+    <credits>
+      <actor>Sean Breathwaite</actor>
+      <actor>Danny Davalos</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Reality Show</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X315051.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020053500 +0000" stop="20201020060000 +0000" channel="Warner TV HD">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Raj attempts to solve his problem with talking to women.(n)</desc>
+    <credits>
+      <actor>Jonathan Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020060000 +0000" stop="20201020062500 +0000" channel="Warner TV HD">
+    <title lang="en">Friends</title>
+    <desc lang="en">Rachel's pregnancy goes beyond her projected delivery date.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt Leblanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X154806.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020062500 +0000" stop="20201020071500 +0000" channel="Warner TV HD">
+    <title lang="en">World's Dumbest</title>
+    <desc lang="en">Not to brag, but we've got 20 of the World's Dumbest Show Offs and they're about to take center stage.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20201020071500 +0000" stop="20201020074000 +0000" channel="Warner TV HD">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">At a cooking class, Michael gets crabby when chopping salad and brings the heat to instantly cook a meatball with his breath.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020074000 +0000" stop="20201020080500 +0000" channel="Warner TV HD">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">Michael explores the true depth of a deep-dish pizza, and later, he plays doctor to a patient questioning his own vision and sanity.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020080500 +0000" stop="20201020085500 +0000" channel="Warner TV HD">
+    <title lang="en">Person of Interest</title>
+    <desc lang="en">The war with HR reaches its boiling point.(n)</desc>
+    <credits>
+      <actor>Jim Caviezel</actor>
+      <actor>Taraji P. Henderson</actor>
+      <actor>Kevin Chapman</actor>
+      <actor>Sarah Shahi</actor>
+      <actor>Amy Acker</actor>
+      <actor>Michael Emerson</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020085500 +0000" stop="20201020094500 +0000" channel="Warner TV HD">
+    <title lang="en">DC's Legends of Tomorrow</title>
+    <desc lang="en">Constantine must choose who to save from Hell.(n)</desc>
+    <credits>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+      <actor>Maisie Richardson Sellers</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Matt Ryan</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Nick Zano</actor>
+      <actor>Dominic Purcell</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X304003.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020094500 +0000" stop="20201020103500 +0000" channel="Warner TV HD">
+    <title lang="en">Supergirl</title>
+    <desc lang="en">J'onn encounters Manchester Black (DAVID AJALA).(n)</desc>
+    <credits>
+      <actor>Melissa Benoist</actor>
+      <actor>Mehcad Brooks</actor>
+      <actor>Chyler Leigh</actor>
+      <actor>Jeremy Jordan</actor>
+      <actor>Calista Flockhart</actor>
+      <actor>Jesse Rath</actor>
+      <actor>David Harewood</actor>
+      <actor>Nicole Maines</actor>
+      <actor>April Parker Jones</actor>
+      <actor>Sam Witwer</actor>
+      <actor>Odette Annable</actor>
+      <actor>Chris Wood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X363185.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020103500 +0000" stop="20201020112500 +0000" channel="Warner TV HD">
+    <title lang="en">Person of Interest</title>
+    <desc lang="en">The war with HR reaches its boiling point.(n)</desc>
+    <credits>
+      <actor>Jim Caviezel</actor>
+      <actor>Taraji P. Henderson</actor>
+      <actor>Kevin Chapman</actor>
+      <actor>Sarah Shahi</actor>
+      <actor>Amy Acker</actor>
+      <actor>Michael Emerson</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020112500 +0000" stop="20201020115000 +0000" channel="Warner TV HD">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Raj attempts to solve his problem with talking to women.(n)</desc>
+    <credits>
+      <actor>Jonathan Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020115000 +0000" stop="20201020121500 +0000" channel="Warner TV HD">
+    <title lang="en">Friends</title>
+    <desc lang="en">Rachel's pregnancy goes beyond her projected delivery date.(n)</desc>
+    <credits>
+      <actor>Jennifer Aniston</actor>
+      <actor>Courteney Cox</actor>
+      <actor>Lisa Kudrow</actor>
+      <actor>Matt Leblanc</actor>
+      <actor>Matthew Perry</actor>
+      <actor>David Schwimmer</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Comedy</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X154806.jpg" />
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020121500 +0000" stop="20201020124000 +0000" channel="Warner TV HD">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">Sean tows a mysterious trailer to the auction and everyone wonders what's inside.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Reality Show</category>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020124000 +0000" stop="20201020130500 +0000" channel="Warner TV HD">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">A unit with a body bag and hooks hanging from the ceiling has everyone dying to know what's inside!(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Reality Show</category>
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020130500 +0000" stop="20201020135500 +0000" channel="Warner TV HD">
+    <title lang="en">The Mentalist</title>
+    <desc lang="en">Lisbon's brother is a key witness in a murder investigation.(n)</desc>
+    <credits>
+      <actor>Simon Baker</actor>
+      <actor>Robin Tunney</actor>
+      <actor>Tim Kang</actor>
+      <actor>Rockmond Dunbar</actor>
+      <actor>Emily Swallow</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020135500 +0000" stop="20201020161500 +0000" channel="Warner TV HD">
+    <title lang="en">The Matrix Revolutions</title>
+    <desc lang="en">In this explosive final chapter, Neo, Morpheus and Trinity battle to defend Zion against the onslaught of the machines.(n)</desc>
+    <credits>
+      <director>Lana Wachowski</director>
+      <actor>Keanu Reeves</actor>
+      <actor>Laurence Fishburne</actor>
+      <actor>Carrie Anne Moss</actor>
+      <actor>Helmut Bakaitis</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Jada Pinkett Smith</actor>
+      <actor>Harold Perrineau</actor>
+      <actor>Collin Chou</actor>
+      <actor>Monica Bellucci</actor>
+    </credits>
+    <category lang="en">Movies</category>
+    <category lang="en">Action</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X313463.jpg" />
+    <rating system="MY">
+      <value>18</value>
+    </rating>
+  </programme>
+  <programme start="20201020161500 +0000" stop="20201020164000 +0000" channel="Warner TV HD">
+    <title lang="en">The Big Bang Theory</title>
+    <desc lang="en">Raj attempts to solve his problem with talking to women.(n)</desc>
+    <credits>
+      <actor>Jonathan Galecki</actor>
+      <actor>Jim Parsons</actor>
+      <actor>Kaley Cuoco</actor>
+      <actor>Simon Helberg</actor>
+      <actor>Kunal Nayyar</actor>
+    </credits>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Comedy</category>
+    <episode-num system="onscreen">E22</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020164000 +0000" stop="20201020170500 +0000" channel="Warner TV HD">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">Sean tows a mysterious trailer to the auction and everyone wonders what's inside.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Reality Show</category>
+    <episode-num system="onscreen">E14</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020170500 +0000" stop="20201020173000 +0000" channel="Warner TV HD">
+    <title lang="en">Storage Hunters</title>
+    <desc lang="en">A unit with a body bag and hooks hanging from the ceiling has everyone dying to know what's inside!(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Reality Show</category>
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020173000 +0000" stop="20201020175500 +0000" channel="Warner TV HD">
+    <title lang="en">The Carbonaro Effect</title>
+    <desc lang="en">Michael explores the true depth of a deep-dish pizza, and later, he plays doctor to a patient questioning his own vision and sanity.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E8</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020175500 +0000" stop="20201020184000 +0000" channel="Warner TV HD">
+    <title lang="en">World's Dumbest</title>
+    <desc lang="en">Not to brag, but we've got 20 of the World's Dumbest Show Offs and they're about to take center stage.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20201020184000 +0000" stop="20201020193000 +0000" channel="Warner TV HD">
+    <title lang="en">The Flash</title>
+    <desc lang="en">Caitlin learns something new about her father.(n)</desc>
+    <credits>
+      <actor>Grant Gustin</actor>
+      <actor>Candice Patton</actor>
+      <actor>Danielle Panabaker</actor>
+      <actor>Carlos Valdes</actor>
+      <actor>Jessica Parker Kennedy</actor>
+      <actor>Chris Klein</actor>
+      <actor>Rick Cosnett</actor>
+      <actor>Tom Felton</actor>
+      <actor>Tom Cavanagh</actor>
+      <actor>Jesse L. Martin</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X355732.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20201020193000 +0000" stop="20201020202000 +0000" channel="Warner TV HD">
+    <title lang="en">DC's Legends of Tomorrow</title>
+    <desc lang="en">Constantine must choose who to save from Hell.(n)</desc>
+    <credits>
+      <actor>Brandon Routh</actor>
+      <actor>Caity Lotz</actor>
+      <actor>Maisie Richardson Sellers</actor>
+      <actor>Tala Ashe</actor>
+      <actor>Matt Ryan</actor>
+      <actor>Jes Macallan</actor>
+      <actor>Nick Zano</actor>
+      <actor>Dominic Purcell</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X304003.jpg" />
+    <episode-num system="onscreen">E15</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020202000 +0000" stop="20201020211000 +0000" channel="Warner TV HD">
+    <title lang="en">Supergirl</title>
+    <desc lang="en">J'onn encounters Manchester Black (DAVID AJALA).(n)</desc>
+    <credits>
+      <actor>Melissa Benoist</actor>
+      <actor>Mehcad Brooks</actor>
+      <actor>Chyler Leigh</actor>
+      <actor>Jeremy Jordan</actor>
+      <actor>Calista Flockhart</actor>
+      <actor>Jesse Rath</actor>
+      <actor>David Harewood</actor>
+      <actor>Nicole Maines</actor>
+      <actor>April Parker Jones</actor>
+      <actor>Sam Witwer</actor>
+      <actor>Odette Annable</actor>
+      <actor>Chris Wood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X363185.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020211000 +0000" stop="20201020220500 +0000" channel="Warner TV HD">
+    <title lang="en">The Flash</title>
+    <desc lang="en">Caitlin learns something new about her father.(n)</desc>
+    <credits>
+      <actor>Grant Gustin</actor>
+      <actor>Candice Patton</actor>
+      <actor>Danielle Panabaker</actor>
+      <actor>Carlos Valdes</actor>
+      <actor>Jessica Parker Kennedy</actor>
+      <actor>Chris Klein</actor>
+      <actor>Rick Cosnett</actor>
+      <actor>Tom Felton</actor>
+      <actor>Tom Cavanagh</actor>
+      <actor>Jesse L. Martin</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X355732.jpg" />
+    <episode-num system="onscreen">E6</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20201020220500 +0000" stop="20201020225500 +0000" channel="Warner TV HD">
+    <title lang="en">World's Dumbest</title>
+    <desc lang="en">Your TV screen is ablaze with dumbness! TruTV is counting down the 20 most laughable hotshots ever caught on tape.(n)</desc>
+    <category lang="en">TV Show/Series</category>
+    <category lang="en">Entertainment</category>
+    <episode-num system="onscreen">E1</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
+  <programme start="20201020225500 +0000" stop="20201020234500 +0000" channel="Warner TV HD">
+    <title lang="en">Supergirl</title>
+    <desc lang="en">Col. Haley (APRIL PARKER JONES) makes a surprising decision.(n)</desc>
+    <credits>
+      <actor>Melissa Benoist</actor>
+      <actor>Mehcad Brooks</actor>
+      <actor>Chyler Leigh</actor>
+      <actor>Jeremy Jordan</actor>
+      <actor>Calista Flockhart</actor>
+      <actor>Jesse Rath</actor>
+      <actor>David Harewood</actor>
+      <actor>Nicole Maines</actor>
+      <actor>April Parker Jones</actor>
+      <actor>Sam Witwer</actor>
+      <actor>Odette Annable</actor>
+      <actor>Chris Wood</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X363185.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
+    <rating system="MY">
+      <value>P13</value>
+    </rating>
+  </programme>
+  <programme start="20201020234500 +0000" stop="20201021003500 +0000" channel="Warner TV HD">
+    <title lang="en">The Flash</title>
+    <desc lang="en">Nora struggles with Barry's future disappearance.(n)</desc>
+    <credits>
+      <actor>Grant Gustin</actor>
+      <actor>Candice Patton</actor>
+      <actor>Danielle Panabaker</actor>
+      <actor>Carlos Valdes</actor>
+      <actor>Jessica Parker Kennedy</actor>
+      <actor>Chris Klein</actor>
+      <actor>Rick Cosnett</actor>
+      <actor>Tom Felton</actor>
+      <actor>Tom Cavanagh</actor>
+      <actor>Jesse L. Martin</actor>
+    </credits>
+    <category lang="en">TV Show</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/10000319X355732.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
+    <rating system="MY">
+      <value>U</value>
+    </rating>
+  </programme>
   <programme start="20201020010000 +0000" stop="20201020020000 +0000" channel="BBC R1">
     <title lang="en">Radio 1 Dance Presents...</title>
     <desc lang="en">An hour of seductive house grooves from New York's Dee Diggs.(n)</desc>
@@ -284,7 +833,7 @@
   </programme>
   <programme start="20201020130000 +0000" stop="20201020160500 +0000" channel="BBC R2">
     <title lang="en">Gary Davies</title>
-    <desc lang="en">Gary Davies sits in for Steve Wright.(n)</desc>
+    <desc lang="en">Gary Davies chats to Noel Fitzpatrick about his book How Animals Saved My Life: Being The Supervet. There's also the Oldies In the Middle and an '80s Mastermix.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -2238,5 +2787,65 @@
     <rating system="UK">
       <value>--</value>
     </rating>
+  </programme>
+  <programme start="20201020030000 +0000" stop="20201020050000 +0000" channel="Scotland (Borders) - 102.2 Smooth Radio">
+    <title lang="en">Gary King</title>
+    <desc lang="en">Gary King helps you unwind in the early morning with Your Relaxing Music Mix.(n)</desc>
+  </programme>
+  <programme start="20201020050000 +0000" stop="20201020090000 +0000" channel="Scotland (Borders) - 102.2 Smooth Radio">
+    <title lang="en">Smooth Breakfast with Jenni Falconer</title>
+    <desc lang="en">Smooth's relaxing start to the day with Jenni Falconer every weekday morning featuring Your Relaxing Music Mix. Join in @SmoothRadio.(n)</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020090000 +0000" stop="20201020120000 +0000" channel="Scotland (Borders) - 102.2 Smooth Radio">
+    <title lang="en">Kate Garraway</title>
+    <desc lang="en">Kate Garraway plays Your Relaxing Music Mix all morning to get your day off to the best possible start. Join in @SmoothRadio.(n)</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020120000 +0000" stop="20201020150000 +0000" channel="Scotland (Borders) - 102.2 Smooth Radio">
+    <title lang="en">Paul Phear</title>
+    <desc lang="en">Paul Phear keeps you company all afternoon from Sunday to Friday with Your Relaxing Music Mix. Join in @SmoothRadio.(n)</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020150000 +0000" stop="20201020180000 +0000" channel="Scotland (Borders) - 102.2 Smooth Radio">
+    <title lang="en">The Smooth Drive Home with Angie Greaves</title>
+    <desc lang="en">Angie Greaves has Your Relaxing Music Mix at the end of the day for The Smooth Drive Home, every weekday at 4 to 7pm.(n)</desc>
+  </programme>
+  <programme start="20201020180000 +0000" stop="20201020210000 +0000" channel="Scotland (Borders) - 102.2 Smooth Radio">
+    <title lang="en">Smooth Sanctuary at 7 with Gary Vincent</title>
+    <desc lang="en">Unwind with the most relaxing music, in the Smooth Sanctuary at Seven with Gary Vincent. Join in @SmoothRadio.(n)</desc>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020210000 +0000" stop="20201021000000 +0000" channel="Scotland (Borders) - 102.2 Smooth Radio">
+    <title lang="en">The Smooth Late Show with Martin Collins</title>
+    <desc lang="en">Martin Collins closes out the day with the most relaxing music in The Smooth Late Show. Join in @SmoothRadio.(n)</desc>
+  </programme>
+  <programme start="20201020030000 +0000" stop="20201020050000 +0000" channel="Scotland (Borders) - 95-106 Capital FM">
+    <title lang="en">Rob Howard</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020050000 +0000" stop="20201020090000 +0000" channel="Scotland (Borders) - 95-106 Capital FM">
+    <title lang="en">Roman Kemp</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020090000 +0000" stop="20201020120000 +0000" channel="Scotland (Borders) - 95-106 Capital FM">
+    <title lang="en">Will Manning</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020120000 +0000" stop="20201020150000 +0000" channel="Scotland (Borders) - 95-106 Capital FM">
+    <title lang="en">Aimee Vivian</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020150000 +0000" stop="20201020180000 +0000" channel="Scotland (Borders) - 95-106 Capital FM">
+    <title lang="en">Tom and Claire</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020180000 +0000" stop="20201020210000 +0000" channel="Scotland (Borders) - 95-106 Capital FM">
+    <title lang="en">The Capital Evening Show With Jimmy Hill</title>
+    <category lang="en">Music</category>
+  </programme>
+  <programme start="20201020210000 +0000" stop="20201021000000 +0000" channel="Scotland (Borders) - 95-106 Capital FM">
+    <title lang="en">Niall Gray</title>
+    <category lang="en">Music</category>
   </programme>
 </tv>
