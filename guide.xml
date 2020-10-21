@@ -85,6 +85,11 @@
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3721.png" />
     <url>http://www.tv.sky.com</url>
   </channel>
+  <channel id="LFCTV HD">
+    <display-name lang="en">LFCTV HD</display-name>
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb3845.png" />
+    <url>http://www.tv.sky.com</url>
+  </channel>
   <channel id="BBC Entertainment">
     <display-name lang="nl">BBC Entertainment</display-name>
     <icon src="https://tvgidsassets.nl/v155/img/channels/40x40/104.png" />
@@ -14511,86 +14516,1161 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme start="20201021181000 +0200" stop="20201021183500 +0200" channel="BBC Entertainment">
-    <title lang="nl">EastEnders</title>
-    <desc lang="nl">Britse soapserie over de dagelijkse bezigheden van de bewoners van het plein Albert Square in East End, Londen.(n)</desc>
-    <credits>
-      <actor>Amar Adatia</actor>
-      <actor>Emma Barton</actor>
-      <actor>Stevie Basaula</actor>
-      <actor>Jamie Borthwick</actor>
-      <actor>Max Bowden</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Soap</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/e/EastEnders_1548147115.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S1 E6130</episode-num>
+  <programme start="20201021000000 +0000" stop="20201021003000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool's game against Everton.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
   </programme>
-  <programme start="20201021183500 +0200" stop="20201021192000 +0200" channel="BBC Entertainment">
-    <title lang="nl">Impossible</title>
-    <desc lang="nl">Dertig kandidaten moeten het geven van onmogelijke antwoorden vermijden om kans te maken op 10.000 pond.(n)</desc>
-    <date>2017</date>
-    <category lang="nl">Amusement</category>
-    <category lang="nl">Quiz</category>
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S3 E8/30</episode-num>
+  <programme start="20201021003000 +0000" stop="20201021010000 +0000" channel="LFCTV HD">
+    <title lang="en">Jan Molby: Managing The Liverpool Way</title>
+    <desc lang="en">Former Red Jan Molby talks about how life at Liverpool influenced his career in management.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
   </programme>
-  <programme start="20201021192000 +0200" stop="20201021200500 +0200" channel="BBC Entertainment">
-    <title lang="nl">The coroner</title>
-    <sub-title lang="nl">Those in peril</sub-title>
-    <desc lang="nl">Advocate Jane Kennedy keert terug naar het kustplaatsje dat ze als tiener achter zich liet. Nu gaat zij daar aan de slag als lijkschouwer. Na een valse melding verdrinkt een vrijwilliger van de bootbemanning van Lighthaven. Jane vermoedt dat er opzet in het spel is, maar Davey is sceptisch. Totdat andere vrijwilligers het doelwit worden.(n)</desc>
-    <credits>
-      <director>Niall Fraser</director>
-      <actor>Claire Goose</actor>
-      <actor>Matt Bardock</actor>
-      <actor>Beatie Edney</actor>
-      <actor>Oliver Gomm</actor>
-      <actor>Grace Hogg-Robinson</actor>
-      <writer>David Bowker</writer>
-    </credits>
-    <date>2016</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Misdaadserie</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/t/The_coroner_1590384441.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S2 E3</episode-num>
+  <programme start="20201021010000 +0000" stop="20201021020000 +0000" channel="LFCTV HD">
+    <title lang="en">Klopp's Journey to the Kop</title>
+    <desc lang="en">In October 2015 Jurgen Klopp was appointed Liverpool manager. In this exclusive documentary, which includes an in-depth interview with the man himself, we chart Klopp's rise.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
   </programme>
-  <programme start="20201021200500 +0200" stop="20201021203500 +0200" channel="BBC Entertainment">
-    <title lang="nl">Doctors</title>
-    <sub-title lang="nl">Perfect</sub-title>
-    <desc lang="nl">Britse doktersserie over het dagelijkse leven van het personeel en de patiënten van een praktijk in de Britse Midlands.(n)</desc>
-    <credits>
-      <director>Steve M Kelly</director>
-      <actor>Paul Moriarty</actor>
-      <actor>Martin Fisher</actor>
-      <actor>Adrian Lewis Morgan</actor>
-      <actor>Paige Round</actor>
-      <actor>Matthew Chambers</actor>
-    </credits>
-    <date>2020</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Dramaserie</category>
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S21 E69</episode-num>
+  <programme start="20201021020000 +0000" stop="20201021030000 +0000" channel="LFCTV HD">
+    <title lang="en">Press Box</title>
+    <desc lang="en">Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
   </programme>
-  <programme start="20201021203500 +0200" stop="20201021210000 +0200" channel="BBC Entertainment">
-    <title lang="nl">EastEnders</title>
-    <desc lang="nl">Britse soapserie over de dagelijkse bezigheden van de bewoners van het plein Albert Square in East End, Londen.(n)</desc>
-    <credits>
-      <actor>Amar Adatia</actor>
-      <actor>Emma Barton</actor>
-      <actor>Stevie Basaula</actor>
-      <actor>Jamie Borthwick</actor>
-      <actor>Max Bowden</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Soap</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/e/EastEnders_1548147115.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S1 E6131</episode-num>
+  <programme start="20201021030000 +0000" stop="20201021040000 +0000" channel="LFCTV HD">
+    <title lang="en">Suarez: All the Goals</title>
+    <desc lang="en">Relive every single goal Luis Suarez scored for the Reds.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021040000 +0000" stop="20201021050000 +0000" channel="LFCTV HD">
+    <title lang="en">Gerrard: My Liverpool</title>
+    <desc lang="en">Liverpool legend Steven Gerrard relives the highs and lows of his illustrious Anfield career featuring exclusive interviews with those who know him best.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021050000 +0000" stop="20201021060000 +0000" channel="LFCTV HD">
+    <title lang="en">Sixty Minutes</title>
+    <desc lang="en">Nigel Spackman: In this 2014 interview, Nigel Spackman spends Sixty Minutes with Steve Hothersall to discuss his Liverpool career.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021060000 +0000" stop="20201021070000 +0000" channel="LFCTV HD">
+    <title lang="en">Press Box</title>
+    <desc lang="en">Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021070000 +0000" stop="20201021073000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool's game against Everton.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021073000 +0000" stop="20201021074500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Liverpool U18 v Sunderland: The best of the action as Liverpool U18 take on Sunderland.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021074500 +0000" stop="20201021080000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Brighton and Hove Albion v Liverpool U23: The best of the action as Liverpool U23 take on Brighton and Hove Albion.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021080000 +0000" stop="20201021100000 +0000" channel="LFCTV HD">
+    <title lang="en">Everton v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Everton.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021100000 +0000" stop="20201021110000 +0000" channel="LFCTV HD">
+    <title lang="en">Press Box</title>
+    <desc lang="en">Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021110000 +0000" stop="20201021110300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021110300 +0000" stop="20201021113000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool's game against Everton.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021113000 +0000" stop="20201021114500 +0000" channel="LFCTV HD">
+    <title lang="en">Press Conference</title>
+    <desc lang="en">Coverage of Jurgen Klopp's press conference ahead of Liverpool's Champions League match against Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021114500 +0000" stop="20201021120000 +0000" channel="LFCTV HD">
+    <title lang="en">Back of the Net</title>
+    <desc lang="en">Peter Crouch: A look back at the Liverpool career of Peter Crouch through his goals and stats.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021120000 +0000" stop="20201021130000 +0000" channel="LFCTV HD">
+    <title lang="en">Retro Reds</title>
+    <desc lang="en">The Champions Years 1981/82: Relive four classic Football League matches from Liverpool's 13th title-winning season.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021130000 +0000" stop="20201021130300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021130300 +0000" stop="20201021133000 +0000" channel="LFCTV HD">
+    <title lang="en">Behind the Badge</title>
+    <desc lang="en">Lee Richardson: LFC's Performance Psychology Consultant Lee Richardson discusses his career as a footballer and his current role as a member of Jurgen Klopp's backroom team.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021133000 +0000" stop="20201021134500 +0000" channel="LFCTV HD">
+    <title lang="en">In the Frame</title>
+    <desc lang="en">Robbie Fowler: The man dubbed 'God' by the Kop goes on an emotional journey as we show him a series of photographs of his career in football.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021134500 +0000" stop="20201021140000 +0000" channel="LFCTV HD">
+    <title lang="en">In the Frame</title>
+    <desc lang="en">Ian St John: The 'Saint' was one of the pillars of Bill Shankly's first great Liverpool team and here he relives his life in football through a series of photographs.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021140000 +0000" stop="20201021150000 +0000" channel="LFCTV HD">
+    <title lang="en">Press Box</title>
+    <desc lang="en">Members of the local press pack discuss all things LFC and debate some of the current wider issues in football.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021150000 +0000" stop="20201021150300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021150300 +0000" stop="20201021153000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool's game against Everton.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021153000 +0000" stop="20201021154500 +0000" channel="LFCTV HD">
+    <title lang="en">Press Conference</title>
+    <desc lang="en">Coverage of Jurgen Klopp's press conference ahead of Liverpool's Champions League match against Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021154500 +0000" stop="20201021160000 +0000" channel="LFCTV HD">
+    <title lang="en">Bezzies</title>
+    <desc lang="en">Mane and Salah: How well do Liverpool teammates Sadio Mane and Mohamed Salah know each other? We put the forwards' friendship to the test.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021160000 +0000" stop="20201021160300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021160300 +0000" stop="20201021161500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Brighton and Hove Albion v Liverpool U23: The best of the action as Liverpool U23 take on Brighton and Hove Albion.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021161500 +0000" stop="20201021163000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Liverpool U18 v Sunderland: The best of the action as Liverpool U18 take on Sunderland.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021163000 +0000" stop="20201021164500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Everton v Liverpool: The best of the action as Liverpool take on Everton.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021164500 +0000" stop="20201021170000 +0000" channel="LFCTV HD">
+    <title lang="en">Kop 10</title>
+    <desc lang="en">Mo Salah Goals: To celebrate Mo Salah reaching the 100 goal milestone for the club, we recall ten of his best strikes in a Liverpool shirt.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021170000 +0000" stop="20201021170300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021170300 +0000" stop="20201021180000 +0000" channel="LFCTV HD">
+    <title lang="en">Retro Reds</title>
+    <desc lang="en">Golden Hour: Title Clinchers: Classic LFC action. The First Division fixtures against Aston Villa (1980), Tottenham (1982), Notts County (1984) and Chelsea (1986).(n)</desc>
+    <category lang="en">177</category>
+    <episode-num system="onscreen">E1980</episode-num>
+    <episode-num system="onscreen">E1982</episode-num>
+    <episode-num system="onscreen">E1984</episode-num>
+    <episode-num system="onscreen">E1986</episode-num>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021180000 +0000" stop="20201021190000 +0000" channel="LFCTV HD">
+    <title lang="en">Matchday Live: The Build-Up</title>
+    <desc lang="en">All the latest team news, previews and interviews ahead of Liverpool's meeting with Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021190000 +0000" stop="20201021210000 +0000" channel="LFCTV HD">
+    <title lang="en">MDL: Audio Commentary</title>
+    <desc lang="en">Enjoy every kick with our live audio commentary coverage of the match.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021210000 +0000" stop="20201021220000 +0000" channel="LFCTV HD">
+    <title lang="en">MDL: The Reaction</title>
+    <desc lang="en">Exclusive interviews from the Reds' dressing room, in-depth analysis and a chance to have your say.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021220000 +0000" stop="20201021230000 +0000" channel="LFCTV HD">
+    <title lang="en">Retro Reds</title>
+    <desc lang="en">The Champions Years 1987/88: Relive four classic Football League matches from Liverpool's 17th title-winning season.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201021230000 +0000" stop="20201022010000 +0000" channel="LFCTV HD">
+    <title lang="en">Ajax v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022010000 +0000" stop="20201022030000 +0000" channel="LFCTV HD">
+    <title lang="en">Everton v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Everton.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022030000 +0000" stop="20201022050000 +0000" channel="LFCTV HD">
+    <title lang="en">Ajax v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022050000 +0000" stop="20201022060000 +0000" channel="LFCTV HD">
+    <title lang="en">Sixty Minutes</title>
+    <desc lang="en">Paul Walsh: In this 2015 interview, LFCTV chat to Paul Walsh - who made his Reds debut on this day in 1984 - about his Liverpool career.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022060000 +0000" stop="20201022063000 +0000" channel="LFCTV HD">
+    <title lang="en">Behind the Badge</title>
+    <desc lang="en">John Achterberg: LFCTV's Peter McDowall catches up with First Team Goalkeeping Coach John Achterberg to discuss his role as a member of Jurgen Klopp's backroom staff.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022063000 +0000" stop="20201022064500 +0000" channel="LFCTV HD">
+    <title lang="en">Kop 10</title>
+    <desc lang="en">Mo Salah Goals: To celebrate Mo Salah reaching the 100 goal milestone for the club, we recall ten of his best strikes in a Liverpool shirt.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022064500 +0000" stop="20201022070000 +0000" channel="LFCTV HD">
+    <title lang="en">Goal Rush</title>
+    <desc lang="en">Steven Gerrard: Enjoy a collection of classic Steven Gerrard strikes.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022070000 +0000" stop="20201022073000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Review Show</title>
+    <desc lang="en">Join Neil Mellor as he analyses the action and looks back on the stats from Liverpool's game against Everton.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022073000 +0000" stop="20201022074500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Brighton and Hove Albion v Liverpool U23: The best of the action as Liverpool U23 take on Brighton and Hove Albion.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022074500 +0000" stop="20201022080000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Liverpool U18 v Sunderland: The best of the action as Liverpool U18 take on Sunderland.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022080000 +0000" stop="20201022100000 +0000" channel="LFCTV HD">
+    <title lang="en">Ajax v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022100000 +0000" stop="20201022110000 +0000" channel="LFCTV HD">
+    <title lang="en">The Match Reaction</title>
+    <desc lang="en">Ajax v Liverpool: We look back at the match against Ajax with exclusive interviews from the Reds' dressing room and in-depth analysis.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022110000 +0000" stop="20201022110300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022110300 +0000" stop="20201022113000 +0000" channel="LFCTV HD">
+    <title lang="en">Klopp: Five Years</title>
+    <desc lang="en">To commemorate the fifth anniversary of his appointment as Liverpool manager, Jurgen Klopp reflects on his most memorable moments.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022113000 +0000" stop="20201022114500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Everton v Liverpool: The best of the action as Liverpool take on Everton.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022114500 +0000" stop="20201022120000 +0000" channel="LFCTV HD">
+    <title lang="en">Goal Rush</title>
+    <desc lang="en">Kevin Keegan: A look back at some of King Kev's best goals.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022120000 +0000" stop="20201022130000 +0000" channel="LFCTV HD">
+    <title lang="en">Retro Reds</title>
+    <desc lang="en">The Champions Years 1982/83: Relive four classic Football League matches from Liverpool's 14th title-winning season.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022130000 +0000" stop="20201022130300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022130300 +0000" stop="20201022150000 +0000" channel="LFCTV HD">
+    <title lang="en">Ajax v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022150000 +0000" stop="20201022150300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022150300 +0000" stop="20201022160000 +0000" channel="LFCTV HD">
+    <title lang="en">Retro Reds</title>
+    <desc lang="en">The Champions Years 1987/88: Relive four classic Football League matches from Liverpool's 17th title-winning season.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022160000 +0000" stop="20201022160300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022160300 +0000" stop="20201022161500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Ajax v Liverpool: The best of the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022161500 +0000" stop="20201022163000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Brighton and Hove Albion v Liverpool U23: The best of the action as Liverpool U23 take on Brighton and Hove Albion.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022163000 +0000" stop="20201022170000 +0000" channel="LFCTV HD">
+    <title lang="en">Kop 10</title>
+    <desc lang="en">Bill Shankly Games: Relive ten of Liverpool's most memorable matches under the management of Bill Shankly.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022170000 +0000" stop="20201022170300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022170300 +0000" stop="20201022171500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Ajax v Liverpool: The best of the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022171500 +0000" stop="20201022173000 +0000" channel="LFCTV HD">
+    <title lang="en">Bezzies</title>
+    <desc lang="en">Van Dijk and Gomez: How well do Liverpool teammates Virgil Van Dijk and Joe Gomez know each other? We put their friendship to the test.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022173000 +0000" stop="20201022183000 +0000" channel="LFCTV HD">
+    <title lang="en">Retro Reds</title>
+    <desc lang="en">Golden Hour: King Kenny's Best: Classic action. Four First Division fixtures from the memorable 1987/88 season against Newcastle, Queens Park Rangers, Arsenal and Nottingham Forest.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022183000 +0000" stop="20201022190000 +0000" channel="LFCTV HD">
+    <title lang="en">The Academy</title>
+    <desc lang="en">Watch more exclusive features and insight from Kirkby in episode two of this season's show.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022190000 +0000" stop="20201022200000 +0000" channel="LFCTV HD">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The week's most popular videos and social media highlights from across the club, its players and supporters.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022200000 +0000" stop="20201022204500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022204500 +0000" stop="20201022210000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Liverpool U18 v Sunderland: The best of the action as Liverpool U18 take on Sunderland.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022210000 +0000" stop="20201022210300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022210300 +0000" stop="20201022213000 +0000" channel="LFCTV HD">
+    <title lang="en">The Academy</title>
+    <desc lang="en">Watch more exclusive features and insight from Kirkby in episode two of this season's show.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022213000 +0000" stop="20201022233000 +0000" channel="LFCTV HD">
+    <title lang="en">Ajax v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201022233000 +0000" stop="20201023000000 +0000" channel="LFCTV HD">
+    <title lang="en">Klopp: Five Years</title>
+    <desc lang="en">To commemorate the fifth anniversary of his appointment as Liverpool manager, Jurgen Klopp reflects on his most memorable moments.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023000000 +0000" stop="20201023010000 +0000" channel="LFCTV HD">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The week's most popular videos and social media highlights from across the club, its players and supporters.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023010000 +0000" stop="20201023014500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023014500 +0000" stop="20201023020000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Brighton and Hove Albion v Liverpool U23: The best of the action as Liverpool U23 take on Brighton and Hove Albion.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023020000 +0000" stop="20201023023000 +0000" channel="LFCTV HD">
+    <title lang="en">The Academy</title>
+    <desc lang="en">Watch more exclusive features and insight from Kirkby in episode two of this season's show.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023023000 +0000" stop="20201023024500 +0000" channel="LFCTV HD">
+    <title lang="en">Goal Rush</title>
+    <desc lang="en">Defenders: A look back at some of the best goals scored by Liverpool defenders.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023024500 +0000" stop="20201023030000 +0000" channel="LFCTV HD">
+    <title lang="en">Goal Rush</title>
+    <desc lang="en">Midfielders: A look back at some of the most memorable goals scored by Liverpool midfielders throughout the years.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023030000 +0000" stop="20201023050000 +0000" channel="LFCTV HD">
+    <title lang="en">Liverpool v Sheffield United</title>
+    <desc lang="en">The best of the action from January 2020 as Liverpool take on Sheffield United in the Premier League.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023050000 +0000" stop="20201023060000 +0000" channel="LFCTV HD">
+    <title lang="en">Retro Reds</title>
+    <desc lang="en">The Champions Years 1987/88: Relive four classic Football League matches from Liverpool's 17th title-winning season.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023060000 +0000" stop="20201023070000 +0000" channel="LFCTV HD">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The week's most popular videos and social media highlights from across the club, its players and supporters.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023070000 +0000" stop="20201023074500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023074500 +0000" stop="20201023080000 +0000" channel="LFCTV HD">
+    <title lang="en">Back of the Net</title>
+    <desc lang="en">Danny Murphy: A look back at the Liverpool career of Danny Murphy through his goals and stats.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023080000 +0000" stop="20201023100000 +0000" channel="LFCTV HD">
+    <title lang="en">Ajax v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023100000 +0000" stop="20201023110000 +0000" channel="LFCTV HD">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The week's most popular videos and social media highlights from across the club, its players and supporters.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023110000 +0000" stop="20201023110300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023110300 +0000" stop="20201023114500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023114500 +0000" stop="20201023120000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Liverpool U18 v Sunderland: The best of the action as Liverpool U18 take on Sunderland.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023120000 +0000" stop="20201023123000 +0000" channel="LFCTV HD">
+    <title lang="en">The Academy</title>
+    <desc lang="en">Watch more exclusive features and insight from Kirkby in episode two of this season's show.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023123000 +0000" stop="20201023130000 +0000" channel="LFCTV HD">
+    <title lang="en">Behind the Badge</title>
+    <desc lang="en">Peter Krawietz: LFCTV's Peter McDowall catches up with First Team Assistant Manager Peter Krawietz to discuss his role as a member of Jurgen Klopp's backroom staff.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023130000 +0000" stop="20201023130300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023130300 +0000" stop="20201023150000 +0000" channel="LFCTV HD">
+    <title lang="en">Ajax v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023150000 +0000" stop="20201023150300 +0000" channel="LFCTV HD">
+    <title lang="en">LFC News</title>
+    <desc lang="en">All the latest LFC news.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023150300 +0000" stop="20201023154500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023154500 +0000" stop="20201023160000 +0000" channel="LFCTV HD">
+    <title lang="en">Kop 10</title>
+    <desc lang="en">Steven Gerrard Goals: Relive ten of the best goals scored by former Liverpool captain Steven Gerrard.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023160000 +0000" stop="20201023170000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Preview Show</title>
+    <desc lang="en">LFCTV looks ahead to Liverpool's match against Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023170000 +0000" stop="20201023171500 +0000" channel="LFCTV HD">
+    <title lang="en">How the League Was Won</title>
+    <desc lang="en">Sheffield United (H): The best of the action from January 2020 as Liverpool take on Sheffield United in the Premier League.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023171500 +0000" stop="20201023173000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Brighton and Hove Albion v Liverpool U23: The best of the action as Liverpool U23 take on Brighton and Hove Albion.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023173000 +0000" stop="20201023180000 +0000" channel="LFCTV HD">
+    <title lang="en">Klopp: Five Years</title>
+    <desc lang="en">To commemorate the fifth anniversary of his appointment as Liverpool manager, Jurgen Klopp reflects on his most memorable moments.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023180000 +0000" stop="20201023181500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Ajax v Liverpool: The best of the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023181500 +0000" stop="20201023183000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Liverpool U18 v Sunderland: The best of the action as Liverpool U18 take on Sunderland.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023183000 +0000" stop="20201023190000 +0000" channel="LFCTV HD">
+    <title lang="en">The Academy</title>
+    <desc lang="en">Watch more exclusive features and insight from Kirkby in episode two of this season's show.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023190000 +0000" stop="20201023200000 +0000" channel="LFCTV HD">
+    <title lang="en">PL Rewind</title>
+    <desc lang="en">Houllier Era: Archive Premier League action. This hour features games against Coventry (2000) Charlton (2001) Ipswich (2002) and West Brom (2003).(n)</desc>
+    <category lang="en">177</category>
+    <episode-num system="onscreen">E2000</episode-num>
+    <episode-num system="onscreen">E2001</episode-num>
+    <episode-num system="onscreen">E2002</episode-num>
+    <episode-num system="onscreen">E2003</episode-num>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023200000 +0000" stop="20201023204500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023204500 +0000" stop="20201023210000 +0000" channel="LFCTV HD">
+    <title lang="en">Press Conference</title>
+    <desc lang="en">Coverage of Jurgen Klopp's press conference ahead of Liverpool's Premier League match against Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023210000 +0000" stop="20201023220000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Preview Show</title>
+    <desc lang="en">LFCTV looks ahead to Liverpool's match against Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023220000 +0000" stop="20201023221500 +0000" channel="LFCTV HD">
+    <title lang="en">Goal Rush</title>
+    <desc lang="en">Divock Origi: Enjoy a collection of goals scored by Divock Origi.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023221500 +0000" stop="20201023223000 +0000" channel="LFCTV HD">
+    <title lang="en">How the League Was Won</title>
+    <desc lang="en">Sheffield United (H): The best of the action from January 2020 as Liverpool take on Sheffield United in the Premier League.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023223000 +0000" stop="20201023231500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023231500 +0000" stop="20201023233000 +0000" channel="LFCTV HD">
+    <title lang="en">Press Conference</title>
+    <desc lang="en">Coverage of Jurgen Klopp's press conference ahead of Liverpool's Premier League match against Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201023233000 +0000" stop="20201024013000 +0000" channel="LFCTV HD">
+    <title lang="en">Ajax v Liverpool</title>
+    <desc lang="en">All the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024013000 +0000" stop="20201024020000 +0000" channel="LFCTV HD">
+    <title lang="en">The Academy</title>
+    <desc lang="en">Watch more exclusive features and insight from Kirkby in episode two of this season's show.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024020000 +0000" stop="20201024030000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Preview Show</title>
+    <desc lang="en">LFCTV looks ahead to Liverpool's match against Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024030000 +0000" stop="20201024040000 +0000" channel="LFCTV HD">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The week's most popular videos and social media highlights from across the club, its players and supporters.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024040000 +0000" stop="20201024050000 +0000" channel="LFCTV HD">
+    <title lang="en">PL Rewind</title>
+    <desc lang="en">Houllier Era: Archive Premier League action. This hour features games against Coventry (2000) Charlton (2001) Ipswich (2002) and West Brom (2003).(n)</desc>
+    <category lang="en">177</category>
+    <episode-num system="onscreen">E2000</episode-num>
+    <episode-num system="onscreen">E2001</episode-num>
+    <episode-num system="onscreen">E2002</episode-num>
+    <episode-num system="onscreen">E2003</episode-num>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024050000 +0000" stop="20201024060000 +0000" channel="LFCTV HD">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The week's most popular videos and social media highlights from across the club, its players and supporters.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024060000 +0000" stop="20201024063000 +0000" channel="LFCTV HD">
+    <title lang="en">Klopp: Five Years</title>
+    <desc lang="en">To commemorate the fifth anniversary of his appointment as Liverpool manager, Jurgen Klopp reflects on his most memorable moments.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024063000 +0000" stop="20201024064500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Ajax v Liverpool: The best of the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024064500 +0000" stop="20201024070000 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Liverpool U18 v Sunderland: The best of the action as Liverpool U18 take on Sunderland.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024070000 +0000" stop="20201024080000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Preview Show</title>
+    <desc lang="en">LFCTV looks ahead to Liverpool's match against Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024080000 +0000" stop="20201024084500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024084500 +0000" stop="20201024090000 +0000" channel="LFCTV HD">
+    <title lang="en">Press Conference</title>
+    <desc lang="en">Coverage of Jurgen Klopp's press conference ahead of Liverpool's Premier League match against Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024090000 +0000" stop="20201024100000 +0000" channel="LFCTV HD">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The week's most popular videos and social media highlights from across the club, its players and supporters.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024100000 +0000" stop="20201024101500 +0000" channel="LFCTV HD">
+    <title lang="en">Shortcut</title>
+    <desc lang="en">Ajax v Liverpool: The best of the action as Liverpool take on Ajax.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024101500 +0000" stop="20201024103000 +0000" channel="LFCTV HD">
+    <title lang="en">Goal Rush</title>
+    <desc lang="en">Kevin Keegan: A look back at some of King Kev's best goals.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024103000 +0000" stop="20201024110000 +0000" channel="LFCTV HD">
+    <title lang="en">Klopp: Five Years</title>
+    <desc lang="en">To commemorate the fifth anniversary of his appointment as Liverpool manager, Jurgen Klopp reflects on his most memorable moments.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024110000 +0000" stop="20201024114500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024114500 +0000" stop="20201024120000 +0000" channel="LFCTV HD">
+    <title lang="en">How the League Was Won</title>
+    <desc lang="en">Sheffield United (H): The best of the action from January 2020 as Liverpool take on Sheffield United in the Premier League.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024120000 +0000" stop="20201024130000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Preview Show</title>
+    <desc lang="en">LFCTV looks ahead to Liverpool's match against Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024130000 +0000" stop="20201024140000 +0000" channel="LFCTV HD">
+    <title lang="en">Liverpool's Sound</title>
+    <desc lang="en">Kop chants and their origins. We explore the history of Liverpool's unique and unrivalled songbook in an exclusive documentary.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024140000 +0000" stop="20201024143000 +0000" channel="LFCTV HD">
+    <title lang="en">Klopp: Five Years</title>
+    <desc lang="en">To commemorate the fifth anniversary of his appointment as Liverpool manager, Jurgen Klopp reflects on his most memorable moments.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024143000 +0000" stop="20201024150000 +0000" channel="LFCTV HD">
+    <title lang="en">The Academy</title>
+    <desc lang="en">Watch more exclusive features and insight from Kirkby in episode two of this season's show.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024150000 +0000" stop="20201024160000 +0000" channel="LFCTV HD">
+    <title lang="en">LFC Trending</title>
+    <desc lang="en">The week's most popular videos and social media highlights from across the club, its players and supporters.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024160000 +0000" stop="20201024164500 +0000" channel="LFCTV HD">
+    <title lang="en">Extra Time</title>
+    <desc lang="en">Join us in LFCTV's virtual studio as we catch up with some ex-Reds to discuss their life in football and the game's current hot topics.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024164500 +0000" stop="20201024170000 +0000" channel="LFCTV HD">
+    <title lang="en">Goal Rush</title>
+    <desc lang="en">Divock Origi: Enjoy a collection of goals scored by Divock Origi.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024170000 +0000" stop="20201024180000 +0000" channel="LFCTV HD">
+    <title lang="en">The Premier League Preview Show</title>
+    <desc lang="en">LFCTV looks ahead to Liverpool's match against Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024180000 +0000" stop="20201024190000 +0000" channel="LFCTV HD">
+    <title lang="en">Matchday Live: The Build-Up</title>
+    <desc lang="en">All the latest team news previews and interviews ahead of Liverpool's meeting with Sheffield United.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024190000 +0000" stop="20201024210000 +0000" channel="LFCTV HD">
+    <title lang="en">MDL: Audio Commentary</title>
+    <desc lang="en">Enjoy every kick with our live audio commentary coverage of the match.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024210000 +0000" stop="20201024220000 +0000" channel="LFCTV HD">
+    <title lang="en">MDL: The Reaction</title>
+    <desc lang="en">Exclusive interviews from the Reds' dressing room, in-depth analysis and a chance to have your say.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
+  </programme>
+  <programme start="20201024220000 +0000" stop="20201024230000 +0000" channel="LFCTV HD">
+    <title lang="en">Retro Reds</title>
+    <desc lang="en">The Champions Years 1979/80: Relive four classic Football League games from Liverpool's 12th title-winning season.(n)</desc>
+    <category lang="en">177</category>
+    <rating system="UK">
+      <value>--</value>
+    </rating>
   </programme>
   <programme start="20201021210000 +0200" stop="20201021215500 +0200" channel="BBC Entertainment">
     <title lang="nl">New tricks</title>
@@ -14611,7 +15691,6 @@
     <date>2015</date>
     <category lang="nl">Serie</category>
     <category lang="nl">Politieserie</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/n/New_Tricks_16951086_1.jpg" />
     <country lang="nl">GB</country>
     <episode-num system="onscreen">S12 E2</episode-num>
   </programme>
@@ -15123,7 +16202,7 @@
     <country lang="nl">GB</country>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20201022174000 +0200" stop="20201022203000 +0200" channel="BBC Entertainment">
+  <programme start="20201022174000 +0200" stop="20201022181000 +0200" channel="BBC Entertainment">
     <title lang="nl">Doctors</title>
     <sub-title lang="nl">Perfect</sub-title>
     <desc lang="nl">Britse doktersserie over het dagelijkse leven van het personeel en de patiënten van een praktijk in de Britse Midlands.(n)</desc>
@@ -15140,6 +16219,71 @@
     <category lang="nl">Dramaserie</category>
     <country lang="nl">GB</country>
     <episode-num system="onscreen">S21 E69</episode-num>
+  </programme>
+  <programme start="20201022181000 +0200" stop="20201022183500 +0200" channel="BBC Entertainment">
+    <title lang="nl">EastEnders</title>
+    <desc lang="nl">Britse soapserie over de dagelijkse bezigheden van de bewoners van het plein Albert Square in East End, Londen.(n)</desc>
+    <credits>
+      <actor>Amar Adatia</actor>
+      <actor>Emma Barton</actor>
+      <actor>Stevie Basaula</actor>
+      <actor>Jamie Borthwick</actor>
+      <actor>Max Bowden</actor>
+    </credits>
+    <date>2019</date>
+    <category lang="nl">Serie</category>
+    <category lang="nl">Soap</category>
+    <icon src="https://tvgidsassets.nl/v155/upload/e/EastEnders_1548147115.jpg" />
+    <country lang="nl">GB</country>
+    <episode-num system="onscreen">S1 E6131</episode-num>
+  </programme>
+  <programme start="20201022183500 +0200" stop="20201022192000 +0200" channel="BBC Entertainment">
+    <title lang="nl">Impossible</title>
+    <desc lang="nl">Dertig kandidaten moeten het geven van onmogelijke antwoorden vermijden om kans te maken op 10.000 pond.(n)</desc>
+    <date>2017</date>
+    <category lang="nl">Amusement</category>
+    <category lang="nl">Quiz</category>
+    <icon src="https://tvgidsassets.nl/v155/upload/i/Impossible_1583731520.jpg" />
+    <country lang="nl">GB</country>
+    <episode-num system="onscreen">S3 E9/30</episode-num>
+  </programme>
+  <programme start="20201022192000 +0200" stop="20201022200500 +0200" channel="BBC Entertainment">
+    <title lang="nl">The coroner</title>
+    <sub-title lang="nl">The beast of Lighthaven</sub-title>
+    <desc lang="nl">Advocate Jane Kennedy keert terug naar het kustplaatsje dat ze als tiener achter zich liet. Nu gaat zij daar aan de slag als lijkschouwer. Niemand in Lighthaven gelooft een lokale journalist die beweert dat er een 'grote kat' op de heide rondloopt. Totdat zijn verminkte lichaam wordt gevonden.(n)</desc>
+    <credits>
+      <director>Matt Carter</director>
+      <actor>Claire Goose</actor>
+      <actor>Matt Bardock</actor>
+      <actor>Beatie Edney</actor>
+      <actor>Oliver Gomm</actor>
+      <actor>Grace Hogg-Robinson</actor>
+      <writer>Kit Lambert</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="nl">Serie</category>
+    <category lang="nl">Misdaadserie</category>
+    <icon src="https://tvgidsassets.nl/v155/upload/t/The_coroner_1590384441.jpg" />
+    <country lang="nl">GB</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20201022200500 +0200" stop="20201022203000 +0200" channel="BBC Entertainment">
+    <title lang="nl">Doctors</title>
+    <sub-title lang="nl">Under Pressure</sub-title>
+    <desc lang="nl">Britse doktersserie over het dagelijkse leven van het personeel en de patiënten van een praktijk in de Britse Midlands.(n)</desc>
+    <credits>
+      <director>Steve M Kelly</director>
+      <actor>Paul Moriarty</actor>
+      <actor>Martin Fisher</actor>
+      <actor>Adrian Lewis Morgan</actor>
+      <actor>Paige Round</actor>
+      <actor>Matthew Chambers</actor>
+    </credits>
+    <date>2018</date>
+    <category lang="nl">Serie</category>
+    <category lang="nl">Dramaserie</category>
+    <country lang="nl">GB</country>
+    <episode-num system="onscreen">S21 E70</episode-num>
   </programme>
   <programme start="20201022203000 +0200" stop="20201022224000 +0200" channel="BBC Entertainment">
     <title lang="nl">EastEnders</title>
@@ -15993,7 +17137,7 @@
   </programme>
   <programme start="20201022150000 +0200" stop="20201022170000 +0200" channel="Eleven Sports 1">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Rio Ave FC - SL Benfica</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201022170000 +0200" stop="20201022173000 +0200" channel="Eleven Sports 1">
     <title lang="pl">DTM: Wyścig w Heusden-Zolder - kwalifikacje</title>
@@ -16517,7 +17661,7 @@
   </programme>
   <programme start="20201024202500 +0200" stop="20201024230000 +0200" channel="Eleven Sports 2">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: FC Porto - Gil Vicente</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201024230000 +0200" stop="20201025010000 +0200" channel="Eleven Sports 2">
     <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: FC Barcelona - Real Madryt CF</title>
@@ -16566,7 +17710,7 @@
   </programme>
   <programme start="20201025195500 +0200" stop="20201025220000 +0200" channel="Eleven Sports 2">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Vitoria Guimaraes - Sporting Braga</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201025220000 +0200" stop="20201025230000 +0200" channel="Eleven Sports 2">
     <title lang="pl">Javier Irureta</title>
@@ -16620,7 +17764,7 @@
   </programme>
   <programme start="20201021190000 +0200" stop="20201021210000 +0200" channel="Eleven Sports 3">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Sporting CP - FC Porto</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201021210000 +0200" stop="20201021230000 +0200" channel="Eleven Sports 3">
     <title lang="pl">Piłka nożna: Liga niemiecka - mecz: FC Schalke 04 Gelsenkirchen - 1. FC Union Berlin</title>
@@ -16688,7 +17832,7 @@
   </programme>
   <programme start="20201022190000 +0200" stop="20201022210000 +0200" channel="Eleven Sports 3">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Rio Ave FC - SL Benfica</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201022210000 +0200" stop="20201022230000 +0200" channel="Eleven Sports 3">
     <title lang="pl">Piłka nożna: Liga niemiecka - mecz: Hertha BSC - VfB Stuttgart</title>
@@ -16950,7 +18094,7 @@
   </programme>
   <programme start="20201021130000 +0200" stop="20201021150000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Sporting CP - FC Porto</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201021150000 +0200" stop="20201021170000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga niemiecka - mecz: FC Schalke 04 Gelsenkirchen - 1. FC Union Berlin</title>
@@ -16977,7 +18121,7 @@
   </programme>
   <programme start="20201022000000 +0200" stop="20201022020000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Rio Ave FC - SL Benfica</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201022020000 +0200" stop="20201022040000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga włoska - mecz: Spezia Calcio - ACF Fiorentina</title>
@@ -17008,7 +18152,7 @@
   </programme>
   <programme start="20201022130000 +0200" stop="20201022150000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Rio Ave FC - SL Benfica</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201022150000 +0200" stop="20201022170000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga niemiecka - mecz: Hertha BSC - VfB Stuttgart</title>
@@ -17035,7 +18179,7 @@
   </programme>
   <programme start="20201023000000 +0200" stop="20201023020000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Sporting CP - FC Porto</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201023020000 +0200" stop="20201023040000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga włoska - mecz: AS Roma - Benavento Calcio</title>
@@ -17066,7 +18210,7 @@
   </programme>
   <programme start="20201023130000 +0200" stop="20201023150000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Sporting CP - FC Porto</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201023150000 +0200" stop="20201023170000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga niemiecka - mecz: FC Schalke 04 Gelsenkirchen - 1. FC Union Berlin</title>
@@ -17111,7 +18255,7 @@
   </programme>
   <programme start="20201024000000 +0200" stop="20201024020000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Rio Ave FC - SL Benfica</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201024020000 +0200" stop="20201024040000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga włoska - mecz: Udinese Calcio - Parma Calcio</title>
@@ -17213,7 +18357,7 @@
   </programme>
   <programme start="20201025100000 +0200" stop="20201025120000 +0200" channel="Eleven Sports 4">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: FC Porto - Gil Vicente</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211276.jpg" />
   </programme>
   <programme start="20201025120000 +0200" stop="20201025122500 +0200" channel="Eleven Sports 4">
     <title lang="pl">Najlepsze gole VfB Stuttgart</title>
@@ -17265,29 +18409,6 @@
     <category lang="pl">Magazyn Piłkarski</category>
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
     <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20201021173000 +0200" stop="20201021192000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">RKC Waalwijk - PEC Zwolle</title>
-    <desc lang="nl">Verslag van de wedstrijd RKC Waalwijk - PEC Zwolle in de 4e speelronde van de eredivisie 2020/2021. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021192000 +0200" stop="20201021200000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">RKC Waalwijk - PEC Zwolle</title>
-    <sub-title lang="nl">Nabeschouwing</sub-title>
-    <desc lang="nl">Live programma vanuit het stadion met voor- en nabeschouwingen, analyses en interviews rondom de zaterdagwedstrijden in de Eredivisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E29/100</episode-num>
-  </programme>
-  <programme start="20201021200000 +0200" stop="20201021203000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
   <programme start="20201021203000 +0200" stop="20201021210000 +0200" channel="FOX Sports 1 Eredivisie">
     <title lang="nl">Ajax TV</title>
@@ -18024,39 +19145,6 @@
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
   <programme start="20201025011500 +0200" stop="20201025020000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021190000 +0200" stop="20201021200000 +0200" channel="FOX Sports 2">
-    <title lang="nl">DOC</title>
-    <sub-title lang="nl">Doorbraak in de mist</sub-title>
-    <desc lang="nl">Ruim vijftig jaar geleden, op 7 december 1966, beleefde Ajax zijn Europese doorbraak. Anderhalf jaar nadat de club bijna degradeerde versloeg het Ajax van Rinus Michels in dichte mist de Engelse kampioen Liverpool met 5-1. Het was het startsein van de opmars van Ajax in Europa, die eindigde in 1973 toen de club driemaal op rij de Europa Cup 1 had gewonnen. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E6/75</episode-num>
-  </programme>
-  <programme start="20201021200000 +0200" stop="20201021203000 +0200" channel="FOX Sports 2">
-    <title lang="nl">PSV TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_psv-tv.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021203000 +0200" stop="20201021210000 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021210000 +0200" stop="20201021213000 +0200" channel="FOX Sports 2">
     <title lang="nl">FOX Sports Vandaag</title>
     <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
@@ -19069,30 +20157,6 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E26/200</episode-num>
   </programme>
-  <programme start="20201021190000 +0200" stop="20201021193000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">PSV TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021193000 +0200" stop="20201021200000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">ATP Uncovered</title>
-    <desc lang="nl">Wekelijks tennismagazine waarin de fan een exclusief kijkje achter de schermen krijgt bij de grootste tennissterren en de belangrijkste toernooien van de ATP Tour. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <category lang="nl">Tennis</category>
-    <episode-num system="onscreen">Seizoen 2020</episode-num>
-  </programme>
-  <programme start="20201021200000 +0200" stop="20201021210000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">NFL Highlights</title>
-    <desc lang="nl">In NFL Highlights komen wekelijks alle hoogtepunten uit de laatste speelronde in de NFL voorbij. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
   <programme start="20201021210000 +0200" stop="20201021220000 +0200" channel="FOX Sports 3 Eredivisie">
     <title lang="nl">Tien jaar Terug</title>
     <sub-title lang="nl">2010-2011</sub-title>
@@ -19909,13 +20973,6 @@
   <programme start="20201025020000 +0200" stop="20201025034500 +0200" channel="FOX Sports 3 Eredivisie">
     <title lang="nl">PEC - Willem II</title>
     <desc lang="nl">Verslag van de wedstrijd PEC Zwolle - Willem II in de 6e speelronde van de eredivisie 2020/2021. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021182500 +0200" stop="20201021202000 +0200" channel="FOX Sports 4">
-    <title lang="nl">Hamburger SV - FC Erzgebirge Aue</title>
-    <desc lang="nl">Verslag van de wedstrijd Hamburger SV - FC Erzgebirge Aue uit de 3e speelronde van de Tweede Bundesliga. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
@@ -21251,7 +22308,7 @@
   </programme>
   <programme start="20201021170000 +0000" stop="20201021190000 +0000" channel="BBC R1">
     <title lang="en">Radio 1's Future Sounds with Annie Mac</title>
-    <desc lang="en">A journey of musical discovery and recommendation.(n)</desc>
+    <desc lang="en">Easy Life drop the Hottest Record and there's live music from Pa Salieu and The xx.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -21426,14 +22483,14 @@
   </programme>
   <programme start="20201023053300 +0000" stop="20201023060000 +0000" channel="BBC R1">
     <title lang="en">Radio 1's Best New Pop with Mollie King</title>
-    <desc lang="en">Mollie King rounds up the best new releases from the world of pop.(n)</desc>
+    <desc lang="en">Mollie King rounds up the best new releases from the world of pop, including singles from Ariana Grande, Little Mix, Zedd featuring Griff and a Tate McRae &amp; Ali Gatie collaboration.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
   </programme>
   <programme start="20201023060000 +0000" stop="20201023090000 +0000" channel="BBC R1">
     <title lang="en">Weekend Breakfast with Matt and Mollie</title>
-    <desc lang="en">The weekend starts here with Mollie King and Matt Edmondson.(n)</desc>
+    <desc lang="en">Matt and Mollie are reunited - which means another round of Matt vs Mollie. Plus, Listener Impossible, Pop Luck and a brand new Tune Of The Weekend.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -21580,7 +22637,7 @@
   </programme>
   <programme start="20201024060000 +0000" stop="20201024090000 +0000" channel="BBC R1">
     <title lang="en">Weekend Breakfast with Mollie King</title>
-    <desc lang="en">Mollie King is in charge of your weekend wake-up..(n)</desc>
+    <desc lang="en">Mollie King is in charge of your weekend wake-up with another round of Get Your Clips Out.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -21713,7 +22770,7 @@
   </programme>
   <programme start="20201021180000 +0000" stop="20201021200000 +0000" channel="BBC R2">
     <title lang="en">Jo Whiley</title>
-    <desc lang="en">Jo handpicks her favourite new music from all genres of the musical spectrum and quality vintage songs too.(n)</desc>
+    <desc lang="en">Jo Harrop and Jamie McCredie play a Sofa Session for Jo, plus she chats to Paul Weller.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -21790,7 +22847,7 @@
   </programme>
   <programme start="20201022180000 +0000" stop="20201022200000 +0000" channel="BBC R2">
     <title lang="en">Jo Whiley</title>
-    <desc lang="en">Jo handpicks her favourite new music from all genres of the musical spectrum and quality vintage songs too.(n)</desc>
+    <desc lang="en">Jo chats to Tim Minchin about his debut album Apart Together, which is out on November 20th. Plus the Thursday Theme - songs relating to Jeff Goldblum.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22546,7 +23603,7 @@
   </programme>
   <programme start="20201021170000 +0000" stop="20201021173000 +0000" channel="BBC R4 FM">
     <title lang="en">Six O'Clock News</title>
-    <desc lang="en">The latest national and international news from BBC Radio 4.(n)</desc>
+    <desc lang="en">Government funding goes directly to local councils - in effect bypassing the region's mayor, Andy Burnham, who rejected the offer.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22581,7 +23638,7 @@
   </programme>
   <programme start="20201021190000 +0000" stop="20201021194500 +0000" channel="BBC R4 FM">
     <title lang="en">The Moral Maze</title>
-    <desc lang="en">Combative, provocative and engaging live debate chaired by Michael Buerk. With Giles Fraser, Melanie Phillips, Mona Siddiqui and Tim Stanley. #moralmaze.(n)</desc>
+    <desc lang="en">Combative, provocative and engaging live debate chaired by Michael Buerk. With Giles Fraser, Melanie Phillips, Mona Siddiqui and Tim Stanley #moralmaze.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22742,7 +23799,7 @@
   </programme>
   <programme start="20201022100000 +0000" stop="20201022103000 +0000" channel="BBC R4 FM">
     <title lang="en">From Our Own Correspondent</title>
-    <desc lang="en">Insight, and analysis from BBC correspondents around the world.(n)</desc>
+    <desc lang="en">Stories on Thailand's anti-government protests, on Spain's civil war legacy, a migrant worker in Jordan, a long eventful Chinese life, and Rome used as a film-set. With Kate Adie.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -23344,7 +24401,7 @@
   </programme>
   <programme start="20201024103000 +0000" stop="20201024110000 +0000" channel="BBC R4 FM">
     <title lang="en">From Our Own Correspondent</title>
-    <desc lang="en">Insight, wit and analysis from BBC correspondents, journalists and writers from around the world.(n)</desc>
+    <desc lang="en">Stories, wit and analysis from correspondents around the world.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -23512,7 +24569,7 @@
   </programme>
   <programme start="20201024211500 +0000" stop="20201024220000 +0000" channel="BBC R4 FM">
     <title lang="en">The Moral Maze</title>
-    <desc lang="en">Combative, provocative and engaging live debate chaired by Michael Buerk. With Giles Fraser, Melanie Phillips, Mona Siddiqui and Tim Stanley. #moralmaze.(n)</desc>
+    <desc lang="en">Combative, provocative and engaging live debate chaired by Michael Buerk. With Giles Fraser, Melanie Phillips, Mona Siddiqui and Tim Stanley #moralmaze.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -25703,7 +26760,7 @@
   </programme>
   <programme start="20201024200000 +0000" stop="20201024210000 +0000" channel="BBC R Scot.">
     <title lang="en">Pipeline</title>
-    <desc lang="en">The definitive pipe music programme, featuring news and recordings from the piping world.(n)</desc>
+    <desc lang="en">Gary West catches up with Jonathan Kalonga, a piper helping to put Africa on the map via his work leading the St John's College Pipe Band, Zimbabwe.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -27735,8 +28792,8 @@
     </rating>
   </programme>
   <programme start="20201022020000 +0000" stop="20201022030000 +0000" channel="BBC R1X">
-    <title lang="en">1Xtra Mixes</title>
-    <desc lang="en">The sound of 1Xtra, uninterrupted..(n)</desc>
+    <title lang="en">1X Mixes</title>
+    <desc lang="en">DJ/Production duo StarOne takeover the airwaves with a mix of Garage, House &amp; Dancehall floor fillers.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -27953,7 +29010,7 @@
   </programme>
   <programme start="20201024150000 +0000" stop="20201024180000 +0000" channel="BBC R1X">
     <title lang="en">Sian Anderson</title>
-    <desc lang="en">Sian soundtracks your Saturday afternoon.(n)</desc>
+    <desc lang="en">Poet and writer Abondance Matunda chats to Sian for Black History month. Plus another game of Who Am I, and Sian goes in the mix.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
