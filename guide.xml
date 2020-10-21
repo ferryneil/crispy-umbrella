@@ -135,6 +135,16 @@
     <display-name lang="nl">FOX Sports 4</display-name>
     <url>http://www.tvgids.tv</url>
   </channel>
+  <channel id="Eir-Sport-1">
+    <display-name lang="en">Eir-Sport-1</display-name>
+    <icon src="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/Eir-Sport-1.png" />
+    <url>http://www.eirsport.ie</url>
+  </channel>
+  <channel id="Eir-Sport-2">
+    <display-name lang="en">Eir-Sport-2</display-name>
+    <icon src="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/Eir-Sport-2.png" />
+    <url>http://www.eirsport.ie</url>
+  </channel>
   <channel id="BBC R1">
     <display-name lang="en">BBC R1</display-name>
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/320/320/skychb2111.png" />
@@ -16384,54 +16394,6 @@
       <value>15</value>
     </rating>
   </programme>
-  <programme start="20201021100000 +0200" stop="20201021104500 +0200" channel="BBC Entertainment">
-    <title lang="nl">Bargain Hunt</title>
-    <sub-title lang="nl">Cornwall 4</sub-title>
-    <desc lang="nl">Twee teams gaan op de vlooienmarkt op zoek naar antiek en curiosa, die later op een veiling weer verkocht worden. Het team dat de grootste winst maakt of het minst verliest, wint.(n)</desc>
-    <credits>
-      <presenter>Tim Wonnacott</presenter>
-    </credits>
-    <date>2016</date>
-    <category lang="nl">Amusement</category>
-    <category lang="nl">Spelshow</category>
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S46 E15</episode-num>
-  </programme>
-  <programme start="20201021104500 +0200" stop="20201021113000 +0200" channel="BBC Entertainment">
-    <title lang="nl">Bargain Hunt</title>
-    <sub-title lang="nl">Oswestry 8</sub-title>
-    <desc lang="nl">Twee teams gaan op de vlooienmarkt op zoek naar antiek en curiosa, die later op een veiling weer verkocht worden. Het team dat de grootste winst maakt of het minst verliest, wint. Vandaag struinen de teams het terein van de Oswestry af, op zoek naar koopjes. Ze krijgen hulp van Kate Bliss en Ochuko Ojiri.(n)</desc>
-    <credits>
-      <director>Sean Hughes</director>
-      <presenter>Tim Wonnacott</presenter>
-    </credits>
-    <date>2007</date>
-    <category lang="nl">Amusement</category>
-    <category lang="nl">Spelshow</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/b/Bargain_Hunt_1568296513.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S46 E16</episode-num>
-  </programme>
-  <programme start="20201021113000 +0200" stop="20201021121500 +0200" channel="BBC Entertainment">
-    <title lang="nl">The coroner</title>
-    <sub-title lang="nl">Those in peril</sub-title>
-    <desc lang="nl">Advocate Jane Kennedy keert terug naar het kustplaatsje dat ze als tiener achter zich liet. Nu gaat zij daar aan de slag als lijkschouwer. Na een valse melding verdrinkt een vrijwilliger van de bootbemanning van Lighthaven. Jane vermoedt dat er opzet in het spel is, maar Davey is sceptisch. Totdat andere vrijwilligers het doelwit worden.(n)</desc>
-    <credits>
-      <director>Niall Fraser</director>
-      <actor>Claire Goose</actor>
-      <actor>Matt Bardock</actor>
-      <actor>Beatie Edney</actor>
-      <actor>Oliver Gomm</actor>
-      <actor>Grace Hogg-Robinson</actor>
-      <writer>David Bowker</writer>
-    </credits>
-    <date>2016</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Misdaadserie</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/t/The_coroner_1590384441.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S2 E3</episode-num>
-  </programme>
   <programme start="20201021121500 +0200" stop="20201021130000 +0200" channel="BBC Entertainment">
     <title lang="nl">Atlantis</title>
     <sub-title lang="nl">Telemon</sub-title>
@@ -16449,7 +16411,6 @@
     <date>2014</date>
     <category lang="nl">Serie</category>
     <category lang="nl">Fantasyserie</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/a/Atlantis_1602668559.jpg" />
     <country lang="nl">GB</country>
     <episode-num system="onscreen">S2 E3</episode-num>
   </programme>
@@ -17004,7 +16965,7 @@
     <country lang="nl">GB</country>
     <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
-  <programme start="20201022091500 +0200" stop="20201022203000 +0200" channel="BBC Entertainment">
+  <programme start="20201022091500 +0200" stop="20201022100000 +0200" channel="BBC Entertainment">
     <title lang="nl">Impossible</title>
     <desc lang="nl">Dertig kandidaten moeten het geven van onmogelijke antwoorden vermijden om kans te maken op 10.000 pond.(n)</desc>
     <date>2017</date>
@@ -17013,6 +16974,56 @@
     <icon src="https://tvgidsassets.nl/v155/upload/i/Impossible_1583731520.jpg" />
     <country lang="nl">GB</country>
     <episode-num system="onscreen">S3 E8/30</episode-num>
+  </programme>
+  <programme start="20201022100000 +0200" stop="20201022104500 +0200" channel="BBC Entertainment">
+    <title lang="nl">Bargain Hunt</title>
+    <sub-title lang="nl">Oswestry 8</sub-title>
+    <desc lang="nl">Twee teams gaan op de vlooienmarkt op zoek naar antiek en curiosa, die later op een veiling weer verkocht worden. Het team dat de grootste winst maakt of het minst verliest, wint. Vandaag struinen de teams het terein van de Oswestry af, op zoek naar koopjes. Ze krijgen hulp van Kate Bliss en Ochuko Ojiri.(n)</desc>
+    <credits>
+      <director>Sean Hughes</director>
+      <presenter>Tim Wonnacott</presenter>
+    </credits>
+    <date>2007</date>
+    <category lang="nl">Amusement</category>
+    <category lang="nl">Spelshow</category>
+    <icon src="https://tvgidsassets.nl/v155/upload/b/Bargain_Hunt_1568296513.jpg" />
+    <country lang="nl">GB</country>
+    <episode-num system="onscreen">S46 E16</episode-num>
+  </programme>
+  <programme start="20201022104500 +0200" stop="20201022113000 +0200" channel="BBC Entertainment">
+    <title lang="nl">Bargain Hunt</title>
+    <sub-title lang="nl">Peterborough 13</sub-title>
+    <desc lang="nl">Twee teams gaan op de vlooienmarkt op zoek naar antiek en curiosa, die later op een veiling weer verkocht worden. Het team dat de grootste winst maakt of het minst verliest, wint.(n)</desc>
+    <credits>
+      <director>Tim Holt</director>
+      <presenter>Tim Wonnacott</presenter>
+    </credits>
+    <date>2016</date>
+    <category lang="nl">Amusement</category>
+    <category lang="nl">Spelshow</category>
+    <icon src="https://tvgidsassets.nl/v155/upload/b/Bargain_Hunt_1568296513.jpg" />
+    <country lang="nl">GB</country>
+    <episode-num system="onscreen">S46 E17</episode-num>
+  </programme>
+  <programme start="20201022113000 +0200" stop="20201022203000 +0200" channel="BBC Entertainment">
+    <title lang="nl">The coroner</title>
+    <sub-title lang="nl">The beast of Lighthaven</sub-title>
+    <desc lang="nl">Advocate Jane Kennedy keert terug naar het kustplaatsje dat ze als tiener achter zich liet. Nu gaat zij daar aan de slag als lijkschouwer. Niemand in Lighthaven gelooft een lokale journalist die beweert dat er een 'grote kat' op de heide rondloopt. Totdat zijn verminkte lichaam wordt gevonden.(n)</desc>
+    <credits>
+      <director>Matt Carter</director>
+      <actor>Claire Goose</actor>
+      <actor>Matt Bardock</actor>
+      <actor>Beatie Edney</actor>
+      <actor>Oliver Gomm</actor>
+      <actor>Grace Hogg-Robinson</actor>
+      <writer>Kit Lambert</writer>
+    </credits>
+    <date>2016</date>
+    <category lang="nl">Serie</category>
+    <category lang="nl">Misdaadserie</category>
+    <icon src="https://tvgidsassets.nl/v155/upload/t/The_coroner_1590384441.jpg" />
+    <country lang="nl">GB</country>
+    <episode-num system="onscreen">S2 E4</episode-num>
   </programme>
   <programme start="20201022203000 +0200" stop="20201022224000 +0200" channel="BBC Entertainment">
     <title lang="nl">EastEnders</title>
@@ -18360,7 +18371,7 @@
   </programme>
   <programme start="20201024135500 +0200" stop="20201024153000 +0200" channel="Eleven Sports 2">
     <title lang="pl">Formuła 1: Grand Prix Portugalii - sesja kwalifikacyjna</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4212977.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4303386.jpg" />
   </programme>
   <programme start="20201024153000 +0200" stop="20201024160000 +0200" channel="Eleven Sports 2">
     <title lang="pl">GP Confidential</title>
@@ -18390,7 +18401,7 @@
   </programme>
   <programme start="20201024202500 +0200" stop="20201024230000 +0200" channel="Eleven Sports 2">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: FC Porto - Gil Vicente</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211458.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
   </programme>
   <programme start="20201024230000 +0200" stop="20201025010000 +0200" channel="Eleven Sports 2">
     <title lang="pl">Piłka nożna: Liga hiszpańska - mecz: FC Barcelona - Real Madryt CF</title>
@@ -18435,11 +18446,11 @@
   </programme>
   <programme start="20201025180000 +0200" stop="20201025195500 +0200" channel="Eleven Sports 2">
     <title lang="pl">Formuła 1: Grand Prix Portugalii</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4212977.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4303386.jpg" />
   </programme>
   <programme start="20201025195500 +0200" stop="20201025220000 +0200" channel="Eleven Sports 2">
     <title lang="pl">Piłka nożna: Liga portugalska - mecz: Vitoria Guimaraes - Sporting Braga</title>
-    <icon src="https://ptv-prod.wpcdn.pl/media/akpa4211458.jpg" />
+    <icon src="https://ptv-prod.wpcdn.pl/media/akpa3533612.jpg" />
   </programme>
   <programme start="20201025220000 +0200" stop="20201025230000 +0200" channel="Eleven Sports 2">
     <title lang="pl">Javier Irureta</title>
@@ -19139,61 +19150,6 @@
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20201021093000 +0200" stop="20201021094500 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Jong PSV - N.E.C</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E80/200</episode-num>
-  </programme>
-  <programme start="20201021094500 +0200" stop="20201021100000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Lekker Weekend</title>
-    <desc lang="nl">Koert Westerman zet op zijn eigen onnavolgbare wijze de opvallendste acties en leukste momenten van het afgelopen weekend op een rij. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021100000 +0200" stop="20201021103000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Ajax TV</title>
-    <desc lang="nl">In Ajax TV zie je twee keer per week het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021103000 +0200" stop="20201021110000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021110000 +0200" stop="20201021113000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021113000 +0200" stop="20201021120000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">PSV TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021120000 +0200" stop="20201021123000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
   <programme start="20201021123000 +0200" stop="20201021130000 +0200" channel="FOX Sports 1 Eredivisie">
     <title lang="nl">FOX Sports Vandaag</title>
     <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
@@ -19732,14 +19688,14 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E1/5</episode-num>
   </programme>
-  <programme start="20201023225000 +0200" stop="20201023231500 +0200" channel="FOX Sports 1 Eredivisie">
+  <programme start="20201023225000 +0200" stop="20201023233000 +0200" channel="FOX Sports 1 Eredivisie">
     <title lang="nl">Voetbal op Vrijdag</title>
     <desc lang="nl">Live programma waarin wordt geschakeld tussen alle wedstrijden van vrijdag uit de Eredivisie, Keuken Kampioen Divisie en Bundesliga. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201023231500 +0200" stop="20201024001500 +0200" channel="FOX Sports 1 Eredivisie">
+  <programme start="20201023233000 +0200" stop="20201024003000 +0200" channel="FOX Sports 1 Eredivisie">
     <title lang="nl">FOX Sports Vandaag</title>
     <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
@@ -19747,7 +19703,7 @@
     <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201024001500 +0200" stop="20201024011400 +0200" channel="FOX Sports 1 Eredivisie">
+  <programme start="20201024003000 +0200" stop="20201024013500 +0200" channel="FOX Sports 1 Eredivisie">
     <title lang="nl">FOX Sports Vandaag</title>
     <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
@@ -19755,15 +19711,7 @@
     <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201024011400 +0200" stop="20201024013600 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">PSV TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen, items en reportages rondom PSV. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024013600 +0200" stop="20201024020000 +0200" channel="FOX Sports 1 Eredivisie">
+  <programme start="20201024013500 +0200" stop="20201024020000 +0200" channel="FOX Sports 1 Eredivisie">
     <title lang="nl">Ajax TV</title>
     <desc lang="nl">In Ajax TV zie je twee keer per week het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
@@ -20009,53 +19957,6 @@
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">S2020 E9/71</episode-num>
-  </programme>
-  <programme start="20201021100000 +0200" stop="20201021103000 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021103000 +0200" stop="20201021104500 +0200" channel="FOX Sports 2">
-    <title lang="nl">Feyenoord TV</title>
-    <desc lang="nl">Het laatste nieuws, voor- en nabeschouwingen en reportages rondom Feyenoord. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021104500 +0200" stop="20201021110000 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Top 25 Goals</title>
-    <desc lang="nl">De 25 mooiste goals van afgelopen week uiit alle competities die op FOX Sports worden uitgezonden. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021110000 +0200" stop="20201021111500 +0200" channel="FOX Sports 2">
-    <title lang="nl">TOP Oss - FC Den Bosch</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E77/200</episode-num>
-  </programme>
-  <programme start="20201021111500 +0200" stop="20201021113000 +0200" channel="FOX Sports 2">
-    <title lang="nl">NAC - SC Cambuur</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E71/200</episode-num>
-  </programme>
-  <programme start="20201021113000 +0200" stop="20201021120000 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
   <programme start="20201021120000 +0200" stop="20201021130000 +0200" channel="FOX Sports 2">
     <title lang="nl">DOC</title>
@@ -20738,8 +20639,8 @@
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
   <programme start="20201023183500 +0200" stop="20201023205000 +0200" channel="FOX Sports 2">
-    <title lang="nl">Keuken Kampioen Divisie</title>
-    <desc lang="nl">Live verslag van een wedstrijd in de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <title lang="nl">N.E.C. - Go Ahead Eagles</title>
+    <desc lang="nl">Live verslag van de wedstrijd N.E.C. - Go Ahead Eagles in de 9e speelronde van de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
@@ -20910,6 +20811,7 @@
     <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
+    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
   <programme start="20201024100000 +0200" stop="20201024101500 +0200" channel="FOX Sports 2">
@@ -20952,7 +20854,7 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E82/200</episode-num>
   </programme>
-  <programme start="20201024120000 +0200" stop="20201024121700 +0200" channel="FOX Sports 2">
+  <programme start="20201024120000 +0200" stop="20201024121500 +0200" channel="FOX Sports 2">
     <title lang="nl">Stuttgart - Koln</title>
     <sub-title lang="nl">samenvatting</sub-title>
     <desc lang="nl">Samenvatting van de wedstrijd VfB Stuttgart - 1. FC Koln uit de 5e speelronde van de Bundesliga. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
@@ -20960,7 +20862,7 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E25/200</episode-num>
   </programme>
-  <programme start="20201024121700 +0200" stop="20201024131500 +0200" channel="FOX Sports 2">
+  <programme start="20201024121500 +0200" stop="20201024131500 +0200" channel="FOX Sports 2">
     <title lang="nl">Keuken Kampioen Divisie Highlights</title>
     <desc lang="nl">De samenvattingen van de gespeelde wedstrijden in de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
@@ -20972,6 +20874,7 @@
     <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
+    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
   <programme start="20201024141500 +0200" stop="20201024143000 +0200" channel="FOX Sports 2">
@@ -21005,7 +20908,7 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E81/200</episode-num>
   </programme>
-  <programme start="20201024153000 +0200" stop="20201024154400 +0200" channel="FOX Sports 2">
+  <programme start="20201024153000 +0200" stop="20201024154500 +0200" channel="FOX Sports 2">
     <title lang="nl">SC Cambuur - Roda JC</title>
     <sub-title lang="nl">samenvatting</sub-title>
     <desc lang="nl">Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
@@ -21013,7 +20916,7 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E82/200</episode-num>
   </programme>
-  <programme start="20201024154400 +0200" stop="20201024155900 +0200" channel="FOX Sports 2">
+  <programme start="20201024154500 +0200" stop="20201024160000 +0200" channel="FOX Sports 2">
     <title lang="nl">sc Heerenveen TV</title>
     <desc lang="nl">Wekelijks magazine met het laatste nieuws, voor- en nabeschouwingen en reportages rondom sc Heerenveen. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
@@ -21021,7 +20924,7 @@
     <category lang="nl">Magazine</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201024155900 +0200" stop="20201024161400 +0200" channel="FOX Sports 2">
+  <programme start="20201024160000 +0200" stop="20201024161500 +0200" channel="FOX Sports 2">
     <title lang="nl">AZ TV</title>
     <desc lang="nl">Wekelijks magazine met het laatste nieuws, voor- en nabeschouwingen en reportages rondom AZ. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
@@ -21029,7 +20932,7 @@
     <category lang="nl">Magazine</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201024161400 +0200" stop="20201024163000 +0200" channel="FOX Sports 2">
+  <programme start="20201024161500 +0200" stop="20201024163000 +0200" channel="FOX Sports 2">
     <title lang="nl">Stuttgart - Koln</title>
     <sub-title lang="nl">samenvatting</sub-title>
     <desc lang="nl">Samenvatting van de wedstrijd VfB Stuttgart - 1. FC Koln uit de 5e speelronde van de Bundesliga. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
@@ -21037,11 +20940,27 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E25/200</episode-num>
   </programme>
-  <programme start="20201024163000 +0200" stop="20201024180000 +0200" channel="FOX Sports 2">
+  <programme start="20201024163000 +0200" stop="20201024173000 +0200" channel="FOX Sports 2">
     <title lang="nl">Keuken Kampioen Divisie Highlights</title>
     <desc lang="nl">De samenvattingen van de gespeelde wedstrijden in de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
+    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
+  </programme>
+  <programme start="20201024173000 +0200" stop="20201024174500 +0200" channel="FOX Sports 2">
+    <title lang="nl">Stuttgart - Koln</title>
+    <sub-title lang="nl">samenvatting</sub-title>
+    <desc lang="nl">Samenvatting van de wedstrijd VfB Stuttgart - 1. FC Koln uit de 5e speelronde van de Bundesliga. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <date>2020</date>
+    <category lang="nl">Sport</category>
+    <episode-num system="onscreen">E25/200</episode-num>
+  </programme>
+  <programme start="20201024174500 +0200" stop="20201024180000 +0200" channel="FOX Sports 2">
+    <title lang="nl">Vitesse TV</title>
+    <desc lang="nl">Wekelijks magazine met het laatste nieuws, voor- en nabeschouwingen en reportages rondom Vitesse. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <date>2020</date>
+    <category lang="nl">Sport</category>
+    <category lang="nl">Magazine</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
   <programme start="20201024180000 +0200" stop="20201024183000 +0200" channel="FOX Sports 2">
@@ -21075,14 +20994,14 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201024200000 +0200" stop="20201024220000 +0200" channel="FOX Sports 2">
+  <programme start="20201024200000 +0200" stop="20201024215000 +0200" channel="FOX Sports 2">
     <title lang="nl">PEC - Willem II</title>
     <desc lang="nl">Verslag van de wedstrijd PEC Zwolle - Willem II in de 6e speelronde van de eredivisie 2020/2021. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201024220000 +0200" stop="20201024223000 +0200" channel="FOX Sports 2">
+  <programme start="20201024215000 +0200" stop="20201024223000 +0200" channel="FOX Sports 2">
     <title lang="nl">Nabeschouwing</title>
     <desc lang="nl">Live programma vanuit het stadion met voor- en nabeschouwingen, analyses en interviews rondom de zaterdagwedstrijden in de Eredivisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
@@ -21121,35 +21040,14 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E53/325</episode-num>
   </programme>
-  <programme start="20201025003000 +0200" stop="20201025020000 +0200" channel="FOX Sports 2">
+  <programme start="20201025003000 +0200" stop="20201025021500 +0200" channel="FOX Sports 2">
     <title lang="nl">Utrecht - Twente</title>
     <desc lang="nl">Verslag van de wedstrijd FC Utrecht - FC Twente in de 6e speelronde van de eredivisie 2020/2021. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201025020000 +0200" stop="20201025021500 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201025021500 +0200" stop="20201025024500 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201025024500 +0200" stop="20201025033000 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201025033000 +0200" stop="20201025041500 +0200" channel="FOX Sports 2">
+  <programme start="20201025021500 +0200" stop="20201025023600 +0200" channel="FOX Sports 2">
     <title lang="nl">FOX Sports Vandaag</title>
     <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
@@ -21157,7 +21055,30 @@
     <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201025041500 +0200" stop="20201025043000 +0200" channel="FOX Sports 2">
+  <programme start="20201025023600 +0200" stop="20201025025500 +0200" channel="FOX Sports 2">
+    <title lang="nl">FOX Sports Vandaag</title>
+    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <date>2020</date>
+    <category lang="nl">Sport</category>
+    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
+  </programme>
+  <programme start="20201025025500 +0200" stop="20201025031700 +0200" channel="FOX Sports 2">
+    <title lang="nl">FOX Sports Vandaag</title>
+    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <date>2020</date>
+    <category lang="nl">Sport</category>
+    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
+    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
+  </programme>
+  <programme start="20201025031700 +0200" stop="20201025040000 +0200" channel="FOX Sports 2">
+    <title lang="nl">FOX Sports Vandaag</title>
+    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <date>2020</date>
+    <category lang="nl">Sport</category>
+    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
+    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
+  </programme>
+  <programme start="20201025040000 +0200" stop="20201025041500 +0200" channel="FOX Sports 2">
     <title lang="nl">PEC Zwolle - Willem II</title>
     <sub-title lang="nl">samenvatting</sub-title>
     <desc lang="nl">Hoogtepunten van een wedstrijd uit de Eredivisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
@@ -21165,7 +21086,7 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E53/325</episode-num>
   </programme>
-  <programme start="20201025043000 +0200" stop="20201025044500 +0200" channel="FOX Sports 2">
+  <programme start="20201025041500 +0200" stop="20201025043000 +0200" channel="FOX Sports 2">
     <title lang="nl">sc Heerenveen - FC Emmen</title>
     <sub-title lang="nl">samenvatting</sub-title>
     <desc lang="nl">Hoogtepunten van een wedstrijd uit de Eredivisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
@@ -21173,13 +21094,21 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E49/325</episode-num>
   </programme>
-  <programme start="20201021101100 +0200" stop="20201021103000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Jong PSV - N.E.C</title>
+  <programme start="20201025043000 +0200" stop="20201025044500 +0200" channel="FOX Sports 2">
+    <title lang="nl">Dortmund - Schalke</title>
     <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <desc lang="nl">Samenvatting van de wedstrijd Borussia Dortmund - FC Schalke 04 uit de 5e speelronde van de Bundesliga. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E80/200</episode-num>
+    <episode-num system="onscreen">E28/200</episode-num>
+  </programme>
+  <programme start="20201025044500 +0200" stop="20201025045900 +0200" channel="FOX Sports 2">
+    <title lang="nl">Bayern - Frankfurt</title>
+    <sub-title lang="nl">samenvatting</sub-title>
+    <desc lang="nl">Samenvatting van de wedstrijd FC Bayern Munchen - Eintracht Frankfurt uit de 5e speelronde van de Bundesliga. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <date>2020</date>
+    <category lang="nl">Sport</category>
+    <episode-num system="onscreen">E26/200</episode-num>
   </programme>
   <programme start="20201021103000 +0200" stop="20201021130000 +0200" channel="FOX Sports 3 Eredivisie">
     <title lang="nl">MLB World Series</title>
@@ -21844,8 +21773,8 @@
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
   <programme start="20201023183500 +0200" stop="20201023205000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Keuken Kampioen Divisie</title>
-    <desc lang="nl">Live verslag van een wedstrijd in de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <title lang="nl">MVV - Jong Ajax</title>
+    <desc lang="nl">Live verslag van de wedstrijd MVV Maastricht - Jong Ajax in de 9e speelronde van de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
@@ -22071,37 +22000,6 @@
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021101500 +0200" stop="20201021103000 +0200" channel="FOX Sports 4">
-    <title lang="nl">Colo-Colo - Jorge Wilstermann</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Alle hoogtepunten van de wedstrijd Colo-Colo - Jorge Wilstermann in de groepsfase van de Copa Libertadores. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E65/200</episode-num>
-  </programme>
-  <programme start="20201021103000 +0200" stop="20201021121500 +0200" channel="FOX Sports 4">
-    <title lang="nl">Nashville SC - FC Dallas</title>
-    <desc lang="nl">Verslag van de wedstrijd Nashville SC - FC Dallas uit de 20e speelronde van de MLS 2020. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020</episode-num>
-  </programme>
-  <programme start="20201021121500 +0200" stop="20201021123000 +0200" channel="FOX Sports 4">
-    <title lang="nl">Colo-Colo - Jorge Wilstermann</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Alle hoogtepunten van de wedstrijd Colo-Colo - Jorge Wilstermann in de groepsfase van de Copa Libertadores. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E65/200</episode-num>
-  </programme>
-  <programme start="20201021123000 +0200" stop="20201021124500 +0200" channel="FOX Sports 4">
-    <title lang="nl">Bielefeld - Bayern</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de wedstrijd Arminia Bielefeld - Bayern Munchen uit de vierde speelronde van de Bundesliga. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E21/200</episode-num>
   </programme>
   <programme start="20201021124500 +0200" stop="20201021133000 +0200" channel="FOX Sports 4">
     <title lang="nl">NFL Live</title>
@@ -22537,8 +22435,8 @@
     <episode-num system="onscreen">E6/34</episode-num>
   </programme>
   <programme start="20201023183500 +0200" stop="20201023205000 +0200" channel="FOX Sports 4">
-    <title lang="nl">Keuken Kampioen Divisie</title>
-    <desc lang="nl">Live verslag van een wedstrijd in de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
+    <title lang="nl">FC Volendam - FC Dordrecht</title>
+    <desc lang="nl">Live verslag van de wedstrijd FC Volendam - FC Dordrecht in de 9e speelronde van de Keuken Kampioen Divisie. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
@@ -22819,6 +22717,342 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E28/200</episode-num>
   </programme>
+  <programme start="20201021110000 +0100" stop="20201021130000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Chelsea v Portsmouth 2010</title>
+    <desc lang="en">Two years after lifting the FA Cup, Portsmouth are back at Wembley where they face a much more difficult prospect against Carlo Ancelotti's Double-chasing Chelsea side.(n)</desc>
+  </programme>
+  <programme start="20201021130000 +0100" stop="20201021150000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Glasgow Warriors v Scarlets</title>
+    <desc lang="en">After opening day defeats these two former champions will be looking to get their 2020-21 campaigns up and running as Glasgow take on Scarlets at Scotstoun Stadium.(n)</desc>
+  </programme>
+  <programme start="20201021150000 +0100" stop="20201021170000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Ospreys v Ulster</title>
+    <desc lang="en">After their surprise victory over Edinburgh in Murrayfield in round one, Ospreys will be keen to continue their good start by beating Ulster at the Liberty Stadium.(n)</desc>
+  </programme>
+  <programme start="20201021170000 +0100" stop="20201021190000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Cardiff v Connacht</title>
+    <desc lang="en">The Blues take on Connacht at Rodney Parade with both sides full of confidence after winning their opening games.(n)</desc>
+  </programme>
+  <programme start="20201021190000 +0100" stop="20201021202500 +0100" channel="Eir-Sport-1">
+    <title lang="en">Kerry v Dublin 1984</title>
+    <desc lang="en">The 1984 All-Ireland SFC Final saw Kerry and Dublin renew hostilities under Mick O'Dwyer and Kevin Heffernan with the Kingdom looking for their fifth title in seven years.(n)</desc>
+  </programme>
+  <programme start="20201021202500 +0100" stop="20201021215000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Cork v Offaly 1984</title>
+    <desc lang="en">The 1984 All-Ireland SHC Final saw Cork in their third decider in a row, taking on Offaly at Semple Stadium in Thurles to mark the 100th anniversary of the GAA's foundation.(n)</desc>
+  </programme>
+  <programme start="20201021215000 +0100" stop="20201021232000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Dublin v Meath</title>
+    <desc lang="en">One of the greatest rivalries in football is revived once again as Dublin entertain Meath in this Allianz Leagues Division 1 clash at Parnell Park.(n)</desc>
+  </programme>
+  <programme start="20201021232000 +0100" stop="20201021235000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Hill 16</title>
+    <desc lang="en">Over 100 years of history, vibrancy and colour of the iconic terrace at Croke Park is explored.(n)</desc>
+  </programme>
+  <programme start="20201021235000 +0100" stop="20201022005000 +0100" channel="Eir-Sport-1">
+    <title lang="en">True Blues</title>
+    <desc lang="en">Observational documentary following a crucial season in the lives of the perennial underdogs of Dublin GAA, the Dublin Senior Camogie team.(n)</desc>
+  </programme>
+  <programme start="20201022005000 +0100" stop="20201022010000 +0100" channel="Eir-Sport-1">
+    <title lang="en">eir Sport Extra</title>
+    <desc lang="en">Sporting news and features from around the globe.(n)</desc>
+  </programme>
+  <programme start="20201022010000 +0100" stop="20201022013000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Leicester City v Tottenham 2006</title>
+    <desc lang="en">Highlights of an FA Cup Third Round clash from January 2006, as Championship relegation-battlers Leicester City welcome Martin Jol's Tottenham Hotspur to the Walkers Stadium.(n)</desc>
+  </programme>
+  <programme start="20201022013000 +0100" stop="20201022020000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Liverpool v Arsenal 2007</title>
+    <desc lang="en">Highlights of a heavyweight FA Cup Third Round clash from January 2007, as Rafa Benitez's FA Cup-holders Liverpool welcome Arsene Wenger's Arsenal to Anfield.(n)</desc>
+  </programme>
+  <programme start="20201022020000 +0100" stop="20201022235000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Man Utd v Newcastle Utd 1999</title>
+    <desc lang="en">The 1999 FA Cup Final at Wembley saw Newcastle Utd back in the final for the second year running, against a Manchester Utd side looking to clinch the second part of The Treble.(n)</desc>
+  </programme>
+  <programme start="20201022235000 +0100" stop="20201023005000 +0100" channel="Eir-Sport-1">
+    <title lang="en">True Blues</title>
+    <desc lang="en">Observational documentary following a crucial season in the lives of the perennial underdogs of Dublin GAA, the Dublin Senior Camogie team.(n)</desc>
+  </programme>
+  <programme start="20201023005000 +0100" stop="20201023010000 +0100" channel="Eir-Sport-1">
+    <title lang="en">eir Sport Extra</title>
+    <desc lang="en">Sporting news and features from around the globe.(n)</desc>
+  </programme>
+  <programme start="20201023010000 +0100" stop="20201023013000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Leicester City v Tottenham 2006</title>
+    <desc lang="en">Highlights of an FA Cup Third Round clash from January 2006, as Championship relegation-battlers Leicester City welcome Martin Jol's Tottenham Hotspur to the Walkers Stadium.(n)</desc>
+  </programme>
+  <programme start="20201023013000 +0100" stop="20201023020000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Liverpool v Arsenal 2007</title>
+    <desc lang="en">Highlights of a heavyweight FA Cup Third Round clash from January 2007, as Rafa Benitez's FA Cup-holders Liverpool welcome Arsene Wenger's Arsenal to Anfield.(n)</desc>
+  </programme>
+  <programme start="20201023020000 +0100" stop="20201023040000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Man Utd v Newcastle Utd 1999</title>
+    <desc lang="en">The 1999 FA Cup Final at Wembley saw Newcastle Utd back in the final for the second year running, against a Manchester Utd side looking to clinch the second part of The Treble.(n)</desc>
+  </programme>
+  <programme start="20201023040000 +0100" stop="20201023060000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Italy v Brazil 1982</title>
+    <desc lang="en">One of the greatest World Cup matches ever, as Italy face Brazil in a Group C second-round match at the 1982 finals in Barcelona - with a semi-final place awaiting the winners.(n)</desc>
+  </programme>
+  <programme start="20201023060000 +0100" stop="20201023063000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Liverpool v West Ham 2006</title>
+    <desc lang="en">Highlights of the 2006 FA Cup Final at the Millennium Stadium in Cardiff, as Liverpool take on West Ham in what is regarded as one of the greatest finals in FA Cup history.(n)</desc>
+  </programme>
+  <programme start="20201023063000 +0100" stop="20201023070000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Tottenham v Arsenal 1991</title>
+    <desc lang="en">FA Cup semi-final highlights from April 1991 as Tottenham meet North London rivals Arsenal at Wembley Stadium, with the Gunners on course to do the Double.(n)</desc>
+  </programme>
+  <programme start="20201023070000 +0100" stop="20201023073000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Abidal</title>
+    <desc lang="en">Documentary about Eric Abidal and his ascension into legendary status at Barcelona FC.(n)</desc>
+  </programme>
+  <programme start="20201023073000 +0100" stop="20201023080000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Always Iniesta</title>
+    <desc lang="en">Barcelona legend Andres Iniesta talks about his time at the club and hopes for the future with the Catalan giants.(n)</desc>
+  </programme>
+  <programme start="20201023080000 +0100" stop="20201023090000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Out Of Their League</title>
+    <desc lang="en">Focusing on four key players, Masterson, Boyd, White and Schlingermann this immersive documentary looks at the 2019 PFAI camp as they endeavour to renew their careers in the LOI.(n)</desc>
+  </programme>
+  <programme start="20201023090000 +0100" stop="20201023100000 +0100" channel="Eir-Sport-1">
+    <title lang="en">2014 Masters Official Film</title>
+    <desc lang="en">Official Story of The Masters Tournament.(n)</desc>
+  </programme>
+  <programme start="20201023100000 +0100" stop="20201023110000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Pete Sampras</title>
+    <desc lang="en">Highlights from the 14 year career of legend Pete Sampras, known for his precise and powerful serve which earned the nickname "Pistol Pete" and help him win 14 Grand Slam titles.(n)</desc>
+  </programme>
+  <programme start="20201023110000 +0100" stop="20201023123000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Dublin v Meath</title>
+    <desc lang="en">One of the greatest rivalries in football is revived once again as Dublin entertain Meath in this Allianz Leagues Division 1 clash at Parnell Park.(n)</desc>
+  </programme>
+  <programme start="20201023123000 +0100" stop="20201023133000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Liverpool Team of the 80's</title>
+    <desc lang="en">Liverpool v Stoke City 1983 and Millwall v Liverpool 1989 all feature in this episode of Liverpool Team of the 80's.(n)</desc>
+  </programme>
+  <programme start="20201023133000 +0100" stop="20201023143000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Liverpool Team of the 80's</title>
+    <desc lang="en">Liverpool v Arsenal 1989 and Liverpool v Southampton 1989 feature in this episode of Liverpool Team of the 80's.(n)</desc>
+  </programme>
+  <programme start="20201023143000 +0100" stop="20201023150000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Everton v Liverpool 1980</title>
+    <desc lang="en">Highlights from March 1980 as Everton entertain Liverpool in an emotional Merseyside derby at Goodison Park, on the day that Toffees legend Dixie Dean passed away.(n)</desc>
+  </programme>
+  <programme start="20201023150000 +0100" stop="20201023153000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Bristol City v Liverpool 1980</title>
+    <desc lang="en">First Division highlights from March 1980 as Bob Paisley takes his title-chasing Liverpool side to Ashton Gate, to face a Bristol City team battling against relegation.(n)</desc>
+  </programme>
+  <programme start="20201023153000 +0100" stop="20201023173000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Munster v Edinburgh</title>
+    <desc lang="en">Munster welcome Edinburgh to Thomond Park for what promises to be an exciting encounter.(n)</desc>
+  </programme>
+  <programme start="20201023173000 +0100" stop="20201023190000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Dublin v Meath</title>
+    <desc lang="en">One of the greatest rivalries in football is revived once again as Dublin entertain Meath in this Allianz Leagues Division 1 clash at Parnell Park.(n)</desc>
+  </programme>
+  <programme start="20201023190000 +0100" stop="20201023204000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Man United v Watford 82/83</title>
+    <desc lang="en">Graham Taylor's Watford head to Old Trafford for this crucial First Division fixture with both clubs flying high and needing victory to maintain the pressure on leaders Liverpool.(n)</desc>
+  </programme>
+  <programme start="20201023204000 +0100" stop="20201023212500 +0100" channel="Eir-Sport-1">
+    <title lang="en">Man Utd v QPR 1989</title>
+    <desc lang="en">Highlights of an FA Cup Third Round, second replay from January 1989, as Manchester United welcome QPR to Old Trafford following earlier 0-0 and 2-2 draws.(n)</desc>
+  </programme>
+  <programme start="20201023212500 +0100" stop="20201023231500 +0100" channel="Eir-Sport-1">
+    <title lang="en">Benetton v Leinster</title>
+    <desc lang="en">Champions Leinster travel to Treviso to take on Benetton at the Stadio Communale Monigo.(n)</desc>
+  </programme>
+  <programme start="20201023231500 +0100" stop="20201023234500 +0100" channel="Eir-Sport-1">
+    <title lang="en">Thomond Park</title>
+    <desc lang="en">A trip down memory lane as we take a look back at some of the great moments at the home of Munster Rugby.(n)</desc>
+  </programme>
+  <programme start="20201023234500 +0100" stop="20201024004500 +0100" channel="Eir-Sport-1">
+    <title lang="en">Ballymun Kickhams</title>
+    <desc lang="en">This is the story of a GAA club that provided hope and guidance to the young people of Ballymun.(n)</desc>
+  </programme>
+  <programme start="20201024004500 +0100" stop="20201024010000 +0100" channel="Eir-Sport-1">
+    <title lang="en">eir Sport Extra</title>
+    <desc lang="en">Sporting news and features from around the globe.(n)</desc>
+  </programme>
+  <programme start="20201024010000 +0100" stop="20201024013000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Newcastle Utd v Birmingham 2007</title>
+    <desc lang="en">Highlights of an FA Cup Third Round Replay from January 2007, as Glenn Roeder's Newcastle Utd welcome Steve Bruce's Championship-leaders Birmingham City to St James' Park.(n)</desc>
+  </programme>
+  <programme start="20201024013000 +0100" stop="20201024020000 +0100" channel="Eir-Sport-1">
+    <title lang="en">Fulham v Tottenham 2007</title>
+    <desc lang="en">Highlights of an FA Cup Fifth Round clash from February 2007, as Martin Jol takes his Tottenham Hotspur side to Craven Cottage to face Chris Coleman's Fulham in a London derby.(n)</desc>
+  </programme>
+  <programme start="20201024020000 +0100" stop="20201024234500 +0100" channel="Eir-Sport-1">
+    <title lang="en">Man Utd v Millwall 2004</title>
+    <desc lang="en">The 2004 FA Cup Final at the Millennium Stadium in Cardiff, as Manchester Utd take on Millwall - the first side outside the top flight to play in the Cup Final since 1982.(n)</desc>
+  </programme>
+  <programme start="20201024234500 +0100" stop="20201025004500 +0100" channel="Eir-Sport-1">
+    <title lang="en">Ballymun Kickhams</title>
+    <desc lang="en">This is the story of a GAA club that provided hope and guidance to the young people of Ballymun.(n)</desc>
+  </programme>
+  <programme start="20201021110000 +0100" stop="20201021120000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Man Utd v Arsenal 1966</title>
+    <desc lang="en">Highlights from March 1966 as defending champions Man Utd welcome an Arsenal side, managed by former England captain Billy Wright, to Old Trafford.(n)</desc>
+  </programme>
+  <programme start="20201021120000 +0100" stop="20201021130000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Preston v Man Utd 1966</title>
+    <desc lang="en">Highlights from March 1966 as Man Utd make the short trip up the M60 to Deepdale to face Second Division Preston North End in an FA Cup quarter-final.(n)</desc>
+  </programme>
+  <programme start="20201021130000 +0100" stop="20201021150000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Leeds Utd</title>
+    <desc lang="en">A real treat for Leeds fans as we look back at some of the highlights of the Yorkshire club in action during the late 60s and 70s as shown on ITV's Sunday lunchtime Programme.(n)</desc>
+  </programme>
+  <programme start="20201021150000 +0100" stop="20201021170000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Scarlets v Munster</title>
+    <desc lang="en">Munster face a tough opening round assignment as they travel to Wales to take on Scarlets in a replay of the 2017 final.(n)</desc>
+  </programme>
+  <programme start="20201021170000 +0100" stop="20201021190000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Leinster v Dragons</title>
+    <desc lang="en">Champions Leinster welcome Dragons to the RDS in their PRO14 2020-21 campaign opener.(n)</desc>
+  </programme>
+  <programme start="20201021190000 +0100" stop="20201021202000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Ringside: Ali: Return from Exile</title>
+    <desc lang="en">The return of Muhammad Ali after his controversial ban from boxing. (Part 1).(n)</desc>
+  </programme>
+  <programme start="20201021202000 +0100" stop="20201021213500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Ringside: Ali: Return from Exile</title>
+    <desc lang="en">The return of Muhammad Ali after his controversial ban from boxing. (Part 2).(n)</desc>
+  </programme>
+  <programme start="20201021213500 +0100" stop="20201021222500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Muhammad Ali v George Foreman</title>
+    <desc lang="en">Muhammad Ali v George Foreman in a clash that became famously known as The Rumble in the Jungle.(n)</desc>
+  </programme>
+  <programme start="20201021222500 +0100" stop="20201021231500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Muhammad Ali v Zora Folley</title>
+    <desc lang="en">In his last fight before he was suspended from boxing, Muhammad Ali clashes with Zora Folley at Madison Square Garden in 1967.(n)</desc>
+  </programme>
+  <programme start="20201021231500 +0100" stop="20201022000500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Ray Robinson v Jake LaMotta</title>
+    <desc lang="en">Two legends of the ring clash as Sugar Ray Robinson squares up against The Raging Bull Jake LaMotta.(n)</desc>
+  </programme>
+  <programme start="20201022000500 +0100" stop="20201022003500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Man Utd v Chelsea 1965</title>
+    <desc lang="en">Highlights from March 1965 as the league leaders Chelsea visit Old Trafford to take on third-placed Man Utd in a crucial battle at the top of the First Division.(n)</desc>
+  </programme>
+  <programme start="20201022003500 +0100" stop="20201022010500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Chelsea v Man United 1998</title>
+    <desc lang="en">Highlights from Stamford Bridge, as Ruud Gullit's FA Cup holders Chelsea entertain Man Utd in a classic 3rd round tie which produced an eight-goal thriller.(n)</desc>
+  </programme>
+  <programme start="20201022010500 +0100" stop="20201022020000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Fulham v Man Utd 1964</title>
+    <desc lang="en">Highlights from an early-season First Division clash in 1964 as Matt Busby takes his Man Utd side - containing Best, Law and Charlton - to Craven Cottage to take on Fulham.(n)</desc>
+  </programme>
+  <programme start="20201022020000 +0100" stop="20201022231500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Leeds Utd</title>
+    <desc lang="en">A real treat for Leeds fans as we look back at some of the highlights of the Yorkshire club in action during the late 60s and 70s as shown on ITV's Sunday lunchtime Programme.(n)</desc>
+  </programme>
+  <programme start="20201022231500 +0100" stop="20201023000500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Ray Robinson v Jake LaMotta</title>
+    <desc lang="en">Two legends of the ring clash as Sugar Ray Robinson squares up against The Raging Bull Jake LaMotta.(n)</desc>
+  </programme>
+  <programme start="20201023000500 +0100" stop="20201023003500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Man Utd v Chelsea 1965</title>
+    <desc lang="en">Highlights from March 1965 as the league leaders Chelsea visit Old Trafford to take on third-placed Man Utd in a crucial battle at the top of the First Division.(n)</desc>
+  </programme>
+  <programme start="20201023003500 +0100" stop="20201023010500 +0100" channel="Eir-Sport-2">
+    <title lang="en">Chelsea v Man United 1998</title>
+    <desc lang="en">Highlights from Stamford Bridge, as Ruud Gullit's FA Cup holders Chelsea entertain Man Utd in a classic 3rd round tie which produced an eight-goal thriller.(n)</desc>
+  </programme>
+  <programme start="20201023010500 +0100" stop="20201023020000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Fulham v Man Utd 1964</title>
+    <desc lang="en">Highlights from an early-season First Division clash in 1964 as Matt Busby takes his Man Utd side - containing Best, Law and Charlton - to Craven Cottage to take on Fulham.(n)</desc>
+  </programme>
+  <programme start="20201023020000 +0100" stop="20201023040000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Leeds Utd</title>
+    <desc lang="en">A real treat for Leeds fans as we look back at some of the highlights of the Yorkshire club in action during the late 60s and 70s as shown on ITV's Sunday lunchtime Programme.(n)</desc>
+  </programme>
+  <programme start="20201023040000 +0100" stop="20201023060000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Ulster v Benetton</title>
+    <desc lang="en">Dan McFarland's Ulster side will be hoping to put the memory of their defeat in last season's final behind them with victory over Benetton in their opening match.(n)</desc>
+  </programme>
+  <programme start="20201023060000 +0100" stop="20201023063000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Thomond Park</title>
+    <desc lang="en">A trip down memory lane as we take a look back at some of the great moments at the home of Munster Rugby.(n)</desc>
+  </programme>
+  <programme start="20201023063000 +0100" stop="20201023070000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Hill 16</title>
+    <desc lang="en">Over 100 years of history, vibrancy and colour of the iconic terrace at Croke Park is explored.(n)</desc>
+  </programme>
+  <programme start="20201023070000 +0100" stop="20201023073000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Carrick On Suir Forest Rally</title>
+    <desc lang="en">All the latest action from rally events around the country.(n)</desc>
+  </programme>
+  <programme start="20201023073000 +0100" stop="20201023080000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Mayo National Rally Tarmac</title>
+    <desc lang="en">All the latest action from rally events around the country.(n)</desc>
+  </programme>
+  <programme start="20201023080000 +0100" stop="20201023083000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Man United v Arsenal 2008</title>
+    <desc lang="en">FA Cup 5th rnd highlights from Old Trafford, as Man Utd entertain the League-leaders Arsenal in a classic Alex Ferguson v Arsene Wenger confrontation.(n)</desc>
+  </programme>
+  <programme start="20201023083000 +0100" stop="20201023090000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Man United v West Ham 2003</title>
+    <desc lang="en">FA Cup 4th rnd highlights from Old Trafford, as West Ham travel north to face a Man Utd side who had booked their place in the League Cup Final earlier that week.(n)</desc>
+  </programme>
+  <programme start="20201023090000 +0100" stop="20201023100000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Wimbledon 1995</title>
+    <desc lang="en">The Official film of Wimbledon 1995 a year that saw Pete Sampras claim his 3rd title in a row, while Steffi Graf beat Arantxa Sanchez Vicario to clinch her 6th win at SW19.(n)</desc>
+  </programme>
+  <programme start="20201023100000 +0100" stop="20201023103000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Roddick v Federer 2009</title>
+    <desc lang="en">The 2009 Men's Singles Final saw Switzerland's five-time champion Roger Federer take on America's Andy Roddick for the third time in a Wimbledon final.(n)</desc>
+  </programme>
+  <programme start="20201023103000 +0100" stop="20201023110000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Evert v Navratilova 1978</title>
+    <desc lang="en">The 1978 Women's Singles Final saw two-time Wimbledon winner Chris Evert take on Martina Navratilova, who was appearing in her first ever final at SW19.(n)</desc>
+  </programme>
+  <programme start="20201023110000 +0100" stop="20201023120000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Chelsea v Liverpool 1966</title>
+    <desc lang="en">Highlights from Christmas Eve 1966 as second-placed Chelsea entertain third-placed Liverpool in a top-of-the-table First Division clash at Stamford Bridge.(n)</desc>
+  </programme>
+  <programme start="20201023120000 +0100" stop="20201023130000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Liverpool v Benfica 1978</title>
+    <desc lang="en">Highlights from March 1978 as Liverpool continue their defence of the European Cup, taking a 2-1 lead into their quarter-final, second leg clash against Benfica at Anfield.(n)</desc>
+  </programme>
+  <programme start="20201023130000 +0100" stop="20201023150000 +0100" channel="Eir-Sport-2">
+    <title lang="en">England v Rep. of Ireland 1990</title>
+    <desc lang="en">Two years after meeting at Euro 88, Jack Charlton's Ireland side take on England in the opening match of the 1990 World Cup Group F at the Stadio Sant'Elia in Cagliari.(n)</desc>
+  </programme>
+  <programme start="20201023150000 +0100" stop="20201023170000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Arsenal v Aston Villa 2015</title>
+    <desc lang="en">The holders Arsenal are back at Wembley - a record-breaking 19th FA Cup Final for the Gunners - against a Villa side who narrowly avoided relegation from the Premier League.(n)</desc>
+  </programme>
+  <programme start="20201023170000 +0100" stop="20201023190000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Arsenal v Chelsea 2017</title>
+    <desc lang="en">An all-London FA Cup Final between Arsenal and Chelsea, with Arsene Wenger aiming to win the trophy for the seventh time for the Gunners against the Double-chasing Blues.(n)</desc>
+  </programme>
+  <programme start="20201023190000 +0100" stop="20201023203000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Laois v Dublin 2012</title>
+    <desc lang="en">We take a trip down memory lane for another Allianz Leagues clash under the lights from 2012.(n)</desc>
+  </programme>
+  <programme start="20201023203000 +0100" stop="20201023220000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Laois v Cork 2012</title>
+    <desc lang="en">We take a trip down memory lane for another Allianz Leagues clash under the lights from 2012.(n)</desc>
+  </programme>
+  <programme start="20201023220000 +0100" stop="20201023233000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Meath v Laois 2009</title>
+    <desc lang="en">We take a trip down memory lane for another Allianz Leagues clash under the lights from 2009.(n)</desc>
+  </programme>
+  <programme start="20201023233000 +0100" stop="20201024010000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Ringside: Ali: Return from Exile</title>
+    <desc lang="en">The return of Muhammad Ali after his controversial ban from boxing. (Part 1).(n)</desc>
+  </programme>
+  <programme start="20201024010000 +0100" stop="20201024020000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Leeds v Man Utd 1965</title>
+    <desc lang="en">Highlights from April 1965 as the top two in the First Division - Don Revie's Leeds Utd and Matt Busby's Man Utd - go head-to-head in front of a packed Old Trafford.(n)</desc>
+  </programme>
+  <programme start="20201024020000 +0100" stop="20201024233000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Chelsea v Manchester Utd 2018</title>
+    <desc lang="en">After last season's defeat to Arsenal, Chelsea are back at Wembley Stadium where they face a Man Utd side looking to equal Arsenal's record of 13 FA Cup triumphs.(n)</desc>
+  </programme>
+  <programme start="20201024233000 +0100" stop="20201025010000 +0100" channel="Eir-Sport-2">
+    <title lang="en">Ringside: Ali: Return from Exile</title>
+    <desc lang="en">The return of Muhammad Ali after his controversial ban from boxing. (Part 1).(n)</desc>
+  </programme>
   <programme start="20201021000000 +0000" stop="20201021010000 +0000" channel="BBC R1">
     <title lang="en">Europe's Biggest Dance Show -...</title>
     <desc lang="en">...Studio Brussel from Belgium. Jeroen Delodder at Studio Brussel picks up the baton as the raving moves to Belgium.(n)</desc>
@@ -22870,7 +23104,7 @@
   </programme>
   <programme start="20201021114500 +0000" stop="20201021120000 +0000" channel="BBC R1">
     <title lang="en">Newsbeat @ 12:45</title>
-    <desc lang="en">The latest news from around the UK and around the world.(n)</desc>
+    <desc lang="en">Footballer Odion Ighalo reacts to protesters being 'shot dead' in his home country, Nigeria... at least 12 people have been killed in Lagos - at a demo against police brutality.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22891,7 +23125,7 @@
   </programme>
   <programme start="20201021164500 +0000" stop="20201021170000 +0000" channel="BBC R1">
     <title lang="en">Newsbeat @ 17:45</title>
-    <desc lang="en">The latest news from around the UK and around the world.(n)</desc>
+    <desc lang="en">Greater Manchester, Liverpool City Region, Lancashire... now South Yorkshire. We're in Doncaster as the area gets ready to face the toughest coronavirus rules.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22919,7 +23153,7 @@
   </programme>
   <programme start="20201021230000 +0000" stop="20201022010000 +0000" channel="BBC R1">
     <title lang="en">Benji B</title>
-    <desc lang="en">Benji explores future beats from around the world.(n)</desc>
+    <desc lang="en">Radio 1 Resident Sherelle describes herself in 3 records.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -23045,7 +23279,7 @@
   </programme>
   <programme start="20201023010000 +0000" stop="20201023020000 +0000" channel="BBC R1">
     <title lang="en">Radio 1's Drum &amp; Bass Mix - DNB60</title>
-    <desc lang="en">DNB60 'Originators' Series.(n)</desc>
+    <desc lang="en">DJ Flight takes over in the 'Originators' DNB60 Series.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -23346,7 +23580,7 @@
   </programme>
   <programme start="20201021130000 +0000" stop="20201021160500 +0000" channel="BBC R2">
     <title lang="en">Gary Davies</title>
-    <desc lang="en">Gary Davies sits in for Steve Wright.(n)</desc>
+    <desc lang="en">Gary Davies chats to Georgia Toffolo about her debut novel Meet Me in London.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -23528,7 +23762,7 @@
   </programme>
   <programme start="20201023190000 +0000" stop="20201023210000 +0000" channel="BBC R2">
     <title lang="en">Sounds of the 80s with Gary Davies</title>
-    <desc lang="en">Featuring a Sade Mastermix - plus Gary's Bit In The Middle, My 80s and The Sloppy Bit.(n)</desc>
+    <desc lang="en">Featuring a Sade Mastermix - plus Fern Britton guests on My 80s.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -24116,7 +24350,7 @@
   </programme>
   <programme start="20201021111800 +0000" stop="20201021115700 +0000" channel="BBC R4 FM">
     <title lang="en">You and Yours</title>
-    <desc lang="en">News and discussion of consumer affairs.(n)</desc>
+    <desc lang="en">We're talking about 'bad' working from home habits. Wearing pyjamas and slippers to that big meeting? Tell us what you've been getting up to 9 to 5.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -27104,8 +27338,8 @@
     </rating>
   </programme>
   <programme start="20201021123000 +0000" stop="20201021150000 +0000" channel="BBC R Scot.">
-    <title lang="en">The Afternoon Show with Grant Stott</title>
-    <desc lang="en">Grant Stott tunes into the best of Scottish arts, entertainment and music.(n)</desc>
+    <title lang="en">The Afternoon Show with Natasha Raskin Sharp</title>
+    <desc lang="en">Presenter Angela Scanlon chats about new TV series The Noughties, author Jasper Rees on entertainer Victoria Wood, activist and comedian Mark Thomas on moving in with his mum.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -29271,7 +29505,7 @@
   </programme>
   <programme start="20201024220000 +0000" stop="20201024223000 +0000" channel="BBC R4 Ex">
     <title lang="en">State of the Nations</title>
-    <desc lang="en">1/5. Elis James hosts comedy in the four UK nations. First stop is Carmarthen, discussing Wales and Welshness with guests. From 2016.(n)</desc>
+    <desc lang="en">1/4. Elis James hosts comedy in the four UK nations. First stop is Carmarthen, discussing Wales and Welshness with guests. From 2016.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -29306,7 +29540,7 @@
   </programme>
   <programme start="20201021050000 +0000" stop="20201021090000 +0000" channel="BBC R1X">
     <title lang="en">The 1Xtra Breakfast Show with Nadia Jae</title>
-    <desc lang="en">Nadia shines a light on Akala for Black History Month.(n)</desc>
+    <desc lang="en">Nadia mixes up Pharrell's biggest hits. Contains very strong language.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -29320,7 +29554,7 @@
   </programme>
   <programme start="20201021114500 +0000" stop="20201021120000 +0000" channel="BBC R1X">
     <title lang="en">Newsbeat @ 12:45</title>
-    <desc lang="en">The latest news from around the UK and around the world.(n)</desc>
+    <desc lang="en">Footballer Odion Ighalo reacts to protesters being 'shot dead' in his home country, Nigeria... at least 12 people have been killed in Lagos - at a demo against police brutality.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -29341,7 +29575,7 @@
   </programme>
   <programme start="20201021164500 +0000" stop="20201021170000 +0000" channel="BBC R1X">
     <title lang="en">Newsbeat @ 17:45</title>
-    <desc lang="en">The latest news from around the UK and around the world.(n)</desc>
+    <desc lang="en">Greater Manchester, Liverpool City Region, Lancashire... now South Yorkshire. We're in Doncaster as the area gets ready to face the toughest coronavirus rules.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -29369,14 +29603,14 @@
   </programme>
   <programme start="20201021220000 +0000" stop="20201022000000 +0000" channel="BBC R1X">
     <title lang="en">Snoochie Shy</title>
-    <desc lang="en">Late night music and chat with Snoochie on 1Xtra. Contains strong language and scenes of a sexual nature.(n)</desc>
+    <desc lang="en">Digga D is on the Zoom! Contains strong language and scenes of a sexual nature.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
   </programme>
   <programme start="20201022000000 +0000" stop="20201022020000 +0000" channel="BBC R1X">
     <title lang="en">Benji B</title>
-    <desc lang="en">Benji explores future beats from around the world.(n)</desc>
+    <desc lang="en">Radio 1 Resident Sherelle describes herself in 3 records.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
