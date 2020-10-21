@@ -136,9 +136,29 @@
     <icon src="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/Eir-Sport-2.png" />
     <url>http://www.eirsport.ie</url>
   </channel>
-  <channel id="AD Sport 1">
-    <display-name lang="en">AD Sport 1</display-name>
-    <url>http://www.invision.com.sa</url>
+  <channel id="SuperSport 1">
+    <display-name lang="sq">SuperSport 1</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 2">
+    <display-name lang="sq">SuperSport 2</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 3">
+    <display-name lang="sq">SuperSport 3</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 4">
+    <display-name lang="sq">SuperSport 4</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 5">
+    <display-name lang="sq">SuperSport 5</display-name>
+    <url>http://www.albepg.com</url>
+  </channel>
+  <channel id="SuperSport 6">
+    <display-name lang="sq">SuperSport 6</display-name>
+    <url>http://www.albepg.com</url>
   </channel>
   <channel id="BBC R1">
     <display-name lang="en">BBC R1</display-name>
@@ -14504,6 +14524,7 @@
     <date>2019</date>
     <category lang="nl">Serie</category>
     <category lang="nl">Soap</category>
+    <icon src="https://tvgidsassets.nl/v155/upload/e/EastEnders_1548147115.jpg" />
     <country lang="nl">GB</country>
     <episode-num system="onscreen">S1 E6130</episode-num>
   </programme>
@@ -14513,7 +14534,6 @@
     <date>2017</date>
     <category lang="nl">Amusement</category>
     <category lang="nl">Quiz</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/i/Impossible_1583731520.jpg" />
     <country lang="nl">GB</country>
     <episode-num system="onscreen">S3 E8/30</episode-num>
   </programme>
@@ -18011,21 +18031,6 @@
     <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
     <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
   </programme>
-  <programme start="20201021173000 +0200" stop="20201021183000 +0200" channel="FOX Sports 2">
-    <title lang="nl">NFL Highlights</title>
-    <desc lang="nl">In NFL Highlights komen wekelijks alle hoogtepunten uit de laatste speelronde in de NFL voorbij. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201021183000 +0200" stop="20201021190000 +0200" channel="FOX Sports 2">
-    <title lang="nl">Ajax TV</title>
-    <desc lang="nl">In Ajax TV zie je twee keer per week het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
   <programme start="20201021190000 +0200" stop="20201021200000 +0200" channel="FOX Sports 2">
     <title lang="nl">DOC</title>
     <sub-title lang="nl">Doorbraak in de mist</sub-title>
@@ -19063,14 +19068,6 @@
     <date>2020</date>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E26/200</episode-num>
-  </programme>
-  <programme start="20201021180000 +0200" stop="20201021190000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">DOC</title>
-    <sub-title lang="nl">Doorbraak in de mist</sub-title>
-    <desc lang="nl">Ruim vijftig jaar geleden, op 7 december 1966, beleefde Ajax zijn Europese doorbraak. Anderhalf jaar nadat de club bijna degradeerde versloeg het Ajax van Rinus Michels in dichte mist de Engelse kampioen Liverpool met 5-1. Het was het startsein van de opmars van Ajax in Europa, die eindigde in 1973 toen de club driemaal op rij de Europa Cup 1 had gewonnen. == Website van het Jaar ==. Wij zijn genomineerd voor Website van het Jaar 2020! Help jij ons om deze prijs te winnen? Klik hier om te stemmen: gids.tv/stemmen.(n)</desc>
-    <date>2020</date>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E6/75</episode-num>
   </programme>
   <programme start="20201021190000 +0200" stop="20201021193000 +0200" channel="FOX Sports 3 Eredivisie">
     <title lang="nl">PSV TV</title>
@@ -20879,6 +20876,302 @@
     <title lang="en">Ringside: Ali: Return from Exile</title>
     <desc lang="en">The return of Muhammad Ali after his controversial ban from boxing. (Part 1).(n)</desc>
   </programme>
+  <programme start="20201021060000 +0000" stop="20201021130000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport News Lajme</title>
+    <desc lang="sq">Lajmet më të fundit nga vendi dhe bota, të ftuar, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.(n)</desc>
+  </programme>
+  <programme start="20201021130000 +0000" stop="20201021140000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport Time</title>
+    <desc lang="sq">Sport Time, emision i moderuar nga Lei Kraja qe me te ftuarit e saj te shumte analizon gjithcka jo vetem ne futbollin shqiptar por edhe ne kampionatet me te rendesishem qe transmetohen ne ekranin e Digitalb.(n)</desc>
+  </programme>
+  <programme start="20201021140000 +0000" stop="20201021170000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport News Lajme</title>
+    <desc lang="sq">Lajmet më të fundit nga vendi dhe bota, të ftuar, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.(n)</desc>
+  </programme>
+  <programme start="20201021170000 +0000" stop="20201021180000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport Time</title>
+    <desc lang="sq">Sport Time, emision i moderuar nga Lei Kraja qe me te ftuarit e saj te shumte analizon gjithcka jo vetem ne futbollin shqiptar por edhe ne kampionatet me te rendesishem qe transmetohen ne ekranin e Digitalb.(n)</desc>
+  </programme>
+  <programme start="20201021180000 +0000" stop="20201022060000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport News Lajme</title>
+    <desc lang="sq">Lajmet më të fundit nga vendi dhe bota, të ftuar, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.(n)</desc>
+  </programme>
+  <programme start="20201022060000 +0000" stop="20201022130000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport News Lajme</title>
+    <desc lang="sq">Lajmet më të fundit nga vendi dhe bota, të ftuar, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.(n)</desc>
+  </programme>
+  <programme start="20201022130000 +0000" stop="20201022140000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport Time</title>
+    <desc lang="sq">Sport Time, emision i moderuar nga Lei Kraja qe me te ftuarit e saj te shumte analizon gjithcka jo vetem ne futbollin shqiptar por edhe ne kampionatet me te rendesishem qe transmetohen ne ekranin e Digitalb.(n)</desc>
+  </programme>
+  <programme start="20201022140000 +0000" stop="20201022170000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport News Lajme</title>
+    <desc lang="sq">Lajmet më të fundit nga vendi dhe bota, të ftuar, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.(n)</desc>
+  </programme>
+  <programme start="20201022170000 +0000" stop="20201022180000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport Time</title>
+    <desc lang="sq">Sport Time, emision i moderuar nga Lei Kraja qe me te ftuarit e saj te shumte analizon gjithcka jo vetem ne futbollin shqiptar por edhe ne kampionatet me te rendesishem qe transmetohen ne ekranin e Digitalb.(n)</desc>
+  </programme>
+  <programme start="20201022180000 +0000" stop="20201023060000 +0000" channel="SuperSport 1">
+    <title lang="sq">Sport News Lajme</title>
+    <desc lang="sq">Lajmet më të fundit nga vendi dhe bota, të ftuar, analiza dhe komente, lidhje direkte për pasqyrimin e ngjarjeve më të rëndesishme sportive te ditës.(n)</desc>
+  </programme>
+  <programme start="20201021000000 +0000" stop="20201021020000 +0000" channel="SuperSport 2">
+    <title lang="sq">Granada Sevilla</title>
+    <desc lang="sq">Primera Division, sezoni 2020-2021, ndeshje e vlefshme per javen e 6-te nga stadiumi "Nuevo Los Carmenes". Komenti: Glenti Nallbani.(n)</desc>
+  </programme>
+  <programme start="20201021020000 +0000" stop="20201021040000 +0000" channel="SuperSport 2">
+    <title lang="sq">Crotone Juventus</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Ezio Scida" ne Krotone. Komenti: Sokol Xhihani.(n)</desc>
+  </programme>
+  <programme start="20201021040000 +0000" stop="20201021060000 +0000" channel="SuperSport 2">
+    <title lang="sq">Ajax Heerenveen</title>
+    <desc lang="sq">Eredivisie, sezoni 2020-2021, ndeshje e vlefshme per javen e 5-te nga stadiumi "Johan Cruijff Arena" ne Amsterdam. Komenti: Elvis Rexha.(n)</desc>
+  </programme>
+  <programme start="20201021060000 +0000" stop="20201021080000 +0000" channel="SuperSport 2">
+    <title lang="sq">Feyenoord Sparta</title>
+    <desc lang="sq">Eredivisie, sezoni 2020-2021, ndeshje e vlefshme per javen e 5-te nga stadiumi "Feijenoord" ne Roterdam. Komenti: Elvi Luzi.(n)</desc>
+  </programme>
+  <programme start="20201021080000 +0000" stop="20201021100000 +0000" channel="SuperSport 2">
+    <title lang="sq">Real Madrid Cadiz</title>
+    <desc lang="sq">Primera Division, sezoni 2020-2021, ndeshje e vlefshme per javen e 6-te nga stadiumi "Alfredo Di Stefano" ne Madrid. Komenti: Glendi Tafaj.(n)</desc>
+  </programme>
+  <programme start="20201021100000 +0000" stop="20201021110000 +0000" channel="SuperSport 2">
+    <title lang="sq">Highlights La Liga</title>
+    <desc lang="sq">Permbledhje e golave dhe e momenteve me te mira te javes se 5-te ne kampionatin spanjoll per sezoni 2020-2021.(n)</desc>
+  </programme>
+  <programme start="20201021110000 +0000" stop="20201021130000 +0000" channel="SuperSport 2">
+    <title lang="sq">Roma Benevento</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "olimpico" ne Rome. Komenti: Alban Xhihani.(n)</desc>
+  </programme>
+  <programme start="20201021130000 +0000" stop="20201021150000 +0000" channel="SuperSport 2">
+    <title lang="sq">Inter Milan</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Giuseppe Meazza" ne Milano. Komenti: Dritan Shakohoxha.(n)</desc>
+  </programme>
+  <programme start="20201021150000 +0000" stop="20201021160000 +0000" channel="SuperSport 2">
+    <title lang="sq">Highlights Serie A</title>
+    <desc lang="sq">Permbledhje e te gjitha ndeshjeve te javes se 4-t ne sezonin 2020/2021 ne Serine A italiane.(n)</desc>
+  </programme>
+  <programme start="20201021160000 +0000" stop="20201021180000 +0000" channel="SuperSport 2">
+    <title lang="sq">Napoli Atalanta</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "San Paolo" ne Napoli. Komenti: Elvis Rexha.(n)</desc>
+  </programme>
+  <programme start="20201021180000 +0000" stop="20201021200000 +0000" channel="SuperSport 2">
+    <title lang="sq">Man City Arsenal</title>
+    <desc lang="sq">Premier League, sezoni 2020-2021, ndeshje e vlefshme per javen e 5-te nga stadiumi "Etihad Stadium" ne Manchester. Komenti: Ermal Toti.(n)</desc>
+  </programme>
+  <programme start="20201021200000 +0000" stop="20201021220000 +0000" channel="SuperSport 2">
+    <title lang="sq">Getafe Barcelona</title>
+    <desc lang="sq">Primera Division, sezoni 2020-2021, ndeshje e vlefshme per javen e 6-te nga stadiumi "Coliseum Alfonso Perez". Komenti: Glenti Nallbani.(n)</desc>
+  </programme>
+  <programme start="20201021220000 +0000" stop="20201022000000 +0000" channel="SuperSport 2">
+    <title lang="sq">Torino Cagliari</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Grande Torino". Komenti: Sokol Xhihani.(n)</desc>
+  </programme>
+  <programme start="20201022000000 +0000" stop="20201022020000 +0000" channel="SuperSport 2">
+    <title lang="sq">Itali Holande</title>
+    <desc lang="sq">Nations League 2020. Sfide e vlefshme per Ligen A. Nga stadiumi "Gewiss Stadium" ne Bergamo. Komenti: Glenti Nallbani.(n)</desc>
+  </programme>
+  <programme start="20201022020000 +0000" stop="20201022040000 +0000" channel="SuperSport 2">
+    <title lang="sq">Sampdoria Lazio</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Luigi Ferraris" ne Genoa. Komenti: Blendi Resnja.(n)</desc>
+  </programme>
+  <programme start="20201022040000 +0000" stop="20201022060000 +0000" channel="SuperSport 2">
+    <title lang="sq">Bologna Sassuolo</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Renato Dall Ara" ne Bologna. Komenti: Blendi Resnja.(n)</desc>
+  </programme>
+  <programme start="20201022060000 +0000" stop="20201022080000 +0000" channel="SuperSport 2">
+    <title lang="sq">Inter Leverkusen</title>
+    <desc lang="sq">Europa League, sezoni 2019-2020, ndeshje e vlefshme per cerekfinalet e turneut, nga stadiumi Merkur Spiel-Arena" ne Dþsseldorf. Komenti: Dritan Shakohoxha.(n)</desc>
+  </programme>
+  <programme start="20201022080000 +0000" stop="20201022100000 +0000" channel="SuperSport 2">
+    <title lang="sq">Sevilla Man Utd</title>
+    <desc lang="sq">Europa League, sezoni 2019-2020, ndeshje e vlefshme per gjysmefinalet e turneut, nga stadiumi "Rhein Energie Stadion" ne Kĳln. Komenti: Ylli Aga.(n)</desc>
+  </programme>
+  <programme start="20201022100000 +0000" stop="20201022120000 +0000" channel="SuperSport 2">
+    <title lang="sq">Inter Shakhtar Donetsk</title>
+    <desc lang="sq">Europa League, sezoni 2019-2020, ndeshje e vlefshme per fazen gjysmefinale te turneut. Nga stadiumi "Spiel-Arena" i Dyseldorf. Komenti: Alban Xhihani.(n)</desc>
+  </programme>
+  <programme start="20201022120000 +0000" stop="20201022140000 +0000" channel="SuperSport 2">
+    <title lang="sq">Inter Milan</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Giuseppe Meazza" ne Milano. Komenti: Dritan Shakohoxha.(n)</desc>
+  </programme>
+  <programme start="20201022140000 +0000" stop="20201022160000 +0000" channel="SuperSport 2">
+    <title lang="sq">Sevilla Inter</title>
+    <desc lang="sq">Europa League, sezoni 2019-2020, ndeshja finale qe percakton fituesin e ketij edicioni nga stadiumi "Rhein Energy Stadion" i Koln. Komenti, Dritan Shakohoxha.(n)</desc>
+  </programme>
+  <programme start="20201022160000 +0000" stop="20201022165500 +0000" channel="SuperSport 2">
+    <title lang="sq">Europa League</title>
+    <desc lang="sq">Emision dedikuar ndeshjeve te Europa League. Nen drejtimin e Egi Duros dhe te ftuar specialiste e gazetare sjellin gjithshka per kete sfidat e ketij kompeticioni.(n)</desc>
+  </programme>
+  <programme start="20201022165500 +0000" stop="20201022185500 +0000" channel="SuperSport 2">
+    <title lang="sq">Young Boys Roma Live</title>
+    <desc lang="sq">Europa League, sezoni 2020-2021, ndeshje e vlefshme per grupin A nga stadiumi "Wankdorf" ne Berne. Komenti: Alban Xhihani.(n)</desc>
+  </programme>
+  <programme start="20201022185500 +0000" stop="20201022205500 +0000" channel="SuperSport 2">
+    <title lang="sq">Celtic Milan Live</title>
+    <desc lang="sq">Europa League, sezoni 2020-2021, ndeshje e vlefshme per grupin H nga stadiumi "Celtic Park" ne Gllasgou. Komenti: Dritan Shakohoxha.(n)</desc>
+  </programme>
+  <programme start="20201022205500 +0000" stop="20201022220000 +0000" channel="SuperSport 2">
+    <title lang="sq">Europa League</title>
+    <desc lang="sq">Emision dedikuar ndeshjeve te Europa League. Nen drejtimin e Egi Duro, te ftuar specialiste e gazetare sjellin gjithshka per sfidat e ketij kompeticioni.(n)</desc>
+  </programme>
+  <programme start="20201021000000 +0000" stop="20201021020000 +0000" channel="SuperSport 3">
+    <title lang="sq">Torino Cagliari</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Grande Torino". Komenti: Sokol Xhihani.(n)</desc>
+  </programme>
+  <programme start="20201021020000 +0000" stop="20201021040000 +0000" channel="SuperSport 3">
+    <title lang="sq">Lille Lens</title>
+    <desc lang="sq">Ligue 1, sezoni 2020-2021, ndeshje e vlefshme per javen e 7-te nga stadiumi "Pierre-Mauroy". Komenti: Ermal Toti.(n)</desc>
+  </programme>
+  <programme start="20201021040000 +0000" stop="20201021060000 +0000" channel="SuperSport 3">
+    <title lang="sq">Spezia Fiorentina</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Dino Manuzzi" ne Cesena. Komenti: Glenti Nallbani.(n)</desc>
+  </programme>
+  <programme start="20201021060000 +0000" stop="20201021080000 +0000" channel="SuperSport 3">
+    <title lang="sq">Sumqayit Shkendija</title>
+    <desc lang="sq">Europa League 2020-2021, raundi i pare kualifikues. Shkendija e Tetoves nis aventuren europiane me nje transferte te nderlikuar ne Azerbajxhanin e larget. Komenti: Glendi Tafaj.(n)</desc>
+  </programme>
+  <programme start="20201021080000 +0000" stop="20201021110000 +0000" channel="SuperSport 3">
+    <title lang="sq">Kesle Laci</title>
+    <desc lang="sq">Europa League 2020-2021, raundi i pare kualifikues. Ne Azerbajxhan rikthehet dueli qe ne vitin 2015 pa Lacin te eliminohej pa humbur asnje nga dy perballjet me rivalin azer. Komenti:Ylli Aga.(n)</desc>
+  </programme>
+  <programme start="20201021110000 +0000" stop="20201021130000 +0000" channel="SuperSport 3">
+    <title lang="sq">Zwolle Psv</title>
+    <desc lang="sq">Eredivisie, sezoni 2020-2021, ndeshje e vlefshme per javen e 5-te nga stadiumi "Mac Park Stadion" ne Zwolle. Komenti: Andi Decka.(n)</desc>
+  </programme>
+  <programme start="20201021130000 +0000" stop="20201021140000 +0000" channel="SuperSport 3">
+    <title lang="sq">Highlights Eredivisie</title>
+    <desc lang="sq">Permbledhja e golave dhe e momenteve me te mira te ndeshjeve ne javen e 5-te te kampionatit holandez, sezoni 2020-2021.(n)</desc>
+  </programme>
+  <programme start="20201021140000 +0000" stop="20201021160000 +0000" channel="SuperSport 3">
+    <title lang="sq">Celta Atl Madrid</title>
+    <desc lang="sq">Primera Division, sezoni 2020-2021, ndeshje e vlefshme per javen e 6-te nga stadiumi "Abanca Balaidos" ne Vigo. Komenti: Andi Decka.(n)</desc>
+  </programme>
+  <programme start="20201021160000 +0000" stop="20201021180000 +0000" channel="SuperSport 3">
+    <title lang="sq">Lille Lens</title>
+    <desc lang="sq">Ligue 1, sezoni 2020-2021, ndeshje e vlefshme per javen e 7-te nga stadiumi "Pierre-Mauroy". Komenti: Ermal Toti.(n)</desc>
+  </programme>
+  <programme start="20201021180000 +0000" stop="20201021200000 +0000" channel="SuperSport 3">
+    <title lang="sq">Shkendija Tottenham</title>
+    <desc lang="sq">Europa League, sezoni 2020-2021, ndeshje e vlefshme per raundin e trete te kompeticionit nga stadiumi "Philip II" ne Shkup. Komenti: Alban Xhihani, Luan Pinari.(n)</desc>
+  </programme>
+  <programme start="20201021200000 +0000" stop="20201021220000 +0000" channel="SuperSport 3">
+    <title lang="sq">Crotone Juventus</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Ezio Scida" ne Krotone. Komenti: Sokol Xhihani.(n)</desc>
+  </programme>
+  <programme start="20201021220000 +0000" stop="20201022000000 +0000" channel="SuperSport 3">
+    <title lang="sq">Betis Sociedad</title>
+    <desc lang="sq">Primera Division, sezoni 2020-2021, ndeshje e vlefshme per javen e 6-te nga stadiumi "Benito Villamarin". Komenti: Elvis Rexha.(n)</desc>
+  </programme>
+  <programme start="20201022000000 +0000" stop="20201022020000 +0000" channel="SuperSport 3">
+    <title lang="sq">Spezia Fiorentina</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "Dino Manuzzi" ne Cesena. Komenti: Glenti Nallbani.(n)</desc>
+  </programme>
+  <programme start="20201022020000 +0000" stop="20201022040000 +0000" channel="SuperSport 3">
+    <title lang="sq">Getafe Barcelona</title>
+    <desc lang="sq">Primera Division, sezoni 2020-2021, ndeshje e vlefshme per javen e 6-te nga stadiumi "Coliseum Alfonso Perez". Komenti: Glenti Nallbani.(n)</desc>
+  </programme>
+  <programme start="20201022040000 +0000" stop="20201022060000 +0000" channel="SuperSport 3">
+    <title lang="sq">Granada Sevilla</title>
+    <desc lang="sq">Primera Division, sezoni 2020-2021, ndeshje e vlefshme per javen e 6-te nga stadiumi "Nuevo Los Carmenes". Komenti: Glenti Nallbani.(n)</desc>
+  </programme>
+  <programme start="20201022060000 +0000" stop="20201022080000 +0000" channel="SuperSport 3">
+    <title lang="sq">Roma Benevento</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "olimpico" ne Rome. Komenti: Alban Xhihani.(n)</desc>
+  </programme>
+  <programme start="20201022080000 +0000" stop="20201022100000 +0000" channel="SuperSport 3">
+    <title lang="sq">Man City Arsenal</title>
+    <desc lang="sq">Premier League, sezoni 2020-2021, ndeshje e vlefshme per javen e 5-te nga stadiumi "Etihad Stadium" ne Manchester. Komenti: Ermal Toti.(n)</desc>
+  </programme>
+  <programme start="20201022100000 +0000" stop="20201022120000 +0000" channel="SuperSport 3">
+    <title lang="sq">Feyenoord Sparta</title>
+    <desc lang="sq">Eredivisie, sezoni 2020-2021, ndeshje e vlefshme per javen e 5-te nga stadiumi "Feijenoord" ne Roterdam. Komenti: Elvi Luzi.(n)</desc>
+  </programme>
+  <programme start="20201022120000 +0000" stop="20201022140000 +0000" channel="SuperSport 3">
+    <title lang="sq">Tottenham West Ham</title>
+    <desc lang="sq">Premier League, sezoni 2020-2021, ndeshje e vlefshme per javen e 5-te nga stadiumi "Tottenham Hotspur" ne Londer. Komenti: Ylli Aga.(n)</desc>
+  </programme>
+  <programme start="20201022140000 +0000" stop="20201022160000 +0000" channel="SuperSport 3">
+    <title lang="sq">Napoli Atalanta</title>
+    <desc lang="sq">Seria A, sezoni 2020-2021, ndeshje e vlefshme per javen e 4-t nga stadiumi "San Paolo" ne Napoli. Komenti: Elvis Rexha.(n)</desc>
+  </programme>
+  <programme start="20201022160000 +0000" stop="20201022165500 +0000" channel="SuperSport 3">
+    <title lang="sq">Highlights Serie A</title>
+    <desc lang="sq">Permbledhje e golave dhe e momenteve me te mira te javes se 4-t ne serine A, sezoni 2020-2021.(n)</desc>
+  </programme>
+  <programme start="20201022165500 +0000" stop="20201022185500 +0000" channel="SuperSport 3">
+    <title lang="sq">Napoli Az Alkmaar Live</title>
+    <desc lang="sq">Europa League, sezoni 2020-2021, ndeshje e vlefshme per grupin F nga stadiumi "San Paolo" ne Napoli. Komenti: Elvis Rexha.(n)</desc>
+  </programme>
+  <programme start="20201022185500 +0000" stop="20201022205500 +0000" channel="SuperSport 3">
+    <title lang="sq">Tottenham Lask Live</title>
+    <desc lang="sq">Europa League, sezoni 2020-2021, ndeshje e vlefshme per grupin J nga stadiumi "Tottenham Hotspur" ne Londer. Komenti: Ylli Aga.(n)</desc>
+  </programme>
+  <programme start="20201022205500 +0000" stop="20201023000000 +0000" channel="SuperSport 3">
+    <title lang="sq">Ortega Jung</title>
+    <desc lang="sq">UFC- Sfida ne ringun e Abu Dhabi vendos perballe amerikano-meksikanin Brian Ortega dhe koreano-jugorin Chan Sung Jung. Ketij dueli do ti vazhdojne ti mungojne spektatoret per arsye te pandemise.(n)</desc>
+  </programme>
+  <programme start="20201021060000 +0000" stop="20201021180000 +0000" channel="SuperSport 4">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201021180000 +0000" stop="20201022060000 +0000" channel="SuperSport 4">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201022060000 +0000" stop="20201022165500 +0000" channel="SuperSport 4">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201022165500 +0000" stop="20201022185500 +0000" channel="SuperSport 4">
+    <title lang="sq">Rapid W Arsenal Live</title>
+    <desc lang="sq">Europa League, sezoni 2020-2021, ndeshje e vlefshme per grupin B nga stadiumi "Allianz Stadion" ne Vjene. Komenti: Glenti Nallbani.(n)</desc>
+  </programme>
+  <programme start="20201022185500 +0000" stop="20201022210000 +0000" channel="SuperSport 4">
+    <title lang="sq">Dinamo Z Feyenoord Live</title>
+    <desc lang="sq">Europa League, sezoni 2020-2021, ndeshje e vlefshme per grupin K nga stadiumi "Maksimir" i Zagrebit. Komenti: Glenti Tafaj.(n)</desc>
+  </programme>
+  <programme start="20201022210000 +0000" stop="20201023060000 +0000" channel="SuperSport 4">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201021060000 +0000" stop="20201021180000 +0000" channel="SuperSport 5">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201021180000 +0000" stop="20201022060000 +0000" channel="SuperSport 5">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201022060000 +0000" stop="20201022165500 +0000" channel="SuperSport 5">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201022165500 +0000" stop="20201022210000 +0000" channel="SuperSport 5">
+    <title lang="sq">Europa League Golat Direkt</title>
+    <desc lang="sq">Europa League 2020-2021, lidhje direkte me cdo sfide te mbremjes, gola, raste, kartona, episode dhe gjithcka tjeter qe ofron ky kompeticion.(n)</desc>
+  </programme>
+  <programme start="20201022210000 +0000" stop="20201023060000 +0000" channel="SuperSport 5">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201021060000 +0000" stop="20201021180000 +0000" channel="SuperSport 6">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201021180000 +0000" stop="20201022060000 +0000" channel="SuperSport 6">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201022060000 +0000" stop="20201022180000 +0000" channel="SuperSport 6">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
+  <programme start="20201022180000 +0000" stop="20201023060000 +0000" channel="SuperSport 6">
+    <title lang="sq">Info</title>
+    <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
+  </programme>
   <programme start="20201021000000 +0000" stop="20201021010000 +0000" channel="BBC R1">
     <title lang="en">Europe's Biggest Dance Show -...</title>
     <desc lang="en">...Studio Brussel from Belgium. Jeroen Delodder at Studio Brussel picks up the baton as the raving moves to Belgium.(n)</desc>
@@ -21896,7 +22189,7 @@
   </programme>
   <programme start="20201022223000 +0000" stop="20201022233000 +0000" channel="BBC R3">
     <title lang="en">Unclassified</title>
-    <desc lang="en">Elizabeth Alker with music that defies classification, including the latest releases and exclusive previews.(n)</desc>
+    <desc lang="en">Elizabeth Alker with music that defies classification, including an exclusive first play of new music by Daniel O'Sullivan.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22274,7 +22567,7 @@
   </programme>
   <programme start="20201021181500 +0000" stop="20201021184500 +0000" channel="BBC R4 FM">
     <title lang="en">Front Row</title>
-    <desc lang="en">What hope for choral singing as Derry International Choir Festival goes online and Rock choir continues virtually; Ozon's Summer of '85 reviewed; Marina Warner on Ted Hughes's Crow.(n)</desc>
+    <desc lang="en">Violinist Tasmin Little retires from the stage; Hope for choral singing as Derry International Choir Festival goes online and Rock choir continues virtually; Summer of '85 reviewed.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22400,7 +22693,7 @@
   </programme>
   <programme start="20201022044500 +0000" stop="20201022045800 +0000" channel="BBC R4 FM">
     <title lang="en">Farming Today</title>
-    <desc lang="en">The latest news about food, farming and the countryside.(n)</desc>
+    <desc lang="en">Anaerobic digesters can be used to get rid of food or farm waste, but many are also fed with maize grown specially for the purpose. So how green is the 'green energy' they produce.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22435,7 +22728,7 @@
   </programme>
   <programme start="20201022090000 +0000" stop="20201022094500 +0000" channel="BBC R4 FM">
     <title lang="en">Woman's Hour</title>
-    <desc lang="en">The programme that offers a female perspective on the world.(n)</desc>
+    <desc lang="en">Sister Bliss DJ, songwriter. Starting a business during lockdown. And why is the number of women dying from cocaine use increasing so rapidly.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22547,7 +22840,7 @@
   </programme>
   <programme start="20201022153000 +0000" stop="20201022160000 +0000" channel="BBC R4 FM">
     <title lang="en">BBC Inside Science</title>
-    <desc lang="en">Getting reinfected with SARs-COV-2, author Susannah Cahalan discusses David Rosenhan's famous 1973 psychiatric 'pseudo-patient' experiment and how COVID affects your sense of smell.(n)</desc>
+    <desc lang="en">Getting reinfected with SARS-CoV-2, author Susannah Cahalan discusses David Rosenhan's famous 1973 psychiatric 'pseudo-patient' experiment and how COVID affects your sense of smell.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -22610,7 +22903,7 @@
   </programme>
   <programme start="20201022200000 +0000" stop="20201022203000 +0000" channel="BBC R4 FM">
     <title lang="en">BBC Inside Science</title>
-    <desc lang="en">Getting reinfected with SARs-COV-2, author Susannah Cahalan discusses David Rosenhan's famous 1973 psychiatric 'pseudo-patient' experiment and how COVID affects your sense of smell.(n)</desc>
+    <desc lang="en">Getting reinfected with SARS-CoV-2, author Susannah Cahalan discusses David Rosenhan's famous 1973 psychiatric 'pseudo-patient' experiment and how COVID affects your sense of smell.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -25165,7 +25458,7 @@
   </programme>
   <programme start="20201021123000 +0000" stop="20201021150000 +0000" channel="BBC R Scot.">
     <title lang="en">The Afternoon Show with Natasha Raskin Sharp</title>
-    <desc lang="en">Presenter Angela Scanlon chats about new TV series The Noughties, author Jasper Rees on entertainer Victoria Wood, activist and comedian Mark Thomas on moving in with his mum.(n)</desc>
+    <desc lang="en">Angela Scanlon chats about new TV series The Noughties, author Jasper Rees on Victoria Wood, Mark Thomas on moving in with his mum. Presented by Natasha Raskin Sharp.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -25235,7 +25528,7 @@
   </programme>
   <programme start="20201022123000 +0000" stop="20201022150000 +0000" channel="BBC R Scot.">
     <title lang="en">The Afternoon Show with Natasha Raskin Sharp</title>
-    <desc lang="en">American Singer Songwriter Loudon Wainwright III who has unveiled his new album, I'd Rather Lead A Band.(n)</desc>
+    <desc lang="en">American Singer Songwriter Loudon Wainwright III who has unveiled his new album, I'd Rather Lead A Band. Presented by Natasha Raskin Sharp.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -27324,7 +27617,7 @@
   </programme>
   <programme start="20201024213000 +0000" stop="20201024220000 +0000" channel="BBC R4 Ex">
     <title lang="en">The Lawrence Sweeney Mix</title>
-    <desc lang="en">1/4. Invention as it happens. Josie Lawrence and Jim Sweeney's improvised sketches driven by the audience. From January 2008.(n)</desc>
+    <desc lang="en">Invention as it happens. Josie Lawrence and Jim Sweeney's improvised sketches driven by the audience. From January 2008.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -27576,7 +27869,7 @@
   </programme>
   <programme start="20201023150000 +0000" stop="20201023164500 +0000" channel="BBC R1X">
     <title lang="en">Sian Anderson</title>
-    <desc lang="en">1Xtra's biggest hits and the best new music.(n)</desc>
+    <desc lang="en">1Xtra's biggest hits and the best new music. Plus all the usual, Emotional Wheel Off and another round of the word count game.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -27590,7 +27883,7 @@
   </programme>
   <programme start="20201023170000 +0000" stop="20201023180000 +0000" channel="BBC R1X">
     <title lang="en">Sian Anderson</title>
-    <desc lang="en">1Xtra's biggest hits and the best new music.(n)</desc>
+    <desc lang="en">1Xtra's biggest hits and the best new music, plus Sian in the mix to get your Friday evening started.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
