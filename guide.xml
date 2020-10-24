@@ -337,27 +337,27 @@
   </channel>
   <channel id="Sport Klub 1">
     <display-name lang="hr">Sport Klub 1</display-name>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20170125/000200/XTV100002626/0b31b0fc-d2c7-47d3-b403-5b5184e369fb.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20170125/000200/XTV100002626/0b31b0fc-d2c7-47d3-b403-5b5184e369fb.png" />
     <url>http://www.maxtv.hr</url>
   </channel>
   <channel id="Sport Klub 2">
     <display-name lang="hr">Sport Klub 2</display-name>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20170125/000200/XTV100002627/398a173b-e203-498c-8a27-431378b965aa.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20170125/000200/XTV100002627/398a173b-e203-498c-8a27-431378b965aa.png" />
     <url>http://www.maxtv.hr</url>
   </channel>
   <channel id="Sport Klub 3">
     <display-name lang="hr">Sport Klub 3</display-name>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20161031/000200/XTV100001998/adabf721-42c6-4e28-8eaf-3cc56893e34a.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20161031/000200/XTV100001998/adabf721-42c6-4e28-8eaf-3cc56893e34a.png" />
     <url>http://www.maxtv.hr</url>
   </channel>
   <channel id="Sport Klub 4">
     <display-name lang="hr">Sport Klub 4</display-name>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20161031/000200/XTV100001999/8185b8cc-b3a5-4629-8998-840b688a08a3.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20161031/000200/XTV100001999/8185b8cc-b3a5-4629-8998-840b688a08a3.png" />
     <url>http://www.maxtv.hr</url>
   </channel>
   <channel id="Sport Klub 5">
     <display-name lang="hr">Sport Klub 5</display-name>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20161031/000200/XTV100002000/59531e90-e0a6-4845-96cb-309eb2d9ef02.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/logo/fileEntity/20161031/000200/XTV100002000/59531e90-e0a6-4845-96cb-309eb2d9ef02.png" />
     <url>http://www.maxtv.hr</url>
   </channel>
   <channel id="BEINS1 beIN Sports">
@@ -14655,188 +14655,6 @@
       <value>--</value>
     </rating>
   </programme>
-  <programme start="20201024142000 +0200" stop="20201024145000 +0200" channel="BBC Entertainment">
-    <title lang="nl">Still Open All Hours</title>
-    <sub-title lang="nl">Expresso</sub-title>
-    <desc lang="nl">Granville erft een kruidenierswinkel van zijn geliefde oom Arkwright. Hij werkt er samen met zijn zoon Leroy. Granville heeft heel veel verschillende artikelen goedkoop ingekocht. Een bezoekende vertegenwoordiger heeft een goed plan om al die artikelen te verkopen.(n)</desc>
-    <credits>
-      <director>Dewi Humphreys</director>
-      <actor>David Jason</actor>
-      <actor>Lynda Baron</actor>
-      <actor>James Baxter</actor>
-      <actor>Stephanie Cole</actor>
-      <actor>Brigit Forsyth</actor>
-      <writer>Roy Clarke</writer>
-      <composer>Chris Atkinson</composer>
-      <composer>Rob Butler-Biggs</composer>
-    </credits>
-    <date>2014</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Comedyserie</category>
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S1 E5</episode-num>
-  </programme>
-  <programme start="20201024145000 +0200" stop="20201024151500 +0200" channel="BBC Entertainment">
-    <title lang="nl">EastEnders</title>
-    <desc lang="nl">Britse soapserie over de dagelijkse bezigheden van de bewoners van het plein Albert Square in East End, Londen. Een nieuwe dosis drama met de bewoners van Albert Square.(n)</desc>
-    <credits>
-      <actor>Amar Adatia</actor>
-      <actor>Emma Barton</actor>
-      <actor>Stevie Basaula</actor>
-      <actor>Jamie Borthwick</actor>
-      <actor>Max Bowden</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Soap</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/e/EastEnders_1548147115.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S1 E6129</episode-num>
-  </programme>
-  <programme start="20201024151500 +0200" stop="20201024154000 +0200" channel="BBC Entertainment">
-    <title lang="nl">EastEnders</title>
-    <desc lang="nl">Britse soapserie over de dagelijkse bezigheden van de bewoners van het plein Albert Square in East End, Londen. Een nieuwe dosis drama met de bewoners van Albert Square.(n)</desc>
-    <credits>
-      <actor>Amar Adatia</actor>
-      <actor>Emma Barton</actor>
-      <actor>Stevie Basaula</actor>
-      <actor>Jamie Borthwick</actor>
-      <actor>Max Bowden</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Soap</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/e/EastEnders_1548147115.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S1 E6130</episode-num>
-  </programme>
-  <programme start="20201024154000 +0200" stop="20201024160500 +0200" channel="BBC Entertainment">
-    <title lang="nl">EastEnders</title>
-    <desc lang="nl">Britse soapserie over de dagelijkse bezigheden van de bewoners van het plein Albert Square in East End, Londen. Een nieuwe dosis drama met de bewoners van Albert Square.(n)</desc>
-    <credits>
-      <actor>Amar Adatia</actor>
-      <actor>Emma Barton</actor>
-      <actor>Stevie Basaula</actor>
-      <actor>Jamie Borthwick</actor>
-      <actor>Max Bowden</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Soap</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/e/EastEnders_1548147115.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S1 E6131</episode-num>
-  </programme>
-  <programme start="20201024160500 +0200" stop="20201024163500 +0200" channel="BBC Entertainment">
-    <title lang="nl">EastEnders</title>
-    <desc lang="nl">Britse soapserie over de dagelijkse bezigheden van de bewoners van het plein Albert Square in East End, Londen. Een nieuwe dosis drama met de bewoners van Albert Square.(n)</desc>
-    <credits>
-      <actor>Amar Adatia</actor>
-      <actor>Emma Barton</actor>
-      <actor>Stevie Basaula</actor>
-      <actor>Jamie Borthwick</actor>
-      <actor>Max Bowden</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Soap</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/e/EastEnders_1548147115.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S1 E6132</episode-num>
-  </programme>
-  <programme start="20201024163500 +0200" stop="20201024172000 +0200" channel="BBC Entertainment">
-    <title lang="nl">Bargain Hunt</title>
-    <sub-title lang="nl">Wetherby 22</sub-title>
-    <desc lang="nl">Twee teams gaan op de vlooienmarkt op zoek naar antiek en curiosa, die later op een veiling weer verkocht worden. Het team dat de grootste winst maakt of het minst verliest, wint. Charlie Ross verzorgt de presentatie uit Wetherby. De rode en blauwe teams rennen rond op de antiekbeurs op de renbaan van de stad, bijgestaan door de experts Paul Laidlaw en Philip Serrell.(n)</desc>
-    <credits>
-      <presenter>Tim Wonnacott</presenter>
-    </credits>
-    <date>2016</date>
-    <category lang="nl">Amusement</category>
-    <category lang="nl">Spelshow</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/b/Bargain_Hunt_1568296513.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S46 E14</episode-num>
-  </programme>
-  <programme start="20201024172000 +0200" stop="20201024180500 +0200" channel="BBC Entertainment">
-    <title lang="nl">Bargain Hunt</title>
-    <sub-title lang="nl">Cornwall 4</sub-title>
-    <desc lang="nl">Twee teams gaan op de vlooienmarkt op zoek naar antiek en curiosa, die later op een veiling weer verkocht worden. Het team dat de grootste winst maakt of het minst verliest, wint. Eric Knowles verzorgt de presentatie vanuit de Cornwall Royal Showground waar twee teams van paren het tegen elkaar opnemen voor de hoogste winst op de veiling. Met Ben Cooper en Caroline Hawley.(n)</desc>
-    <credits>
-      <presenter>Tim Wonnacott</presenter>
-    </credits>
-    <date>2016</date>
-    <category lang="nl">Amusement</category>
-    <category lang="nl">Spelshow</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/b/Bargain_Hunt_1568296513.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S46 E15</episode-num>
-  </programme>
-  <programme start="20201024180500 +0200" stop="20201024185000 +0200" channel="BBC Entertainment">
-    <title lang="nl">Impossible</title>
-    <desc lang="nl">Dertig kandidaten moeten het geven van onmogelijke antwoorden vermijden om kans te maken op 10.000 pond. Quizshow waarin de 30 deelnemers die het tijdens de afleveringen tegen elkaar opnemen onmogelijke antwoorden moeten zien te vermijden om kans te maken op 10.000 pond.(n)</desc>
-    <date>2017</date>
-    <category lang="nl">Amusement</category>
-    <category lang="nl">Quiz</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/i/Impossible_1583731520.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S3 E6/30</episode-num>
-  </programme>
-  <programme start="20201024185000 +0200" stop="20201024193500 +0200" channel="BBC Entertainment">
-    <title lang="nl">Impossible</title>
-    <desc lang="nl">Dertig kandidaten moeten het geven van onmogelijke antwoorden vermijden om kans te maken op 10.000 pond. Quizshow waarin de 30 deelnemers die het tijdens de afleveringen tegen elkaar opnemen onmogelijke antwoorden moeten zien te vermijden om kans te maken op 10.000 pond.(n)</desc>
-    <date>2017</date>
-    <category lang="nl">Amusement</category>
-    <category lang="nl">Quiz</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/i/Impossible_1583731520.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S3 E7/30</episode-num>
-  </programme>
-  <programme start="20201024193500 +0200" stop="20201024202000 +0200" channel="BBC Entertainment">
-    <title lang="nl">Doctor Who</title>
-    <sub-title lang="nl">The Pyramid at the End of the World</sub-title>
-    <desc lang="nl">De Doctor is een buitenaards wezen die door de tijd reist met het ruimteschip de Tardis. s Nachts verschijnt er een "oude" piramide en alle klokken in de wereld beginnen af te tellen naar de vernietiging van de aarde. Accepteert de Doctor de deal van een buitenaards ras dat hulp biedt?(n)</desc>
-    <credits>
-      <director>Daniel Nettheim</director>
-      <actor>Peter Capaldi</actor>
-      <actor>Pearl Mackie</actor>
-      <actor>Matt Lucas</actor>
-      <actor>Togo Igawa</actor>
-      <actor>Nigel Hastings</actor>
-      <writer>Peter Harness</writer>
-      <writer>Steven Moffat</writer>
-      <composer>Harry Barnes</composer>
-      <composer>Helen Dickson</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Sf-serie</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/d/Doctor_Who_1589636265.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S10 E7</episode-num>
-  </programme>
-  <programme start="20201024202000 +0200" stop="20201024210500 +0200" channel="BBC Entertainment">
-    <title lang="nl">Doctor Who</title>
-    <sub-title lang="nl">The Lie of the Land</sub-title>
-    <desc lang="nl">De Doctor is een buitenaards wezen die door de tijd reist met het ruimteschip de Tardis. De aarde is binnengevallen en Bill en Nardole moeten een dodelijke missie ondernemen om de Doctor te redden die gevangen zit en zich aan de kant van de vijand lijkt te bevinden.(n)</desc>
-    <credits>
-      <director>Wayne Yip</director>
-      <actor>Peter Capaldi</actor>
-      <actor>Pearl Mackie</actor>
-      <actor>Matt Lucas</actor>
-      <actor>Michelle Gomez</actor>
-      <actor>Emma Handy</actor>
-      <writer>Toby Whithouse</writer>
-      <composer>Harry Barnes</composer>
-      <composer>Helen Dickson</composer>
-    </credits>
-    <date>2017</date>
-    <category lang="nl">Serie</category>
-    <category lang="nl">Sf-serie</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/d/Doctor_Who_1602932049.jpg" />
-    <country lang="nl">GB</country>
-    <episode-num system="onscreen">S10 E8</episode-num>
-  </programme>
   <programme start="20201024210500 +0200" stop="20201024213000 +0200" channel="BBC Entertainment">
     <title lang="nl">Bad Move</title>
     <sub-title lang="nl">Local Hero</sub-title>
@@ -14889,7 +14707,6 @@
     <date>2016</date>
     <category lang="nl">Amusement</category>
     <category lang="nl">Stand-up comedy</category>
-    <icon src="https://tvgidsassets.nl/v155/upload/l/Live_at_the_Apollo_1593154353.jpg" />
     <country lang="nl">GB</country>
     <episode-num system="onscreen">S12 E6</episode-num>
   </programme>
@@ -17704,84 +17521,6 @@
     <icon src="https://ptv-prod.wpcdn.pl/media/akpa2762184.jpg" />
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-  <programme start="20201024133500 +0200" stop="20201024143400 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Europa League Highlights</title>
-    <desc lang="nl">De hoogtepunten van de afgelopen speelronde in de Europa League.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Europa League Highlights. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024143400 +0200" stop="20201024144000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Stuttgart - Koln</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de wedstrijd VfB Stuttgart - 1. FC Koln uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E25/200</episode-num>
-  </programme>
-  <programme start="20201024144000 +0200" stop="20201024144500 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Napoli - AZ</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de westrijd SSC Napoli - AZ uit de groepsfase van de Europa League.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E1/100</episode-num>
-  </programme>
-  <programme start="20201024144500 +0200" stop="20201024145100 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Celtic - Milan</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de westrijd Celtic - AC Milan uit de Europa League.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E4/100</episode-num>
-  </programme>
-  <programme start="20201024145100 +0200" stop="20201024150000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Bayer Leverkusen - Nice</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de westrijd Bayer 04 Leverkusen - OGC Nice uit de Europa League.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E3/100</episode-num>
-  </programme>
-  <programme start="20201024150000 +0200" stop="20201024153000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Ajax TV</title>
-    <desc lang="nl">In Ajax TV zie je twee keer per week het laatste nieuws, voor- en nabeschouwingen en reportages rondom Ajax.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Ajax TV. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024153000 +0200" stop="20201024163000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">De Eretribune</title>
-    <desc lang="nl">Jan Joost van Gangelen en Aletha Leidelmeijer ontvangen iedere zaterdagavond twee analisten, een voetbalgast en een bekende voetballiefhebber. Centraal staat de Eredivisiewedstrijd van 20.00 uur, maar er wordt ook voor- en nabeschouwd op de overige duels van deze avond in de Eredivisie en de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024163000 +0200" stop="20201024182000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">VVV-Venlo - Ajax</title>
-    <desc lang="nl">Verslag van de wedstrijd VVV-Venlo - Ajax in de 6e speelronde van de eredivisie 2020/2021.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">VVV-Venlo - Ajax. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024182000 +0200" stop="20201024184500 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">De Eretribune</title>
-    <desc lang="nl">Jan Joost van Gangelen en Aletha Leidelmeijer ontvangen iedere zaterdagavond twee analisten, een voetbalgast en een bekende voetballiefhebber. Centraal staat de Eredivisiewedstrijd van 20.00 uur, maar er wordt ook voor- en nabeschouwd op de overige duels van deze avond in de Eredivisie en de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024184500 +0200" stop="20201024203500 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Utrecht - Twente</title>
-    <desc lang="nl">Verslag van de wedstrijd FC Utrecht - FC Twente in de 6e speelronde van de eredivisie 2020/2021.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Utrecht - Twente. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024203500 +0200" stop="20201024213000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">De Eretribune</title>
-    <desc lang="nl">Jan Joost van Gangelen en Aletha Leidelmeijer ontvangen iedere zaterdagavond twee analisten, een voetbalgast en een bekende voetballiefhebber. Centraal staat de Eredivisiewedstrijd van 20.00 uur, maar er wordt ook voor- en nabeschouwd op de overige duels van deze avond in de Eredivisie en de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024213000 +0200" stop="20201024220000 +0200" channel="FOX Sports 1 Eredivisie">
-    <title lang="nl">Henny 'De Tank' van Schoonhoven</title>
-    <desc lang="nl">Hij zou dit jaar, net als FC Utrecht, 50 jaar zijn geworden: Henny van Schoonhoven. Elf jaar geleden overleed hij aan de gevolgen van kanker. De verdediger maakte buiten en binnen de lijn indruk bij Elinkwijk, FC Utrecht, ADO Den Haag en Cambuur Leeuwarden. Met zijn familie en voetbalvrienden worden herinneringen opgehaald, want niemand is De Tank vergeten.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
   <programme start="20201024220000 +0200" stop="20201024223000 +0200" channel="FOX Sports 1 Eredivisie">
     <title lang="nl">Tien jaar na de 10-0</title>
     <desc lang="nl">Het was een mokerslag die een decennium later nog steeds nadreunt. Exact tien jaar nadat PSV in eigen huis Feyenoord met 10-0 vernederde, blikt PSV TV met de hoofdrolspelers van die dag terug op die memorabele wedstrijd.(n)</desc>
@@ -18512,86 +18251,6 @@
     <desc lang="nl">De hoogtepunten van de afgelopen ronde in de TOTO KNVB Beker.(n)</desc>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">TOTO KNVB Beker Highlights. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024131500 +0200" stop="20201024141500 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.(n)</desc>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024141500 +0200" stop="20201024143000 +0200" channel="FOX Sports 2">
-    <title lang="nl">Vitesse TV</title>
-    <desc lang="nl">Wekelijks magazine met het laatste nieuws, voor- en nabeschouwingen en reportages rondom Vitesse.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Vitesse TV. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024143000 +0200" stop="20201024145900 +0200" channel="FOX Sports 2">
-    <title lang="nl">De Nederlandse clubs in de Europa League</title>
-    <desc lang="nl">Volg de verrichtingen van Feyenoord, PSV en AZ in de Europa League. Met samenvattingen en interviews van de wedstrijden van de drie Nederlandse clubs en de andere duels in hun groepen.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024145900 +0200" stop="20201024152500 +0200" channel="FOX Sports 2">
-    <title lang="nl">Tien jaar na de 10-0</title>
-    <desc lang="nl">Het was een mokerslag die een decennium later nog steeds nadreunt. Exact tien jaar nadat PSV in eigen huis Feyenoord met 10-0 vernederde, blikt PSV TV met de hoofdrolspelers van die dag terug op die memorabele wedstrijd.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024152500 +0200" stop="20201024172500 +0200" channel="FOX Sports 2">
-    <title lang="nl">RB Leipzig - Hertha BSC</title>
-    <desc lang="nl">Verslag van de wedstrijd RB Leipzig - Hertha BSC uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">RB Leipzig - Hertha BSC. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024172500 +0200" stop="20201024174300 +0200" channel="FOX Sports 2">
-    <title lang="nl">Stuttgart - Koln</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de wedstrijd VfB Stuttgart - 1. FC Koln uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E25/200</episode-num>
-  </programme>
-  <programme start="20201024174300 +0200" stop="20201024180000 +0200" channel="FOX Sports 2">
-    <title lang="nl">Vitesse TV</title>
-    <desc lang="nl">Wekelijks magazine met het laatste nieuws, voor- en nabeschouwingen en reportages rondom Vitesse.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Vitesse TV. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024180000 +0200" stop="20201024183000 +0200" channel="FOX Sports 2">
-    <title lang="nl">Tien jaar na de 10-0</title>
-    <desc lang="nl">Het was een mokerslag die een decennium later nog steeds nadreunt. Exact tien jaar nadat PSV in eigen huis Feyenoord met 10-0 vernederde, blikt PSV TV met de hoofdrolspelers van die dag terug op die memorabele wedstrijd.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024183000 +0200" stop="20201024190000 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.(n)</desc>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024190000 +0200" stop="20201024193000 +0200" channel="FOX Sports 2">
-    <title lang="nl">FOX Sports Vandaag</title>
-    <desc lang="nl">Een round-up van de dag op FOX Sports en het belangrijkste en opvallendste (inter)nationale sportnieuws. In FOX Sports Vandaag wordt de kijker op FOX Sports volledig bijgepraat aan de hand van highlights, reportages, rubrieken en social media.(n)</desc>
-    <category lang="nl">Sport</category>
-    <icon src="https://tvgids-mobilepioneers.netdna-ssl.com/programma/square_iphone_hd_TVGiDStv_fox-sports-vandaag.jpg" />
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024193000 +0200" stop="20201024200000 +0200" channel="FOX Sports 2">
-    <title lang="nl">Voorbeschouwing</title>
-    <desc lang="nl">Live programma vanuit het stadion met voor- en nabeschouwingen, analyses en interviews rondom de zaterdagwedstrijden in de Eredivisie.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Voorbeschouwing. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024200000 +0200" stop="20201024215000 +0200" channel="FOX Sports 2">
-    <title lang="nl">PEC - Willem II</title>
-    <desc lang="nl">Verslag van de wedstrijd PEC Zwolle - Willem II in de 6e speelronde van de eredivisie 2020/2021.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">PEC - Willem II. Seizoen 2020-2021</episode-num>
   </programme>
   <programme start="20201024215000 +0200" stop="20201024223000 +0200" channel="FOX Sports 2">
     <title lang="nl">Nabeschouwing</title>
@@ -19580,107 +19239,6 @@
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E3/35</episode-num>
   </programme>
-  <programme start="20201024131500 +0200" stop="20201024150300 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">SC Cambuur - Roda JC</title>
-    <desc lang="nl">Live verslag van de wedstrijd SC Cambuur Leeuwarden - Roda JC Kerkrade in de 9e speelronde van de Keuken Kampioen Divisie.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">SC Cambuur - Roda JC. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024150300 +0200" stop="20201024152300 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Stuttgart - Koln</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de wedstrijd VfB Stuttgart - 1. FC Koln uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E25/200</episode-num>
-  </programme>
-  <programme start="20201024152300 +0200" stop="20201024154000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Onvoorspelbaar</title>
-    <sub-title lang="nl">ADO Den Haag - Sparta</sub-title>
-    <desc lang="nl">Jan Joost van Gangelen en Rafael van der Vaart peilen de voorspellingen voor de bekerwedstrijd tussen ADO Den Haag en Sparta Rotterdam.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E13/35</episode-num>
-  </programme>
-  <programme start="20201024154000 +0200" stop="20201024155500 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">AZ TV</title>
-    <desc lang="nl">Wekelijks magazine met het laatste nieuws, voor- en nabeschouwingen en reportages rondom AZ.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">AZ TV. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024155500 +0200" stop="20201024162400 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Tien jaar na de 10-0</title>
-    <desc lang="nl">Het was een mokerslag die een decennium later nog steeds nadreunt. Exact tien jaar nadat PSV in eigen huis Feyenoord met 10-0 vernederde, blikt PSV TV met de hoofdrolspelers van die dag terug op die memorabele wedstrijd.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024162400 +0200" stop="20201024172500 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Keuken Kampioen Divisie Highlights</title>
-    <desc lang="nl">De samenvattingen van de gespeelde wedstrijden in de Keuken Kampioen Divisie.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Keuken Kampioen Divisie Highlights. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024172500 +0200" stop="20201024174500 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Vitesse TV</title>
-    <desc lang="nl">Wekelijks magazine met het laatste nieuws, voor- en nabeschouwingen en reportages rondom Vitesse.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">Vitesse TV. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024174500 +0200" stop="20201024180300 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">FC Den Bosch - Excelsior</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E83/200</episode-num>
-  </programme>
-  <programme start="20201024180300 +0200" stop="20201024182000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">AZ TV</title>
-    <desc lang="nl">Wekelijks magazine met het laatste nieuws, voor- en nabeschouwingen en reportages rondom AZ.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">AZ TV. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024182000 +0200" stop="20201024190000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">VVV - Ajax</title>
-    <sub-title lang="nl">Interviews</sub-title>
-    <desc lang="nl">Live programma vanuit de stadions rondom de Eredivisie-wedstrijden op zaterdag. Met live beelden van de warming up en interviews en de persconferentie na afloop.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E12/120</episode-num>
-  </programme>
-  <programme start="20201024190000 +0200" stop="20201024193000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">De Nederlandse clubs in de Europa League</title>
-    <desc lang="nl">Volg de verrichtingen van Feyenoord, PSV en AZ in de Europa League. Met samenvattingen en interviews van de wedstrijden van de drie Nederlandse clubs en de andere duels in hun groepen.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024193000 +0200" stop="20201024195000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Bayern - Frankfurt</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de wedstrijd FC Bayern Munchen - Eintracht Frankfurt uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E26/200</episode-num>
-  </programme>
-  <programme start="20201024195000 +0200" stop="20201024201000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Leipzig - Hertha</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de wedstrijd RB Leipzig - Hertha BSC uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E27/200</episode-num>
-  </programme>
-  <programme start="20201024201000 +0200" stop="20201024203000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">sc Heerenveen TV</title>
-    <desc lang="nl">Wekelijks magazine met het laatste nieuws, voor- en nabeschouwingen en reportages rondom sc Heerenveen.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">sc Heerenveen TV. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024203000 +0200" stop="20201024210000 +0200" channel="FOX Sports 3 Eredivisie">
-    <title lang="nl">Voorbeschouwing</title>
-    <desc lang="nl">Live programma vanuit het stadion met voor- en nabeschouwingen, analyses en interviews rondom de zaterdagwedstrijden in de Eredivisie.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Voorbeschouwing. Seizoen 2020-2021</episode-num>
-  </programme>
   <programme start="20201024210000 +0200" stop="20201024225000 +0200" channel="FOX Sports 3 Eredivisie">
     <title lang="nl">Heerenveen - Emmen</title>
     <desc lang="nl">Verslag van de wedstrijd SC Heerenveen - FC Emmen in de 6e speelronde van de eredivisie 2020/2021.(n)</desc>
@@ -20463,63 +20021,6 @@
     <desc lang="nl">Samenvatting van een wedstrijd uit de Keuken Kampioen Divisie.(n)</desc>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">E86/200</episode-num>
-  </programme>
-  <programme start="20201024125500 +0200" stop="20201024145000 +0200" channel="FOX Sports 4">
-    <title lang="nl">HSV - FC Würzburger Kickers</title>
-    <desc lang="nl">Verslag van de wedstrijd Hamburger SV - FC Würzburger Kickers uit de 5e speelronde van de Tweede Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">HSV - FC Würzburger Kickers. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024145000 +0200" stop="20201024152500 +0200" channel="FOX Sports 4">
-    <title lang="nl">Bundesliga voorbeschouwing</title>
-    <desc lang="nl">Live beelden vanuit het stadion voorafgaand aan een Bundesligawedstrijd. Met warming up, interviews en statistieken.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Bundesliga voorbeschouwing. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024152500 +0200" stop="20201024173000 +0200" channel="FOX Sports 4">
-    <title lang="nl">Bayern München - Eintracht Frankfurt</title>
-    <desc lang="nl">Verslag van de wedstrijd FC Bayern München - Eintracht Frankfurt uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Bayern München - Eintracht Frankfurt. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024173000 +0200" stop="20201024182500 +0200" channel="FOX Sports 4">
-    <title lang="nl">Bundesliga voorbeschouwing</title>
-    <desc lang="nl">Live beelden vanuit het stadion voorafgaand aan een Bundesligawedstrijd. Met warming up, interviews en statistieken.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Bundesliga voorbeschouwing. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024182500 +0200" stop="20201024202400 +0200" channel="FOX Sports 4">
-    <title lang="nl">Borussia Dortmund - Schalke 04</title>
-    <desc lang="nl">Verslag van de wedstrijd Borussia Dortmund - FC Schalke 04 uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">Borussia Dortmund - Schalke 04. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024202400 +0200" stop="20201024203800 +0200" channel="FOX Sports 4">
-    <title lang="nl">De mooiste goals - FC Schalke 04</title>
-    <desc lang="nl">Oud-FC Schalke 04 speler Olaf Thon neemt ons mee naar de mooiste en belangrijkste goals in de geschiedenis van FC Schalke 04.(n)</desc>
-    <category lang="nl">Sport</category>
-    <category lang="nl">Magazine</category>
-    <episode-num system="onscreen">De mooiste goals - FC Schalke 04. Seizoen 2019-2020</episode-num>
-  </programme>
-  <programme start="20201024203800 +0200" stop="20201024205200 +0200" channel="FOX Sports 4">
-    <title lang="nl">Bayern - Frankfurt</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de wedstrijd FC Bayern Munchen - Eintracht Frankfurt uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E26/200</episode-num>
-  </programme>
-  <programme start="20201024205200 +0200" stop="20201024210600 +0200" channel="FOX Sports 4">
-    <title lang="nl">Leipzig - Hertha</title>
-    <sub-title lang="nl">samenvatting</sub-title>
-    <desc lang="nl">Samenvatting van de wedstrijd RB Leipzig - Hertha BSC uit de 5e speelronde van de Bundesliga.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">E27/200</episode-num>
-  </programme>
-  <programme start="20201024210600 +0200" stop="20201024215000 +0200" channel="FOX Sports 4">
-    <title lang="nl">NFL Live</title>
-    <desc lang="nl">In NFL Live worden van maandag t/m vrijdag alle ins en outs over het komende NFL-seizoen besproken.(n)</desc>
-    <category lang="nl">Sport</category>
-    <episode-num system="onscreen">NFL Live. Seizoen 2020</episode-num>
   </programme>
   <programme start="20201024215000 +0200" stop="20201024235000 +0200" channel="FOX Sports 4">
     <title lang="nl">Inter Miami - Orlando City</title>
@@ -21315,10 +20816,6 @@
     <title lang="en">Ulster v Dragons</title>
     <desc lang="en">Dan McFarland's side will be hoping to make it three wins from three this season as they welcome Dragons to the Kingspan Stadium.(n)</desc>
   </programme>
-  <programme start="20201024040000 +0100" stop="20201024060000 +0100" channel="Eir-Sport-2">
-    <title lang="en">Leinster v Zebre</title>
-    <desc lang="en">Reigning champions Leinster will be looking to continue their perfect start to the new campaign against Italian outfit Zebre at the RDS.(n)</desc>
-  </programme>
   <programme start="20201024060000 +0100" stop="20201024063000 +0100" channel="Eir-Sport-2">
     <title lang="en">Thomond Park</title>
     <desc lang="en">A trip down memory lane as we take a look back at some of the great moments at the home of Munster Rugby.(n)</desc>
@@ -21651,45 +21148,7 @@
     <title lang="sq">Info</title>
     <desc lang="sq">Informacione mbi programet dhe eventet e SuperSport.(n)</desc>
   </programme>
-  <programme start="20201024023000 +0000" stop="20201024033000 +0000" channel="Astro Cricket HD">
-    <title lang="en">ICC Cricket World Cup</title>
-    <desc lang="en">Catch the highlights of the ICC Cricket World Cup 2019 - India vs Afghanistan.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024033000 +0000" stop="20201024043000 +0000" channel="Astro Cricket HD">
-    <title lang="en">ICC Cricket World Cup</title>
-    <desc lang="en">Catch the highlights of the ICC Cricket World Cup 2019 - India vs Pakistan.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024100000 +0000" stop="20201024140000 +0000" channel="Astro Cricket HD">
-    <title lang="en">(L) IPL: Kolkata vs Delhi Capitals</title>
-    <desc lang="en">LIVE: Indian Premier League 2020: 42nd Match - Kolkata Knight Riders vs Delhi Capitals, from Sheikh Zayed Cricket Stadium.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMZWR.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024140000 +0000" stop="20201024180000 +0000" channel="Astro Cricket HD">
-    <title lang="en">(L) KXIP vs SRH</title>
-    <desc lang="en">LIVE: Indian Premier League 2020: 43rd Match - Kings XI Punjab vs Sunrisers Hyderabad, from Dubai International Stadium.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Cricket</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMZWR.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024180000 +0000" stop="20201024221000 +0000" channel="Astro Cricket HD">
+  <programme start="20201024181000 +0000" stop="20201024221000 +0000" channel="Astro Cricket HD">
     <title lang="en">IPL: Chennai vs Delhi</title>
     <desc lang="en">Indian Premier League 2020: 7th Match - Chennai Super Kings vs Delhi Capitals, from Dubai International Stadium.(n)</desc>
     <category lang="en">Sports</category>
@@ -21858,96 +21317,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20201024001500 +0000" stop="20201024023000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">PL: Newcastle vs Manchester United</title>
-    <desc lang="en">Premier League 2020/21: Week 5: Newcastle United vs Manchester United, from St. James' Park, Newcastle.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMQFI.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024023000 +0000" stop="20201024043000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">K-League: Suwon vs Seongnam</title>
-    <desc lang="en">K-League 1 Season 2020: Final Round 04 - Suwon Bluewings vs Seongnam, from Suwon World Cup Stadium, Suwon.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JNENV.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024050000 +0000" stop="20201024074000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Snooker: English Open 2020</title>
-    <desc lang="en">World Snooker Tour 2020/21: European Masters: English Open - Final Session 1.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JNVLF.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024074000 +0000" stop="20201024105000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Snooker: English Open 2020</title>
-    <desc lang="en">World Snooker Tour 2020/21: European Masters: English Open - Final Session 2.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JNVLG.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024105000 +0000" stop="20201024112000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Premier League Preview</title>
-    <desc lang="en">Premier League Preview is your necessary guide to all you need to know prior to all the games from England's top flight football competition.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMQBU.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024112000 +0000" stop="20201024132000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">(L) PL: West Ham vs Manchester City</title>
-    <desc lang="en">LIVE: Premier League 2020/21: Week 6: West Ham United vs Manchester City, from London Stadium, London.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMQFP.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024132000 +0000" stop="20201024135000 +0000" channel="Astro SuperSport HD">
-    <title lang="en">J-League Weekend Highlights</title>
-    <desc lang="en">Highlights of all the matches played in the weekend (Round 23), this is one of the most exciting and thrilling football league in Asia, the J-League season 2020.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <rating system="MY">
-      <value>P13</value>
-    </rating>
-  </programme>
-  <programme start="20201024135000 +0000" stop="20201024155500 +0000" channel="Astro SuperSport HD">
-    <title lang="en">(L) PL: Fulham vs Crystal Palace</title>
-    <desc lang="en">LIVE: Premier League 2020/21: Week 6: Fulham vs Crystal Palace, from Craven Cottage, London.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMQFO.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024155500 +0000" stop="20201024162500 +0000" channel="Astro SuperSport HD">
-    <title lang="en">Bundesliga Weekly</title>
-    <desc lang="en">A look ahead to the latest round of Bundesliga fixtures including latest news and updates from Bundesliga clubs.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Magazine</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JNVTI.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024162500 +0000" stop="20201024182500 +0000" channel="Astro SuperSport HD">
+  <programme start="20201024162800 +0000" stop="20201024182500 +0000" channel="Astro SuperSport HD">
     <title lang="en">(L) Bundesliga: Dortmund vs FC Schalke</title>
     <desc lang="en">LIVE: Bundesliga 2020/21: Week 5 - Borussia Dortmund vs FC Schalke 04, from Signal Iduna Park, Dortmund.(n)</desc>
     <category lang="en">Sports</category>
@@ -22065,7 +21435,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20201025093000 +0000" stop="20201025114500 +0000" channel="Astro SuperSport HD">
+  <programme start="20201025093000 +0000" stop="20201025114100 +0000" channel="Astro SuperSport HD">
     <title lang="en">PL: West Ham vs Manchester City</title>
     <desc lang="en">Premier League 2020/21: Week 6: West Ham United vs Manchester City, from London Stadium, London.(n)</desc>
     <category lang="en">Sports</category>
@@ -22075,7 +21445,7 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20201025114500 +0000" stop="20201025135500 +0000" channel="Astro SuperSport HD">
+  <programme start="20201025114100 +0000" stop="20201025135500 +0000" channel="Astro SuperSport HD">
     <title lang="en">PL: Fulham vs Crystal Palace</title>
     <desc lang="en">Premier League 2020/21: Week 6: Fulham vs Crystal Palace, from Craven Cottage, London.(n)</desc>
     <category lang="en">Sports</category>
@@ -22460,106 +21830,6 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20201024003000 +0000" stop="20201024010000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Premier League Today 2020/21</title>
-    <desc lang="en">Catch all the latest and best news stories, interviews and updates from the Premier League.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMTNL.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024010000 +0000" stop="20201024025500 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">UNL: Germany vs Switzerland</title>
-    <desc lang="en">UEFA Nations League 2020: MD4 - Germany vs Switzerland at RheinEnergieStadion, Cologne, Germany.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMJYP.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024025500 +0000" stop="20201024035500 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">ATP Classic Matches</title>
-    <desc lang="en">ATP Classic Matches: Masterclass - Novak Djokovic's 4 titles in ATP World Tour 1000 Shanghai Masters.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JDFAW.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024035500 +0000" stop="20201024042500 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Premier League Today 2020/21</title>
-    <desc lang="en">Catch all the latest and best news stories, interviews and updates from the Premier League.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMTNL.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024065600 +0000" stop="20201024090000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">(L) Gamba Osaka vs Kashiwa Reysol</title>
-    <desc lang="en">LIVE: J-League 2020: Round 24: Gamba Osaka vs Kashiwa Reysol, from Panasonic Stadium Suita, Suita, Japan.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMNYN.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024090000 +0000" stop="20201024105000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">ATP Classic Matches</title>
-    <desc lang="en">ATP Classic Matches: 7 Time Winner - Roger Federer wins Western &amp; Southern Open a record of 7 Times.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JDFAW.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024105000 +0000" stop="20201024112000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Netbusters 2020/21</title>
-    <desc lang="en">Catch all the goals, misses, saves, bloopers and all the action from the latest round of the Premier League.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMRYH.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024112000 +0000" stop="20201024132500 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">ATP: bett1HULKS Indoors</title>
-    <desc lang="en">ATP World Tour 250: bett1HULKS Indoors 2020 - Men's Final, from Lanxess Arena, Cologne, Germany.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JNCDQ.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024132500 +0000" stop="20201024153000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">(L) Bundesliga: Mainz vs M'Gladbach</title>
-    <desc lang="en">LIVE: Bundesliga 2020/21: Week 5 - FSV Mainz vs Borussia M'Gladbach, from Opel Arena, Mainz, Germany.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JNNPX.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024153000 +0000" stop="20201024160000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Netbusters 2020/21</title>
-    <desc lang="en">Catch all the goals, misses, saves, bloopers and all the action from the latest round of the Premier League.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMRYH.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
   <programme start="20201024160000 +0000" stop="20201024170000 +0000" channel="Astro SuperSport 2 HD">
     <title lang="en">PSA Squash 2020</title>
     <desc lang="en">Catch the highlights of the PSA Squash 2019/20, Egyptian Open 2020.(n)</desc>
@@ -22888,17 +22158,17 @@
       <value>0</value>
     </rating>
   </programme>
-  <programme start="20201027130000 +0000" stop="20201027140000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Liga Nos 2020/21 Highlights</title>
-    <desc lang="en">Catch the highlights of the Portuguese Football League (Liga NOS) 2020/21 season.(n)</desc>
+  <programme start="20201027130000 +0000" stop="20201027150000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">Liga NOS: Porto vs Gil Vicente</title>
+    <desc lang="en">Portuguese Football League (Liga NOS) 2020/21: Round 5 - FC Porto vs Gil Vicente, from Estadio do Dragao, Porto, Portugal.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMXIR.jpg" />
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMXIV.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20201027140000 +0000" stop="20201027143000 +0000" channel="Astro SuperSport 2 HD">
+  <programme start="20201027150000 +0000" stop="20201027153000 +0000" channel="Astro SuperSport 2 HD">
     <title lang="en">(L) Premier League Today 2020/21</title>
     <desc lang="en">LIVE: Catch all the latest and best news stories, interviews and updates from the Premier League.(n)</desc>
     <category lang="en">Sports</category>
@@ -22908,12 +22178,12 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20201027143000 +0000" stop="20201027163000 +0000" channel="Astro SuperSport 2 HD">
-    <title lang="en">Liga NOS: Porto vs Gil Vicente</title>
-    <desc lang="en">Portuguese Football League (Liga NOS) 2020/21: Round 5 - FC Porto vs Gil Vicente, from Estadio do Dragao, Porto, Portugal.(n)</desc>
+  <programme start="20201027153000 +0000" stop="20201027163000 +0000" channel="Astro SuperSport 2 HD">
+    <title lang="en">Liga Nos 2020/21 Highlights</title>
+    <desc lang="en">Catch the highlights of the Portuguese Football League (Liga NOS) 2020/21 season.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMXIV.jpg" />
+    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMXIR.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -22953,86 +22223,6 @@
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMNYN.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024002000 +0000" stop="20201024022800 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: Aston Villa vs Leeds United PL: Aston Villa vs Leeds United</title>
-    <desc lang="en">Premier League 2020/21: Week 6: Aston Villa vs Leeds United at Villa Park, Birmingham.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMQFM.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024022800 +0000" stop="20201024043300 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: West Bromwich Albion vs Burnley PL: West Bromwich Albion vs Burnley</title>
-    <desc lang="en">Premier League 2020/21: Week 5: West Bromwich Albion vs Burnley at The Hawthorns, West Bromwich.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMQFG.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024053000 +0000" stop="20201024060000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: Match Pack PL: Match Pack</title>
-    <desc lang="en">Premier League Match Pack: Preview to all the weekend's matches thru facts and figures of each club ahead of their next fixtures, plus exclusive interviews.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMSBF.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024060000 +0000" stop="20201024093500 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: Manchester City vs Arsenal PL: Manchester City vs Arsenal</title>
-    <desc lang="en">PL 2020/21: Week 5: Manchester City vs Arsenal at Etihad Stadium, Manchester.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMQFJ.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024093500 +0000" stop="20201024125500 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: Tottenham Hotspur vs West Ham United PL: Tottenham Hotspur vs West Ham United</title>
-    <desc lang="en">PL 2020/21: Week 5: Tottenham Hotspur vs West Ham United at Tottenham Hotspur Stadium, London.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMQFK.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024125500 +0000" stop="20201024132500 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">PL: Match Pack PL: Match Pack</title>
-    <desc lang="en">Premier League Match Pack: Preview to all the weekend's matches thru facts and figures of each club ahead of their next fixtures, plus exclusive interviews.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMSBF.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024132500 +0000" stop="20201024153000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">(L) Bundesliga: Bayern vs Frankfurt Bundesliga: Bayern vs Frankfurt</title>
-    <desc lang="en">LIVE: Bundesliga 2020/21: Week 5 - Bayern Munich vs Eintracht Frankfurt at Allianz Arena, Munich, Bavaria.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JNTWE.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024153000 +0000" stop="20201024160000 +0000" channel="Astro SuperSport 3 HD">
-    <title lang="en">The Big Interview: Paul Scholes The Big Interview: Paul Scholes</title>
-    <desc lang="en">A chance to hear from one of the biggest and most interesting names in the Premier League in a more considered sit-down interview format.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMSYH.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -23477,72 +22667,11 @@
       <value>U</value>
     </rating>
   </programme>
-  <programme start="20201024000000 +0000" stop="20201024020000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">J-League: YOK vs NAG</title>
-    <desc lang="en">J-League 2020: Round 33: Yokohama F Marinos vs Nagoya Grampus, from NISSAN STADIUM, Yokohama, Kanagawa, Japan.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMNYL.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024020000 +0000" stop="20201024043000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">EURO Quali: NOR vs SRB</title>
-    <desc lang="en">EURO 2020 Qualifiers: Play-off: Semi-Finals: Norway vs Serbia, from Ullevaal Stadion - Oslo.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JDKRC.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024063000 +0000" stop="20201024082500 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">UNL: ISL vs DEN</title>
-    <desc lang="en">UEFA Nations League 2020: MD3 - Iceland vs Denmark, from Laugardalsvollur, Reykjavik, Iceland.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JMJYG.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024082500 +0000" stop="20201024093000 +0000" channel="Astro SuperSport 4 HD">
+  <programme start="20201024160000 +0000" stop="20201024170000 +0000" channel="Astro SuperSport 4 HD">
     <title lang="en">Dutch League 2020/21 Highlights Round 5</title>
     <desc lang="en">Dutch League 2020/2021: Highlights of all the matches played on each match day including post match interviews and reviews.(n)</desc>
     <category lang="en">Sports</category>
     <category lang="en">Football</category>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024093000 +0000" stop="20201024100000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">NBA Action 2019/20</title>
-    <desc lang="en">Delivers the latest game action, league news and an inside lock at the best players in the game.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Others (Sports)</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/IZWGN.jpg" />
-    <episode-num system="onscreen">E33</episode-num>
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024100000 +0000" stop="20201024120000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">Euro Quali: MKD vs KVX</title>
-    <desc lang="en">EURO 2020 Qualifiers: Play-off: Semi-Finals: North Macedonia vs Kosovo, from National Arena Todor Proeski, Skopje.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Football</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JDKRE.jpg" />
-    <rating system="MY">
-      <value>U</value>
-    </rating>
-  </programme>
-  <programme start="20201024120000 +0000" stop="20201024170000 +0000" channel="Astro SuperSport 4 HD">
-    <title lang="en">(L) WTA J&amp;T Banka Open</title>
-    <desc lang="en">LIVE: WTA: J&amp;T Banka Open Ostrava 2020 - Semi Finals, from Ostrava, Czech Republic.(n)</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Tennis</category>
-    <icon src="https://s3-ap-southeast-1.amazonaws.com/ams-astro/production/images/JBNIU.jpg" />
     <rating system="MY">
       <value>U</value>
     </rating>
@@ -25178,7 +24307,7 @@
   </programme>
   <programme start="20201024130000 +0000" stop="20201024134500 +0000" channel="BBC R4 FM">
     <title lang="en">Any Answers?</title>
-    <desc lang="en">Have your say on the issues discussed on Any Questions.(n)</desc>
+    <desc lang="en">Did you benefit from free school meals? What do you think of Marcus Rashford's campaign for free school meals to continue, not just in term time, but throughout the year.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -25234,7 +24363,7 @@
   </programme>
   <programme start="20201024170000 +0000" stop="20201024171500 +0000" channel="BBC R4 FM">
     <title lang="en">Six O'Clock News</title>
-    <desc lang="en">The latest national and international news from BBC Radio 4.(n)</desc>
+    <desc lang="en">Ministers are being urged to explain their exit strategy for areas of England which are currently subject to the toughest coronavirus restrictions.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
@@ -30743,14 +29872,14 @@
       <value>--</value>
     </rating>
   </programme>
-  <programme start="20201024164500 +0000" stop="20201024190000 +0000" channel="BBC R5SX">
+  <programme start="20201024164500 +0000" stop="20201024191000 +0000" channel="BBC R5SX">
     <title lang="en">Rugby Union</title>
     <desc lang="en">Live commentary from the Rugby Union Premiership Final between Exeter Chiefs and Wasps.(n)</desc>
     <rating system="UK">
       <value>--</value>
     </rating>
   </programme>
-  <programme start="20201024190000 +0000" stop="20201024210000 +0000" channel="BBC R5SX">
+  <programme start="20201024191000 +0000" stop="20201024210000 +0000" channel="BBC R5SX">
     <title lang="en">Rugby Union</title>
     <desc lang="en">Live commentary from BBC Radio Wales of France v Wales in their Six Nations warm up game.(n)</desc>
     <rating system="UK">
@@ -32790,137 +31919,137 @@
   <programme start="20201024040000 +0000" stop="20201024041500 +0000" channel="Sport Klub 1">
     <title lang="hr">Španjolska liga - Najava</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/f6b09b2c-80c2-4bab-bf83-58636f823f4c-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/f6b09b2c-80c2-4bab-bf83-58636f823f4c-5_0_0.png" />
   </programme>
   <programme start="20201024041500 +0000" stop="20201024070000 +0000" channel="Sport Klub 1">
     <title lang="hr">WTA Premier Ostrawa &amp; ATP Antwerpen - 1/4 Finala</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/63e80c93-42ff-4c3c-9085-8fa496929b54-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/63e80c93-42ff-4c3c-9085-8fa496929b54-5_0_0.png" />
   </programme>
   <programme start="20201024070000 +0000" stop="20201024085500 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Japanska liga: Gamba Osaka - Kashiwa</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2563ef86-5733-484f-a483-dc1b85dafd82-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2563ef86-5733-484f-a483-dc1b85dafd82-5_0_0.png" />
   </programme>
   <programme start="20201024085500 +0000" stop="20201024092000 +0000" channel="Sport Klub 1">
     <title lang="hr">Premier League - Najava</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/3f2d191a-f56d-486f-b67d-447130e94ed1-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/3f2d191a-f56d-486f-b67d-447130e94ed1-5_0_0.png" />
   </programme>
   <programme start="20201024092000 +0000" stop="20201024094500 +0000" channel="Sport Klub 1">
     <title lang="hr">TV Automagazin</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/6628586a-75bf-409b-bfa2-3df1b266c16b-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/6628586a-75bf-409b-bfa2-3df1b266c16b-5_0_0.png" />
   </programme>
   <programme start="20201024094500 +0000" stop="20201024102500 +0000" channel="Sport Klub 1">
     <title lang="hr">Eurocup - Pregled</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2b6965d5-62c4-4cc1-b211-c2f7b35c0f8d-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2b6965d5-62c4-4cc1-b211-c2f7b35c0f8d-5_0_0.png" />
   </programme>
   <programme start="20201024102500 +0000" stop="20201024113000 +0000" channel="Sport Klub 1">
     <title lang="hr">SK Studio, Emisija SK o Premier League</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/3ac0d4ff-f80d-4d00-b0bc-feb19a114a28-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/3ac0d4ff-f80d-4d00-b0bc-feb19a114a28-5_0_0.png" />
   </programme>
   <programme start="20201024113000 +0000" stop="20201024133000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Premier League: West Ham - Manchester City</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/4e1474e4-bb53-4867-ac91-77258cfe805a-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/4e1474e4-bb53-4867-ac91-77258cfe805a-5_0_0.png" />
   </programme>
   <programme start="20201024133000 +0000" stop="20201024140000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: SK Studio - El Clasico</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/f528f541-66ef-47b2-99b0-f24c3a74a2e9-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/f528f541-66ef-47b2-99b0-f24c3a74a2e9-5_0_0.png" />
   </programme>
   <programme start="20201024140000 +0000" stop="20201024155500 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Španjolska liga: Barcelona - Real Madrid</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2679b9a8-a796-4b85-b5fb-a3352ea3cf66-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2679b9a8-a796-4b85-b5fb-a3352ea3cf66-5_0_0.png" />
   </programme>
   <programme start="20201024155500 +0000" stop="20201024163000 +0000" channel="Sport Klub 1">
     <title lang="hr">MUTV: Red rivalries - Chelsea</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/444409f5-11fc-4fb9-a9ea-56a61ff4c4a8-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/444409f5-11fc-4fb9-a9ea-56a61ff4c4a8-5_0_0.png" />
   </programme>
   <programme start="20201024163000 +0000" stop="20201024183000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Premier League: Manchester United - Chelsea</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002626/eaa7a790-0fb4-49a1-bffe-343e2d2c4530-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002626/eaa7a790-0fb4-49a1-bffe-343e2d2c4530-5_0_0.png" />
   </programme>
   <programme start="20201024183000 +0000" stop="20201024190000 +0000" channel="Sport Klub 1">
     <title lang="hr">Euroleague - Pregled</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/d09fbbed-c96e-4cd1-9099-fad4f755e0b5-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/d09fbbed-c96e-4cd1-9099-fad4f755e0b5-5_0_0.png" />
   </programme>
   <programme start="20201024190000 +0000" stop="20201024210000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Premier League: Liverpool - Sheffield United</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/4b907058-4503-4972-b5d3-7725521c7d15-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/4b907058-4503-4972-b5d3-7725521c7d15-5_0_0.png" />
   </programme>
   <programme start="20201024210000 +0000" stop="20201024214500 +0000" channel="Sport Klub 1">
     <title lang="hr">SK Kviz - Rizik ili oprez (3. sezona - 07)</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2e8fd2df-909d-46b4-bd47-3e54170f33a6-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2e8fd2df-909d-46b4-bd47-3e54170f33a6-5_0_0.png" />
   </programme>
   <programme start="20201024214500 +0000" stop="20201024220500 +0000" channel="Sport Klub 1">
     <title lang="hr">Zlatni Golovi YU sporta</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/c8fcbf1e-4218-4796-94a2-3acd3c1a38cb-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/c8fcbf1e-4218-4796-94a2-3acd3c1a38cb-5_0_0.png" />
   </programme>
   <programme start="20201024220500 +0000" stop="20201024230500 +0000" channel="Sport Klub 1">
     <title lang="hr">Moto GP Aragon II (Teruel GP): Moto GP - Kvalifikacije</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002626/fd468e79-ffa5-42b8-a103-18826bcfc5fa-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002626/fd468e79-ffa5-42b8-a103-18826bcfc5fa-5_0_0.png" />
   </programme>
   <programme start="20201024230500 +0000" stop="20201025015500 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Kolumbijska liga: Tolima - La Equidad</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002626/481bc647-b27f-4d11-9396-b564e3c57c61-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002626/481bc647-b27f-4d11-9396-b564e3c57c61-5_0_0.png" />
   </programme>
   <programme start="20201025015500 +0000" stop="20201025020000 +0000" channel="Sport Klub 1">
     <title lang="hr">Moto GP Aragon II (Teruel GP): Moto 2 - Kvalifikacije</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/6322a746-3de9-47ae-945d-fe6cdf6cdadd-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/6322a746-3de9-47ae-945d-fe6cdf6cdadd-5_0_0.png" />
   </programme>
   <programme start="20201025020000 +0000" stop="20201025024500 +0000" channel="Sport Klub 1">
     <title lang="hr">Moto GP Aragon II (Teruel GP): Moto 3 - Kvalifikacije</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/c0a62dd7-9e75-47bb-866b-c9863116a2a5-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/c0a62dd7-9e75-47bb-866b-c9863116a2a5-5_0_0.png" />
   </programme>
   <programme start="20201025024500 +0000" stop="20201025050000 +0000" channel="Sport Klub 1">
     <title lang="hr">Judo Grand Slam: Budapest - 2. DAN</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/fa207f7e-ff5f-418f-bf5e-07a6889c6b7a-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/fa207f7e-ff5f-418f-bf5e-07a6889c6b7a-5_0_0.png" />
   </programme>
   <programme start="20201025050000 +0000" stop="20201025073000 +0000" channel="Sport Klub 1">
     <title lang="hr">Judo Grand Slam: Budapest - 2. DAN</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/fa207f7e-ff5f-418f-bf5e-07a6889c6b7a-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/fa207f7e-ff5f-418f-bf5e-07a6889c6b7a-5_0_0.png" />
   </programme>
   <programme start="20201025073000 +0000" stop="20201025094000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Kineska košarka: Zheijiang Guangsha Lions - Shenzen</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/b952726c-e89a-4282-ac37-df22951c2241-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/b952726c-e89a-4282-ac37-df22951c2241-5_0_0.png" />
   </programme>
   <programme start="20201025094000 +0000" stop="20201025100000 +0000" channel="Sport Klub 1">
     <title lang="hr">SK Mix</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/4611d926-874f-44cb-a5d6-d2278dc8f688-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/4611d926-874f-44cb-a5d6-d2278dc8f688-5_0_0.png" />
   </programme>
   <programme start="20201025100000 +0000" stop="20201025120000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Beloruska liga: Neman - Slaviya</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/ed5c1985-ded5-4e4d-89f0-2eec24392285-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/ed5c1985-ded5-4e4d-89f0-2eec24392285-5_0_0.png" />
   </programme>
   <programme start="20201025120000 +0000" stop="20201025140000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Ukrajinska košarka: Kiev - Dnipro</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/b9a95d0a-94e5-4601-927f-576d4288a11f-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/b9a95d0a-94e5-4601-927f-576d4288a11f-5_0_0.png" />
   </programme>
   <programme start="20201025140000 +0000" stop="20201025160000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Premier League: Southampton - Everton</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/41b769d7-9f61-47d7-8e6c-09ac6a7141dd-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/41b769d7-9f61-47d7-8e6c-09ac6a7141dd-5_0_0.png" />
   </programme>
   <programme start="20201025160000 +0000" stop="20201025163000 +0000" channel="Sport Klub 1">
     <title lang="hr">Premier League: Greatest Goals 1992/93</title>
@@ -32930,42 +32059,42 @@
   <programme start="20201025163000 +0000" stop="20201025183000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Premier League: Wolves - Newcastle</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/6c257c7d-f2a3-479b-bbdc-826c01c67d56-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/6c257c7d-f2a3-479b-bbdc-826c01c67d56-5_0_0.png" />
   </programme>
   <programme start="20201025183000 +0000" stop="20201025191500 +0000" channel="Sport Klub 1">
     <title lang="hr">SK Kviz - Rizik ili oprez (3. sezona - 07)</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/9c67a529-e440-402f-90db-df87b0407785-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/9c67a529-e440-402f-90db-df87b0407785-5_0_0.png" />
   </programme>
   <programme start="20201025191500 +0000" stop="20201025211500 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Premier League: Arsenal - Leicester</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2ba00734-9f4b-4ce8-adf1-c3c6e37c87be-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/2ba00734-9f4b-4ce8-adf1-c3c6e37c87be-5_0_0.png" />
   </programme>
   <programme start="20201025211500 +0000" stop="20201025214000 +0000" channel="Sport Klub 1">
     <title lang="hr">TV Automagazin</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/7cd9d27c-b73f-4211-afdf-66048b7a08ae-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/7cd9d27c-b73f-4211-afdf-66048b7a08ae-5_0_0.png" />
   </programme>
   <programme start="20201025214000 +0000" stop="20201025233000 +0000" channel="Sport Klub 1">
     <title lang="hr">Španjolska liga: Barcelona - Real Madrid</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/16400e70-17da-486c-b12c-62576924ad8a-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/16400e70-17da-486c-b12c-62576924ad8a-5_0_0.png" />
   </programme>
   <programme start="20201025233000 +0000" stop="20201026013000 +0000" channel="Sport Klub 1">
     <title lang="hr">UŽIVO: Meksička liga: Chivas - Cruz Azul</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/5a9387f6-f117-498d-873c-31ea72a3c829-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/5a9387f6-f117-498d-873c-31ea72a3c829-5_0_0.png" />
   </programme>
   <programme start="20201026013000 +0000" stop="20201026030000 +0000" channel="Sport Klub 1">
     <title lang="hr">Pallacanestro: Treviso - Cantu</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/61316ce2-c77a-4dc2-bff5-a9ce3dce6cb7-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/61316ce2-c77a-4dc2-bff5-a9ce3dce6cb7-5_0_0.png" />
   </programme>
   <programme start="20201026030000 +0000" stop="20201026050000 +0000" channel="Sport Klub 1">
     <title lang="hr">Judo Grand Slam: Budapest - 3. DAN</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/76bd92b2-35f5-4bbb-8804-6ff779f51a56-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002626/76bd92b2-35f5-4bbb-8804-6ff779f51a56-5_0_0.png" />
   </programme>
   <programme start="20201024040000 +0000" stop="20201024050000 +0000" channel="Sport Klub 2">
     <title lang="hr">Barca TV (Liga prvaka): Barcelona - Ferencvaros</title>
@@ -32975,7 +32104,7 @@
   <programme start="20201024050000 +0000" stop="20201024053000 +0000" channel="Sport Klub 2">
     <title lang="hr">Premier League - Match Pack</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/46319b51-84ad-476a-a6c7-7135ed18faed-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/46319b51-84ad-476a-a6c7-7135ed18faed-5_0_0.png" />
   </programme>
   <programme start="20201024053000 +0000" stop="20201024054000 +0000" channel="Sport Klub 2">
     <title lang="hr">Na današnji dan</title>
@@ -32985,62 +32114,62 @@
   <programme start="20201024054000 +0000" stop="20201024073000 +0000" channel="Sport Klub 2">
     <title lang="hr">Bayern TV (Liga prvaka): Bayern - Atletico Madrid</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/c69a0400-0e37-4375-9ae3-66529367c7eb-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/c69a0400-0e37-4375-9ae3-66529367c7eb-5_0_0.png" />
   </programme>
   <programme start="20201024073000 +0000" stop="20201024093000 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: Kineska liga - Playout 1/4 finale (2nd leg): Guangzhou RF - Qingdao</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/e1a7cf39-48b2-4c34-ad15-eb1f7aa6f192-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/e1a7cf39-48b2-4c34-ad15-eb1f7aa6f192-5_0_0.png" />
   </programme>
   <programme start="20201024093000 +0000" stop="20201024100000 +0000" channel="Sport Klub 2">
     <title lang="hr">Ekstremni svijet sporta</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/adcddcf6-0a29-4c18-80f0-e797f3ff803b-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/adcddcf6-0a29-4c18-80f0-e797f3ff803b-5_0_0.png" />
   </programme>
   <programme start="20201024100000 +0000" stop="20201024120000 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: Plivanje - International Swimming League: Budapest</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/d401cefb-ce69-4af2-a946-3e1758787b2b-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/d401cefb-ce69-4af2-a946-3e1758787b2b-5_0_0.png" />
   </programme>
   <programme start="20201024120000 +0000" stop="20201024133000 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: WTA Premier Ostrava - 1/2 Finale</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/9c5a2b67-b23c-4283-9471-23643c1b6bb4-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/9c5a2b67-b23c-4283-9471-23643c1b6bb4-5_0_0.png" />
   </programme>
   <programme start="20201024133000 +0000" stop="20201024172500 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: ATP Antwerpen &amp; WTA Premier Ostrava - 1/2 Finala</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/deb901a0-eebb-4ad7-9624-3404e9a0bda3-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/deb901a0-eebb-4ad7-9624-3404e9a0bda3-5_0_0.png" />
   </programme>
   <programme start="20201024172500 +0000" stop="20201024174000 +0000" channel="Sport Klub 2">
     <title lang="hr">Zlatni momenti YU sporta</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/aa3ba487-a80d-47b7-87ef-57e350da537a-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/aa3ba487-a80d-47b7-87ef-57e350da537a-5_0_0.png" />
   </programme>
   <programme start="20201024174000 +0000" stop="20201024183000 +0000" channel="Sport Klub 2">
     <title lang="hr">Pregled Eurocup</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/f1c9ed43-e50e-493e-80e1-f6a5d9f6fdda-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/f1c9ed43-e50e-493e-80e1-f6a5d9f6fdda-5_0_0.png" />
   </programme>
   <programme start="20201024183000 +0000" stop="20201024203000 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: Pallacanestro: Varese - Virtus</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/9e5f66f1-af84-410d-a550-c6faf42e4be8-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/9e5f66f1-af84-410d-a550-c6faf42e4be8-5_0_0.png" />
   </programme>
   <programme start="20201024203000 +0000" stop="20201024211000 +0000" channel="Sport Klub 2">
     <title lang="hr">Pregled Euroleague</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/7a564fc6-6491-4383-a10a-01bfa4981d52-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/7a564fc6-6491-4383-a10a-01bfa4981d52-5_0_0.png" />
   </programme>
   <programme start="20201024211000 +0000" stop="20201024230000 +0000" channel="Sport Klub 2">
     <title lang="hr">Premier League: Manchester United - Chelsea</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/47267978-209d-4640-b1ba-b278799c566b-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/47267978-209d-4640-b1ba-b278799c566b-5_0_0.png" />
   </programme>
   <programme start="20201024230000 +0000" stop="20201025014500 +0000" channel="Sport Klub 2">
     <title lang="hr">Španjolska liga: Atletico Madrid - Betis</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/376b55cf-bffd-42ad-81b4-315dba6e212a-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/376b55cf-bffd-42ad-81b4-315dba6e212a-5_0_0.png" />
   </programme>
   <programme start="20201025014500 +0000" stop="20201025021500 +0000" channel="Sport Klub 2">
     <title lang="hr">Turska odbojka (Ž): Vakifbank - Fenerbahce</title>
@@ -33050,82 +32179,82 @@
   <programme start="20201025021500 +0000" stop="20201025040000 +0000" channel="Sport Klub 2">
     <title lang="hr">Premier League: Fulham - Crystal Palace</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/57738625-5a60-442c-b035-ba3391b4dda1-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/57738625-5a60-442c-b035-ba3391b4dda1-5_0_0.png" />
   </programme>
   <programme start="20201025040000 +0000" stop="20201025050000 +0000" channel="Sport Klub 2">
     <title lang="hr">Turska košarka: Bursa - Tofas</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/62afc42e-43e7-47b0-8da4-973157282bfe-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/62afc42e-43e7-47b0-8da4-973157282bfe-5_0_0.png" />
   </programme>
   <programme start="20201025050000 +0000" stop="20201025053000 +0000" channel="Sport Klub 2">
     <title lang="hr">Turska košarka: Bursa - Tofas</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/62afc42e-43e7-47b0-8da4-973157282bfe-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/62afc42e-43e7-47b0-8da4-973157282bfe-5_0_0.png" />
   </programme>
   <programme start="20201025053000 +0000" stop="20201025071500 +0000" channel="Sport Klub 2">
     <title lang="hr">Grčka liga: Panathinaikos - Volos</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/13ad9ad5-7d08-4708-b747-8f8d61ff7b9c-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/13ad9ad5-7d08-4708-b747-8f8d61ff7b9c-5_0_0.png" />
   </programme>
   <programme start="20201025071500 +0000" stop="20201025081000 +0000" channel="Sport Klub 2">
     <title lang="hr">Moto GP Aragon II (Teruel GP): Moto GP - Kvalifikacije</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/44405b85-c1fe-4265-8872-8685a567a27c-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/44405b85-c1fe-4265-8872-8685a567a27c-5_0_0.png" />
   </programme>
   <programme start="20201025081000 +0000" stop="20201025095500 +0000" channel="Sport Klub 2">
     <title lang="hr">Premier League: Liverpool - Sheffield United</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/119e3326-15ec-40d9-962e-2d0306afdb7a-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/119e3326-15ec-40d9-962e-2d0306afdb7a-5_0_0.png" />
   </programme>
   <programme start="20201025095500 +0000" stop="20201025101000 +0000" channel="Sport Klub 2">
     <title lang="hr">Zlatni momenti YU sporta</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/c47f7822-82c7-45bb-ba42-f2cc1030ba7c-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/c47f7822-82c7-45bb-ba42-f2cc1030ba7c-5_0_0.png" />
   </programme>
   <programme start="20201025101000 +0000" stop="20201025110000 +0000" channel="Sport Klub 2">
     <title lang="hr">Pregled Eurocup</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/68d2b7b9-d20c-46c7-8e96-fa307969f39a-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/68d2b7b9-d20c-46c7-8e96-fa307969f39a-5_0_0.png" />
   </programme>
   <programme start="20201025110000 +0000" stop="20201025130000 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: Ruska liga: Ural - Tambov</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/7da5b2c7-3e9e-4293-9d9a-c377714ea4b3-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/7da5b2c7-3e9e-4293-9d9a-c377714ea4b3-5_0_0.png" />
   </programme>
   <programme start="20201025130000 +0000" stop="20201025133000 +0000" channel="Sport Klub 2">
     <title lang="hr">WTA All Access</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/69921ff6-2169-43c0-9f5d-f8b8673e476e-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/69921ff6-2169-43c0-9f5d-f8b8673e476e-5_0_0.png" />
   </programme>
   <programme start="20201025133000 +0000" stop="20201025151500 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: WTA Premier Ostrava - FINALE</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/6e433d89-cc87-490e-93bf-faaab6a07780-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/6e433d89-cc87-490e-93bf-faaab6a07780-5_0_0.png" />
   </programme>
   <programme start="20201025151500 +0000" stop="20201025153000 +0000" channel="Sport Klub 2">
     <title lang="hr">SK Moments &amp; Zlatni momenti YU sporta</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/613dfa70-1e21-4b1c-8a49-4a3a42264eaa-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/613dfa70-1e21-4b1c-8a49-4a3a42264eaa-5_0_0.png" />
   </programme>
   <programme start="20201025153000 +0000" stop="20201025160000 +0000" channel="Sport Klub 2">
     <title lang="hr">Car Fashion</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/122b0a5a-860d-43c7-919a-bbdab2f72154-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/122b0a5a-860d-43c7-919a-bbdab2f72154-5_0_0.png" />
   </programme>
   <programme start="20201025160000 +0000" stop="20201025180000 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: Plivanje - International Swimming League: Budapest</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/38d58179-fdba-46b9-acb1-3068e0fb48e8-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/38d58179-fdba-46b9-acb1-3068e0fb48e8-5_0_0.png" />
   </programme>
   <programme start="20201025180000 +0000" stop="20201025195000 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: Pallacanestro: Treviso - Cantu</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/7ddc2f10-a886-4a34-a56d-0839a7664696-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/7ddc2f10-a886-4a34-a56d-0839a7664696-5_0_0.png" />
   </programme>
   <programme start="20201025195000 +0000" stop="20201025202500 +0000" channel="Sport Klub 2">
     <title lang="hr">Pregled Euroleague</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/cf3ce508-face-457d-b6e8-8a31d3f7df6d-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/cf3ce508-face-457d-b6e8-8a31d3f7df6d-5_0_0.png" />
   </programme>
   <programme start="20201025202500 +0000" stop="20201025234500 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: NFL: Denver - Kansas City</title>
@@ -33135,82 +32264,82 @@
   <programme start="20201025234500 +0000" stop="20201026002000 +0000" channel="Sport Klub 2">
     <title lang="hr">NFL Extra</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/82ccfa35-428f-4ae1-bdc3-2b27dad329f2-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/82ccfa35-428f-4ae1-bdc3-2b27dad329f2-5_0_0.png" />
   </programme>
   <programme start="20201026002000 +0000" stop="20201026033000 +0000" channel="Sport Klub 2">
     <title lang="hr">UŽIVO: NFL: Arizona - Seattle</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/112c32cc-73da-4e95-a7af-4ea846090796-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002627/112c32cc-73da-4e95-a7af-4ea846090796-5_0_0.png" />
   </programme>
   <programme start="20201026033000 +0000" stop="20201026050000 +0000" channel="Sport Klub 2">
     <title lang="hr">Premier League: Southampton - Everton</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/6711d81d-e379-43f4-86b6-a7e8ca6e63c8-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002627/6711d81d-e379-43f4-86b6-a7e8ca6e63c8-5_0_0.png" />
   </programme>
   <programme start="20201024040000 +0000" stop="20201024050000 +0000" channel="Sport Klub 3">
     <title lang="hr">Turska odbojka (Ž): Galatasaray - Eczacibasi</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/6d3d2626-26ec-4471-90ad-dc4070666175-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/6d3d2626-26ec-4471-90ad-dc4070666175-5_0_0.png" />
   </programme>
   <programme start="20201024050000 +0000" stop="20201024055500 +0000" channel="Sport Klub 3">
     <title lang="hr">El Clasico: The Movie</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/25a78690-5d2e-413c-aaf6-abaac49be989-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/25a78690-5d2e-413c-aaf6-abaac49be989-5_0_0.png" />
   </programme>
   <programme start="20201024055500 +0000" stop="20201024073000 +0000" channel="Sport Klub 3">
     <title lang="hr">Euroleague: Crvena zvezda - CSKA</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/52570f11-19fd-4f32-97eb-ffe7258d14ea-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/52570f11-19fd-4f32-97eb-ffe7258d14ea-5_0_0.png" />
   </programme>
   <programme start="20201024073000 +0000" stop="20201024080000 +0000" channel="Sport Klub 3">
     <title lang="hr">F1 - GP Confidential</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/b30c48a0-ef28-43f4-984b-819d71c74631-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/b30c48a0-ef28-43f4-984b-819d71c74631-5_0_0.png" />
   </programme>
   <programme start="20201024080000 +0000" stop="20201024085500 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto 3 - Trening 3</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/df7355d1-6e8f-43ce-8dee-fd2b99803cd0-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/df7355d1-6e8f-43ce-8dee-fd2b99803cd0-5_0_0.png" />
   </programme>
   <programme start="20201024085500 +0000" stop="20201024095500 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto GP - Trening 3</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/54dfbb21-3af4-4c44-8541-2e31e2ea7b0c-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/54dfbb21-3af4-4c44-8541-2e31e2ea7b0c-5_0_0.png" />
   </programme>
   <programme start="20201024095500 +0000" stop="20201024104000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto 2 - Trening 3</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/fef8c7e7-5224-426d-841c-621a7d440e9e-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/fef8c7e7-5224-426d-841c-621a7d440e9e-5_0_0.png" />
   </programme>
   <programme start="20201024104000 +0000" stop="20201024111500 +0000" channel="Sport Klub 3">
     <title lang="hr">La Liga Magazin</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/7cd4aa5a-ad54-4ab7-b4df-48e91e3cce3d-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/7cd4aa5a-ad54-4ab7-b4df-48e91e3cce3d-5_0_0.png" />
   </programme>
   <programme start="20201024111500 +0000" stop="20201024121000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto 3 - Kvalifikacije</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/e4558f2c-10fe-4ba4-9803-10f5b96f11ee-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/e4558f2c-10fe-4ba4-9803-10f5b96f11ee-5_0_0.png" />
   </programme>
   <programme start="20201024121000 +0000" stop="20201024125000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto GP - Trening 4</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/5241729a-1307-42b6-8060-ebd7a56c9b97-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/5241729a-1307-42b6-8060-ebd7a56c9b97-5_0_0.png" />
   </programme>
   <programme start="20201024125000 +0000" stop="20201024135000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto GP - Kvalifikacije</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/47533a31-c914-4b68-b2d2-922a91a0cc27-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/47533a31-c914-4b68-b2d2-922a91a0cc27-5_0_0.png" />
   </programme>
   <programme start="20201024135000 +0000" stop="20201024144000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto 2 - Trening 2</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/5d63ab22-a1cc-4bd4-8ca1-9c9731b7c98f-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/5d63ab22-a1cc-4bd4-8ca1-9c9731b7c98f-5_0_0.png" />
   </programme>
   <programme start="20201024144000 +0000" stop="20201024150000 +0000" channel="Sport Klub 3">
     <title lang="hr">SK Mix</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/5def0468-1df9-4697-9b32-92a7146a5c38-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/5def0468-1df9-4697-9b32-92a7146a5c38-5_0_0.png" />
   </programme>
   <programme start="20201024150000 +0000" stop="20201024170000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Judo Grand Slam: Budapest - 2. DAN</title>
@@ -33220,67 +32349,67 @@
   <programme start="20201024170000 +0000" stop="20201024190000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Turska košarka: Buyukcekmece - Bahcesehir</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/7a9c91f9-c32d-42d1-a7bd-21e90a11cdbb-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/7a9c91f9-c32d-42d1-a7bd-21e90a11cdbb-5_0_0.png" />
   </programme>
   <programme start="20201024190000 +0000" stop="20201024192500 +0000" channel="Sport Klub 3">
     <title lang="hr">NFL Gameday</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/5086f200-8bfb-45bc-a55a-b04d2a89a582-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/5086f200-8bfb-45bc-a55a-b04d2a89a582-5_0_0.png" />
   </programme>
   <programme start="20201024192500 +0000" stop="20201024195000 +0000" channel="Sport Klub 3">
     <title lang="hr">Fast Zone</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/4752d147-8731-4e31-958c-e2aa12f9f2de-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/4752d147-8731-4e31-958c-e2aa12f9f2de-5_0_0.png" />
   </programme>
   <programme start="20201024195000 +0000" stop="20201024210000 +0000" channel="Sport Klub 3">
-    <title lang="hr">WTA Premier Ostrava / ATP Antwerpen - 1/2 Finala</title>
+    <title lang="hr">WTA Premier Ostrava &amp; ATP Antwerpen - 1/2 Finala</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/7a336358-5711-4ba8-aaae-eb8a115206bf-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/2fe38a8c-a70c-4bc1-9376-0c188a8d0b76-5_0_0.png" />
   </programme>
   <programme start="20201024210000 +0000" stop="20201024225500 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Kolumbijska liga: Once Caldas - Jaguares</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/33df6a73-cd69-423d-962b-5c12ff6cfb33-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/33df6a73-cd69-423d-962b-5c12ff6cfb33-5_0_0.png" />
   </programme>
   <programme start="20201024225500 +0000" stop="20201025013000 +0000" channel="Sport Klub 3">
     <title lang="hr">Pallacanestro: Reggio Emilia - Brescia</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/60b3e49a-37c2-4e75-8953-3cd9b92c14d8-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/60b3e49a-37c2-4e75-8953-3cd9b92c14d8-5_0_0.png" />
   </programme>
   <programme start="20201025013000 +0000" stop="20201025021500 +0000" channel="Sport Klub 3">
     <title lang="hr">Premier League: Liverpool - Sheffield United</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/f1a92fd1-f07d-4575-ac65-931572407712-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/f1a92fd1-f07d-4575-ac65-931572407712-5_0_0.png" />
   </programme>
   <programme start="20201025021500 +0000" stop="20201025034500 +0000" channel="Sport Klub 3">
     <title lang="hr">Njemačka košarka: Wurzburg - Brose</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/8cefb897-7e17-46d3-83db-00c049884d70-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/8cefb897-7e17-46d3-83db-00c049884d70-5_0_0.png" />
   </programme>
   <programme start="20201025034500 +0000" stop="20201025041500 +0000" channel="Sport Klub 3">
     <title lang="hr">Pregled Euroleague</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/96835ddb-4caa-431b-8f7c-091f6ee81acd-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/96835ddb-4caa-431b-8f7c-091f6ee81acd-5_0_0.png" />
   </programme>
   <programme start="20201025041500 +0000" stop="20201025050000 +0000" channel="Sport Klub 3">
     <title lang="hr">Španjolska liga: Sevilla - Eibar</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/3a4a6d33-d45c-49e1-81ee-fb194dc9c2cd-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/3a4a6d33-d45c-49e1-81ee-fb194dc9c2cd-5_0_0.png" />
   </programme>
   <programme start="20201025050000 +0000" stop="20201025055500 +0000" channel="Sport Klub 3">
     <title lang="hr">Španjolska liga: Sevilla - Eibar</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/3a4a6d33-d45c-49e1-81ee-fb194dc9c2cd-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001998/3a4a6d33-d45c-49e1-81ee-fb194dc9c2cd-5_0_0.png" />
   </programme>
   <programme start="20201025055500 +0000" stop="20201025072500 +0000" channel="Sport Klub 3">
     <title lang="hr">Pallacanestro: Varese - Virtus</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/2dfcf14c-e1c9-42b4-8ea3-b35f08d4bf04-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/2dfcf14c-e1c9-42b4-8ea3-b35f08d4bf04-5_0_0.png" />
   </programme>
   <programme start="20201025072500 +0000" stop="20201025075000 +0000" channel="Sport Klub 3">
     <title lang="hr">Car Fashion</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/e708e8c7-6b80-4810-82bd-31b823f685ce-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/e708e8c7-6b80-4810-82bd-31b823f685ce-5_0_0.png" />
   </programme>
   <programme start="20201025075000 +0000" stop="20201025082000 +0000" channel="Sport Klub 3">
     <title lang="hr">Ekstremni svet sporta</title>
@@ -33290,42 +32419,42 @@
   <programme start="20201025082000 +0000" stop="20201025085000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto 3 - Warm Up</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/222ef237-fca4-4372-b31c-7678d35a9a00-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/222ef237-fca4-4372-b31c-7678d35a9a00-5_0_0.png" />
   </programme>
   <programme start="20201025085000 +0000" stop="20201025092000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto GP - Warm Up</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/584b0310-70a7-46f6-b318-408bb8ae0e65-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/584b0310-70a7-46f6-b318-408bb8ae0e65-5_0_0.png" />
   </programme>
   <programme start="20201025092000 +0000" stop="20201025094500 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto 2 - Warm Up</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/4638001e-535c-40e0-8c79-0f02d7deb1c2-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/4638001e-535c-40e0-8c79-0f02d7deb1c2-5_0_0.png" />
   </programme>
   <programme start="20201025094500 +0000" stop="20201025102000 +0000" channel="Sport Klub 3">
     <title lang="hr">NFL Extra</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/bbd50ea9-86cb-4a80-b27c-a5685d1f4e19-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/bbd50ea9-86cb-4a80-b27c-a5685d1f4e19-5_0_0.png" />
   </programme>
   <programme start="20201025102000 +0000" stop="20201025120000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto 3 - UTRKA</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/a6237480-f3f4-42e7-a98b-568b4dc2b0a7-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/a6237480-f3f4-42e7-a98b-568b4dc2b0a7-5_0_0.png" />
   </programme>
   <programme start="20201025120000 +0000" stop="20201025133000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto GP - UTRKA</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/ae8cd54c-f15f-42c0-a591-797801ad80c8-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/ae8cd54c-f15f-42c0-a591-797801ad80c8-5_0_0.png" />
   </programme>
   <programme start="20201025133000 +0000" stop="20201025150000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Aragon II (Teruel GP): Moto 2 - UTRKA</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/4d6222b8-a36d-4acc-a0d8-b9c0286a9f1e-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/4d6222b8-a36d-4acc-a0d8-b9c0286a9f1e-5_0_0.png" />
   </programme>
   <programme start="20201025150000 +0000" stop="20201025154500 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Moto GP Rookies Cup: Aragon II - 2. UTRKA</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/fa59ab87-5243-4a4e-862b-5094dd940693-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/fa59ab87-5243-4a4e-862b-5094dd940693-5_0_0.png" />
   </programme>
   <programme start="20201025154500 +0000" stop="20201025160000 +0000" channel="Sport Klub 3">
     <title lang="hr">Na današnji dan</title>
@@ -33335,12 +32464,12 @@
   <programme start="20201025160000 +0000" stop="20201025181500 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Judo Grand Slam: Budapest - 3. DAN</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/11fcdc54-bb5f-46b1-882a-1d3b8663d248-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/11fcdc54-bb5f-46b1-882a-1d3b8663d248-5_0_0.png" />
   </programme>
   <programme start="20201025181500 +0000" stop="20201025183000 +0000" channel="Sport Klub 3">
     <title lang="hr">SK Mix</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/b69ea0ef-c1ad-4675-a5d9-0dbc4ba37a37-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/b69ea0ef-c1ad-4675-a5d9-0dbc4ba37a37-5_0_0.png" />
   </programme>
   <programme start="20201025183000 +0000" stop="20201025203000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Pallacanestro: Trieste - Brindisi</title>
@@ -33350,27 +32479,27 @@
   <programme start="20201025203000 +0000" stop="20201025210000 +0000" channel="Sport Klub 3">
     <title lang="hr">Legende o legendama: Miljan Miljanić</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/61de1a58-08b0-4a9f-afcd-da5d6d97955a-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/61de1a58-08b0-4a9f-afcd-da5d6d97955a-5_0_0.png" />
   </programme>
   <programme start="20201025210000 +0000" stop="20201025230500 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Kolumbijska liga: Santa Fe - Boyaca Chico</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/822e2e22-fad8-465c-9f57-8a02eb40319a-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/822e2e22-fad8-465c-9f57-8a02eb40319a-5_0_0.png" />
   </programme>
   <programme start="20201025230500 +0000" stop="20201026010000 +0000" channel="Sport Klub 3">
     <title lang="hr">UŽIVO: Kolumbijska liga: America Cali - Pasto</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/dc252257-c32c-4ea8-a194-6a5aaae2df68-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/dc252257-c32c-4ea8-a194-6a5aaae2df68-5_0_0.png" />
   </programme>
   <programme start="20201026010000 +0000" stop="20201026025000 +0000" channel="Sport Klub 3">
     <title lang="hr">Premier League: Wolves - Newcastle</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/fcc02420-a15f-4576-91e7-2f418fa490f7-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/fcc02420-a15f-4576-91e7-2f418fa490f7-5_0_0.png" />
   </programme>
   <programme start="20201026025000 +0000" stop="20201026042500 +0000" channel="Sport Klub 3">
     <title lang="hr">Talijanska odbojka (M): Verona - Latina</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/81692a3b-8638-4ef9-90ef-3fbd263c32ec-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001998/81692a3b-8638-4ef9-90ef-3fbd263c32ec-5_0_0.png" />
   </programme>
   <programme start="20201026042500 +0000" stop="20201026050000 +0000" channel="Sport Klub 3">
     <title lang="hr">Trans World Sport</title>
@@ -33380,17 +32509,17 @@
   <programme start="20201024040000 +0000" stop="20201024055000 +0000" channel="Sport Klub 4">
     <title lang="hr">Segunda division: Espanyol - Mirandes</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001999/bd7cd7fa-ce3f-4634-97e1-762b5445cdb6-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100001999/bd7cd7fa-ce3f-4634-97e1-762b5445cdb6-5_0_0.png" />
   </programme>
   <programme start="20201024055000 +0000" stop="20201024073500 +0000" channel="Sport Klub 4">
     <title lang="hr">Kineska liga Playout - 1/4 Finale (2nd leg): Shenzhen - Tianjin Teda</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/357beaca-44d7-4efe-9f8a-1c7de98d127e-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/357beaca-44d7-4efe-9f8a-1c7de98d127e-5_0_0.png" />
   </programme>
   <programme start="20201024073500 +0000" stop="20201024091500 +0000" channel="Sport Klub 4">
     <title lang="hr">3. Bundesliga: Uerdingen - Wiesbaden</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/fa985412-19ad-4061-aa7c-28b689de18d6-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/fa985412-19ad-4061-aa7c-28b689de18d6-5_0_0.png" />
   </programme>
   <programme start="20201024091500 +0000" stop="20201024110500 +0000" channel="Sport Klub 4">
     <title lang="hr">Premier League: Aston Villa - Leeds</title>
@@ -33400,17 +32529,17 @@
   <programme start="20201024110500 +0000" stop="20201024113500 +0000" channel="Sport Klub 4">
     <title lang="hr">Ekstremni svijet sporta (2020 - 36)</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/5823d83e-0c1a-42dd-9183-91bed77a74ac-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/5823d83e-0c1a-42dd-9183-91bed77a74ac-5_0_0.png" />
   </programme>
   <programme start="20201024113500 +0000" stop="20201024133000 +0000" channel="Sport Klub 4">
     <title lang="hr">UŽIVO: Kineska liga Playoff - 1/4 Finale (2nd leg): Jiangsu - Chongqing</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/141d9189-3fb3-4664-9b52-5045cd34f6e2-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/141d9189-3fb3-4664-9b52-5045cd34f6e2-5_0_0.png" />
   </programme>
   <programme start="20201024133000 +0000" stop="20201024140000 +0000" channel="Sport Klub 4">
     <title lang="hr">Premier League Magazin</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/588426e7-6bda-4912-b674-0d5b413b5a66-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/588426e7-6bda-4912-b674-0d5b413b5a66-5_0_0.png" />
   </programme>
   <programme start="20201024140000 +0000" stop="20201024160000 +0000" channel="Sport Klub 4">
     <title lang="hr">UŽIVO: Premier League: Fulham - Crystal Palace</title>
@@ -33420,37 +32549,37 @@
   <programme start="20201024160000 +0000" stop="20201024163000 +0000" channel="Sport Klub 4">
     <title lang="hr">Rivalitet legendi</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/78ce366e-8908-45b2-ac98-8bae2261a08b-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/78ce366e-8908-45b2-ac98-8bae2261a08b-5_0_0.png" />
   </programme>
   <programme start="20201024163000 +0000" stop="20201024183000 +0000" channel="Sport Klub 4">
     <title lang="hr">UŽIVO: Španjolska liga: Sevilla - Eibar</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/bd015230-c19a-4f76-aecf-878f418f3a48-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/bd015230-c19a-4f76-aecf-878f418f3a48-5_0_0.png" />
   </programme>
   <programme start="20201024183000 +0000" stop="20201024203000 +0000" channel="Sport Klub 4">
     <title lang="hr">UŽIVO: Pallacanestro: Reggio Emilia - Brescia</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/dcdc6ba6-eac6-4a93-bf30-c645577168b8-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/dcdc6ba6-eac6-4a93-bf30-c645577168b8-5_0_0.png" />
   </programme>
   <programme start="20201024203000 +0000" stop="20201024205500 +0000" channel="Sport Klub 4">
     <title lang="hr">Posveta zvijezdama</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/ac6a0e7f-6d38-4420-b5b0-39e0e9199840-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/ac6a0e7f-6d38-4420-b5b0-39e0e9199840-5_0_0.png" />
   </programme>
   <programme start="20201024205500 +0000" stop="20201024224000 +0000" channel="Sport Klub 4">
     <title lang="hr">Segunda division: Leganes - Zaragoza</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/aa74aefa-a774-4e45-a196-95b0ba377949-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/aa74aefa-a774-4e45-a196-95b0ba377949-5_0_0.png" />
   </programme>
   <programme start="20201024224000 +0000" stop="20201025012500 +0000" channel="Sport Klub 4">
     <title lang="hr">Kineska liga Playout - 1/4 Finale (2nd leg): Shijazhuang - Dalian</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/8f2cd698-ae9d-4303-a7d7-2bab8df2f82d-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/8f2cd698-ae9d-4303-a7d7-2bab8df2f82d-5_0_0.png" />
   </programme>
   <programme start="20201025012500 +0000" stop="20201025015000 +0000" channel="Sport Klub 4">
     <title lang="hr">Uži izbor</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/c3d7eed9-87f8-4c51-a2b0-0ef03bcf4b1f-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/c3d7eed9-87f8-4c51-a2b0-0ef03bcf4b1f-5_0_0.png" />
   </programme>
   <programme start="20201025015000 +0000" stop="20201025024000 +0000" channel="Sport Klub 4">
     <title lang="hr">Championship: Nottingham Forest - Derby</title>
@@ -33460,7 +32589,7 @@
   <programme start="20201025024000 +0000" stop="20201025031000 +0000" channel="Sport Klub 4">
     <title lang="hr">Premier League magazin specijal: One Club Man</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/5e02cd3a-dba8-4226-b9ec-bc43e1c06e1c-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/5e02cd3a-dba8-4226-b9ec-bc43e1c06e1c-5_0_0.png" />
   </programme>
   <programme start="20201025031000 +0000" stop="20201025034000 +0000" channel="Sport Klub 4">
     <title lang="hr">Premier League magazin specijal: Crossing the Divide</title>
@@ -33470,62 +32599,62 @@
   <programme start="20201025034000 +0000" stop="20201025050000 +0000" channel="Sport Klub 4">
     <title lang="hr">3. Bundesliga: Munchen 1860 - Saarbrucken</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/4f34f836-bb56-462b-915f-4b0f21a9dc27-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/4f34f836-bb56-462b-915f-4b0f21a9dc27-5_0_0.png" />
   </programme>
   <programme start="20201025050000 +0000" stop="20201025052000 +0000" channel="Sport Klub 4">
     <title lang="hr">3. Bundesliga: Munchen 1860 - Saarbrucken</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/4f34f836-bb56-462b-915f-4b0f21a9dc27-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/4f34f836-bb56-462b-915f-4b0f21a9dc27-5_0_0.png" />
   </programme>
   <programme start="20201025052000 +0000" stop="20201025071000 +0000" channel="Sport Klub 4">
     <title lang="hr">Premier League: West Ham - Manchester City</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/b1ddbd35-fa25-45d1-9d72-140dd3bc283a-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/b1ddbd35-fa25-45d1-9d72-140dd3bc283a-5_0_0.png" />
   </programme>
   <programme start="20201025071000 +0000" stop="20201025085000 +0000" channel="Sport Klub 4">
     <title lang="hr">Finska liga: SJK- Ilves</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/095ddd38-0597-426b-b768-90ceac0114a3-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/095ddd38-0597-426b-b768-90ceac0114a3-5_0_0.png" />
   </programme>
   <programme start="20201025085000 +0000" stop="20201025103500 +0000" channel="Sport Klub 4">
     <title lang="hr">Segunda division: Malaga - Gijon</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/e2b8180d-395c-49ca-9fab-a65bf2159b32-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/e2b8180d-395c-49ca-9fab-a65bf2159b32-5_0_0.png" />
   </programme>
   <programme start="20201025103500 +0000" stop="20201025120000 +0000" channel="Sport Klub 4">
     <title lang="hr">Brazilski futsal: Minas - Intelli</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/70d18e39-a0c2-4119-9b77-1cab0bf4b784-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/70d18e39-a0c2-4119-9b77-1cab0bf4b784-5_0_0.png" />
   </programme>
   <programme start="20201025120000 +0000" stop="20201025140000 +0000" channel="Sport Klub 4">
     <title lang="hr">UŽIVO: Bjeloruska liga: Energetik - Shakhtyor Soligorsk</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/f4a8f92c-3186-41f4-8d87-e871ba6144bd-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/f4a8f92c-3186-41f4-8d87-e871ba6144bd-5_0_0.png" />
   </programme>
   <programme start="20201025140000 +0000" stop="20201025143000 +0000" channel="Sport Klub 4">
     <title lang="hr">Ekstremni svijet sporta</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/24728ba9-aefb-4b88-9a2c-545d2c4ceddf-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/24728ba9-aefb-4b88-9a2c-545d2c4ceddf-5_0_0.png" />
   </programme>
   <programme start="20201025143000 +0000" stop="20201025150000 +0000" channel="Sport Klub 4">
     <title lang="hr">Rivalitet legendi</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/82107b46-116a-4fc2-9e8f-5f2a0c910af9-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/82107b46-116a-4fc2-9e8f-5f2a0c910af9-5_0_0.png" />
   </programme>
   <programme start="20201025150000 +0000" stop="20201025170000 +0000" channel="Sport Klub 4">
     <title lang="hr">UŽIVO: Slovačka liga: DAC Streda - Slovan</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/69e2e96f-6189-4b89-a9b9-b123c984f05c-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/69e2e96f-6189-4b89-a9b9-b123c984f05c-5_0_0.png" />
   </programme>
   <programme start="20201025170000 +0000" stop="20201025201500 +0000" channel="Sport Klub 4">
     <title lang="hr">UŽIVO: NFL: Houston - Green Bay</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/b0e3bd20-d9c9-4a25-8d01-abb8a230e26a-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/b0e3bd20-d9c9-4a25-8d01-abb8a230e26a-5_0_0.png" />
   </programme>
   <programme start="20201025201500 +0000" stop="20201025215500 +0000" channel="Sport Klub 4">
     <title lang="hr">3. Bundesliga: Zwickau - Turkgucu</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/adc0382a-c539-4f24-b979-b7713cc19115-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/adc0382a-c539-4f24-b979-b7713cc19115-5_0_0.png" />
   </programme>
   <programme start="20201025215500 +0000" stop="20201025222000 +0000" channel="Sport Klub 4">
     <title lang="hr">Posveta zvijezdama</title>
@@ -33535,12 +32664,12 @@
   <programme start="20201025222000 +0000" stop="20201026000500 +0000" channel="Sport Klub 4">
     <title lang="hr">Kineska liga Playout - 1/4 Finale (2nd leg): Wuhan - Henan</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/0cc8394f-2b86-447e-aed7-739f93433387-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/0cc8394f-2b86-447e-aed7-739f93433387-5_0_0.png" />
   </programme>
   <programme start="20201026000500 +0000" stop="20201026015000 +0000" channel="Sport Klub 4">
     <title lang="hr">Japanska liga: Gamba Osaka - Kashiwa</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/9cb066c9-7202-4680-8b37-e6e75d75247e-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/9cb066c9-7202-4680-8b37-e6e75d75247e-5_0_0.png" />
   </programme>
   <programme start="20201026015000 +0000" stop="20201026021500 +0000" channel="Sport Klub 4">
     <title lang="hr">Uži izbor</title>
@@ -33550,57 +32679,57 @@
   <programme start="20201026021500 +0000" stop="20201026035500 +0000" channel="Sport Klub 4">
     <title lang="hr">Ruska liga: Dynamo - Sochi</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/45a73221-49ea-4734-ba10-5bd4712efdb0-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/45a73221-49ea-4734-ba10-5bd4712efdb0-5_0_0.png" />
   </programme>
   <programme start="20201026035500 +0000" stop="20201026050000 +0000" channel="Sport Klub 4">
     <title lang="hr">Championship: Cardiff - Middlesbrough</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/5f33027f-d792-4a92-ab72-8ff36e3ea1a9-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100001999/5f33027f-d792-4a92-ab72-8ff36e3ea1a9-5_0_0.png" />
   </programme>
   <programme start="20201024040000 +0000" stop="20201024050000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002000/c32adca3-b9d6-4f47-82da-65c1ff375b4b-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201023/000200/XTV100002000/c32adca3-b9d6-4f47-82da-65c1ff375b4b-5_0_0.png" />
   </programme>
   <programme start="20201024050000 +0000" stop="20201024090000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/17bc7a19-f5a9-4ad7-a0b2-7ef4cf33744a-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/17bc7a19-f5a9-4ad7-a0b2-7ef4cf33744a-5_0_0.png" />
   </programme>
   <programme start="20201024090000 +0000" stop="20201024100000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/c1e0b5db-9e70-434d-8d6c-61a9a6378168-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/c1e0b5db-9e70-434d-8d6c-61a9a6378168-5_0_0.png" />
   </programme>
   <programme start="20201024100000 +0000" stop="20201024120000 +0000" channel="Sport Klub 5">
     <title lang="hr">UŽIVO: Turska košarka: Bursa - Tofas</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/91c60a32-c401-48d4-9602-c356a9896607-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/91c60a32-c401-48d4-9602-c356a9896607-5_0_0.png" />
   </programme>
   <programme start="20201024120000 +0000" stop="20201024140000 +0000" channel="Sport Klub 5">
     <title lang="hr">UŽIVO: 3. Bundesliga: Duisburg - Uerdingen</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/5a275726-f709-494e-9d13-dda19ba6670f-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/5a275726-f709-494e-9d13-dda19ba6670f-5_0_0.png" />
   </programme>
   <programme start="20201024140000 +0000" stop="20201024160000 +0000" channel="Sport Klub 5">
     <title lang="hr">UŽIVO: Ukrajinska liga: Olimpik - Desna</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/ccfd0e16-c6d0-4f59-86bc-1356ef25225b-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/ccfd0e16-c6d0-4f59-86bc-1356ef25225b-5_0_0.png" />
   </programme>
   <programme start="20201024160000 +0000" stop="20201024180000 +0000" channel="Sport Klub 5">
     <title lang="hr">UŽIVO: Ruska liga: Krasnodar - Spartak</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/b21bc9ef-6133-4a67-a71e-815fe3204f79-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/b21bc9ef-6133-4a67-a71e-815fe3204f79-5_0_0.png" />
   </programme>
   <programme start="20201024180000 +0000" stop="20201024220000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/c86338c9-826a-4865-adbb-0c0471ea86f4-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/c86338c9-826a-4865-adbb-0c0471ea86f4-5_0_0.png" />
   </programme>
   <programme start="20201024220000 +0000" stop="20201025020000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/9a9f6e96-fe42-4863-9715-c17745365552-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/9a9f6e96-fe42-4863-9715-c17745365552-5_0_0.png" />
   </programme>
   <programme start="20201025020000 +0000" stop="20201025050000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
@@ -33610,97 +32739,97 @@
   <programme start="20201025050000 +0000" stop="20201025060000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/5126e455-057e-48e2-974a-e5de87f9543e-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/5126e455-057e-48e2-974a-e5de87f9543e-5_0_0.png" />
   </programme>
   <programme start="20201025060000 +0000" stop="20201025100000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/5a19e5f5-1b8e-4e64-832d-8affc9ea61b7-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/5a19e5f5-1b8e-4e64-832d-8affc9ea61b7-5_0_0.png" />
   </programme>
   <programme start="20201025100000 +0000" stop="20201025121500 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/de15d785-7367-47b2-8fe9-e71237e56d6c-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/de15d785-7367-47b2-8fe9-e71237e56d6c-5_0_0.png" />
   </programme>
   <programme start="20201025121500 +0000" stop="20201025150000 +0000" channel="Sport Klub 5">
     <title lang="hr">UŽIVO: Turska košarka: Galatasaray - Gaziantep</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/61a469ac-f544-4428-836b-5d7bb82565f4-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/61a469ac-f544-4428-836b-5d7bb82565f4-5_0_0.png" />
   </programme>
   <programme start="20201025150000 +0000" stop="20201025171500 +0000" channel="Sport Klub 5">
     <title lang="hr">UŽIVO: Litvanska košarka: Rytas - Zalgiris</title>
     <category lang="hr">Sport</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/a49f5950-1a0d-46ab-9094-34771d861cc4-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/a49f5950-1a0d-46ab-9094-34771d861cc4-5_0_0.png" />
   </programme>
   <programme start="20201025171500 +0000" stop="20201025193000 +0000" channel="Sport Klub 5">
     <title lang="hr">UŽIVO: Segunda division: Tenerife - Espanyol</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/067a8b06-8017-43f4-8882-7ec87301bb8f-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/067a8b06-8017-43f4-8882-7ec87301bb8f-5_0_0.png" />
   </programme>
   <programme start="20201025193000 +0000" stop="20201025213000 +0000" channel="Sport Klub 5">
     <title lang="hr">UŽIVO: Njemačka košarka: Brose - Ludwigsburg</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/ab91d314-8a61-415e-87ec-938451688925-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/ab91d314-8a61-415e-87ec-938451688925-5_0_0.png" />
   </programme>
   <programme start="20201025213000 +0000" stop="20201026013000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/db5dafa4-5007-43da-b24e-b9d35e057ffc-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/db5dafa4-5007-43da-b24e-b9d35e057ffc-5_0_0.png" />
   </programme>
   <programme start="20201026013000 +0000" stop="20201026050000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/0518f312-a366-4f43-a8bc-329d7e7f41bb-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/0518f312-a366-4f43-a8bc-329d7e7f41bb-5_0_0.png" />
   </programme>
   <programme start="20201026050000 +0000" stop="20201026053000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/0518f312-a366-4f43-a8bc-329d7e7f41bb-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/0518f312-a366-4f43-a8bc-329d7e7f41bb-5_0_0.png" />
   </programme>
   <programme start="20201026053000 +0000" stop="20201026093000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/31b8dd46-9ad5-4ec4-9f95-0db4cad140d4-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/31b8dd46-9ad5-4ec4-9f95-0db4cad140d4-5_0_0.png" />
   </programme>
   <programme start="20201026093000 +0000" stop="20201026133000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/6cf27810-e9e5-4e80-8764-6b591b528fdb-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/6cf27810-e9e5-4e80-8764-6b591b528fdb-5_0_0.png" />
   </programme>
   <programme start="20201026133000 +0000" stop="20201026173000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/e0ceb714-4669-42a8-bc46-4a954cc00594-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/e0ceb714-4669-42a8-bc46-4a954cc00594-5_0_0.png" />
   </programme>
   <programme start="20201026173000 +0000" stop="20201026213000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/dc6df736-2551-453c-b406-1518ba088c66-5_0_0.png" />
+    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/dc6df736-2551-453c-b406-1518ba088c66-5_0_0.png" />
   </programme>
   <programme start="20201026213000 +0000" stop="20201027013000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/a412b2dc-77da-4b93-b343-c53146cd7d62-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/a412b2dc-77da-4b93-b343-c53146cd7d62-5_0_0.png" />
   </programme>
   <programme start="20201027013000 +0000" stop="20201027050000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/9fecbbcc-c65a-4320-b401-c5095130c48a-5_0_0.png" />
+    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/9fecbbcc-c65a-4320-b401-c5095130c48a-5_0_0.png" />
   </programme>
   <programme start="20201027050000 +0000" stop="20201027053000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg7.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/9fecbbcc-c65a-4320-b401-c5095130c48a-5_0_0.png" />
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/9fecbbcc-c65a-4320-b401-c5095130c48a-5_0_0.png" />
   </programme>
   <programme start="20201027053000 +0000" stop="20201027093000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg3.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/bd81c111-4cd8-49b6-b671-c42ec20fbad7-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/bd81c111-4cd8-49b6-b671-c42ec20fbad7-5_0_0.png" />
   </programme>
   <programme start="20201027093000 +0000" stop="20201027133000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/dde488f2-4af4-4d28-815f-86b7ea163904-5_0_0.png" />
+    <icon src="http://ottepg2.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/dde488f2-4af4-4d28-815f-86b7ea163904-5_0_0.png" />
   </programme>
   <programme start="20201027133000 +0000" stop="20201027173000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
@@ -33710,45 +32839,12 @@
   <programme start="20201027173000 +0000" stop="20201027213000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg5.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/9d5ccb48-1711-40ba-894a-ca6a0c7521f2-5_0_0.png" />
+    <icon src="http://ottepg6.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/9d5ccb48-1711-40ba-894a-ca6a0c7521f2-5_0_0.png" />
   </programme>
   <programme start="20201027213000 +0000" stop="20201028013000 +0000" channel="Sport Klub 5">
     <title lang="hr">Najava programa</title>
     <category lang="hr">ostalo</category>
-    <icon src="http://ottepg1.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/d2cd7634-5fd9-4f1b-8c77-e4f46a8d6bc0-5_0_0.png" />
-  </programme>
-  <programme start="20201024043000 -0700" stop="20201024050000 -0700" channel="BEINS1 beIN Sports">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.(n)</desc>
-  </programme>
-  <programme start="20201024050000 -0700" stop="20201024053000 -0700" channel="BEINS1 beIN Sports">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.(n)</desc>
-  </programme>
-  <programme start="20201024053000 -0700" stop="20201024060000 -0700" channel="BEINS1 beIN Sports">
-    <title lang="en">Analyzing El Clasico</title>
-    <desc lang="en">Pre-game show of the Spanish classic: Barcelona vs. Madrid.(n)</desc>
-  </programme>
-  <programme start="20201024060000 -0700" stop="20201024064500 -0700" channel="BEINS1 beIN Sports">
-    <title lang="en">The Express Preview</title>
-    <sub-title lang="en">El Clásico</sub-title>
-  </programme>
-  <programme start="20201024064500 -0700" stop="20201024090500 -0700" channel="BEINS1 beIN Sports">
-    <title lang="en">Spanish Primera Division Soccer</title>
-    <sub-title lang="en">FC Barcelona vs. Real Madrid</sub-title>
-    <desc lang="en">Round 7; from the Camp Nou stadium.(n)</desc>
-  </programme>
-  <programme start="20201024090500 -0700" stop="20201024092000 -0700" channel="BEINS1 beIN Sports">
-    <title lang="en">The Express Postgame: El Clasico</title>
-  </programme>
-  <programme start="20201024092000 -0700" stop="20201024113000 -0700" channel="BEINS1 beIN Sports">
-    <title lang="en">Spanish Primera Division Soccer</title>
-    <sub-title lang="en">Sevilla vs. Eibar</sub-title>
-    <desc lang="en">Round 7; from the Ramon Sanchez Pizjuan stadium.(n)</desc>
-  </programme>
-  <programme start="20201024113000 -0700" stop="20201024115500 -0700" channel="BEINS1 beIN Sports">
-    <title lang="en">The Express</title>
-    <desc lang="en">Coverage of all live soccer action before the match including special reporting and analysis.(n)</desc>
+    <icon src="http://ottepg4.nexttv.ht.hr:33200/EPG/jsp/images/universal/film/poster/fileEntity/20201024/000200/XTV100002000/d2cd7634-5fd9-4f1b-8c77-e4f46a8d6bc0-5_0_0.png" />
   </programme>
   <programme start="20201024115500 -0700" stop="20201024140000 -0700" channel="BEINS1 beIN Sports">
     <title lang="en">French Ligue 1 Soccer</title>
@@ -36738,31 +35834,23 @@
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20201024133000 +0000" stop="20201024153000 +0000" channel="HD8 English">
-    <title lang="en">ATP 250 Antwerp 2020 - Semi Final 1</title>
+    <title lang="en">Daniel EVANS (GBR) vs Ugo HUMBERT (FRA) - ATP 250 Antwerp 2020 - Semi Final 1</title>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20201024153000 +0000" stop="20201024173000 +0000" channel="HD8 English">
-    <title lang="en">ATP 250 Antwerp 2020 - Semi Final 2</title>
+  <programme start="20201024153000 +0000" stop="20201024193000 +0000" channel="HD8 English">
+    <title lang="en">Alex DE MINAUR (AUS) [8] vs Grigor DIMITROV (BUL) - ATP 250 Antwerp 2020 - Semi Final 2</title>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20201024173000 +0000" stop="20201024180000 +0000" channel="HD8 English">
-    <title lang="en">NBA Finals 2020 Review</title>
-    <category lang="en">Basketball - NBA</category>
+  <programme start="20201024193000 +0000" stop="20201024200000 +0000" channel="HD8 English">
+    <title lang="en">Sporting Greats - Carl Fogarty</title>
+    <category lang="en">Sports General</category>
   </programme>
-  <programme start="20201024180000 +0000" stop="20201024183000 +0000" channel="HD8 English">
+  <programme start="20201024200000 +0000" stop="20201024203000 +0000" channel="HD8 English">
     <title lang="en">NBA Action 2019/2020</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20201024183000 +0000" stop="20201024190000 +0000" channel="HD8 English">
-    <title lang="en">Motor Sports - FASTZONE 20/21</title>
-    <category lang="en">Sports General</category>
-  </programme>
-  <programme start="20201024190000 +0000" stop="20201024203000 +0000" channel="HD8 English">
-    <title lang="en">IndyCar Series - Harvest GP 2020 - Grand Prix of St. Petersburg Qualifying</title>
-    <category lang="en">Sports General</category>
-  </programme>
   <programme start="20201024203000 +0000" stop="20201024210000 +0000" channel="HD8 English">
-    <title lang="en">Sporting Greats - Carl Fogarty</title>
+    <title lang="en">Motor Sports - FASTZONE 20/21</title>
     <category lang="en">Sports General</category>
   </programme>
   <programme start="20201024210000 +0000" stop="20201024220000 +0000" channel="HD8 English">
@@ -36861,19 +35949,19 @@
     <title lang="en">V. Azarenka (BLR) vs E. Mertens (BEL) - Tennis WTA Premier - Ostrava Open - Czech Republic 2020 -D4M</title>
     <category lang="en">Tennis - WTA</category>
   </programme>
-  <programme start="20201024031500 +0000" stop="20201024053000 +0000" channel="HD9 English">
+  <programme start="20201024031500 +0000" stop="20201024052700 +0000" channel="HD9 English">
     <title lang="en">J. Brady (USA) vs [Q] V. Kudermetova (RUS) - Tennis WTA Premier - Ostrava Open - Czech Republic 2020</title>
     <category lang="en">Tennis - WTA</category>
   </programme>
-  <programme start="20201024053000 +0000" stop="20201024073000 +0000" channel="HD9 English">
+  <programme start="20201024052700 +0000" stop="20201024074200 +0000" channel="HD9 English">
     <title lang="en">S. Sorribes Tormo (ESP) vs A. Sabalenka (BLR) - Tennis WTA Premier - Ostrava Open - Czech Republic 2</title>
     <category lang="en">Tennis - WTA</category>
   </programme>
-  <programme start="20201024073000 +0000" stop="20201024080000 +0000" channel="HD9 English">
+  <programme start="20201024074200 +0000" stop="20201024080500 +0000" channel="HD9 English">
     <title lang="en">Roland-Garros -Kuerten</title>
     <category lang="en">Sports General</category>
   </programme>
-  <programme start="20201024080000 +0000" stop="20201024090000 +0000" channel="HD9 English">
+  <programme start="20201024080500 +0000" stop="20201024090000 +0000" channel="HD9 English">
     <title lang="en">Roland-Garros - Review  2020</title>
     <category lang="en">Sports General</category>
   </programme>
@@ -36893,17 +35981,17 @@
     <title lang="en">M. Sakkari (GRE) vs V. Azarenka (BLR) - Tennis WTA Premier - Ostrava Open - Czech Republic 2020 - D5</title>
     <category lang="en">Tennis - WTA</category>
   </programme>
-  <programme start="20201024133000 +0000" stop="20201024155700 +0000" channel="HD9 English">
-    <title lang="en">S. Sorribes Tormo (ESP) or A. Sabalenka (BLR) vs J. Brady (USA) - Tennis WTA Premier - Ostrava Open</title>
+  <programme start="20201024133000 +0000" stop="20201024153000 +0000" channel="HD9 English">
+    <title lang="en">S. Sorribes Tormo (ESP) vs J. Brady (USA) - Tennis WTA Premier - Ostrava Open - Czech Republic 2020</title>
     <category lang="en">Tennis - WTA</category>
   </programme>
-  <programme start="20201024155700 +0000" stop="20201024162600 +0000" channel="HD9 English">
+  <programme start="20201024153000 +0000" stop="20201024163000 +0000" channel="HD9 English">
     <title lang="en">WTA - My performance Rome OPEN 2019 Semi-Final  Johanna Konta</title>
     <category lang="en">Tennis</category>
   </programme>
-  <programme start="20201024162600 +0000" stop="20201024190300 +0000" channel="HD9 English">
-    <title lang="en">Borna Coric (CRO) vs Andrey Rublev (RUS) - Tennis ATP 500 St. Petersburg Open - 2020 - Sinlges Final</title>
-    <category lang="en">Tennis - ATP 500</category>
+  <programme start="20201024163000 +0000" stop="20201024190300 +0000" channel="HD9 English">
+    <title lang="en">Osasuna vs Athletic Club - Spanish La Liga 2020/2021 Week 7</title>
+    <sub-title lang="en">Spanish League - Primera División</sub-title>
   </programme>
   <programme start="20201024190300 +0000" stop="20201024193000 +0000" channel="HD9 English">
     <title lang="en">My Sporting Moments -Kerber and Boyce</title>
@@ -40473,7 +39561,6 @@
   </programme>
   <programme start="20201024164500 +0000" stop="20201024181500 +0000" channel="Sky Sport  2">
     <title lang="de">F1: Qualifying in Portimao</title>
-    <desc lang="de">Auf Rekordjagd: Nach seinem GP-Sieg auf dem Nürburgring zog Lewis Hamilton mit Michael Schumacher gleich. In Portugal will er den 92. Erfolg einfahren. Kommentar: Sascha Roos, Experte: Nick Heidfeld.(n)</desc>
     <category lang="de">Formel 1</category>
     <icon src="https://www.sky.de/static/img/program_guide/11224259_s.jpg" />
   </programme>
@@ -40719,7 +39806,6 @@
   </programme>
   <programme start="20201027044500 +0000" stop="20201027050000 +0000" channel="Sky Sport  2">
     <title lang="de">World Surf League: Transformed, Sawubona</title>
-    <desc lang="de">Surfing der Extraklasse: In der World Surf League starten die besten Wellenreiter der Welt. Sky zeigt die Highlights der einzelnen Wettbewerbe.(n)</desc>
     <category lang="de">Surfen</category>
     <icon src="https://www.sky.de/static/img/program_guide/10821637_s.jpg" />
   </programme>
@@ -40731,7 +39817,6 @@
   </programme>
   <programme start="20201027073000 +0000" stop="20201027100000 +0000" channel="Sky Sport  2">
     <title lang="de">Golf: The Zozo Championship @ Sherwood, 4. Tag in Kalifornien (USA)</title>
-    <desc lang="de">Golf der Extraklasse: Die US PGA Tour macht Halt bei The Zozo Championship at Sherwood in Kalifornien. Kommentar: Adrian Grosser.(n)</desc>
     <category lang="de">Golf</category>
     <icon src="https://www.sky.de/static/img/program_guide/11252352_s.jpg" />
   </programme>
@@ -40848,12 +39933,6 @@
     <title lang="de">Es folgt: Live Golf</title>
     <category lang="de">Golf</category>
     <icon src="https://www.sky.de/static/img/program_guide/7132673_s.jpg" />
-  </programme>
-  <programme start="20201025123000 +0000" stop="20201025153000 +0000" channel="Sky Sport  11">
-    <title lang="de">Live Golf: Italian Open, 4. Tag in Brescia, Italien</title>
-    <desc lang="de">Golf der Extraklasse: Die European Tour macht Halt bei den Italian Open in Brescia. Kommentar: Gregor Biernath.(n)</desc>
-    <category lang="de">Golf</category>
-    <icon src="https://www.sky.de/static/img/program_guide/11293143_s.jpg" />
   </programme>
   <programme start="20201024001500 +0000" stop="20201024021500 +0000" channel="Sky Sport Austria 1">
     <title lang="de">tipico BL: WSG Swarovski Tirol - FK Austria Wien, 4. Runde</title>
@@ -41060,6 +40139,7 @@
   </programme>
   <programme start="20201026070000 +0000" stop="20201026090000 +0000" channel="Sky Sport Austria 1">
     <title lang="de">tipico BL: RZ Pellets WAC - SK Rapid Wien, 5. Runde</title>
+    <desc lang="de">Die "Wölfe" wollen zuhause die 2:4-Pleite gegen St. Pölten vergessen machen. Das wird nicht leicht. Denn Rapid braucht jeden Punkt, um Salzburg dicht auf den Fersen zu bleiben. Kommentar: Martin Konrad.(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11207404_s.jpg" />
   </programme>
@@ -41173,6 +40253,7 @@
   </programme>
   <programme start="20201026201500 +0000" stop="20201026203000 +0000" channel="Sky Sport Austria 1">
     <title lang="de">tipico BL: Dein Verein: SV Guntamatic Ried (5)</title>
+    <desc lang="de">Der Blick hinter die Kulissen war noch nie so einfach. Mit dem wöchentlichen Format "Dein Verein" erhalten die Fans zu jedem der zwölf Bundesliga-Vereine einen exklusiven Blick hinter die Kulissen: Spielertransfers, die neuesten Entwicklungen und zusätzliche Hintergrundstories. So umfassend, so vielfältig und so innovativ wie nie!(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11278523_s.jpg" />
   </programme>
@@ -41292,7 +40373,6 @@
   </programme>
   <programme start="20201027073000 +0000" stop="20201027074500 +0000" channel="Sky Sport Austria 1">
     <title lang="de">tipico BL: Dein Verein: SV Guntamatic Ried (5)</title>
-    <desc lang="de">Der Blick hinter die Kulissen war noch nie so einfach. Mit dem wöchentlichen Format "Dein Verein" erhalten die Fans zu jedem der zwölf Bundesliga-Vereine einen exklusiven Blick hinter die Kulissen: Spielertransfers, die neuesten Entwicklungen und zusätzliche Hintergrundstories. So umfassend, so vielfältig und so innovativ wie nie!(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11278523_s.jpg" />
   </programme>
@@ -41454,6 +40534,7 @@
   </programme>
   <programme start="20201024021500 +0000" stop="20201024033000 +0000" channel="Sky Sport Bundesliga 1">
     <title lang="de">Dein Verein: Die Bundesliga-Vorschau, 5. Spieltag</title>
+    <desc lang="de">Ein Blick auf die anstehenden Matches: Sky analysiert mit "Dein Verein - Die Bundesliga Vorschau" die spannenden Fragen des kommenden Spieltags in der Bundesliga.(n)</desc>
     <category lang="de">Sport (allgemein)</category>
     <icon src="https://www.sky.de/static/img/program_guide/11181852_s.jpg" />
   </programme>
@@ -41471,6 +40552,7 @@
   </programme>
   <programme start="20201024054000 +0000" stop="20201024055500 +0000" channel="Sky Sport Bundesliga 1">
     <title lang="de">BL Kompakt: VfB Stuttgart - 1. FC Köln, 5. Spieltag</title>
+    <desc lang="de">VfB Stuttgart vs. 1. FC Köln. Die Zusammenfassung des Freitagsspiels.(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11181853_s.jpg" />
   </programme>
@@ -41671,11 +40753,13 @@
   </programme>
   <programme start="20201025230000 +0000" stop="20201026003000 +0000" channel="Sky Sport Bundesliga 1">
     <title lang="de">BL Alle Spiele, alle Tore: Die Interwetten Highlight-Show, 5. Spieltag, Sonntag</title>
+    <desc lang="de">Der 5. Spieltag mit FC Bayern München - Eintracht Frankfurt, RB Leipzig - Hertha BSC, 1. FSV Mainz  05 - Borussia Mönchengladbach, 1. FC Union Berlin - SC Freiburg, Borussia Dortmund - FC Schalke 04, VfL Wolfsburg - Arminia Bielefeld und Werder Bremen - 1899 Hoffenheim. Moderation: Esther Sedlaczek, Experte: Dietmar Hamann.(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11278391_s.jpg" />
   </programme>
   <programme start="20201026003000 +0000" stop="20201026013000 +0000" channel="Sky Sport Bundesliga 1">
     <title lang="de">2. BL Kompakt: 5. Spieltag</title>
+    <desc lang="de">Der 5. Spieltag mit 1. FC Nürnberg - Karlsruher SC, Jahn Regensburg - Eintracht Braunschweig, Hamburger SV - Würzburger Kickers, Hannover 96 - Fortuna Düsseldorf, Holstein Kiel - SpVgg Greuther Fürth, SV Darmstadt 98 - FC St. Pauli, VfL Bochum - Erzgebirge Aue, SV Sandhausen - SC Paderborn 07 und 1. FC Heidenheim - VfL Osnabrück.(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11278392_s.jpg" />
   </programme>
@@ -41759,7 +40843,6 @@
   </programme>
   <programme start="20201026203000 +0000" stop="20201026213000 +0000" channel="Sky Sport Bundesliga 1">
     <title lang="de">2. BL Kompakt: 5. Spieltag</title>
-    <desc lang="de">Der 5. Spieltag mit 1. FC Nürnberg - Karlsruher SC, Jahn Regensburg - Eintracht Braunschweig, Hamburger SV - Würzburger Kickers, Hannover 96 - Fortuna Düsseldorf, Holstein Kiel - SpVgg Greuther Fürth, SV Darmstadt 98 - FC St. Pauli, VfL Bochum - Erzgebirge Aue, SV Sandhausen - SC Paderborn 07 und 1. FC Heidenheim - VfL Osnabrück.(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11278392_s.jpg" />
   </programme>
@@ -41843,7 +40926,6 @@
   </programme>
   <programme start="20201027110000 +0000" stop="20201027130000 +0000" channel="Sky Sport Bundesliga 1">
     <title lang="de">2. BL: Sonntags-Konferenz, 5. Spieltag</title>
-    <desc lang="de">Der 5. Spieltag mit VfL Bochum - Erzgebirge Aue, SV Sandhausen - SC Paderborn 07 und 1. FC Heidenheim - VfL Osnabrück. Moderation: Stefan Hempel.(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11181881_s.jpg" />
   </programme>
@@ -41908,6 +40990,7 @@
   </programme>
   <programme start="20201024131500 +0000" stop="20201024153000 +0000" channel="Sky Sport Bundesliga 2">
     <title lang="de">Live BL: FC Bayern München - Eintracht Frankfurt, 5. Spieltag</title>
+    <desc lang="de">Offensivpower: Die Bayern haben nach vier Partien schon 17 Tore auf dem Konto. Bielefeld schossen Lewandowski und Co. mit 4:1 ab. Wie präsentiert sich die ungeschlagene SGE? Kommentar: Kai Dittmann.(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11181860_s.jpg" />
   </programme>
@@ -41953,6 +41036,7 @@
   </programme>
   <programme start="20201024103000 +0000" stop="20201024130000 +0000" channel="Sky Sport Bundesliga 3">
     <title lang="de">Live 2. BL: Hamburger SV - Würzburger Kickers, 5. Spieltag</title>
+    <desc lang="de">In der Favoritenrolle: Der HSV hat das Schlusslicht aus Würzburg zu Gast. Für die Hanseaten sind drei Punkte fast schon Pflicht. Die Kickers hoffen auf einen HSV-Ausrutscher. Kommentar: Klaus Veltman.(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11181873_s.jpg" />
   </programme>
@@ -41963,6 +41047,7 @@
   </programme>
   <programme start="20201024131500 +0000" stop="20201024154000 +0000" channel="Sky Sport Bundesliga 3">
     <title lang="de">Live BL: RB Leipzig - Hertha BSC, 5. Spieltag</title>
+    <desc lang="de">Spitzenplatz behalten: Mit dem 2:0-Sieg in Augsburg konnte RB Platz eins sichern. Auch gegen Hertha sollen die Punkte bei Julian Nagelsmanns Team in Leipzig bleiben. Kommentar: Oliver Seidler.(n)</desc>
     <category lang="de">Fußball</category>
     <icon src="https://www.sky.de/static/img/program_guide/11181864_s.jpg" />
   </programme>
