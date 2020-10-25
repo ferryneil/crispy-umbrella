@@ -132,11 +132,6 @@
     <display-name>Fox Sports 4 FHD</display-name>
     <url>http://www.tvgids.tv</url>
   </channel>
-  <channel id="Guide_EPGEir-Sport-2">
-    <display-name>eir Sport 2 UK FHD</display-name>
-    <icon src="https://www.eirsport.ie/Themes/eir/imgs/channel_logos/Eir-Sport-2.png"></icon>
-    <url>http://www.eirsport.ie</url>
-  </channel>
   <channel id="Guide_EPGSuperSport 1">
     <display-name>SuperSport 1 FHD</display-name>
     <url>http://www.albepg.com</url>
@@ -785,6 +780,10 @@
   <channel id="UK_Networks_and_Sports_EPGEir Sports 1 HD">
     <display-name>eir Sport 1 UK FHD</display-name>
     <icon src="http://iptvboss.xyz/logos/UK%20Networks%20and%20Sports/Eir%20Sports%201%20HD.png"></icon>
+  </channel>
+  <channel id="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <display-name>eir Sport 2 UK FHD</display-name>
+    <icon src="http://iptvboss.xyz/logos/UK%20Networks%20and%20Sports/EIR%20SPORT%202.png"></icon>
   </channel>
   <programme start="20201024000000 +0000" stop="20201024003000 +0000" channel="Guide_EPGDreamWorks Channel HD">
     <title lang="en">Cleopatra In Space</title>
@@ -16063,282 +16062,6 @@
     <desc lang="nl">In NFL Highlights komen wekelijks alle hoogtepunten uit de laatste speelronde in de NFL voorbij.(n)</desc>
     <category lang="nl">Sport</category>
     <episode-num system="onscreen">NFL Highlights. Seizoen 2020-2021</episode-num>
-  </programme>
-  <programme start="20201024060000 +0100" stop="20201024063000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Thomond Park</title>
-    <desc lang="en">A trip down memory lane as we take a look back at some of the great moments at the home of Munster Rugby.(n)</desc>
-  </programme>
-  <programme start="20201024063000 +0100" stop="20201024070000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Hill 16</title>
-    <desc lang="en">Over 100 years of history, vibrancy and colour of the iconic terrace at Croke Park is explored.(n)</desc>
-  </programme>
-  <programme start="20201024070000 +0100" stop="20201024080000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Man Utd v Tottenham 1964</title>
-    <desc lang="en">Highlights from September '64 as Man Utd welcome Tottenham to Old Trafford. The Red Devils finished 2nd the previous season and were determined to go one better this time round.(n)</desc>
-  </programme>
-  <programme start="20201024080000 +0100" stop="20201024083000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Tranmere v Liverpool 2001</title>
-    <desc lang="en">FA Cup quarter-final highlights from Prenton Park, as second-tier relegation-battlers Tranmere Rovers take on Treble-chasing Liverpool in a Merseryside derby.(n)</desc>
-  </programme>
-  <programme start="20201024083000 +0100" stop="20201024090000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Arsenal v Liverpool 2001</title>
-    <desc lang="en">Highlights of the 2001 FA Cup Final at the Millennium Stadium in Cardiff - the first to be held outside England - as Arsene Wenger's Arsenal and Gerard Houllier's Liverpool clash.(n)</desc>
-  </programme>
-  <programme start="20201024090000 +0100" stop="20201024100000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Wimbledon 1994</title>
-    <desc lang="en">The Official film of Wimbledon 1994 a year that saw Sampras win back-to-back titles, while Conchita Martinez became the 1st Spanish woman to win the women's singles crown.(n)</desc>
-  </programme>
-  <programme start="20201024100000 +0100" stop="20201024103000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Lendl v Becker 1989</title>
-    <desc lang="en">The 1989 Men's Singles Semi-Final saw top seed Ivan Lendl take on two-time champion Boris Becker in what turned out to be the longest ever Wimbledon semi-final in history.(n)</desc>
-  </programme>
-  <programme start="20201024103000 +0100" stop="20201024110000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Navratilova v Garrison 1990</title>
-    <desc lang="en">The 1990 Women's Singles Final saw Martina Navratilova, playing in her 9th consecutive Wimbledon final, up against Zina Garrison who was playing in her first Grand Slam decider.(n)</desc>
-  </programme>
-  <programme start="20201024110000 +0100" stop="20201024113500 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Liverpool v Burnley 1983</title>
-    <desc lang="en">Action from the 1983 League Cup Semi-Final, first leg as Liverpool welcome Burnley to Anfield, with the Reds looking to win the trophy for the third year in a row.(n)</desc>
-  </programme>
-  <programme start="20201024113500 +0100" stop="20201024122000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Derby County v Man Utd 1970</title>
-    <desc lang="en">Action from St Stephen's Day 1970, as Brian Clough's Derby County side entertain Man Utd, managed by Wilf McGuinness for the very last time, at a snowy Baseball Ground.(n)</desc>
-  </programme>
-  <programme start="20201024122000 +0100" stop="20201024131000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Liverpool v Man Utd 1968</title>
-    <desc lang="en">Highlights from April 1968, and a key First Division match between top-of-the-table Man Utd and fourth-placed Liverpool in front of 63,000 fans at a packed Old Trafford.(n)</desc>
-  </programme>
-  <programme start="20201024131000 +0100" stop="20201024151000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Arsenal v Aston Villa 2015</title>
-    <desc lang="en">The holders Arsenal are back at Wembley - a record-breaking 19th FA Cup Final for the Gunners - against a Villa side who narrowly avoided relegation from the Premier League.(n)</desc>
-  </programme>
-  <programme start="20201024151000 +0100" stop="20201024161000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">MOTD 1970</title>
-    <desc lang="en">Two classic games from December 1970 as Man Utd host an Arsenal team that would go on to win the double that season and Leicester take on QPR at Filbert Street.(n)</desc>
-  </programme>
-  <programme start="20201024161000 +0100" stop="20201024174000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Kerry v Donegal</title>
-    <desc lang="en">Both teams will be eager to finish their 2020 Allianz Leagues campaigns on a high as Kerry and Donegal meet in Tralee.(n)</desc>
-  </programme>
-  <programme start="20201024174000 +0100" stop="20201024193000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Rep. of Ireland v Holland 1990</title>
-    <desc lang="en">Their final group game of Italia '90, Jack Charlton's Ireland ended it in a draw against the Dutch, as both teams had identical records they had to draw lots to pick 2nd place.(n)</desc>
-  </programme>
-  <programme start="20201024193000 +0100" stop="20201024213000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Ospreys v Glasgow Warriors</title>
-    <desc lang="en">It's Wales v Scotland as Ospreys take on the Warriors at Swansea's Liberty Stadium.(n)</desc>
-  </programme>
-  <programme start="20201024213000 +0100" stop="20201024232000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Man City v Stoke City 2011</title>
-    <desc lang="en">A tale of two Cities as big-spending Manchester City - chasing a first major trophy since 1976 - take on Stoke City at Wembley Stadium in the 130th FA Cup Final.(n)</desc>
-  </programme>
-  <programme start="20201024232000 +0100" stop="20201024235000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Man Utd v Chelsea 1965</title>
-    <desc lang="en">Highlights from March 1965 as the league leaders Chelsea visit Old Trafford to take on third-placed Man Utd in a crucial battle at the top of the First Division.(n)</desc>
-  </programme>
-  <programme start="20201024235000 +0100" stop="20201025005000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Liverpool v Man Utd 1977</title>
-    <desc lang="en">Action from Wembley Stadium as champions Liverpool face FA Cup winners Man Utd in the 1977 Charity Shield - the traditional curtain-raiser to the new season of English football.(n)</desc>
-  </programme>
-  <programme start="20201025005000 +0100" stop="20201025010000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">eir Sport Extra</title>
-    <desc lang="en">Sporting news and features from around the globe.(n)</desc>
-  </programme>
-  <programme start="20201025010000 +0100" stop="20201025010000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">MOTD 1981</title>
-    <desc lang="en">Action from November 1981 and a top-of-the table clash at White Hart Lane as Tottenham entertain Man Utd in a match featuring five Republic of Ireland internationals.(n)</desc>
-  </programme>
-  <programme start="20201025010000 +0100" stop="20201025235000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Coventry v Man Utd 1987</title>
-    <desc lang="en">First Division action from May 1987 at Highfield Road, as Manchester Utd take on a Coventry City side gearing up for their first FA Cup Final appearance 10 days later.(n)</desc>
-  </programme>
-  <programme start="20201025235000 +0100" stop="20201026005000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Liverpool v Man Utd 1977</title>
-    <desc lang="en">Action from Wembley Stadium as champions Liverpool face FA Cup winners Man Utd in the 1977 Charity Shield - the traditional curtain-raiser to the new season of English football.(n)</desc>
-  </programme>
-  <programme start="20201026005000 +0100" stop="20201026010000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">eir Sport Extra</title>
-    <desc lang="en">Sporting news and features from around the globe.(n)</desc>
-  </programme>
-  <programme start="20201026010000 +0100" stop="20201026010000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">MOTD 1981</title>
-    <desc lang="en">Action from November 1981 and a top-of-the table clash at White Hart Lane as Tottenham entertain Man Utd in a match featuring five Republic of Ireland internationals.(n)</desc>
-  </programme>
-  <programme start="20201026010000 +0100" stop="20201026030000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Coventry v Man Utd 1987</title>
-    <desc lang="en">First Division action from May 1987 at Highfield Road, as Manchester Utd take on a Coventry City side gearing up for their first FA Cup Final appearance 10 days later.(n)</desc>
-  </programme>
-  <programme start="20201026030000 +0100" stop="20201026040000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Wolves v Man Utd 1966</title>
-    <desc lang="en">Highlights from Molineux as Second Division Wolves entertain Man Utd in an FA Cup fifth round tie in March 1966 - a year after United beat Wolves 5-3 in the quarter-finals.(n)</desc>
-  </programme>
-  <programme start="20201026040000 +0100" stop="20201026060000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Rep. of Ireland v Holland 1990</title>
-    <desc lang="en">Their final group game of Italia '90, Jack Charlton's Ireland ended it in a draw against the Dutch, as both teams had identical records they had to draw lots to pick 2nd place.(n)</desc>
-  </programme>
-  <programme start="20201026060000 +0100" stop="20201026063000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Abidal</title>
-    <desc lang="en">Documentary about Eric Abidal and his ascension into legendary status at Barcelona FC.(n)</desc>
-  </programme>
-  <programme start="20201026063000 +0100" stop="20201026070000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Always Iniesta</title>
-    <desc lang="en">Barcelona legend Andres Iniesta talks about his time at the club and hopes for the future with the Catalan giants.(n)</desc>
-  </programme>
-  <programme start="20201026070000 +0100" stop="20201026080000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Liverpool v Tottenham 1966</title>
-    <desc lang="en">Highlights from March 1966 as Bill Shankly's title-chasing Liverpool side welcome Bill Nicholson's fifth-placed Tottenham to Anfield.(n)</desc>
-  </programme>
-  <programme start="20201026080000 +0100" stop="20201026083000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Liverpool v Man Utd 2006</title>
-    <desc lang="en">FA Cup 5th rnd highlights from Anfield, as Liverpool and Man Utd renew rivalries - with Rafa Benitez's side looking for their first FA Cup win over United in 85 years.(n)</desc>
-  </programme>
-  <programme start="20201026083000 +0100" stop="20201026090000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Birmingham v Liverpool 2006</title>
-    <desc lang="en">FA Cup quarter-final highlights from St Andrew's, as Steve Bruce's relegation-threatened Birmingham City side take on Rafa Benitez's European champions Liverpool.(n)</desc>
-  </programme>
-  <programme start="20201026090000 +0100" stop="20201026100000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Wimbledon 2002</title>
-    <desc lang="en">The Official film of Wimbledon 2002 a year that saw Lleyton Hewitt win his only singles title at SW19, while Serena Williams beat her sister Venus in the women's singles.(n)</desc>
-  </programme>
-  <programme start="20201026100000 +0100" stop="20201026103000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Roddick v Federer 2009</title>
-    <desc lang="en">The 2009 Men's Singles Final saw Switzerland's five-time champion Roger Federer take on America's Andy Roddick for the third time in a Wimbledon final.(n)</desc>
-  </programme>
-  <programme start="20201026103000 +0100" stop="20201026110000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Evert v Navratilova 1978</title>
-    <desc lang="en">The 1978 Women's Singles Final saw two-time Wimbledon winner Chris Evert take on Martina Navratilova, who was appearing in her first ever final at SW19.(n)</desc>
-  </programme>
-  <programme start="20201026110000 +0100" stop="20201026120000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">MOTD 1981</title>
-    <desc lang="en">Action from November 1981 and a top-of-the table clash at White Hart Lane as Tottenham entertain Man Utd in a match featuring five Republic of Ireland internationals.(n)</desc>
-  </programme>
-  <programme start="20201026120000 +0100" stop="20201026130000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Man Utd v Tottenham 1964</title>
-    <desc lang="en">Highlights from September '64 as Man Utd welcome Tottenham to Old Trafford. The Red Devils finished 2nd the previous season and were determined to go one better this time round.(n)</desc>
-  </programme>
-  <programme start="20201026130000 +0100" stop="20201026133000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Bristol City v Liverpool 1980</title>
-    <desc lang="en">First Division highlights from March 1980 as Bob Paisley takes his title-chasing Liverpool side to Ashton Gate, to face a Bristol City team battling against relegation.(n)</desc>
-  </programme>
-  <programme start="20201026133000 +0100" stop="20201026140000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Everton v Liverpool 1980</title>
-    <desc lang="en">Highlights from March 1980 as Everton entertain Liverpool in an emotional Merseyside derby at Goodison Park, on the day that Toffees legend Dixie Dean passed away.(n)</desc>
-  </programme>
-  <programme start="20201026140000 +0100" stop="20201026150000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Liverpool Team of the 80's</title>
-    <desc lang="en">Liverpool v QPR 1984 and Middlesbrough v Liverpool 1989 feature in this episode of Liverpool Team of the 80's.(n)</desc>
-  </programme>
-  <programme start="20201026150000 +0100" stop="20201026160000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Liverpool Team of the 80's</title>
-    <desc lang="en">Liverpool v Arsenal 1989 and Liverpool v Southampton 1989 feature in this episode of Liverpool Team of the 80's.(n)</desc>
-  </programme>
-  <programme start="20201026160000 +0100" stop="20201026180000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Ulster v Dragons</title>
-    <desc lang="en">Dan McFarland's side will be hoping to make it three wins from three this season as they welcome Dragons to the Kingspan Stadium.(n)</desc>
-  </programme>
-  <programme start="20201026180000 +0100" stop="20201026193000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Kerry v Dublin 1984</title>
-    <desc lang="en">The 1984 All-Ireland SFC Final saw Kerry and Dublin renew hostilities under Mick O'Dwyer and Kevin Heffernan with the Kingdom looking for their fifth title in seven years.(n)</desc>
-  </programme>
-  <programme start="20201026193000 +0100" stop="20201026210000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Cork v Offaly 1984</title>
-    <desc lang="en">The 1984 All-Ireland SHC Final saw Cork in their third decider in a row, taking on Offaly at Semple Stadium in Thurles to mark the 100th anniversary of the GAA's foundation.(n)</desc>
-  </programme>
-  <programme start="20201026210000 +0100" stop="20201026223000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Kilkenny v Waterford 2008</title>
-    <desc lang="en">The 2008 All-Ireland SHC Final saw Kilkenny going for three in a row for the first time since 1913, while Waterford were playing in their first Croke Park decider since 1963.(n)</desc>
-  </programme>
-  <programme start="20201026223000 +0100" stop="20201027000000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Tyrone v Kerry 2008</title>
-    <desc lang="en">The 2008 All-Ireland SFC Final between Tyrone and Kerry was the first decider between teams who lost in their Provincial Championships, with the Kingdom aiming for three-in-a-row.(n)</desc>
-  </programme>
-  <programme start="20201027000000 +0100" stop="20201027020000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Edinburgh v Connacht</title>
-    <desc lang="en">Connacht will need to be at their best as they taken on one of last season's beaten semi-finalists at Murrayfield.(n)</desc>
-  </programme>
-  <programme start="20201027000000 +0100" stop="20201027020000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Edinburgh v Connacht</title>
-    <desc lang="en">Connacht will need to be at their best as they taken on one of last season's beaten semi-finalists at Murrayfield.(n)</desc>
-  </programme>
-  <programme start="20201027020000 +0100" stop="20201027040000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Rep. of Ireland v Holland 1990</title>
-    <desc lang="en">Their final group game of Italia '90, Jack Charlton's Ireland ended it in a draw against the Dutch, as both teams had identical records they had to draw lots to pick 2nd place.(n)</desc>
-  </programme>
-  <programme start="20201027040000 +0100" stop="20201027060000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Benetton v Scarlets</title>
-    <desc lang="en">Benetton host Scarlets with both sides still looking for their first win of the season.(n)</desc>
-  </programme>
-  <programme start="20201027060000 +0100" stop="20201027063000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Always Iniesta</title>
-    <desc lang="en">Barcelona legend Andres Iniesta talks about his time at the club and hopes for the future with the Catalan giants.(n)</desc>
-  </programme>
-  <programme start="20201027063000 +0100" stop="20201027070000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Abidal</title>
-    <desc lang="en">Documentary about Eric Abidal and his ascension into legendary status at Barcelona FC.(n)</desc>
-  </programme>
-  <programme start="20201027070000 +0100" stop="20201027073000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Wimbledon v Man United 1994</title>
-    <desc lang="en">FA Cup 5th round highlights from Selhurst Park, as Vinnie Jones and his Wimbledon team-mates entertain a Man Utd side on course to clinch the club's first League and Cup Double.(n)</desc>
-  </programme>
-  <programme start="20201027073000 +0100" stop="20201027080000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Chelsea v Man United 1994</title>
-    <desc lang="en">Highlights from the 1994 FA Cup Final at Wembley, as Alex Ferguson's Man Utd look to clinch the club's first-ever Double against a Chelsea side in their 1st major final since '72.(n)</desc>
-  </programme>
-  <programme start="20201027080000 +0100" stop="20201027090000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Wimbledon 1996</title>
-    <desc lang="en">The official film of Wimbledon 1996 a year that saw Dutchman Richard Krajicek win his only Wimbledon title, while Steffi Graf claimed her 7th and last singles crown at SW19.(n)</desc>
-  </programme>
-  <programme start="20201027090000 +0100" stop="20201027093000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Roddick v Federer 2009</title>
-    <desc lang="en">The 2009 Men's Singles Final saw Switzerland's five-time champion Roger Federer take on America's Andy Roddick for the third time in a Wimbledon final.(n)</desc>
-  </programme>
-  <programme start="20201027093000 +0100" stop="20201027100000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Evert v Navratilova 1978</title>
-    <desc lang="en">The 1978 Women's Singles Final saw two-time Wimbledon winner Chris Evert take on Martina Navratilova, who was appearing in her first ever final at SW19.(n)</desc>
-  </programme>
-  <programme start="20201027100000 +0100" stop="20201027110000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Derby County v Man Utd 1970</title>
-    <desc lang="en">Action from St Stephen's Day 1970, as Brian Clough's Derby County side entertain Man Utd, managed by Wilf McGuinness for the very last time, at a snowy Baseball Ground.(n)</desc>
-  </programme>
-  <programme start="20201027110000 +0100" stop="20201027113000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Man Utd v Chelsea 1965</title>
-    <desc lang="en">Highlights from March 1965 as the league leaders Chelsea visit Old Trafford to take on third-placed Man Utd in a crucial battle at the top of the First Division.(n)</desc>
-  </programme>
-  <programme start="20201027113000 +0100" stop="20201027120500 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">West Ham v Liverpool 1976</title>
-    <desc lang="en">Action from January 1976 as Bob Paisley takes his title-chasing Liverpool side to Upton Park, to face a West Ham team who won the FA Cup the previous season.(n)</desc>
-  </programme>
-  <programme start="20201027120500 +0100" stop="20201027130000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Liverpool Team of the 80's</title>
-    <desc lang="en">Liverpool v QPR 1984 and Middlesbrough v Liverpool 1989 feature in this episode of Liverpool Team of the 80's.(n)</desc>
-  </programme>
-  <programme start="20201027130000 +0100" stop="20201027150000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Man City v Stoke City 2011</title>
-    <desc lang="en">A tale of two Cities as big-spending Manchester City - chasing a first major trophy since 1976 - take on Stoke City at Wembley Stadium in the 130th FA Cup Final.(n)</desc>
-  </programme>
-  <programme start="20201027150000 +0100" stop="20201027170000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Leinster v Zebre</title>
-    <desc lang="en">Reigning champions Leinster will be looking to continue their perfect start to the new campaign against Italian outfit Zebre at the RDS.(n)</desc>
-  </programme>
-  <programme start="20201027170000 +0100" stop="20201027190000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Chelsea v Manchester Utd 2018</title>
-    <desc lang="en">After last season's defeat to Arsenal, Chelsea are back at Wembley Stadium where they face a Man Utd side looking to equal Arsenal's record of 13 FA Cup triumphs.(n)</desc>
-  </programme>
-  <programme start="20201027190000 +0100" stop="20201027205500 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Man Utd v Millwall 2004</title>
-    <desc lang="en">The 2004 FA Cup Final at the Millennium Stadium in Cardiff, as Manchester Utd take on Millwall - the first side outside the top flight to play in the Cup Final since 1982.(n)</desc>
-  </programme>
-  <programme start="20201027205500 +0100" stop="20201027234000 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Arsenal v Man Utd 2005</title>
-    <desc lang="en">The '05 FA Cup Final at the Millennium Stadium in Cardiff saw Wenger's Arsenal take on Ferguson's Manchester Utd, with both clubs appearing in their 17th FA Cup Final.(n)</desc>
-  </programme>
-  <programme start="20201027234000 +0100" stop="20201027234500 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">eir Sport Extra</title>
-    <desc lang="en">Sporting news and features from around the globe.(n)</desc>
-  </programme>
-  <programme start="20201027234500 +0100" stop="20201028014500 +0100" channel="Guide_EPGEir-Sport-2">
-    <title lang="en">Munster v Cardiff</title>
-    <desc lang="en">The two early front runners in Conference B face off at Thomond Park in what is sure to be an entertaining clash.(n)</desc>
   </programme>
   <programme start="20201024060000 +0000" stop="20201024180000 +0000" channel="Guide_EPGSuperSport 1">
     <title lang="sq">Sport News Lajme</title>
@@ -47965,5 +47688,557 @@
     <title lang="en">Where's Your Pride?</title>
     <desc lang="en">After decades of heartache, Ireland finally clinched the Triple Crown twice in the 80s. Key players including Ollie Campbell and Ciaran Fitzgerald, share their memories. (Subs).</desc>
     <category lang="en">Other</category>
+  </programme>
+  <programme start="20201024235000 +0000" stop="20201025000000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">eir Sport Extra</title>
+    <desc lang="en">Sporting news and features from around the globe.</desc>
+  </programme>
+  <programme start="20201025000000 +0000" stop="20201025000000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">MOTD 1981</title>
+    <desc lang="en">Action from November 1981 and a top-of-the table clash at White Hart Lane as Tottenham entertain Man Utd in a match featuring five Republic of Ireland internationals.</desc>
+  </programme>
+  <programme start="20201025030000 +0000" stop="20201025050000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Rep. of Ireland v Holland 1990</title>
+    <desc lang="en">Their final group game of Italia '90, Jack Charlton's Ireland ended it in a draw against the Dutch, as both teams had identical records they had to draw lots to pick 2nd place.</desc>
+  </programme>
+  <programme start="20201025050000 +0000" stop="20201025053000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Abidal</title>
+    <desc lang="en">Documentary about Eric Abidal and his ascension into legendary status at Barcelona FC.</desc>
+  </programme>
+  <programme start="20201025053000 +0000" stop="20201025060000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Always Iniesta</title>
+    <desc lang="en">Barcelona legend Andres Iniesta talks about his time at the club and hopes for the future with the Catalan giants.</desc>
+  </programme>
+  <programme start="20201025060000 +0000" stop="20201025070000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool v Tottenham 1966</title>
+    <desc lang="en">Highlights from March 1966 as Bill Shankly's title-chasing Liverpool side welcome Bill Nicholson's fifth-placed Tottenham to Anfield.</desc>
+  </programme>
+  <programme start="20201025070000 +0000" stop="20201025073000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool v Man Utd 2006</title>
+    <desc lang="en">FA Cup 5th rnd highlights from Anfield, as Liverpool and Man Utd renew rivalries - with Rafa Benitez's side looking for their first FA Cup win over United in 85 years.</desc>
+  </programme>
+  <programme start="20201025073000 +0000" stop="20201025080000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Birmingham v Liverpool 2006</title>
+    <desc lang="en">FA Cup quarter-final highlights from St Andrew's, as Steve Bruce's relegation-threatened Birmingham City side take on Rafa Benitez's European champions Liverpool.</desc>
+  </programme>
+  <programme start="20201025080000 +0000" stop="20201025090000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Wimbledon 2002</title>
+    <desc lang="en">The Official film of Wimbledon 2002 a year that saw Lleyton Hewitt win his only singles title at SW19, while Serena Williams beat her sister Venus in the women's singles.</desc>
+  </programme>
+  <programme start="20201025090000 +0000" stop="20201025093000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Roddick v Federer 2009</title>
+    <desc lang="en">The 2009 Men's Singles Final saw Switzerland's five-time champion Roger Federer take on America's Andy Roddick for the third time in a Wimbledon final.</desc>
+  </programme>
+  <programme start="20201025093000 +0000" stop="20201025100000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Evert v Navratilova 1978</title>
+    <desc lang="en">The 1978 Women's Singles Final saw two-time Wimbledon winner Chris Evert take on Martina Navratilova, who was appearing in her first ever final at SW19.</desc>
+  </programme>
+  <programme start="20201025100000 +0000" stop="20201025110000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">MOTD 1981</title>
+    <desc lang="en">Action from November 1981 and a top-of-the table clash at White Hart Lane as Tottenham entertain Man Utd in a match featuring five Republic of Ireland internationals.</desc>
+  </programme>
+  <programme start="20201025110000 +0000" stop="20201025120000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man Utd v Tottenham 1964</title>
+    <desc lang="en">Highlights from September '64 as Man Utd welcome Tottenham to Old Trafford. The Red Devils finished 2nd the previous season and were determined to go one better this time round.</desc>
+  </programme>
+  <programme start="20201025120000 +0000" stop="20201025123000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Bristol City v Liverpool 1980</title>
+    <desc lang="en">First Division highlights from March 1980 as Bob Paisley takes his title-chasing Liverpool side to Ashton Gate, to face a Bristol City team battling against relegation.</desc>
+  </programme>
+  <programme start="20201025123000 +0000" stop="20201025130000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Everton v Liverpool 1980</title>
+    <desc lang="en">Highlights from March 1980 as Everton entertain Liverpool in an emotional Merseyside derby at Goodison Park, on the day that Toffees legend Dixie Dean passed away.</desc>
+  </programme>
+  <programme start="20201025130000 +0000" stop="20201025140000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool Team of the 80's</title>
+    <desc lang="en">Liverpool v QPR 1984 and Middlesbrough v Liverpool 1989 feature in this episode of Liverpool Team of the 80's.</desc>
+  </programme>
+  <programme start="20201025140000 +0000" stop="20201025150000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool Team of the 80's</title>
+    <desc lang="en">Liverpool v Arsenal 1989 and Liverpool v Southampton 1989 feature in this episode of Liverpool Team of the 80's.</desc>
+  </programme>
+  <programme start="20201025150000 +0000" stop="20201025170000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Ulster v Dragons</title>
+    <desc lang="en">Dan McFarland's side will be hoping to make it three wins from three this season as they welcome Dragons to the Kingspan Stadium.</desc>
+  </programme>
+  <programme start="20201025170000 +0000" stop="20201025183000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Kerry v Dublin 1984</title>
+    <desc lang="en">The 1984 All-Ireland SFC Final saw Kerry and Dublin renew hostilities under Mick O'Dwyer and Kevin Heffernan with the Kingdom looking for their fifth title in seven years.</desc>
+  </programme>
+  <programme start="20201025183000 +0000" stop="20201025200000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Cork v Offaly 1984</title>
+    <desc lang="en">The 1984 All-Ireland SHC Final saw Cork in their third decider in a row, taking on Offaly at Semple Stadium in Thurles to mark the 100th anniversary of the GAA's foundation.</desc>
+  </programme>
+  <programme start="20201025200000 +0000" stop="20201025213000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Kilkenny v Waterford 2008</title>
+    <desc lang="en">The 2008 All-Ireland SHC Final saw Kilkenny going for three in a row for the first time since 1913, while Waterford were playing in their first Croke Park decider since 1963.</desc>
+  </programme>
+  <programme start="20201025213000 +0000" stop="20201025230000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Tyrone v Kerry 2008</title>
+    <desc lang="en">The 2008 All-Ireland SFC Final between Tyrone and Kerry was the first decider between teams who lost in their Provincial Championships, with the Kingdom aiming for three-in-a-row.</desc>
+  </programme>
+  <programme start="20201025230000 +0000" stop="20201026010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Edinburgh v Connacht</title>
+    <desc lang="en">Connacht will need to be at their best as they taken on one of last season's beaten semi-finalists at Murrayfield.</desc>
+  </programme>
+  <programme start="20201025230000 +0000" stop="20201026010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Edinburgh v Connacht</title>
+    <desc lang="en">Connacht will need to be at their best as they taken on one of last season's beaten semi-finalists at Murrayfield.</desc>
+  </programme>
+  <programme start="20201026010000 +0000" stop="20201026030000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Rep. of Ireland v Holland 1990</title>
+    <desc lang="en">Their final group game of Italia '90, Jack Charlton's Ireland ended it in a draw against the Dutch, as both teams had identical records they had to draw lots to pick 2nd place.</desc>
+  </programme>
+  <programme start="20201026030000 +0000" stop="20201026050000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Benetton v Scarlets</title>
+    <desc lang="en">Benetton host Scarlets with both sides still looking for their first win of the season.</desc>
+  </programme>
+  <programme start="20201026050000 +0000" stop="20201026053000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Always Iniesta</title>
+    <desc lang="en">Barcelona legend Andres Iniesta talks about his time at the club and hopes for the future with the Catalan giants.</desc>
+  </programme>
+  <programme start="20201026053000 +0000" stop="20201026060000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Abidal</title>
+    <desc lang="en">Documentary about Eric Abidal and his ascension into legendary status at Barcelona FC.</desc>
+  </programme>
+  <programme start="20201026060000 +0000" stop="20201026063000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Wimbledon v Man United 1994</title>
+    <desc lang="en">FA Cup 5th round highlights from Selhurst Park, as Vinnie Jones and his Wimbledon team-mates entertain a Man Utd side on course to clinch the club's first League and Cup Double.</desc>
+  </programme>
+  <programme start="20201026063000 +0000" stop="20201026070000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Chelsea v Man United 1994</title>
+    <desc lang="en">Highlights from the 1994 FA Cup Final at Wembley, as Alex Ferguson's Man Utd look to clinch the club's first-ever Double against a Chelsea side in their 1st major final since '72.</desc>
+  </programme>
+  <programme start="20201026070000 +0000" stop="20201026080000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Wimbledon 1996</title>
+    <desc lang="en">The official film of Wimbledon 1996 a year that saw Dutchman Richard Krajicek win his only Wimbledon title, while Steffi Graf claimed her 7th and last singles crown at SW19.</desc>
+  </programme>
+  <programme start="20201026080000 +0000" stop="20201026083000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Roddick v Federer 2009</title>
+    <desc lang="en">The 2009 Men's Singles Final saw Switzerland's five-time champion Roger Federer take on America's Andy Roddick for the third time in a Wimbledon final.</desc>
+  </programme>
+  <programme start="20201026083000 +0000" stop="20201026090000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Evert v Navratilova 1978</title>
+    <desc lang="en">The 1978 Women's Singles Final saw two-time Wimbledon winner Chris Evert take on Martina Navratilova, who was appearing in her first ever final at SW19.</desc>
+  </programme>
+  <programme start="20201026090000 +0000" stop="20201026100000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Derby County v Man Utd 1970</title>
+    <desc lang="en">Action from St Stephen's Day 1970, as Brian Clough's Derby County side entertain Man Utd, managed by Wilf McGuinness for the very last time, at a snowy Baseball Ground.</desc>
+  </programme>
+  <programme start="20201026100000 +0000" stop="20201026103000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man Utd v Chelsea 1965</title>
+    <desc lang="en">Highlights from March 1965 as the league leaders Chelsea visit Old Trafford to take on third-placed Man Utd in a crucial battle at the top of the First Division.</desc>
+  </programme>
+  <programme start="20201026103000 +0000" stop="20201026110500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">West Ham v Liverpool 1976</title>
+    <desc lang="en">Action from January 1976 as Bob Paisley takes his title-chasing Liverpool side to Upton Park, to face a West Ham team who won the FA Cup the previous season.</desc>
+  </programme>
+  <programme start="20201026110500 +0000" stop="20201026120000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool Team of the 80's</title>
+    <desc lang="en">Liverpool v QPR 1984 and Middlesbrough v Liverpool 1989 feature in this episode of Liverpool Team of the 80's.</desc>
+  </programme>
+  <programme start="20201026120000 +0000" stop="20201026140000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man City v Stoke City 2011</title>
+    <desc lang="en">A tale of two Cities as big-spending Manchester City - chasing a first major trophy since 1976 - take on Stoke City at Wembley Stadium in the 130th FA Cup Final.</desc>
+  </programme>
+  <programme start="20201026140000 +0000" stop="20201026160000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Leinster v Zebre</title>
+    <desc lang="en">Reigning champions Leinster will be looking to continue their perfect start to the new campaign against Italian outfit Zebre at the RDS.</desc>
+  </programme>
+  <programme start="20201026160000 +0000" stop="20201026180000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Chelsea v Manchester Utd 2018</title>
+    <desc lang="en">After last season's defeat to Arsenal, Chelsea are back at Wembley Stadium where they face a Man Utd side looking to equal Arsenal's record of 13 FA Cup triumphs.</desc>
+  </programme>
+  <programme start="20201026180000 +0000" stop="20201026195500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man Utd v Millwall 2004</title>
+    <desc lang="en">The 2004 FA Cup Final at the Millennium Stadium in Cardiff, as Manchester Utd take on Millwall - the first side outside the top flight to play in the Cup Final since 1982.</desc>
+  </programme>
+  <programme start="20201026195500 +0000" stop="20201026224000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Arsenal v Man Utd 2005</title>
+    <desc lang="en">The '05 FA Cup Final at the Millennium Stadium in Cardiff saw Wenger's Arsenal take on Ferguson's Manchester Utd, with both clubs appearing in their 17th FA Cup Final.</desc>
+  </programme>
+  <programme start="20201026224000 +0000" stop="20201026224500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">eir Sport Extra</title>
+    <desc lang="en">Sporting news and features from around the globe.</desc>
+  </programme>
+  <programme start="20201026224500 +0000" stop="20201027004500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Munster v Cardiff</title>
+    <desc lang="en">The two early front runners in Conference B face off at Thomond Park in what is sure to be an entertaining clash.</desc>
+  </programme>
+  <programme start="20201027004500 +0000" stop="20201027010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">eir Sport Extra</title>
+    <desc lang="en">Sporting news and features from around the globe.</desc>
+  </programme>
+  <programme start="20201027010000 +0000" stop="20201027224500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man City v Stoke City 2011</title>
+    <desc lang="en">A tale of two Cities as big-spending Manchester City - chasing a first major trophy since 1976 - take on Stoke City at Wembley Stadium in the 130th FA Cup Final.</desc>
+  </programme>
+  <programme start="20201027224500 +0000" stop="20201028004500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Munster v Cardiff</title>
+    <desc lang="en">The two early front runners in Conference B face off at Thomond Park in what is sure to be an entertaining clash.</desc>
+  </programme>
+  <programme start="20201028004500 +0000" stop="20201028010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">eir Sport Extra</title>
+    <desc lang="en">Sporting news and features from around the globe.</desc>
+  </programme>
+  <programme start="20201028010000 +0000" stop="20201028030000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man City v Stoke City 2011</title>
+    <desc lang="en">A tale of two Cities as big-spending Manchester City - chasing a first major trophy since 1976 - take on Stoke City at Wembley Stadium in the 130th FA Cup Final.</desc>
+  </programme>
+  <programme start="20201028030000 +0000" stop="20201028050000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Rep. of Ireland v Holland 1990</title>
+    <desc lang="en">Their final group game of Italia '90, Jack Charlton's Ireland ended it in a draw against the Dutch, as both teams had identical records they had to draw lots to pick 2nd place.</desc>
+  </programme>
+  <programme start="20201028050000 +0000" stop="20201028053000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Paulinho From The Heart</title>
+    <desc lang="en">Paulinho talks about his family life, and a football career that has seen him play for clubs in Brazil, Lithuania, Poland, England, China, and finally Spain.</desc>
+  </programme>
+  <programme start="20201028053000 +0000" stop="20201028060000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Mascherano: From the Heart</title>
+    <desc lang="en">The rehabilitation journey of an injured Barcelona Futsal star.</desc>
+  </programme>
+  <programme start="20201028060000 +0000" stop="20201028063000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man United v Liverpool 1999</title>
+    <desc lang="en">Highlights from a huge FA Cup 4th Round tie in January 1999, as Treble-chasing Man Utd take on a Liverpool side who had not beaten the Red Devils in the FA Cup since 1922.</desc>
+  </programme>
+  <programme start="20201028063000 +0000" stop="20201028070000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Chelsea v Man United 1998</title>
+    <desc lang="en">Highlights from Stamford Bridge, as Ruud Gullit's FA Cup holders Chelsea entertain Man Utd in a classic 3rd round tie which produced an eight-goal thriller.</desc>
+  </programme>
+  <programme start="20201028070000 +0000" stop="20201028073000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Borg v McEnroe 1980</title>
+    <desc lang="en">The 1980 Men's Singles Final served up a classic, with Bjorn Borg chasing his fifth title in a row against John McEnroe who was playing in his first Wimbledon singles final.</desc>
+  </programme>
+  <programme start="20201028073000 +0000" stop="20201028080000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">McEnroe v Connors 1982</title>
+    <desc lang="en">The 1982 Men's Singles Final saw an all-American clash on Independence Day, as defending champion John McEnroe took on Jimmy Connors, who had last won the title in 1974.</desc>
+  </programme>
+  <programme start="20201028080000 +0000" stop="20201028090000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Wimbledon 1997</title>
+    <desc lang="en">The Official film of Wimbledon 1997 a year that saw Pete Sampras regain the men's singles title, while Switzerland's Martina Hingis won her first and only crown at SW19.</desc>
+  </programme>
+  <programme start="20201028090000 +0000" stop="20201028100000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool v Man Utd 1968</title>
+    <desc lang="en">Highlights from April 1968, and a key First Division match between top-of-the-table Man Utd and fourth-placed Liverpool in front of 63,000 fans at a packed Old Trafford.</desc>
+  </programme>
+  <programme start="20201028100000 +0000" stop="20201028110000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool Team of the 80's</title>
+    <desc lang="en">Liverpool v QPR 1984 and Middlesbrough v Liverpool 1989 feature in this episode of Liverpool Team of the 80's.</desc>
+  </programme>
+  <programme start="20201028110000 +0000" stop="20201028120000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">MOTD 1970</title>
+    <desc lang="en">Two classic games from December 1970 as Man Utd host an Arsenal team that would go on to win the double that season and Leicester take on QPR at Filbert Street.</desc>
+  </programme>
+  <programme start="20201028120000 +0000" stop="20201028140000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Ulster v Dragons</title>
+    <desc lang="en">Dan McFarland's side will be hoping to make it three wins from three this season as they welcome Dragons to the Kingspan Stadium.</desc>
+  </programme>
+  <programme start="20201028140000 +0000" stop="20201028160000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Rep. of Ireland v Holland 1990</title>
+    <desc lang="en">Their final group game of Italia '90, Jack Charlton's Ireland ended it in a draw against the Dutch, as both teams had identical records they had to draw lots to pick 2nd place.</desc>
+  </programme>
+  <programme start="20201028160000 +0000" stop="20201028180000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man Utd v Millwall 2004</title>
+    <desc lang="en">The 2004 FA Cup Final at the Millennium Stadium in Cardiff, as Manchester Utd take on Millwall - the first side outside the top flight to play in the Cup Final since 1982.</desc>
+  </programme>
+  <programme start="20201028180000 +0000" stop="20201028200000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Munster v Cardiff</title>
+    <desc lang="en">The two early front runners in Conference B face off at Thomond Park in what is sure to be an entertaining clash.</desc>
+  </programme>
+  <programme start="20201028200000 +0000" stop="20201028220000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Leinster v Zebre</title>
+    <desc lang="en">Reigning champions Leinster will be looking to continue their perfect start to the new campaign against Italian outfit Zebre at the RDS.</desc>
+  </programme>
+  <programme start="20201028220000 +0000" stop="20201028223000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man United v Arsenal 2008</title>
+    <desc lang="en">FA Cup 5th rnd highlights from Old Trafford, as Man Utd entertain the League-leaders Arsenal in a classic Alex Ferguson v Arsene Wenger confrontation.</desc>
+  </programme>
+  <programme start="20201028223000 +0000" stop="20201028230000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man United v West Ham 2003</title>
+    <desc lang="en">FA Cup 4th rnd highlights from Old Trafford, as West Ham travel north to face a Man Utd side who had booked their place in the League Cup Final earlier that week.</desc>
+  </programme>
+  <programme start="20201028230000 +0000" stop="20201029000000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Dha Chuirt</title>
+    <desc lang="en">The tale of Thomas Vere St. Ledger Goold - the Irishman who got to the 1879 Wimbledon final. However, by 1908 he was convicted of one of the most gruesome murders.</desc>
+  </programme>
+  <programme start="20201028230000 +0000" stop="20201029000000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Dha Chuirt</title>
+    <desc lang="en">The tale of Thomas Vere St. Ledger Goold - the Irishman who got to the 1879 Wimbledon final. However, by 1908 he was convicted of one of the most gruesome murders.</desc>
+  </programme>
+  <programme start="20201029000000 +0000" stop="20201029010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">MOTD 1970</title>
+    <desc lang="en">Two classic games from December 1970 as Man Utd host an Arsenal team that would go on to win the double that season and Leicester take on QPR at Filbert Street.</desc>
+  </programme>
+  <programme start="20201029000000 +0000" stop="20201029010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">MOTD 1970</title>
+    <desc lang="en">Two classic games from December 1970 as Man Utd host an Arsenal team that would go on to win the double that season and Leicester take on QPR at Filbert Street.</desc>
+  </programme>
+  <programme start="20201029010000 +0000" stop="20201029030000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Leinster v Zebre</title>
+    <desc lang="en">Reigning champions Leinster will be looking to continue their perfect start to the new campaign against Italian outfit Zebre at the RDS.</desc>
+  </programme>
+  <programme start="20201029030000 +0000" stop="20201029050000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Ulster v Dragons</title>
+    <desc lang="en">Dan McFarland's side will be hoping to make it three wins from three this season as they welcome Dragons to the Kingspan Stadium.</desc>
+  </programme>
+  <programme start="20201029050000 +0000" stop="20201029053000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Abidal</title>
+    <desc lang="en">Documentary about Eric Abidal and his ascension into legendary status at Barcelona FC.</desc>
+  </programme>
+  <programme start="20201029053000 +0000" stop="20201029060000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Always Iniesta</title>
+    <desc lang="en">Barcelona legend Andres Iniesta talks about his time at the club and hopes for the future with the Catalan giants.</desc>
+  </programme>
+  <programme start="20201029060000 +0000" stop="20201029063000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Tranmere v Liverpool 2001</title>
+    <desc lang="en">FA Cup quarter-final highlights from Prenton Park, as second-tier relegation-battlers Tranmere Rovers take on Treble-chasing Liverpool in a Merseryside derby.</desc>
+  </programme>
+  <programme start="20201029063000 +0000" stop="20201029070000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Arsenal v Liverpool 2001</title>
+    <desc lang="en">Highlights of the 2001 FA Cup Final at the Millennium Stadium in Cardiff - the first to be held outside England - as Arsene Wenger's Arsenal and Gerard Houllier's Liverpool clash.</desc>
+  </programme>
+  <programme start="20201029070000 +0000" stop="20201029073000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Lendl v Becker 1989</title>
+    <desc lang="en">The 1989 Men's Singles Semi-Final saw top seed Ivan Lendl take on two-time champion Boris Becker in what turned out to be the longest ever Wimbledon semi-final in history.</desc>
+  </programme>
+  <programme start="20201029073000 +0000" stop="20201029080000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Navratilova v Garrison 1990</title>
+    <desc lang="en">The 1990 Women's Singles Final saw Martina Navratilova, playing in her 9th consecutive Wimbledon final, up against Zina Garrison who was playing in her first Grand Slam decider.</desc>
+  </programme>
+  <programme start="20201029080000 +0000" stop="20201029090000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Wimbledon 1997</title>
+    <desc lang="en">The Official film of Wimbledon 1997 a year that saw Pete Sampras regain the men's singles title, while Switzerland's Martina Hingis won her first and only crown at SW19.</desc>
+  </programme>
+  <programme start="20201029090000 +0000" stop="20201029093000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">West Ham v Liverpool 1981</title>
+    <desc lang="en">First Division highlights from September 1981 as newly-promoted West Ham welcome Liverpool to Upton Park, with Bob Paisley's defending champions struggling for early-season form.</desc>
+  </programme>
+  <programme start="20201029093000 +0000" stop="20201029100000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Bristol City v Liverpool 1980</title>
+    <desc lang="en">First Division highlights from March 1980 as Bob Paisley takes his title-chasing Liverpool side to Ashton Gate, to face a Bristol City team battling against relegation.</desc>
+  </programme>
+  <programme start="20201029100000 +0000" stop="20201029110000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool v Chelsea 1966</title>
+    <desc lang="en">Highlights from the end of the 1965-66 season as Liverpool welcome Chelsea to Anfield, with Bill Shankly's Reds needing just a win to be crowned First Division champions.</desc>
+  </programme>
+  <programme start="20201029110000 +0000" stop="20201029120000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool Team of the 80's</title>
+    <desc lang="en">Liverpool v Arsenal 1989 and Liverpool v Southampton 1989 feature in this episode of Liverpool Team of the 80's.</desc>
+  </programme>
+  <programme start="20201029120000 +0000" stop="20201029140000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Benetton v Scarlets</title>
+    <desc lang="en">Benetton host Scarlets with both sides still looking for their first win of the season.</desc>
+  </programme>
+  <programme start="20201029140000 +0000" stop="20201029160000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man City v Stoke City 2011</title>
+    <desc lang="en">A tale of two Cities as big-spending Manchester City - chasing a first major trophy since 1976 - take on Stoke City at Wembley Stadium in the 130th FA Cup Final.</desc>
+  </programme>
+  <programme start="20201029160000 +0000" stop="20201029180000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Chelsea v Manchester Utd 2018</title>
+    <desc lang="en">After last season's defeat to Arsenal, Chelsea are back at Wembley Stadium where they face a Man Utd side looking to equal Arsenal's record of 13 FA Cup triumphs.</desc>
+  </programme>
+  <programme start="20201029180000 +0000" stop="20201029192500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Ringside: Ali: The Final Chapter</title>
+    <desc lang="en">The finals stages of a glittering career that spanned 3 decades is analysed by a panel of experts at Gleason's Gym. (Part 1).</desc>
+  </programme>
+  <programme start="20201029192500 +0000" stop="20201029205500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Ringside: Ali: The Final Chapter</title>
+    <desc lang="en">The finals stages of a glittering career that spanned 3 decades is analysed by a panel of experts at Gleason's Gym. (Part 2).</desc>
+  </programme>
+  <programme start="20201029205500 +0000" stop="20201029213500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">George Foreman v Gregorio Peralt</title>
+    <desc lang="en">Olympic champion Foreman meets tough contender Peralta in Madison Square Garden in February 1970.</desc>
+  </programme>
+  <programme start="20201029213500 +0000" stop="20201029220000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">George Foreman's Greatest Hits 1</title>
+    <desc lang="en">Some of the finest moments in the career of Big George Foreman, one of the most popular boxers of all time.</desc>
+  </programme>
+  <programme start="20201029220000 +0000" stop="20201029223000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Foreman v Paez/Roman/Norton</title>
+    <desc lang="en">See the awesome power of Foreman close up as he makes short work of some quality opposition.</desc>
+  </programme>
+  <programme start="20201029223000 +0000" stop="20201029225500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Max Schmeling v Max Baer</title>
+    <desc lang="en">Max Schmeling took on Max Baer in a controversial clash at Yankee Stadium in 1933.</desc>
+  </programme>
+  <programme start="20201029225500 +0000" stop="20201029230000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">eir Sport Extra</title>
+    <desc lang="en">Sporting news and features from around the globe.</desc>
+  </programme>
+  <programme start="20201029230000 +0000" stop="20201030000000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">PRO14 Hour</title>
+    <desc lang="en">All of the action from the latest round of matches in the Guinness PRO14.</desc>
+  </programme>
+  <programme start="20201029230000 +0000" stop="20201030000000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">PRO14 Hour</title>
+    <desc lang="en">All of the action from the latest round of matches in the Guinness PRO14.</desc>
+  </programme>
+  <programme start="20201030000000 +0000" stop="20201030010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">True Blues</title>
+    <desc lang="en">Observational documentary following a crucial season in the lives of the perennial underdogs of Dublin GAA, the Dublin Senior Camogie team.</desc>
+  </programme>
+  <programme start="20201030000000 +0000" stop="20201030010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">True Blues</title>
+    <desc lang="en">Observational documentary following a crucial season in the lives of the perennial underdogs of Dublin GAA, the Dublin Senior Camogie team.</desc>
+  </programme>
+  <programme start="20201030010000 +0000" stop="20201030030000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Ulster v Dragons</title>
+    <desc lang="en">Dan McFarland's side will be hoping to make it three wins from three this season as they welcome Dragons to the Kingspan Stadium.</desc>
+  </programme>
+  <programme start="20201030030000 +0000" stop="20201030050000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man City v Stoke City 2011</title>
+    <desc lang="en">A tale of two Cities as big-spending Manchester City - chasing a first major trophy since 1976 - take on Stoke City at Wembley Stadium in the 130th FA Cup Final.</desc>
+  </programme>
+  <programme start="20201030050000 +0000" stop="20201030053000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Thomond Park</title>
+    <desc lang="en">A trip down memory lane as we take a look back at some of the great moments at the home of Munster Rugby.</desc>
+  </programme>
+  <programme start="20201030053000 +0000" stop="20201030060000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Hill 16</title>
+    <desc lang="en">Over 100 years of history, vibrancy and colour of the iconic terrace at Croke Park is explored.</desc>
+  </programme>
+  <programme start="20201030060000 +0000" stop="20201030063000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Nottingham v Tottenham 1991</title>
+    <desc lang="en">Highlights of the 1991 FA Cup Final at Wembley, as a Paul Gascoigne-inspired Tottenham take on Brian Clough's Nottingham Forest, who were back in the final after a 32-year wait.</desc>
+  </programme>
+  <programme start="20201030063000 +0000" stop="20201030070000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Arsenal  v Sheff Wednesday 1993</title>
+    <desc lang="en">Highlights of the 1993 FA Cup Final Replay as Arsenal and Sheffield Wednesday meet for a third time at Wembley, having already met each other in the League Cup Final that year.</desc>
+  </programme>
+  <programme start="20201030070000 +0000" stop="20201030080000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Wimbledon 1999</title>
+    <desc lang="en">The official film of Wimbledon 1999 - a year that saw Pete Sampras win for the 3rd year running and his 6th overall, while Lindsay Davenport won her only singles crown at SW19.</desc>
+  </programme>
+  <programme start="20201030080000 +0000" stop="20201030083000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Graf v Novotna 1993</title>
+    <desc lang="en">The 1993 Women's Singles Final featured German legend Steffi Graf, chasing her 3rd Wimbledon title in a row, up against Jana Novotna who was playing in her first Wimbledon final.</desc>
+  </programme>
+  <programme start="20201030083000 +0000" stop="20201030090000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Ivanisevic v Rafter 2001</title>
+    <desc lang="en">The 2001 Men's Singles Final - played on People's Monday saw three-time runner-up Goran Ivanisevic take on Patrick Rafter, in his second consecutive Wimbledon final.</desc>
+  </programme>
+  <programme start="20201030090000 +0000" stop="20201030100000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man Utd v Burnley 1966</title>
+    <desc lang="en">Highlights from the start of the 1966-67 First Division season as Man Utd face Burnley, who finished third the previous season, at Old Trafford in a Lancashire derby.</desc>
+  </programme>
+  <programme start="20201030100000 +0000" stop="20201030110000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Liverpool Team of the 80's</title>
+    <desc lang="en">Liverpool v Arsenal 1989 and Liverpool v Southampton 1989 feature in this episode of Liverpool Team of the 80's.</desc>
+  </programme>
+  <programme start="20201030110000 +0000" stop="20201030120000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">PRO14 Hour</title>
+    <desc lang="en">All of the action from the latest round of matches in the Guinness PRO14.</desc>
+  </programme>
+  <programme start="20201030120000 +0000" stop="20201030140000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Leinster v Zebre</title>
+    <desc lang="en">Reigning champions Leinster will be looking to continue their perfect start to the new campaign against Italian outfit Zebre at the RDS.</desc>
+  </programme>
+  <programme start="20201030140000 +0000" stop="20201030160000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Ospreys v Glasgow Warriors</title>
+    <desc lang="en">It's Wales v Scotland as Ospreys take on the Warriors at Swansea's Liberty Stadium.</desc>
+  </programme>
+  <programme start="20201030160000 +0000" stop="20201030180000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man Utd v Millwall 2004</title>
+    <desc lang="en">The 2004 FA Cup Final at the Millennium Stadium in Cardiff, as Manchester Utd take on Millwall - the first side outside the top flight to play in the Cup Final since 1982.</desc>
+  </programme>
+  <programme start="20201030180000 +0000" stop="20201030193000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Cork v Kerry 2010</title>
+    <desc lang="en">We take a trip down memory lane for another Allianz Leagues clash under the lights from 2010.</desc>
+  </programme>
+  <programme start="20201030193000 +0000" stop="20201030210000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Cork v Dublin 2010</title>
+    <desc lang="en">We take a trip down memory lane for another Allianz Leagues clash under the lights from 2010.</desc>
+  </programme>
+  <programme start="20201030210000 +0000" stop="20201030223000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Dublin v Cork 2011</title>
+    <desc lang="en">We take a trip down memory lane for another Allianz Leagues clash under the lights from 2011.</desc>
+  </programme>
+  <programme start="20201030223000 +0000" stop="20201030230000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Arsenal v Newcastle Utd 1998</title>
+    <desc lang="en">Highlights of the 1998 FA Cup Final at Wembley as Newcastle face Arsene Wenger's Arsenal, with the Gunners aiming to complete The Double for the second time in the club's hist.</desc>
+  </programme>
+  <programme start="20201030230000 +0000" stop="20201031000000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Dha Chuirt</title>
+    <desc lang="en">The tale of Thomas Vere St. Ledger Goold - the Irishman who got to the 1879 Wimbledon final. However, by 1908 he was convicted of one of the most gruesome murders.</desc>
+  </programme>
+  <programme start="20201030230000 +0000" stop="20201031000000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Dha Chuirt</title>
+    <desc lang="en">The tale of Thomas Vere St. Ledger Goold - the Irishman who got to the 1879 Wimbledon final. However, by 1908 he was convicted of one of the most gruesome murders.</desc>
+  </programme>
+  <programme start="20201031000000 +0000" stop="20201031010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">MOTD 1970</title>
+    <desc lang="en">Two classic games from December 1970 as Man Utd host an Arsenal team that would go on to win the double that season and Leicester take on QPR at Filbert Street.</desc>
+  </programme>
+  <programme start="20201031000000 +0000" stop="20201031010000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">MOTD 1970</title>
+    <desc lang="en">Two classic games from December 1970 as Man Utd host an Arsenal team that would go on to win the double that season and Leicester take on QPR at Filbert Street.</desc>
+  </programme>
+  <programme start="20201031010000 +0000" stop="20201031030000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Ospreys v Glasgow Warriors</title>
+    <desc lang="en">It's Wales v Scotland as Ospreys take on the Warriors at Swansea's Liberty Stadium.</desc>
+  </programme>
+  <programme start="20201031030000 +0000" stop="20201031050000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man Utd v Millwall 2004</title>
+    <desc lang="en">The 2004 FA Cup Final at the Millennium Stadium in Cardiff, as Manchester Utd take on Millwall - the first side outside the top flight to play in the Cup Final since 1982.</desc>
+  </programme>
+  <programme start="20201031050000 +0000" stop="20201031053000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Paulinho From The Heart</title>
+    <desc lang="en">Paulinho talks about his family life, and a football career that has seen him play for clubs in Brazil, Lithuania, Poland, England, China, and finally Spain.</desc>
+  </programme>
+  <programme start="20201031053000 +0000" stop="20201031060000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Mascherano: From the Heart</title>
+    <desc lang="en">The rehabilitation journey of an injured Barcelona Futsal star.</desc>
+  </programme>
+  <programme start="20201031060000 +0000" stop="20201031063000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Hull City v Chelsea 1999</title>
+    <desc lang="en">Highlights of an FA Cup Third Round clash from December 1999, as Gianluca Vialli takes his Chelsea side north to face Third Division strugglers Hull City at Boothferry Park.</desc>
+  </programme>
+  <programme start="20201031063000 +0000" stop="20201031070000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Newcastle Utd v Tottenham 2000</title>
+    <desc lang="en">FA Cup Third Round Replay highlights from December 1999, as George Graham's Tottenham Hotspur side make the trip north to face Bobby Robson's Newcastle Utd at St James' Park.</desc>
+  </programme>
+  <programme start="20201031070000 +0000" stop="20201031073000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Davenport v Williams 2005</title>
+    <desc lang="en">The 2005 Women's Singles Final was a repeat of the all-American 2000 decider, as twice-winner Venus Williams took on the 1999 champion and World No. 1 Lindsay Davenport.</desc>
+  </programme>
+  <programme start="20201031073000 +0000" stop="20201031080000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Nadal v Federer 2008</title>
+    <desc lang="en">The 2008 Men's Singles Final is rightly remembered as a classic, with Roger Federer and his great rival Rafa Nadal meeting in the final for the third year in a row at SW19.</desc>
+  </programme>
+  <programme start="20201031080000 +0000" stop="20201031090000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Wimbledon 2002</title>
+    <desc lang="en">The Official film of Wimbledon 2002 a year that saw Lleyton Hewitt win his only singles title at SW19, while Serena Williams beat her sister Venus in the women's singles.</desc>
+  </programme>
+  <programme start="20201031090000 +0000" stop="20201031100000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">PRO14 Hour</title>
+    <desc lang="en">All of the action from the latest round of matches in the Guinness PRO14.</desc>
+  </programme>
+  <programme start="20201031100000 +0000" stop="20201031110000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Tottenham v Man Utd 1965</title>
+    <desc lang="en">Highlights from October 1965 as the First Division champions Man Utd visit White Hart Lane, to face a Tottenham side unbeaten at home in their previous 31 matches.</desc>
+  </programme>
+  <programme start="20201031110000 +0000" stop="20201031120000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Wolves v Man United 2019</title>
+    <desc lang="en">On an atmospheric night in the West Midlands, four time winners Wolverhampton Wanderers welcomed England's most decorated club Manchester United to Molineux.</desc>
+  </programme>
+  <programme start="20201031120000 +0000" stop="20201031140000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Man City v Stoke City 2011</title>
+    <desc lang="en">A tale of two Cities as big-spending Manchester City - chasing a first major trophy since 1976 - take on Stoke City at Wembley Stadium in the 130th FA Cup Final.</desc>
+  </programme>
+  <programme start="20201031140000 +0000" stop="20201031160000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Munster v Cardiff</title>
+    <desc lang="en">The two early front runners in Conference B face off at Thomond Park in what is sure to be an entertaining clash.</desc>
+  </programme>
+  <programme start="20201031160000 +0000" stop="20201031180000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Rep. of Ireland v Holland 1990</title>
+    <desc lang="en">Their final group game of Italia '90, Jack Charlton's Ireland ended it in a draw against the Dutch, as both teams had identical records they had to draw lots to pick 2nd place.</desc>
+  </programme>
+  <programme start="20201031180000 +0000" stop="20201031203500 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">Rep. of Ireland v Romania 1990</title>
+    <desc lang="en">An unforgettable World Cup Round of 16 clash at the Stadio Luigi Ferraris in Genoa, as Jack Charlton's Ireland side take on Romania for a place in the quarter-finals at Italia 9.</desc>
+  </programme>
+  <programme start="20201031203500 +0000" stop="20201031232000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
+    <title lang="en">France v Brazil 1986</title>
+    <desc lang="en">The 1986 World Cup Quarter-Final at the Estadio Jalisco in Guadalajara, Mexico saw a Michel Platini-inspired France take on Tele Santana's Brazil for a place in the semi-finals.</desc>
   </programme>
 </tv>
