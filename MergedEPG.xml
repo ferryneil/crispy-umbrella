@@ -785,6 +785,10 @@
     <display-name>eir Sport 2 UK FHD</display-name>
     <icon src="http://iptvboss.xyz/logos/UK%20Networks%20and%20Sports/EIR%20SPORT%202.png"></icon>
   </channel>
+  <channel id="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <display-name>Paramount Channel</display-name>
+    <icon src="http://iptvboss.xyz/logos/Latino/ParamountChannel.ar.png"></icon>
+  </channel>
   <programme start="20201024000000 +0000" stop="20201024003000 +0000" channel="Guide_EPGDreamWorks Channel HD">
     <title lang="en">Cleopatra In Space</title>
     <desc lang="en">When Brian and Cleo try to get Akila to say 'no', they find themselves face to face with the galaxy’s grossest outlaws, the scavengers.(n)</desc>
@@ -48240,5 +48244,559 @@
   <programme start="20201031203500 +0000" stop="20201031232000 +0000" channel="UK_Networks_and_Sports_EPGEIR SPORT 2">
     <title lang="en">France v Brazil 1986</title>
     <desc lang="en">The 1986 World Cup Quarter-Final at the Estadio Jalisco in Guadalajara, Mexico saw a Michel Platini-inspired France take on Tele Santana's Brazil for a place in the semi-finals.</desc>
+  </programme>
+  <programme start="20201024010000 +0000" stop="20201024025500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">La balada del pistolero</title>
+    <title lang="en">Desperado</title>
+    <desc lang="es">Antonio Banderas es un pistolero que llega a un pueblo fronterizo de México en busca del jefe de una banda de maleantes. Él se enamora de una bella joven, quien es la amante del más poderoso mafioso del lugar.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201024025500 +0000" stop="20201024044500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">John Wick</title>
+    <title lang="en">John Wick</title>
+    <desc lang="es">John es un antiguo asesino a sueldo que observa como un ladrón roba su coche y mata al perro que su mujer le regaló antes de morir. Tras el hecho, Jon persigue al delincuente y descubre una red mafiosa que le ha puesto un valor a su cabeza.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201024044600 +0000" stop="20201024064400 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">La balada del pistolero</title>
+    <title lang="en">Desperado</title>
+    <desc lang="es">Antonio Banderas es un pistolero que llega a un pueblo fronterizo de México en busca del jefe de una banda de maleantes. Él se enamora de una bella joven, quien es la amante del más poderoso mafioso del lugar.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201024064400 +0000" stop="20201024083400 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Ojo por ojo</title>
+    <title lang="en">Eye for an Eye</title>
+    <desc lang="es">Una madre ve cómo su vida se hace pedazos cuando un desconocido entra en su casa y asesina a su hija. Al enterarse que el criminal es puesto en libertad, decide tomar venganza por su propia mano.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201024083400 +0000" stop="20201024090000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201024090000 +0000" stop="20201024093100 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201024093100 +0000" stop="20201024100000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201024100000 +0000" stop="20201024101200 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201024101200 +0000" stop="20201024102200 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201024102200 +0000" stop="20201024123300 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">La suma de todos los miedos</title>
+    <title lang="en">The Sum of All Fears</title>
+    <desc lang="es">Jack Ryan el jefe de la CIA es enviado a evitar una conspiración que lleva a Estados Unidos y Rusia a un enfrentamiento nuclear cuando descubre un complot para atacar el Super Bowl.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201024123300 +0000" stop="20201024144300 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Una acción civil</title>
+    <title lang="en">A Civil Action</title>
+    <desc lang="es">Ocho familias de Massachusetts emprenden un proceso judicial contra dos poderosas corporaciones a las que acusan de haber contaminado el agua del pueblo con residuos químicos que han causado la muerte a sus hijos.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201024144300 +0000" stop="20201024170200 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Un lugar donde refugiarse</title>
+    <title lang="en">Safe Haven</title>
+    <desc lang="es">Katie Feldman escapa a Southport, donde pretende empezar de cero. Alquila una vieja casa en el bosque y encuentra trabajo en un café, para no levantar sospechas sobre su llegada, decide evitar cualquier vínculo personal con sus habitantes.</desc>
+    <category lang="es">Romántica</category>
+  </programme>
+  <programme start="20201024170200 +0000" stop="20201024193500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Ghost, la sombra del amor</title>
+    <title lang="en">Ghost</title>
+    <desc lang="es">Ella queda desconsolada tras la muerte repentina de su esposo, él permanece a su lado como fantasma y sabe quién lo mató, pero no tiene forma de comunicarse con ella. Es allí cuando aparece una pintoresca medium.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201024193500 +0000" stop="20201024222200 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Forrest Gump</title>
+    <title lang="en">Forrest Gump</title>
+    <desc lang="es">La historia de un chico que sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón, será protagonista de acontecimientos cruciales de su país durante varias décadas.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201024222200 +0000" stop="20201025000700 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">La persecución</title>
+    <title lang="en">Beyond the Reach</title>
+    <desc lang="es">Un alto ejecutivo del mundo empresarial y su joven guía empobrecido entablarán un juego peligroso durante un viaje de caza en el desierto de Mojave.</desc>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20201025000700 +0000" stop="20201025022100 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Temple de acero</title>
+    <title lang="en">True Grit</title>
+    <desc lang="es">El temple de tres socios es puesto a prueba cuando una niña de 14 años, Mattie, contrata al Mariscal Rubén Cogburn para matar al hombre que asesinó a su padre, Tom Chaney. Por razones personales, el guardabosque LaBoeuf se une al equipo.</desc>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20201025022100 +0000" stop="20201025041600 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">2013: Rescate en L.A.</title>
+    <title lang="en">Escape from L.A</title>
+    <desc lang="es">Corre el año 2013 y la isla de Los Angeles, después del terremoto del 2000, se ha convertido en una cárcel inmensa donde viven los más desalmados criminales del mundo.</desc>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20201025041600 +0000" stop="20201025061200 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Todo sobre mi madre</title>
+    <title lang="en">Todo sobre mi madre</title>
+    <desc lang="es">Manuela pierde a su hijo el mismo día que el chico celebra su cumpleaños. Destrozada por tan irreparable pérdida, huye del presente refugiándose en el pasado. Viaja hasta Barcelona de donde salió embarazada hace dieciocho años.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201025061200 +0000" stop="20201025075300 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Una sola noche</title>
+    <title lang="en">Last Night</title>
+    <desc lang="es">Un matrimonio de Nueva York tiene que separarse durante una noche, por causa de un viaje de negocios que el marido debe realizar con una atractiva compañera de trabajo. Mientras tanto, su esposa se reencuentra con Alex, un antiguo amor.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201025075300 +0000" stop="20201025100000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Sospecha mortal</title>
+    <title lang="en">Internal Affairs</title>
+    <desc lang="es">Una investigación por corrupción policial ha llevado a Avila y su compañera, la sargenta Amy Wallace, a sospechar del detective Dennis Peck, quien se vuelve más peligroso cuando la investigación amenaza su territorio.</desc>
+    <category lang="es">Policial</category>
+  </programme>
+  <programme start="20201025100000 +0000" stop="20201025103000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201025103000 +0000" stop="20201025110000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201025110000 +0000" stop="20201025130500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Una acción civil</title>
+    <title lang="en">A Civil Action</title>
+    <desc lang="es">Ocho familias de Massachusetts emprenden un proceso judicial contra dos poderosas corporaciones a las que acusan de haber contaminado el agua del pueblo con residuos químicos que han causado la muerte a sus hijos.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201025130500 +0000" stop="20201025150500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Temple de acero</title>
+    <title lang="en">True Grit</title>
+    <desc lang="es">El temple de tres socios es puesto a prueba cuando una niña de 14 años, Mattie, contrata al Mariscal Rubén Cogburn para matar al hombre que asesinó a su padre, Tom Chaney. Por razones personales, el guardabosque LaBoeuf se une al equipo.</desc>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20201025150500 +0000" stop="20201025172000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Ghost, la sombra del amor</title>
+    <title lang="en">Ghost</title>
+    <desc lang="es">Ella queda desconsolada tras la muerte repentina de su esposo, él permanece a su lado como fantasma y sabe quién lo mató, pero no tiene forma de comunicarse con ella. Es allí cuando aparece una pintoresca medium.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201025172000 +0000" stop="20201025200000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Forrest Gump</title>
+    <title lang="en">Forrest Gump</title>
+    <desc lang="es">La historia de un chico que sufre desde pequeño un cierto retraso mental. A pesar de todo, gracias a su tenacidad y a su buen corazón, será protagonista de acontecimientos cruciales de su país durante varias décadas.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201025200000 +0000" stop="20201025220500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Lemony Snicket: una serie de eventos desafortunados</title>
+    <title lang="en">Lemony Snicket's A Series of Unfortunate Events</title>
+    <desc lang="es">Violet, Klaus y Sunny son tres hermanos, cuyos padres han muerto y les han dejado una fortuna. Cuando los chicos son enviados a vivir con el conde Olaf, muy pronto se enteran de que éste quiere robarles la herencia.</desc>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20201025220500 +0000" stop="20201026000000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Son como niños</title>
+    <title lang="en">Grown Ups</title>
+    <desc lang="es">Cinco amigos se reencuentran después de treinta años. Con sus esposas e hijos a cuestas deciden pasar el fin de semana en una casa en el lago. Esta experiencia les servirá para darse cuenta que, a pesar de la edad, realmente no han crecido.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201026000000 +0000" stop="20201026014500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Juno: crecer, correr y tropezar</title>
+    <title lang="en">Juno</title>
+    <desc lang="es">Juno es una adolescente que enfrenta una prematura adultez al quedar involuntariamente embarazada. Ella decide buscar una pareja de padres ideales para dar a su bebé en adopción.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201026014500 +0000" stop="20201026040000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">La mexicana</title>
+    <title lang="en">The Mexican</title>
+    <desc lang="es">Jerry acaba de recibir dos ultimátum: el primero de su jefe, un mafioso que le encarga recuperar una antigua pistola llamada "La Mexicana.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201026040000 +0000" stop="20201026053500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Con la frente en alto</title>
+    <title lang="en">Walking Tall</title>
+    <desc lang="es">Un soldado retirado regresa a su hogar y ve que un antiguo rival de la escuela dirige ahora los destinos de toda la zona. Por eso decide colocar las cosas en orden, aunque implique poner su vida y la de su familia en peligro.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201026053500 +0000" stop="20201026072500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Fuera de control</title>
+    <title lang="en">Changing Lanes</title>
+    <desc lang="es">Un atasco en hora pico en Nueva York no provocaría una reacción en cadena capaz de destrozar la vida de dos personas. Sin embargo, en este día en concreto, un pequeño choque convertirá a dos hombres en enemigos declarados.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201026072500 +0000" stop="20201026090000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Su primera vez</title>
+    <title lang="en">The Virginity Hit</title>
+    <desc lang="es">De todos sus amigos, Matt es el último en perder la virginidad. Pero como su hermanastro le grabó en plena faena y publicó el vídeo en Internet, Matt se venga de la novia que le engañó, infringe la ley.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201026090000 +0000" stop="20201026093000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201026093000 +0000" stop="20201026100000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201026100000 +0000" stop="20201026103000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201026103000 +0000" stop="20201026110000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201026110000 +0000" stop="20201026123000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Rugrats 2 en París</title>
+    <title lang="en">Rugrats in Paris: The Movie</title>
+    <desc lang="es">Angélica, Carlitos, Tommy y toda la pandilla de los Rugrats se van a París en donde Carlitos tratará de encontrar una nueva esposa para su padre y una mamá para él, lo cual no será tarea fácil.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20201026123000 +0000" stop="20201026140000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Rugrats: la película</title>
+    <title lang="en">The Rugrats Movie</title>
+    <desc lang="es">Las aventuras y desventuras del pequeño Tommy, que hará lo imposible por recobrar el protagonismo que le ha quitado su recién llegado hermano pequeño. En todo caso, junto a sus amigos continuará disfrutando de las más variadas situaciones.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20201026140000 +0000" stop="20201026160000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Lemony Snicket: una serie de eventos desafortunados</title>
+    <title lang="en">Lemony Snicket's A Series of Unfortunate Events</title>
+    <desc lang="es">Violet, Klaus y Sunny son tres hermanos, cuyos padres han muerto y les han dejado una fortuna. Cuando los chicos son enviados a vivir con el conde Olaf, muy pronto se enteran de que éste quiere robarles la herencia.</desc>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20201026160000 +0000" stop="20201026173000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Pequeñas grandes amigas</title>
+    <title lang="en">Uptown Girls</title>
+    <desc lang="es">Una mujer adulta que mantiene sus instintos y comportamientos infantiles comienza a trabajar como niñera de una pequeña de ocho años que se comporta como un adulto. Al final todo terminará en su correcto lugar.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201026173000 +0000" stop="20201026193000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Son como niños</title>
+    <title lang="en">Grown Ups</title>
+    <desc lang="es">Cinco amigos se reencuentran después de treinta años. Con sus esposas e hijos a cuestas deciden pasar el fin de semana en una casa en el lago. Esta experiencia les servirá para darse cuenta que, a pesar de la edad, realmente no han crecido.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201026193000 +0000" stop="20201026211500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Juno: crecer, correr y tropezar</title>
+    <title lang="en">Juno</title>
+    <desc lang="es">Juno es una adolescente que enfrenta una prematura adultez al quedar involuntariamente embarazada. Ella decide buscar una pareja de padres ideales para dar a su bebé en adopción.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201026211500 +0000" stop="20201026230000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Con la frente en alto</title>
+    <title lang="en">Walking Tall</title>
+    <desc lang="es">Un soldado retirado regresa a su hogar y ve que un antiguo rival de la escuela dirige ahora los destinos de toda la zona. Por eso decide colocar las cosas en orden, aunque implique poner su vida y la de su familia en peligro.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201026230000 +0000" stop="20201027000000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Yellowstone</title>
+    <title lang="en">Yellowstone</title>
+    <desc lang="es">Sigue la historia de la familia Dutton, propietarios del mayor rancho de ganado de Estados Unidos. El negocio de los Dutton navega un complicado mundo de alianzas económicas y políticas, en constante conflicto con quienes lo rodean.</desc>
+    <episode-num system="onscreen">S2 E3</episode-num>
+  </programme>
+  <programme start="20201027000000 +0000" stop="20201027010000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">For Life</title>
+    <title lang="en">For Life</title>
+    <desc lang="es">Un prisionero injustamente condenado por su color de piel se convierte en abogado y defiende los casos de otros internos, mientras lucha por revertir su propia condena de por vida por un crimen que no cometió.</desc>
+    <episode-num system="onscreen">S1 E8</episode-num>
+  </programme>
+  <programme start="20201027010000 +0000" stop="20201027030000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Carrie</title>
+    <title lang="en">Carrie</title>
+    <desc lang="es">Carrie White, una chica tímida, marginada por sus compañeros y protegida por su madre profundamente religiosa, desata el terror telequinético en su pequeño pueblo, después de haber sido llevada al límite en su baile de graduación.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20201027030000 +0000" stop="20201027040000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Creepshow</title>
+    <title lang="en">Creepshow</title>
+    <desc lang="es">Basándose en la icónica antología de películas escritas por Stephen King y dirigidas por George Romero, cada episodio de la serie consta de dos capítulos con historias originales dirigidos por diferentes directores.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20201027040000 +0000" stop="20201027054500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Pet</title>
+    <title lang="en">Pet</title>
+    <desc lang="es">Seth y Holly son dos personas aisladas que tienen mucho más en común de lo que creen. Una oscura historia de amor que demuestra cuánto estamos dispuestos a hacer en nombre del amor.</desc>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20201027054500 +0000" stop="20201027074500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">El exorcismo de Emily Rose</title>
+    <title lang="en">The Exorcism of Emily Rose</title>
+    <desc lang="es">Emily Rose es una estudiante de 19 años que empieza a mostrar una inexplicable conducta y sus padres, creyendo que está poseída, autorizan un exorcismo, que terminará en la muerte de Emily y un interminable debate entre la fe y la ciencia.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20201027074500 +0000" stop="20201027093000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Especies II</title>
+    <title lang="en">Species II</title>
+    <desc lang="es">Al volver de una misión en Marte a la Tierra, un astronauta y su tripulación son recibidos como héroes, pero luego se da cuenta de que ha sido infectado con ADN alienígena. En tanto, un extraterrestre clonado intentará crear una nueva raza.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20201027093000 +0000" stop="20201027100000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201027100000 +0000" stop="20201027103000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201027103000 +0000" stop="20201027110000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201027110000 +0000" stop="20201027121500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Rugrats: la película</title>
+    <title lang="en">The Rugrats Movie</title>
+    <desc lang="es">Las aventuras y desventuras del pequeño Tommy, que hará lo imposible por recobrar el protagonismo que le ha quitado su recién llegado hermano pequeño. En todo caso, junto a sus amigos continuará disfrutando de las más variadas situaciones.</desc>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20201027121500 +0000" stop="20201027140000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Pequeñas grandes amigas</title>
+    <title lang="en">Uptown Girls</title>
+    <desc lang="es">Una mujer adulta que mantiene sus instintos y comportamientos infantiles comienza a trabajar como niñera de una pequeña de ocho años que se comporta como un adulto. Al final todo terminará en su correcto lugar.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201027140000 +0000" stop="20201027161500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">La fuerza del cariño II</title>
+    <title lang="en">The Evening Star</title>
+    <desc lang="es">Con el paso de los años, Aurora se plantea si ha educado bien a sus tres nietos después de la muerte de su madre. Los tres parecen odiarla sin reconocer sus sacrificios.</desc>
+    <category lang="es">C.Dramática</category>
+  </programme>
+  <programme start="20201027161500 +0000" stop="20201027184500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">El árbol de la vida</title>
+    <title lang="en">The Tree of Life</title>
+    <desc lang="es">Jack es criado por sus padres de formas distintas. Por un lado, su madre encarna el amor y la ternura. Por el otro, su padre representa la severidad. De adulto, Jack pensará qué influencia tuvieron sus progenitores en el rumbo de su vida.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201027184500 +0000" stop="20201027210000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">El exorcismo de Emily Rose</title>
+    <title lang="en">The Exorcism of Emily Rose</title>
+    <desc lang="es">Emily Rose es una estudiante de 19 años que empieza a mostrar una inexplicable conducta y sus padres, creyendo que está poseída, autorizan un exorcismo, que terminará en la muerte de Emily y un interminable debate entre la fe y la ciencia.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20201027210000 +0000" stop="20201027230000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Espejito, espejito</title>
+    <title lang="en">Mirror, Mirror</title>
+    <desc lang="es">En esta nueva versión del cuento clásico de Blancanieves, la bella y valiente joven, en compañía de los 7 rebeldes enanos, se propone reclamar a su príncipe y el trono que le pertenece.</desc>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20201027230000 +0000" stop="20201028003000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">La pistola desnuda</title>
+    <title lang="en">The Naked Gun</title>
+    <desc lang="es">Tras la muerte de su compañero Nordberg en un tiroteo, el incompetente teniente Frank Drebin busca al jefe de la organización para vengarse, y aunque sospecha del magnate naviero Vincent Ludwig, no tiene pruebas para inculparlo.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201028003000 +0000" stop="20201028013000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Yellowstone</title>
+    <title lang="en">Yellowstone</title>
+    <desc lang="es">Sigue la historia de la familia Dutton, propietarios del mayor rancho de ganado de Estados Unidos. El negocio de los Dutton navega un complicado mundo de alianzas económicas y políticas, en constante conflicto con quienes lo rodean.</desc>
+    <episode-num system="onscreen">S2 E4</episode-num>
+  </programme>
+  <programme start="20201028013000 +0000" stop="20201028030000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Jessabelle</title>
+    <title lang="en">Jessabelle</title>
+    <desc lang="es">Una joven es forzada a volver a casa de su padre, en Luisiana, cuando un accidente de tráfico la deja sin poder usar las piernas. Descubrirá entonces que hay un misterio alrededor de su nacimiento.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20201028030000 +0000" stop="20201028040000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Creepshow</title>
+    <title lang="en">Creepshow</title>
+    <desc lang="es">Basándose en la icónica antología de películas escritas por Stephen King y dirigidas por George Romero, cada episodio de la serie consta de dos capítulos con historias originales dirigidos por diferentes directores.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20201028040000 +0000" stop="20201028053000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Especies II</title>
+    <title lang="en">Species II</title>
+    <desc lang="es">Al volver de una misión en Marte a la Tierra, un astronauta y su tripulación son recibidos como héroes, pero luego se da cuenta de que ha sido infectado con ADN alienígena. En tanto, un extraterrestre clonado intentará crear una nueva raza.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20201028053000 +0000" stop="20201028073000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Especies 3</title>
+    <title lang="en">Species 3</title>
+    <desc lang="es">Eve, mitad humano, mitad alienígena, da a luz a una niña. Ahora, con el fin de reproducir su especie, inicia la búsqueda de un compañero ideal, mientras un equipo militar trata de detenerla.</desc>
+    <category lang="es">C.Ficción</category>
+  </programme>
+  <programme start="20201028073000 +0000" stop="20201028090000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">REC</title>
+    <title lang="en">REC</title>
+    <desc lang="es">Un grupo de personas, incluida una reportera y dos bomberos, quedan atrapados en un edificio que ha sido puesto en cuarentena. Un virus se propaga entre ellos, y una pesadilla comienza. Al parecer no hay escapatoria del lugar.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20201028090000 +0000" stop="20201028093000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201028093000 +0000" stop="20201028100000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201028100000 +0000" stop="20201028103000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201028103000 +0000" stop="20201028110000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201028110000 +0000" stop="20201028113000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Balcony Stories, vecinos en cuarentena</title>
+    <title lang="en">Balcony Stories, vecinos en cuarentena</title>
+    <desc lang="es">Contenido generado por los espectadores, que muestra las maneras positivas y creativas en las que las personas de todo el mundo están viviendo esta cuarentena.</desc>
+    <episode-num system="onscreen">S1 E1</episode-num>
+  </programme>
+  <programme start="20201028113000 +0000" stop="20201028120000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Balcony Stories, vecinos en cuarentena</title>
+    <title lang="en">Balcony Stories, vecinos en cuarentena</title>
+    <desc lang="es">Contenido generado por los espectadores, que muestra las maneras positivas y creativas en las que las personas de todo el mundo están viviendo esta cuarentena.</desc>
+    <episode-num system="onscreen">S1 E2</episode-num>
+  </programme>
+  <programme start="20201028120000 +0000" stop="20201028143000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">El árbol de la vida</title>
+    <title lang="en">The Tree of Life</title>
+    <desc lang="es">Jack es criado por sus padres de formas distintas. Por un lado, su madre encarna el amor y la ternura. Por el otro, su padre representa la severidad. De adulto, Jack pensará qué influencia tuvieron sus progenitores en el rumbo de su vida.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201028143000 +0000" stop="20201028163000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Una segunda oportunidad</title>
+    <title lang="en">Regarding Henry</title>
+    <desc lang="es">Ha logrado triunfar como abogado en New York, aún a costa de sacrificar a su esposa e hija. Una bala lo deja sin recuerdos y deberá empezar todo de nuevo, tal vez pueda cambiar.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201028163000 +0000" stop="20201028183000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Espejito, espejito</title>
+    <title lang="en">Mirror, Mirror</title>
+    <desc lang="es">En esta nueva versión del cuento clásico de Blancanieves, la bella y valiente joven, en compañía de los 7 rebeldes enanos, se propone reclamar a su príncipe y el trono que le pertenece.</desc>
+    <category lang="es">Aventura</category>
+  </programme>
+  <programme start="20201028183000 +0000" stop="20201028203000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Experta en bodas</title>
+    <title lang="en">The Wedding Planner</title>
+    <desc lang="es">Mary Fiore es una experta en bodas. La mejor. Sabe exactamente cómo planificar la ceremonia, aconsejar a las novias, decorar los salones, poner cada detalle a punto; pero sabe muy poco acerca del amor.</desc>
+    <category lang="es">C.Romántica</category>
+  </programme>
+  <programme start="20201028203000 +0000" stop="20201028220000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">La pistola desnuda</title>
+    <title lang="en">The Naked Gun</title>
+    <desc lang="es">Tras la muerte de su compañero Nordberg en un tiroteo, el incompetente teniente Frank Drebin busca al jefe de la organización para vengarse, y aunque sospecha del magnate naviero Vincent Ludwig, no tiene pruebas para inculparlo.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201028220000 +0000" stop="20201029000000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Tortugas Ninja</title>
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">La oscuridad ha caído sobre la Nueva York cuando Destructor y el malvado Clan del Pie dominan la ciudad. Cuatro héroes salen de las alcantarillas y aceptan su destino como Tortugas Ninja Jóvenes Mutantes para intentar salvar la ciudad.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201029000000 +0000" stop="20201029010000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">19-2</title>
+    <title lang="en">19-2</title>
+    <desc lang="es">Las tensiones, personales y profesionales, van en aumento mientras la Escuadra 19 lucha por controlar una ciudad en caos.</desc>
+    <episode-num system="onscreen">S4 E7</episode-num>
+  </programme>
+  <programme start="20201029010000 +0000" stop="20201029030000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Despertar de los muertos</title>
+    <title lang="en">The Awakening</title>
+    <desc lang="es">En 1921, una escéptica investigadora de fenómenos paranormales visita un internado supuestamente habitado por fantasmas. Cuando ella cree haber demostrado la ausencia de algún espíritu, tiene un encuentro que desafía todas sus creencias.</desc>
+    <category lang="es">Thriller</category>
+  </programme>
+  <programme start="20201029030000 +0000" stop="20201029040000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Creepshow</title>
+    <title lang="en">Creepshow</title>
+    <desc lang="es">Basándose en la icónica antología de películas escritas por Stephen King y dirigidas por George Romero, cada episodio de la serie consta de dos capítulos con historias originales dirigidos por diferentes directores.</desc>
+    <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20201029040000 +0000" stop="20201029053000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">REC</title>
+    <title lang="en">REC</title>
+    <desc lang="es">Un grupo de personas, incluida una reportera y dos bomberos, quedan atrapados en un edificio que ha sido puesto en cuarentena. Un virus se propaga entre ellos, y una pesadilla comienza. Al parecer no hay escapatoria del lugar.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20201029053000 +0000" stop="20201029071500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">La leyenda del jinete sin cabeza</title>
+    <title lang="en">Sleepy Hollow</title>
+    <desc lang="es">Un policía de Nueva York, que utiliza avanzados métodos de investigación, es enviado al pueblo de Sleepy Hollow para descubrir la verdad sobre la leyenda de un jinete sin cabeza que aterroriza a sus habitantes.</desc>
+    <category lang="es">Suspenso</category>
+  </programme>
+  <programme start="20201029071500 +0000" stop="20201029090000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Maleficio</title>
+    <title lang="en">Thinner</title>
+    <desc lang="es">Billy es un abogado sin escrúpulos con sobrepeso. Su vida cambia radicalmente cuando atropella a una gitana, quien antes de morir le echa una maldición que hace que Billy comience a perder peso de una manera sobrenatural.</desc>
+    <category lang="es">Terror</category>
+  </programme>
+  <programme start="20201029090000 +0000" stop="20201029093000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201029093000 +0000" stop="20201029100000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201029100000 +0000" stop="20201029103000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201029103000 +0000" stop="20201029110000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Paramount Soundtrack</title>
+    <desc lang="es">Videos para empezar el día con lo mejor de artistas internacionales y latinos.</desc>
+    <category lang="es">Musical</category>
+  </programme>
+  <programme start="20201029110000 +0000" stop="20201029130000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Una segunda oportunidad</title>
+    <title lang="en">Regarding Henry</title>
+    <desc lang="es">Ha logrado triunfar como abogado en New York, aún a costa de sacrificar a su esposa e hija. Una bala lo deja sin recuerdos y deberá empezar todo de nuevo, tal vez pueda cambiar.</desc>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20201029130000 +0000" stop="20201029150000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Tortugas Ninja</title>
+    <title lang="en">Teenage Mutant Ninja Turtles</title>
+    <desc lang="es">La oscuridad ha caído sobre la Nueva York cuando Destructor y el malvado Clan del Pie dominan la ciudad. Cuatro héroes salen de las alcantarillas y aceptan su destino como Tortugas Ninja Jóvenes Mutantes para intentar salvar la ciudad.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201029150000 +0000" stop="20201029171500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Experta en bodas</title>
+    <title lang="en">The Wedding Planner</title>
+    <desc lang="es">Mary Fiore es una experta en bodas. La mejor. Sabe exactamente cómo planificar la ceremonia, aconsejar a las novias, decorar los salones, poner cada detalle a punto; pero sabe muy poco acerca del amor.</desc>
+    <category lang="es">C.Romántica</category>
+  </programme>
+  <programme start="20201029171500 +0000" stop="20201029193000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">El santo</title>
+    <title lang="en">The Saint</title>
+    <desc lang="es">El más famoso ladrón del mundo, a punto de alcanzar cincuenta millones de dólares en su cuenta para poder retirarse, enfrenta la difícil misión de arrebatarle a una bella científica el secreto de la fusión nuclear.</desc>
+    <category lang="es">Acción</category>
+  </programme>
+  <programme start="20201029193000 +0000" stop="20201029211500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Algo más que cómplices</title>
+    <title lang="en">Life Without Dick</title>
+    <desc lang="es">Por un accidente mata a su novio y por otro conoce a Daniel. Lo que ninguno sabe es que están a punto de iniciar un tórrido romance. Una entretenida comedia sobre sicarios que no asesinan y amores que matan.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201029211500 +0000" stop="20201029231500 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">Deslizando a la gloria</title>
+    <title lang="en">Blades of Glory</title>
+    <desc lang="es">Expulsados para siempre del patinaje artístico después de pelearse en directo en mitad de los Juegos Olímpicos, dos antiguas estrellas de este deporte encuentran que la única forma de volver es presentándose como pareja.</desc>
+    <category lang="es">Comedia</category>
+  </programme>
+  <programme start="20201029231500 +0000" stop="20201030010000 +0000" channel="LATINO_Networks_and_Sports_EPGParamountChannel.ar">
+    <title lang="es">El Diablo metió la mano</title>
+    <title lang="en">Idle Hands</title>
+    <desc lang="es">Después de reunirse con sus amigos igualmente irresponsables Mick y Pnub, Anton descubre que su mano derecha tiene una mente propia que está decidida a cometer crímenes con o sin él.</desc>
+    <category lang="es">Comedia</category>
   </programme>
 </tv>
