@@ -1,7 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-chno="338" tvg-id="BBC1 N Ireland" tvg-name="BBC One Northern Ireland" tvg-logo="https://i.imgur.com/UhHMrAE.png" group-title="Entertainment: Ireland",BBC One NI HD
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175596.ts
-#EXTINF:-1 tvg-chno="339" tvg-id="BBC1 N Ireland" tvg-name="BBC.One.NI.uk" tvg-logo="https://i.imgur.com/iGdAB8X.png" group-title="Entertainment: Ireland",BBC One NI
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175594.ts
-#EXTINF:-1 tvg-chno="340" tvg-id="BBC2 N Ireland" tvg-name="BBC.Two.NI.uk" tvg-logo="https://i.imgur.com/OfFqlze.png" group-title="Entertainment: Ireland",BBC Two NI
-http://185.39.11.212:8085/live/Neilneilsmith@hotmail.com/QczPGkBsJIz/175570.ts
