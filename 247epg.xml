@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <tv generator-info-name="none" generator-info-url="none">
-
-<!-- Channels -->
-
   <channel id="1000 Ways To Die">
     <icon src="https://i.imgur.com/4IAAYJN.png" />
     <url></url>
@@ -13,9 +10,6 @@
     <url>http://www.pluto.tv.E</url>
     <display-name lang="en">Pluto TV Tech</display-name>
   </channel>
-
-<!-- Day 1 -->
-   
  <programme start="20201125000000 +0000" stop="20201125010000 +0000" channel="1000 Ways To Die">
     <title lang="en">1000 Ways To Die</title>
     <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
@@ -136,12 +130,6 @@
     <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-
-
-
-
-<!-- Day 2 -->
-
 <programme start="20201126000000 +0000" stop="20201126010000 +0000" channel="1000 Ways To Die">
     <title lang="en">1000 Ways To Die</title>
     <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
