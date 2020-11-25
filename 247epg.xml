@@ -8,7 +8,11 @@
     <url></url>
     <display-name lang="en">1000 Ways To Die</display-name>
   </channel>
-
+<channel id="Pluto.TV.Tech.us">
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/54173136ff9fba68282f4d53/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+    <display-name lang="en">Pluto TV Tech</display-name>
+  </channel>
 
 <!-- Day 1 -->
    
