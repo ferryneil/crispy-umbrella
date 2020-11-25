@@ -1,12 +1,12 @@
-  <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="My EPG" generator-info-url="http://www.webgrabplus.com">
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="none" generator-info-url="none">
 
 <!-- Channels -->
 
-<channel id="1000 Ways To Die">
-    <display-name lang="en">1000 Ways To Die</display-name>
+  <channel id="1000 Ways To Die">
     <icon src="https://i.imgur.com/4IAAYJN.png" />
-    <url>https://www.imdb.com/title/tt1105711/?ref_=ttpl_pl_tt</url>
+    <url></url>
+    <display-name lang="en">1000 Ways To Die</display-name>
   </channel>
 
 
@@ -258,7 +258,4 @@
     <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
     <episode-num system="onscreen">E3</episode-num>
   </programme>
-
-
-
 </tv>
