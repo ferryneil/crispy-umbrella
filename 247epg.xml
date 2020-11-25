@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tv generator-info-name="none" generator-info-url="none">
+
+<!-- Channels -->
+
+  <channel id="1000 Ways To Die">
+    <icon src="https://i.imgur.com/4IAAYJN.png" />
+    <url></url>
+    <display-name lang="en">1000 Ways To Die</display-name>
+  </channel>
+<channel id="Pluto.TV.Tech.us">
+    <icon src="http://pluto.tv.s3.amazonaws.com/channels/54173136ff9fba68282f4d53/logo.png" />
+    <url>http://www.pluto.tv.E</url>
+    <display-name lang="en">Pluto TV Tech</display-name>
+  </channel>
+
+<!-- Day 1 -->
+   
+ <programme start="20201125000000 +0000" stop="20201125010000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201125010000 +0000" stop="20201125020000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201125020000 +0000" stop="20201125030000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201125030000 +0000" stop="20201125040000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201125040000 +0000" stop="20201125050000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201125050000 +0000" stop="20201125060000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125060000 +0000" stop="20201125070000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125070000 +0000" stop="20201125080000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125080000 +0000" stop="20201125090000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125090000 +0000" stop="20201125100000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201125100000 +0000" stop="20201125110000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201125110000 +0000" stop="20201125120000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201125120000 +0000" stop="20201125130000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20201125130000 +0000" stop="20201125140000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201125140000 +0000" stop="20201125150000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125150000 +0000" stop="20201125160000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125160000 +0000" stop="20201125170000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125170000 +0000" stop="20201125180000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+     <programme start="20201125180000 +0000" stop="20201125190000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125190000 +0000" stop="20201125200000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125200000 +0000" stop="20201125210000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125210000 +0000" stop="20201125220000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125220000 +0000" stop="20201125230000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201125230000 +0000" stop="20201126000000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+
+
+
+
+<!-- Day 2 -->
+
+<programme start="20201126000000 +0000" stop="20201126010000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201126010000 +0000" stop="20201126020000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201126020000 +0000" stop="20201126030000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201126030000 +0000" stop="20201126040000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201126040000 +0000" stop="20201126050000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201126050000 +0000" stop="20201126060000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126060000 +0000" stop="20201126070000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126070000 +0000" stop="20201126080000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126080000 +0000" stop="20201126090000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126090000 +0000" stop="20201126100000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201126100000 +0000" stop="20201126110000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201126110000 +0000" stop="20201126120000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201126120000 +0000" stop="20201126130000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme start="20201126130000 +0000" stop="20201126140000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+ <programme start="20201126140000 +0000" stop="20201126150000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126150000 +0000" stop="20201126160000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126160000 +0000" stop="20201126170000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126170000 +0000" stop="20201126180000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+     <programme start="20201126180000 +0000" stop="20201126190000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126190000 +0000" stop="20201126200000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126200000 +0000" stop="20201126210000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126210000 +0000" stop="20201126220000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126220000 +0000" stop="20201126230000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+   <programme start="20201126230000 +0000" stop="20201126000000 +0000" channel="1000 Ways To Die">
+    <title lang="en">1000 Ways To Die</title>
+    <desc lang="en">1000 Ways to Die is an American anthology television series that aired on Spike from May 14, 2008 to July 15, 2012. The program recreates unusual supposed deaths, true events, and debunked urban legends, and includes interviews with experts who describe the science behind each death.</desc>
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+</tv>
