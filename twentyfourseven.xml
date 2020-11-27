@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?><!DOCTYPE tv SYSTEM "xmltv.dtd">
+<tv generator-info-name="EPG-4IPTV" generator-info-url="https://epg-4iptv.com:2087/">
+<channel id="24/7 1000 WAYS TO DIE">
+  <display-name lang="us">24/7 1000 WAYS TO DIE</display-name>
+  <icon src="https://m.media-amazon.com/images/M/MV5BNzIyNDMxMTA1N15BMl5BanBnXkFtZTgwMzg5ODYxMDE@._V1_SX300.jpg"/>
+</channel>
+<programme start="20201115000000 -0500" stop="20201115010000 -0500" channel="24/7 1000 WAYS TO DIE" >
+<title>1000 WAYS TO DIE</title>
+<desc>1,000 Ways to Die, an anthology television series, which aired on Spike/Spike TV from May 14, 2008 to July 15, 2012 showcased shocking reenactments of deaths of individuals who often met the grim reaper in very unorthodox or outlandish ways. Often recreated in a fast-paced, very tongue-in-cheek manner, the stories were based on actual events, but dramatic license was liberally used. Voice-over-narration provided background information on each death. The deaths were recreated in a variety of ways including witness testimonials, historical tidbits, scientific expert analysis, graphic computer-generated imagery animation, interviews, live-action recreation, and even actual footage, when available. Each death ended with a title which was a pun, often based on some popular word or phrase.</desc>
+</programme>
+</tv>
