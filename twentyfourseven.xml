@@ -32,6 +32,10 @@
   <display-name lang="us">24/7 He-Man</display-name>
   <icon src="https://i.imgur.com/PjWgMZm.png"/>
 </channel>
+<channel id="24/7 Inspector Gadget">
+  <display-name lang="us">24/7 Inspector Gadget</display-name>
+  <icon src="https://i.imgur.com/tbvSuWJ.png"/>
+</channel>
 <programme start="20201130000000 +0000" stop="20201130010000 +0000" channel="24/7 Animaniacs" >
 <title>Animaniacs</title>
 <desc>The zany adventures of a trio of 1930s animated characters in the modern world.</desc>
@@ -2335,5 +2339,293 @@
 <programme start="20201202230000 +0000" stop="20201203000000 +0000" channel="24/7 He-Man" >
 <title>He-Man and The Masters of The Universe</title>
 <desc>TThe most powerful man in the universe, He-Man, goes against the evil forces of Skeletor to save the planet Eternia and to protect the secrets of Castle Grayskull.</desc>
+</programme>
+<programme start="20201130000000 +0000" stop="20201130010000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130010000 +0000" stop="20201130020000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130020000 +0000" stop="20201130030000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130030000 +0000" stop="20201130040000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130040000 +0000" stop="20201130050000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130050000 +0000" stop="20201130060000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130060000 +0000" stop="20201130070000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130070000 +0000" stop="20201130080000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130080000 +0000" stop="20201130090000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130090000 +0000" stop="20201130100000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130100000 +0000" stop="20201130110000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130110000 +0000" stop="20201130120000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130120000 +0000" stop="20201130130000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130130000 +0000" stop="20201130140000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130140000 +0000" stop="20201130150000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130150000 +0000" stop="20201130160000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130160000 +0000" stop="20201130170000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130170000 +0000" stop="20201130180000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130180000 +0000" stop="20201130190000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130190000 +0000" stop="20201130200000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130200000 +0000" stop="20201130210000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130210000 +0000" stop="20201130220000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130220000 +0000" stop="20201130230000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201130230000 +0000" stop="20201201000000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201000000 +0000" stop="20201201010000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201010000 +0000" stop="20201201020000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201020000 +0000" stop="20201201030000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201030000 +0000" stop="20201201040000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201040000 +0000" stop="20201201050000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201050000 +0000" stop="20201201060000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201060000 +0000" stop="20201201070000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201070000 +0000" stop="20201201080000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201080000 +0000" stop="20201201090000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201090000 +0000" stop="20201201100000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201100000 +0000" stop="20201201110000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201110000 +0000" stop="20201201120000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201120000 +0000" stop="20201201130000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201130000 +0000" stop="20201201140000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201140000 +0000" stop="20201201150000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201150000 +0000" stop="20201201160000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201160000 +0000" stop="20201201170000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201170000 +0000" stop="20201201180000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201180000 +0000" stop="20201201190000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201190000 +0000" stop="20201201200000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201200000 +0000" stop="20201201210000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201210000 +0000" stop="20201201220000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201220000 +0000" stop="20201201230000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201201230000 +0000" stop="20201202000000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202000000 +0000" stop="20201202010000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202010000 +0000" stop="20201202020000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202020000 +0000" stop="20201202030000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202030000 +0000" stop="20201202040000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202040000 +0000" stop="20201202050000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202050000 +0000" stop="20201202060000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202060000 +0000" stop="20201202070000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202070000 +0000" stop="20201202080000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202080000 +0000" stop="20201202090000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202090000 +0000" stop="20201202100000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202100000 +0000" stop="20201202110000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202110000 +0000" stop="20201202120000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202120000 +0000" stop="20201202130000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202130000 +0000" stop="20201202140000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202140000 +0000" stop="20201202150000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202150000 +0000" stop="20201202160000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202160000 +0000" stop="20201202170000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202170000 +0000" stop="20201202180000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202180000 +0000" stop="20201202190000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202190000 +0000" stop="20201202200000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202200000 +0000" stop="20201202210000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202210000 +0000" stop="20201202220000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202220000 +0000" stop="20201202230000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
+</programme>
+<programme start="20201202230000 +0000" stop="20201203000000 +0000" channel="24/7 Inspector Gadget" >
+<title>Inspector Gadget</title>
+<desc>A bumbling bionic police inspector stumbles about on his cases, while his niece and dog secretly do the real investigative work.</desc>
 </programme>
 </tv>
