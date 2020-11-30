@@ -4,6 +4,10 @@
   <display-name lang="us">24/7 Animaniacs</display-name>
   <icon src="https://i.imgur.com/4IAAYJN.png"/>
 </channel>
+<channel id="24/7 Batman TAS">
+  <display-name lang="us">24/7 Batman TAS</display-name>
+  <icon src="https://i.imgur.com/RC8BIRE.png"/>
+</channel>
 <programme start="20201130000000 +0000" stop="20201130010000 +0000" channel="24/7 Animaniacs" >
 <title>Animaniacs</title>
 <desc>The zany adventures of a trio of 1930s animated characters in the modern world.</desc>
@@ -292,10 +296,6 @@
 <title>Animaniacs</title>
 <desc>The zany adventures of a trio of 1930s animated characters in the modern world.</desc>
 </programme>
-<channel id="24/7 Batman TAS">
-  <display-name lang="us">24/7 Batman TAS</display-name>
-  <icon src="https://i.imgur.com/RC8BIRE.png"/>
-</channel>
 <programme start="20201130000000 +0000" stop="20201130010000 +0000" channel="24/7 Batman TAS" >
 <title>Batman Animated Series</title>
 <desc>The Dark Knight battles crime in Gotham City with occasional help from Robin and Batgirl.</desc>
@@ -584,5 +584,4 @@
 <title>Batman Animated Series</title>
 <desc>The Dark Knight battles crime in Gotham City with occasional help from Robin and Batgirl.</desc>
 </programme>
-</tv>
 </tv>
