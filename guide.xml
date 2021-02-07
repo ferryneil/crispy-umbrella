@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="OSN Action">
-    <display-name lang="en">OSN Action</display-name>
+  <channel id="OSN Action+">
+    <display-name lang="en">OSN Action++</display-name>
     <icon src="https://media.elcinema.com/tvguide/1211_1.png" />
     <url>http://www.elcinema.com</url>
   </channel>
@@ -506,7 +506,7 @@
     <icon src="https://epg.beinsports.com/mena_entertaintment/SeriesHD2.svg?123" />
     <url>http://www.bein.net</url>
   </channel>
-  <programme start="20210207183500 -0400" stop="20210207200000 -0400" channel="OSN Action">
+  <programme start="20210207183500 -0400" stop="20210207200000 -0400" channel="OSN Action+">
     <title lang="en">Surrogates</title>
     <desc lang="en">In a futuristic world where people live via robotic surrogates, a murder disrupts this utopia forcing a cop to uncover a conspiracy that will threaten his own life.(n)</desc>
     <credits>
@@ -532,7 +532,7 @@
       <value>5.4</value>
     </star-rating>
   </programme>
-  <programme start="20210207200000 -0400" stop="20210207220000 -0400" channel="OSN Action">
+  <programme start="20210207200000 -0400" stop="20210207220000 -0400" channel="OSN Action+">
     <title lang="en">Jurassic World: Fallen Kingdom</title>
     <desc lang="en">Four years after the Jurassic World theme park was closed down and the eruption of a dormant volcano on the island, Owen (Chris Pratt) and Claire (Bryce Dallas Howard) return to Isla Nubar to save the dinosaurs before they extinguish.(n)</desc>
     <credits>
@@ -556,7 +556,7 @@
       <value>8</value>
     </star-rating>
   </programme>
-  <programme start="20210207220000 -0400" stop="20210207232500 -0400" channel="OSN Action">
+  <programme start="20210207220000 -0400" stop="20210207232500 -0400" channel="OSN Action+">
     <title lang="en">Nick of Time</title>
     <desc lang="en">Gene Watson is an average accountant whose life takes a disturbing turn when his daughter is kidnapped at a train station, and he's blackmailed to kill a politician in 90 minutes or she will be killed.(n)</desc>
     <credits>
@@ -581,7 +581,7 @@
       <value>5.4</value>
     </star-rating>
   </programme>
-  <programme start="20210207232500 -0400" stop="20210208010000 -0400" channel="OSN Action">
+  <programme start="20210207232500 -0400" stop="20210208010000 -0400" channel="OSN Action+">
     <title lang="en">The Expendables 2</title>
     <desc lang="en">The Expendables go on a mission presumed to be fairly easy, but it is far from. They face plenty of difficulties that result in a death, which lights a desire for revenge in their hearts from a killer who has enough platinum to change the power structure of the entire world.(n)</desc>
     <credits>
@@ -604,7 +604,7 @@
       <value>7</value>
     </star-rating>
   </programme>
-  <programme start="20210208010000 -0400" stop="20210208025000 -0400" channel="OSN Action">
+  <programme start="20210208010000 -0400" stop="20210208025000 -0400" channel="OSN Action+">
     <title lang="en">Eagle Eye</title>
     <desc lang="en">Jerry and Rachel meet each other through a mysterious phone call from a woman they've never met, threatening their lives and pushing them into a chain of risky situations by using modern technology and carefully monitoring their movements.(n)</desc>
     <credits>
@@ -628,7 +628,7 @@
       <value>5.9</value>
     </star-rating>
   </programme>
-  <programme start="20210208025000 -0400" stop="20210208043500 -0400" channel="OSN Action">
+  <programme start="20210208025000 -0400" stop="20210208043500 -0400" channel="OSN Action+">
     <title lang="en">Inside Man: Most Wanted</title>
     <desc lang="en">As bank robbers take a number of hostage at the US Federal Reserve, an FBI agent and an NYPD negotiator join forces to diffuse the situation and reach the hostages before the 10-hour siege takes a turn for the worst.(n)</desc>
     <credits>
@@ -643,7 +643,7 @@
     <icon src="https://media.elcinema.com/uploads/_150x200_071b4365dde5ae579016283269d0d43ce9dd3f679dc576fb9b3994e0a91f69b9.jpg" />
     <country lang="en">U.S.</country>
   </programme>
-  <programme start="20210208043500 -0400" stop="20210208061500 -0400" channel="OSN Action">
+  <programme start="20210208043500 -0400" stop="20210208061500 -0400" channel="OSN Action+">
     <title lang="en">Iceman</title>
     <desc lang="en">A woman struggles to create a memory of the mother she never knew. The workings of a tenement become the stage of her mother's unexpected end.(n)</desc>
     <credits>
@@ -660,7 +660,7 @@
     <icon src="https://media.elcinema.com/uploads/_150x200_7cbf5b1294487dd182c95dfaf84a16d461622107b58fd03f46c5e4027fd21d35.jpg" />
     <country lang="en">U.S.</country>
   </programme>
-  <programme start="20210208061500 -0400" stop="20210208074000 -0400" channel="OSN Action">
+  <programme start="20210208061500 -0400" stop="20210208074000 -0400" channel="OSN Action+">
     <title lang="en">Guardians</title>
     <desc lang="en">During the cold war, a team of superheroes from different Soviet republics rises. They have had to hide their true identities for years, but now they have to come out and fight, using their supernatural abilities.(n)</desc>
     <credits>
@@ -685,7 +685,7 @@
       <value>5.3</value>
     </star-rating>
   </programme>
-  <programme start="20210208074000 -0400" stop="20210208093000 -0400" channel="OSN Action">
+  <programme start="20210208074000 -0400" stop="20210208093000 -0400" channel="OSN Action+">
     <title lang="en">Eagle Eye</title>
     <desc lang="en">Jerry and Rachel meet each other through a mysterious phone call from a woman they've never met, threatening their lives and pushing them into a chain of risky situations by using modern technology and carefully monitoring their movements.(n)</desc>
     <credits>
@@ -709,7 +709,7 @@
       <value>5.9</value>
     </star-rating>
   </programme>
-  <programme start="20210208093000 -0400" stop="20210208105500 -0400" channel="OSN Action">
+  <programme start="20210208093000 -0400" stop="20210208105500 -0400" channel="OSN Action+">
     <title lang="en">Surrogates</title>
     <desc lang="en">In a futuristic world where people live via robotic surrogates, a murder disrupts this utopia forcing a cop to uncover a conspiracy that will threaten his own life.(n)</desc>
     <credits>
@@ -735,7 +735,7 @@
       <value>5.4</value>
     </star-rating>
   </programme>
-  <programme start="20210208105500 -0400" stop="20210208124500 -0400" channel="OSN Action">
+  <programme start="20210208105500 -0400" stop="20210208124500 -0400" channel="OSN Action+">
     <title lang="en">The Monkey King 3</title>
     <desc lang="en">The Monkey King continues his dangerous adventures around the world, but when he and his companions are stranded on a mysterious land, that is only inhabited by women, his life becomes in danger.(n)</desc>
     <credits>
@@ -756,7 +756,7 @@
       <value>5.3</value>
     </star-rating>
   </programme>
-  <programme start="20210208124500 -0400" stop="20210208144500 -0400" channel="OSN Action">
+  <programme start="20210208124500 -0400" stop="20210208144500 -0400" channel="OSN Action+">
     <title lang="en">Jurassic World: Fallen Kingdom</title>
     <desc lang="en">Four years after the Jurassic World theme park was closed down and the eruption of a dormant volcano on the island, Owen (Chris Pratt) and Claire (Bryce Dallas Howard) return to Isla Nubar to save the dinosaurs before they extinguish.(n)</desc>
     <credits>
@@ -780,7 +780,7 @@
       <value>8</value>
     </star-rating>
   </programme>
-  <programme start="20210208144500 -0400" stop="20210208161000 -0400" channel="OSN Action">
+  <programme start="20210208144500 -0400" stop="20210208161000 -0400" channel="OSN Action+">
     <title lang="en">Nick of Time</title>
     <desc lang="en">Gene Watson is an average accountant whose life takes a disturbing turn when his daughter is kidnapped at a train station, and he's blackmailed to kill a politician in 90 minutes or she will be killed.(n)</desc>
     <credits>
@@ -805,7 +805,7 @@
       <value>5.4</value>
     </star-rating>
   </programme>
-  <programme start="20210208161000 -0400" stop="20210208180000 -0400" channel="OSN Action">
+  <programme start="20210208161000 -0400" stop="20210208180000 -0400" channel="OSN Action+">
     <title lang="en">Eagle Eye</title>
     <desc lang="en">Jerry and Rachel meet each other through a mysterious phone call from a woman they've never met, threatening their lives and pushing them into a chain of risky situations by using modern technology and carefully monitoring their movements.(n)</desc>
     <credits>
@@ -829,7 +829,7 @@
       <value>5.9</value>
     </star-rating>
   </programme>
-  <programme start="20210208180000 -0400" stop="20210208193000 -0400" channel="OSN Action">
+  <programme start="20210208180000 -0400" stop="20210208193000 -0400" channel="OSN Action+">
     <title lang="en">Double Take</title>
     <desc lang="en">When he gets entangled in a dangerous conspiracy, the banker Daryl goes on the run to avoid being killed. But as he switches identities with a street hustler, chaos breaks out as everyone involved tries to figure out which of the two men is the banker, and which is the street hustler.(n)</desc>
     <credits>
@@ -849,7 +849,7 @@
       <value>5.2</value>
     </star-rating>
   </programme>
-  <programme start="20210208193000 -0400" stop="20210208211500 -0400" channel="OSN Action">
+  <programme start="20210208193000 -0400" stop="20210208211500 -0400" channel="OSN Action+">
     <title lang="en">Toy Soldiers</title>
     <desc lang="en">When their boarding school is overtaken by terrorists, a group of rebellious and troublemaking boys decide to stand up to them.(n)</desc>
     <credits>
@@ -869,7 +869,7 @@
       <value>5.2</value>
     </star-rating>
   </programme>
-  <programme start="20210208211500 -0400" stop="20210208230500 -0400" channel="OSN Action">
+  <programme start="20210208211500 -0400" stop="20210208230500 -0400" channel="OSN Action+">
     <title lang="en">Bumblebee</title>
     <desc lang="en">On the run in the year of 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town and is found by Charlie, an 18 year old girl who is trying to find her place in the world. When Charlie revives him, she discovers that this is no ordinary, yellow VW bug.(n)</desc>
     <credits>
@@ -892,7 +892,7 @@
       <value>6.9</value>
     </star-rating>
   </programme>
-  <programme start="20210208230500 -0400" stop="20210209010000 -0400" channel="OSN Action">
+  <programme start="20210208230500 -0400" stop="20210209010000 -0400" channel="OSN Action+">
     <title lang="en">The Expendables 3</title>
     <desc lang="en">Barney Ross (Sylvester Stallone) finds himself face to face against Conrad Stonebanks (Mel Gibson) the Expendables co-founder who betrayed him. Now Conrad has become one of the toughest criminals, Barney recruits a new generation for the team to help him eliminate his arch enemy.(n)</desc>
     <credits>
@@ -918,7 +918,7 @@
       <value>7.5</value>
     </star-rating>
   </programme>
-  <programme start="20210209010000 -0400" stop="20210209023000 -0400" channel="OSN Action">
+  <programme start="20210209010000 -0400" stop="20210209023000 -0400" channel="OSN Action+">
     <title lang="en">Hitman</title>
     <desc lang="en">A group known as the "The Organization." hires a professional hit-man who goes by the name of Agent 47, getting him involved in a political conspiracy involving the Interpol and the Russian army. While attempting to escape through Russia and Eastern Europe, he seems to be strangely affected by a mysterious Russian woman.(n)</desc>
     <credits>
@@ -941,7 +941,7 @@
       <value>6.2</value>
     </star-rating>
   </programme>
-  <programme start="20210209023000 -0400" stop="20210209042000 -0400" channel="OSN Action">
+  <programme start="20210209023000 -0400" stop="20210209042000 -0400" channel="OSN Action+">
     <title lang="en">Doom</title>
     <desc lang="en">John Grim is part of a group of Space Marines sent to Mars to investigate strange occurrences, but when they get there, they find themselves face-to-face with genetically modified devices designed to kill.(n)</desc>
     <credits>
@@ -963,7 +963,7 @@
       <value>5.7</value>
     </star-rating>
   </programme>
-  <programme start="20210209042000 -0400" stop="20210209060000 -0400" channel="OSN Action">
+  <programme start="20210209042000 -0400" stop="20210209060000 -0400" channel="OSN Action+">
     <title lang="en">The Mechanic</title>
     <desc lang="en">An elite hitman is successful working in the shadows. Now he's teaching his trade to an apprentice who is related to one of his previous victims.(n)</desc>
     <credits>
@@ -986,7 +986,7 @@
       <value>7.8</value>
     </star-rating>
   </programme>
-  <programme start="20210209060000 -0400" stop="20210209075000 -0400" channel="OSN Action">
+  <programme start="20210209060000 -0400" stop="20210209075000 -0400" channel="OSN Action+">
     <title lang="en">Toy Soldiers</title>
     <desc lang="en">When their boarding school is overtaken by terrorists, a group of rebellious and troublemaking boys decide to stand up to them.(n)</desc>
     <credits>
@@ -1006,7 +1006,7 @@
       <value>5.2</value>
     </star-rating>
   </programme>
-  <programme start="20210209075000 -0400" stop="20210209093000 -0400" channel="OSN Action">
+  <programme start="20210209075000 -0400" stop="20210209093000 -0400" channel="OSN Action+">
     <title lang="en">Catskill Park</title>
     <desc lang="en">As four friends go for a hunting trip, their trip takes a hellish turn when they hear shrieking alien sounds outside their tents as they get trapped because of a blizzard.(n)</desc>
     <credits>
@@ -1021,7 +1021,7 @@
     <icon src="https://media.elcinema.com/uploads/_150x200_006394e3c9e6dee971b0fc4d79f1f464aa64174abd25c1629a39f98844c0e4ef.jpg" />
     <country lang="en">U.S.</country>
   </programme>
-  <programme start="20210209093000 -0400" stop="20210209110500 -0400" channel="OSN Action">
+  <programme start="20210209093000 -0400" stop="20210209110500 -0400" channel="OSN Action+">
     <title lang="en">Double Take</title>
     <desc lang="en">When he gets entangled in a dangerous conspiracy, the banker Daryl goes on the run to avoid being killed. But as he switches identities with a street hustler, chaos breaks out as everyone involved tries to figure out which of the two men is the banker, and which is the street hustler.(n)</desc>
     <credits>
@@ -1041,7 +1041,7 @@
       <value>5.2</value>
     </star-rating>
   </programme>
-  <programme start="20210209110500 -0400" stop="20210209130000 -0400" channel="OSN Action">
+  <programme start="20210209110500 -0400" stop="20210209130000 -0400" channel="OSN Action+">
     <title lang="en">Bumblebee</title>
     <desc lang="en">On the run in the year of 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town and is found by Charlie, an 18 year old girl who is trying to find her place in the world. When Charlie revives him, she discovers that this is no ordinary, yellow VW bug.(n)</desc>
     <credits>
@@ -1064,7 +1064,7 @@
       <value>6.9</value>
     </star-rating>
   </programme>
-  <programme start="20210209130000 -0400" stop="20210209150000 -0400" channel="OSN Action">
+  <programme start="20210209130000 -0400" stop="20210209150000 -0400" channel="OSN Action+">
     <title lang="en">The Expendables 3</title>
     <desc lang="en">Barney Ross (Sylvester Stallone) finds himself face to face against Conrad Stonebanks (Mel Gibson) the Expendables co-founder who betrayed him. Now Conrad has become one of the toughest criminals, Barney recruits a new generation for the team to help him eliminate his arch enemy.(n)</desc>
     <credits>
@@ -1090,7 +1090,7 @@
       <value>7.5</value>
     </star-rating>
   </programme>
-  <programme start="20210209150000 -0400" stop="20210209165500 -0400" channel="OSN Action">
+  <programme start="20210209150000 -0400" stop="20210209165500 -0400" channel="OSN Action+">
     <title lang="en">Metro</title>
     <desc lang="en">In the aftermath of a tunnel collapse in Moscow, the entire city hangs on edge as water from the Moscow River starts to pour into the subway system, putting the passengers onboard the subway trains in peril as the oncoming flood threatens to destroy the city as well.(n)</desc>
     <credits>
@@ -1108,7 +1108,7 @@
     <icon src="https://media.elcinema.com/uploads/_150x200_7c2cc4880ae6762e324c014f070f6eb4813f8f25da34347012581bbc40df225b.jpg" />
     <country lang="en">Russia</country>
   </programme>
-  <programme start="20210209165500 -0400" stop="20210209181500 -0400" channel="OSN Action">
+  <programme start="20210209165500 -0400" stop="20210209181500 -0400" channel="OSN Action+">
     <title lang="en">Beyond the Line</title>
     <desc lang="en">Facing fire from German soldiers unwilling to surrender at the end of WWII, an injured British soldier gets stranded behind enemy lines, only to be saved by an American soldier. Together, the two struggle to survive and make it to friendly territory.(n)</desc>
     <credits>
@@ -1123,7 +1123,7 @@
     <icon src="https://media.elcinema.com/uploads/_150x200_2bea96768da3db3e1305023103ea6d2e894048686705abd2691485f35e446e82.jpg" />
     <country lang="en">Canada</country>
   </programme>
-  <programme start="20210209181500 -0400" stop="20210209200000 -0400" channel="OSN Action">
+  <programme start="20210209181500 -0400" stop="20210209200000 -0400" channel="OSN Action+">
     <title lang="en">Timeline</title>
     <desc lang="en">An unknown IT company builds a time-machine, and tests it by moving Professor Edward to 14-century France. A team is then formed including two students and an archaeologist, to travel through time to retrieve him. Will they be able to succeed on a mission that's the first of its kind.(n)</desc>
     <credits>
@@ -1142,7 +1142,7 @@
     <icon src="https://media.elcinema.com/uploads/_150x200_0beca97d7f6ad30a4335cb2455d3ba1953340d15e953e56bb184a6e8f077a598.jpg" />
     <country lang="en">U.S.</country>
   </programme>
-  <programme start="20210209200000 -0400" stop="20210209214000 -0400" channel="OSN Action">
+  <programme start="20210209200000 -0400" stop="20210209214000 -0400" channel="OSN Action+">
     <title lang="en">RoboCop</title>
     <desc lang="en">Set in a dystopian future where crime rates have become insanely high, evil corporation Omni Consumer Products tries to create a prototype that is half-robot and half-human. When RoboCop learns about their intrigues, he turns on his masters.(n)</desc>
     <credits>
@@ -1168,7 +1168,7 @@
       <value>5.5</value>
     </star-rating>
   </programme>
-  <programme start="20210209214000 -0400" stop="20210209233000 -0400" channel="OSN Action">
+  <programme start="20210209214000 -0400" stop="20210209233000 -0400" channel="OSN Action+">
     <title lang="en">The Divergent Series: Allegiant</title>
     <desc lang="en">Tris and Four make the hard decision to leave their home behind in an attempt to find a way to save Chicago from turmoil. However, they end up being taken to a city of hidden secrets where they end up learning the backstory of how their world became what it is.(n)</desc>
     <credits>
@@ -1191,7 +1191,7 @@
       <value>6.3</value>
     </star-rating>
   </programme>
-  <programme start="20210209233000 -0400" stop="20210210010000 -0400" channel="OSN Action">
+  <programme start="20210209233000 -0400" stop="20210210010000 -0400" channel="OSN Action+">
     <title lang="en">London Has Fallen</title>
     <desc lang="en">Following the mysterious death of the British Prime Minister, Secret Agent Mike Banning does all he can to stop the planned attack, targeting to assassinate all western world leaders attending the funeral.(n)</desc>
     <credits>
@@ -1215,7 +1215,7 @@
       <value>6.9</value>
     </star-rating>
   </programme>
-  <programme start="20210210010000 -0400" stop="20210210030000 -0400" channel="OSN Action">
+  <programme start="20210210010000 -0400" stop="20210210030000 -0400" channel="OSN Action+">
     <title lang="en">Hellboy</title>
     <desc lang="en">At the end of WWII, the desperate Nazis summon a creature from the depth of Hell to serve as a Nazi weapon. When US forces seize the half-blooded demon, Professor Trevor Bruttenholm takes him in and raises him to be a part of an elite supernatural team that defends the world against forces of evil.(n)</desc>
     <credits>
@@ -1241,7 +1241,7 @@
       <value>5</value>
     </star-rating>
   </programme>
-  <programme start="20210210030000 -0400" stop="20210210044500 -0400" channel="OSN Action">
+  <programme start="20210210030000 -0400" stop="20210210044500 -0400" channel="OSN Action+">
     <title lang="en">Doom: Annihilation</title>
     <desc lang="en">After a group of Marines respond to a distress call from a highly classified scientific base on Phobos, a moon near Mars, they find themselves facing demon-like creatures who seek to destroy Earth.(n)</desc>
     <credits>
