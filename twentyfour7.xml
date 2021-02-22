@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="mydummy" generator-info-url="https://null.null/">
-    <channel id="Animaniacs">
+    <channel id="24/7 Animaniacs">
         <display-name lang="en">Animaniacs</display-name>
     </channel>
-    <channel id="Asterix">
+    <channel id="24/7 Asterix">
         <display-name lang="en">Asterix</display-name>
     </channel>
-    <channel id="Avatar">
+    <channel id="24/7 Avatar">
         <display-name lang="en">Avatar</display-name>
     </channel>
-    <channel id="Batman TAS">
+    <channel id="24/7 Batman TAS">
         <display-name lang="en">Batman The Animated Series</display-name>
     </channel>
-    <channel id="Ben 10">
+    <channel id="24/7 Ben 10">
         <display-name lang="en">Ben 10</display-name>
     </channel>
     <channel id="Bugs Bunny">
@@ -171,163 +171,163 @@
     <channel id="X-Men Anim">
         <display-name lang="en">X-Men Animated</display-name>
     </channel>
-    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="Animaniacs">
+    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="24/7 Animaniacs">
         <title lang="en">Animaniacs</title>
         <desc lang="en">Animaniacs</desc>
     </programme>
-    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="Animaniacs">
+    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="24/7 Animaniacs">
         <title lang="en">Animaniacs</title>
         <desc lang="en">Animaniacs</desc>
     </programme>
-    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="Animaniacs">
+    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="24/7 Animaniacs">
         <title lang="en">Animaniacs</title>
         <desc lang="en">Animaniacs</desc>
     </programme>
-    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="Animaniacs">
+    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="24/7 Animaniacs">
         <title lang="en">Animaniacs</title>
         <desc lang="en">Animaniacs</desc>
     </programme>
-    <programme start="000000 +0000" stop="060000 +0000" channel="Animaniacs">
+    <programme start="000000 +0000" stop="060000 +0000" channel="24/7 Animaniacs">
         <title lang="en">Animaniacs</title>
         <desc lang="en">Animaniacs</desc>
     </programme>
-    <programme start="060000 +0000" stop="120000 +0000" channel="Animaniacs">
+    <programme start="060000 +0000" stop="120000 +0000" channel="24/7 Animaniacs">
         <title lang="en">Animaniacs</title>
         <desc lang="en">Animaniacs</desc>
     </programme>
-    <programme start="120000 +0000" stop="180000 +0000" channel="Animaniacs">
+    <programme start="120000 +0000" stop="180000 +0000" channel="24/7 Animaniacs">
         <title lang="en">Animaniacs</title>
         <desc lang="en">Animaniacs</desc>
     </programme>
-    <programme start="180000 +0000" stop="000000 +0000" channel="Animaniacs">
+    <programme start="180000 +0000" stop="000000 +0000" channel="24/7 Animaniacs">
         <title lang="en">Animaniacs</title>
         <desc lang="en">Animaniacs</desc>
     </programme>
-    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="Asterix">
+    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="24/7 Asterix">
         <title lang="en">Asterix</title>
         <desc lang="en">Asterix</desc>
     </programme>
-    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="Asterix">
+    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="24/7 Asterix">
         <title lang="en">Asterix</title>
         <desc lang="en">Asterix</desc>
     </programme>
-    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="Asterix">
+    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="24/7 Asterix">
         <title lang="en">Asterix</title>
         <desc lang="en">Asterix</desc>
     </programme>
-    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="Asterix">
+    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="24/7 Asterix">
         <title lang="en">Asterix</title>
         <desc lang="en">Asterix</desc>
     </programme>
-    <programme start="000000 +0000" stop="060000 +0000" channel="Asterix">
+    <programme start="000000 +0000" stop="060000 +0000" channel="24/7 Asterix">
         <title lang="en">Asterix</title>
         <desc lang="en">Asterix</desc>
     </programme>
-    <programme start="060000 +0000" stop="120000 +0000" channel="Asterix">
+    <programme start="060000 +0000" stop="120000 +0000" channel="24/7 Asterix">
         <title lang="en">Asterix</title>
         <desc lang="en">Asterix</desc>
     </programme>
-    <programme start="120000 +0000" stop="180000 +0000" channel="Asterix">
+    <programme start="120000 +0000" stop="180000 +0000" channel="24/7 Asterix">
         <title lang="en">Asterix</title>
         <desc lang="en">Asterix</desc>
     </programme>
-    <programme start="180000 +0000" stop="000000 +0000" channel="Asterix">
+    <programme start="180000 +0000" stop="000000 +0000" channel="24/7 Asterix">
         <title lang="en">Asterix</title>
         <desc lang="en">Asterix</desc>
     </programme>
-    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="Avatar">
+    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="24/7 Avatar">
         <title lang="en">Avatar</title>
         <desc lang="en">Avatar</desc>
     </programme>
-    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="Avatar">
+    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="24/7 Avatar">
         <title lang="en">Avatar</title>
         <desc lang="en">Avatar</desc>
     </programme>
-    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="Avatar">
+    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="24/7 Avatar">
         <title lang="en">Avatar</title>
         <desc lang="en">Avatar</desc>
     </programme>
-    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="Avatar">
+    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="24/7 Avatar">
         <title lang="en">Avatar</title>
         <desc lang="en">Avatar</desc>
     </programme>
-    <programme start="000000 +0000" stop="060000 +0000" channel="Avatar">
+    <programme start="000000 +0000" stop="060000 +0000" channel="24/7 Avatar">
         <title lang="en">Avatar</title>
         <desc lang="en">Avatar</desc>
     </programme>
-    <programme start="060000 +0000" stop="120000 +0000" channel="Avatar">
+    <programme start="060000 +0000" stop="120000 +0000" channel="24/7 Avatar">
         <title lang="en">Avatar</title>
         <desc lang="en">Avatar</desc>
     </programme>
-    <programme start="120000 +0000" stop="180000 +0000" channel="Avatar">
+    <programme start="120000 +0000" stop="180000 +0000" channel="24/7 Avatar">
         <title lang="en">Avatar</title>
         <desc lang="en">Avatar</desc>
     </programme>
-    <programme start="180000 +0000" stop="000000 +0000" channel="Avatar">
+    <programme start="180000 +0000" stop="000000 +0000" channel="24/7 Avatar">
         <title lang="en">Avatar</title>
         <desc lang="en">Avatar</desc>
     </programme>
-    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="Batman TAS">
+    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="24/7 Batman TAS">
         <title lang="en">Batman The Animated Series</title>
         <desc lang="en">Batman The Animated Series</desc>
     </programme>
-    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="Batman TAS">
+    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="24/7 Batman TAS">
         <title lang="en">Batman The Animated Series</title>
         <desc lang="en">Batman The Animated Series</desc>
     </programme>
-    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="Batman TAS">
+    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="24/7 Batman TAS">
         <title lang="en">Batman The Animated Series</title>
         <desc lang="en">Batman The Animated Series</desc>
     </programme>
-    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="Batman TAS">
+    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="24/7 Batman TAS">
         <title lang="en">Batman The Animated Series</title>
         <desc lang="en">Batman The Animated Series</desc>
     </programme>
-    <programme start="000000 +0000" stop="060000 +0000" channel="Batman TAS">
+    <programme start="000000 +0000" stop="060000 +0000" channel="24/7 Batman TAS">
         <title lang="en">Batman The Animated Series</title>
         <desc lang="en">Batman The Animated Series</desc>
     </programme>
-    <programme start="060000 +0000" stop="120000 +0000" channel="Batman TAS">
+    <programme start="060000 +0000" stop="120000 +0000" channel="24/7 Batman TAS">
         <title lang="en">Batman The Animated Series</title>
         <desc lang="en">Batman The Animated Series</desc>
     </programme>
-    <programme start="120000 +0000" stop="180000 +0000" channel="Batman TAS">
+    <programme start="120000 +0000" stop="180000 +0000" channel="24/7 Batman TAS">
         <title lang="en">Batman The Animated Series</title>
         <desc lang="en">Batman The Animated Series</desc>
     </programme>
-    <programme start="180000 +0000" stop="000000 +0000" channel="Batman TAS">
+    <programme start="180000 +0000" stop="000000 +0000" channel="24/7 Batman TAS">
         <title lang="en">Batman The Animated Series</title>
         <desc lang="en">Batman The Animated Series</desc>
     </programme>
-    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="Ben 10">
+    <programme start="20210222000000 +0000" stop="20210222060000 +0000" channel="24/7 Ben 10">
         <title lang="en">Ben 10</title>
         <desc lang="en">Ben 10</desc>
     </programme>
-    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="Ben 10">
+    <programme start="20210222060000 +0000" stop="20210222120000 +0000" channel="24/7 Ben 10">
         <title lang="en">Ben 10</title>
         <desc lang="en">Ben 10</desc>
     </programme>
-    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="Ben 10">
+    <programme start="20210222120000 +0000" stop="20210222180000 +0000" channel="24/7 Ben 10">
         <title lang="en">Ben 10</title>
         <desc lang="en">Ben 10</desc>
     </programme>
-    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="Ben 10">
+    <programme start="20210222180000 +0000" stop="20210222000000 +0000" channel="24/7 Ben 10">
         <title lang="en">Ben 10</title>
         <desc lang="en">Ben 10</desc>
     </programme>
-    <programme start="000000 +0000" stop="060000 +0000" channel="Ben 10">
+    <programme start="000000 +0000" stop="060000 +0000" channel="24/7 Ben 10">
         <title lang="en">Ben 10</title>
         <desc lang="en">Ben 10</desc>
     </programme>
-    <programme start="060000 +0000" stop="120000 +0000" channel="Ben 10">
+    <programme start="060000 +0000" stop="120000 +0000" channel="24/7 Ben 10">
         <title lang="en">Ben 10</title>
         <desc lang="en">Ben 10</desc>
     </programme>
-    <programme start="120000 +0000" stop="180000 +0000" channel="Ben 10">
+    <programme start="120000 +0000" stop="180000 +0000" channel="24/7 Ben 10">
         <title lang="en">Ben 10</title>
         <desc lang="en">Ben 10</desc>
     </programme>
-    <programme start="180000 +0000" stop="000000 +0000" channel="Ben 10">
+    <programme start="180000 +0000" stop="000000 +0000" channel="24/7 Ben 10">
         <title lang="en">Ben 10</title>
         <desc lang="en">Ben 10</desc>
     </programme>
