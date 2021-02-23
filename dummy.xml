@@ -102,6 +102,10 @@
         <title lang="pt">Program Title</title>
         <desc lang="pt">Creative Program Description</desc>
     </programme>
+    <programme start="20210223 +0000" stop="20210223 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Title</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
     <programme start="20210223000000 +0000" stop="20210223010000 +0000" channel="tvg-id-channel2">
         <title lang="pt">Program Title</title>
         <desc lang="pt">Creative Program Description</desc>
@@ -195,6 +199,10 @@
         <desc lang="pt">Creative Program Description</desc>
     </programme>
     <programme start="20210223230000 +0000" stop="20210223235900 +0000" channel="tvg-id-channel2">
+        <title lang="pt">Program Title</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="20210223 +0000" stop="20210223 +0000" channel="tvg-id-channel2">
         <title lang="pt">Program Title</title>
         <desc lang="pt">Creative Program Description</desc>
     </programme>
