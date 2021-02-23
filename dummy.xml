@@ -6,6 +6,9 @@
     <channel id="tvg-id-channel2">
         <display-name lang="pt">Name Channel 2</display-name>
     </channel>
+    <channel id="">
+        <display-name lang="pt"></display-name>
+    </channel>
     <programme start="20210223000000 +0000" stop="20210223060000 +0000" channel="tvg-id-channel1">
         <title lang="pt">Program Tittle1</title>
         <desc lang="pt">Creative Program Description1</desc>
@@ -69,5 +72,37 @@
     <programme start="180000 +0000" stop="235900 +0000" channel="tvg-id-channel2">
         <title lang="pt">Program Tittle2</title>
         <desc lang="pt">Creative Program Description2</desc>
+    </programme>
+    <programme start="20210223000000 +0000" stop="20210223060000 +0000" channel="">
+        <title lang="pt"></title>
+        <desc lang="pt"></desc>
+    </programme>
+    <programme start="20210223060000 +0000" stop="20210223120000 +0000" channel="">
+        <title lang="pt"></title>
+        <desc lang="pt"></desc>
+    </programme>
+    <programme start="20210223120000 +0000" stop="20210223180000 +0000" channel="">
+        <title lang="pt"></title>
+        <desc lang="pt"></desc>
+    </programme>
+    <programme start="20210223180000 +0000" stop="20210223235900 +0000" channel="">
+        <title lang="pt"></title>
+        <desc lang="pt"></desc>
+    </programme>
+    <programme start="000000 +0000" stop="060000 +0000" channel="">
+        <title lang="pt"></title>
+        <desc lang="pt"></desc>
+    </programme>
+    <programme start="060000 +0000" stop="120000 +0000" channel="">
+        <title lang="pt"></title>
+        <desc lang="pt"></desc>
+    </programme>
+    <programme start="120000 +0000" stop="180000 +0000" channel="">
+        <title lang="pt"></title>
+        <desc lang="pt"></desc>
+    </programme>
+    <programme start="180000 +0000" stop="235900 +0000" channel="">
+        <title lang="pt"></title>
+        <desc lang="pt"></desc>
     </programme>
 </tv>
