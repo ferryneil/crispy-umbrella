@@ -18,6 +18,15 @@
     <channel id="tvg-id-channel6">
         <display-name lang="pt">24/7 Bugs Bunny</display-name>
     </channel>
+    <channel id="tvg-id-channel7">
+        <display-name lang="pt">24/7 Chip n Dale Rescue Rangers</display-name>
+    </channel>
+    <channel id="tvg-id-channel8">
+        <display-name lang="pt">24/7 Cow Chicken</display-name>
+    </channel>
+    <channel id="tvg-id-channel9">
+        <display-name lang="pt">24/7 Curious George</display-name>
+    </channel>
     <programme start="20210223000000 +0000" stop="20210223010000 +0000" channel="tvg-id-channel1">
         <title lang="pt">Animaniacs</title>
         <desc lang="pt">The zany adventures of a trio of 1930s animated characters in the modern world.</desc>
@@ -593,5 +602,293 @@
     <programme start="20210223230000 +0000" stop="20210223235900 +0000" channel="tvg-id-channel6">
         <title lang="pt">Bugs Bunny</title>
         <desc lang="pt">Bugs Bunny</desc>
+    </programme>
+    <programme start="20210223000000 +0000" stop="20210223010000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223010000 +0000" stop="20210223020000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223020000 +0000" stop="20210223030000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223030000 +0000" stop="20210223040000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223040000 +0000" stop="20210223050000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223050000 +0000" stop="20210223060000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223060000 +0000" stop="20210223070000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223070000 +0000" stop="20210223080000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223080000 +0000" stop="20210223090000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223090000 +0000" stop="20210223100000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223100000 +0000" stop="20210223110000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223110000 +0000" stop="20210223120000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223120000 +0000" stop="20210223130000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223130000 +0000" stop="20210223140000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223140000 +0000" stop="20210223150000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223150000 +0000" stop="20210223160000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223160000 +0000" stop="20210223170000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223170000 +0000" stop="20210223180000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223180000 +0000" stop="20210223190000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223190000 +0000" stop="20210223200000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223200000 +0000" stop="20210223210000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223210000 +0000" stop="20210223220000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223220000 +0000" stop="20210223230000 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223230000 +0000" stop="20210223235900 +0000" channel="tvg-id-channel7">
+        <title lang="pt">Chip n Dale Rescue Rangers</title>
+        <desc lang="pt">Chip n Dale Rescue Rangers</desc>
+    </programme>
+    <programme start="20210223000000 +0000" stop="20210223010000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223010000 +0000" stop="20210223020000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223020000 +0000" stop="20210223030000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223030000 +0000" stop="20210223040000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223040000 +0000" stop="20210223050000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223050000 +0000" stop="20210223060000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223060000 +0000" stop="20210223070000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223070000 +0000" stop="20210223080000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223080000 +0000" stop="20210223090000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223090000 +0000" stop="20210223100000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223100000 +0000" stop="20210223110000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223110000 +0000" stop="20210223120000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223120000 +0000" stop="20210223130000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223130000 +0000" stop="20210223140000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223140000 +0000" stop="20210223150000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223150000 +0000" stop="20210223160000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223160000 +0000" stop="20210223170000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223170000 +0000" stop="20210223180000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223180000 +0000" stop="20210223190000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223190000 +0000" stop="20210223200000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223200000 +0000" stop="20210223210000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223210000 +0000" stop="20210223220000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223220000 +0000" stop="20210223230000 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223230000 +0000" stop="20210223235900 +0000" channel="tvg-id-channel8">
+        <title lang="pt">Cow & Chicken</title>
+        <desc lang="pt">Cow & Chicken</desc>
+    </programme>
+    <programme start="20210223000000 +0000" stop="20210223010000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223010000 +0000" stop="20210223020000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223020000 +0000" stop="20210223030000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223030000 +0000" stop="20210223040000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223040000 +0000" stop="20210223050000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223050000 +0000" stop="20210223060000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223060000 +0000" stop="20210223070000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223070000 +0000" stop="20210223080000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223080000 +0000" stop="20210223090000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223090000 +0000" stop="20210223100000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223100000 +0000" stop="20210223110000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223110000 +0000" stop="20210223120000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223120000 +0000" stop="20210223130000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223130000 +0000" stop="20210223140000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223140000 +0000" stop="20210223150000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223150000 +0000" stop="20210223160000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223160000 +0000" stop="20210223170000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223170000 +0000" stop="20210223180000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223180000 +0000" stop="20210223190000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223190000 +0000" stop="20210223200000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223200000 +0000" stop="20210223210000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223210000 +0000" stop="20210223220000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223220000 +0000" stop="20210223230000 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
+    </programme>
+    <programme start="20210223230000 +0000" stop="20210223235900 +0000" channel="tvg-id-channel9">
+        <title lang="pt">Curious George</title>
+        <desc lang="pt">Curious George</desc>
     </programme>
 </tv>
