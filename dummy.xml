@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="mydummy" generator-info-url="https://null.null/">
+    <channel id="tvg-id-channel1">
+        <display-name lang="pt">Name Channel 1</display-name>
+    </channel>
+    <channel id="tvg-id-channel1">
+        <display-name lang="pt">Name Channel 1</display-name>
+    </channel>
+    <programme start="20210223000000 +0000" stop="20210223060000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="20210223060000 +0000" stop="20210223120000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="20210223120000 +0000" stop="20210223180000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="20210223180000 +0000" stop="20210223235900 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="000000 +0000" stop="060000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="060000 +0000" stop="120000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="120000 +0000" stop="180000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="180000 +0000" stop="235900 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="20210223000000 +0000" stop="20210223060000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="20210223060000 +0000" stop="20210223120000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="20210223120000 +0000" stop="20210223180000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="20210223180000 +0000" stop="20210223235900 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="000000 +0000" stop="060000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="060000 +0000" stop="120000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="120000 +0000" stop="180000 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+    <programme start="180000 +0000" stop="235900 +0000" channel="tvg-id-channel1">
+        <title lang="pt">Program Tittle</title>
+        <desc lang="pt">Creative Program Description</desc>
+    </programme>
+</tv>
