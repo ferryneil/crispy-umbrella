@@ -306,6 +306,9 @@
     <channel id="tvg-id-channel102">
         <display-name lang="pt">24/7 Twilight</display-name>
     </channel>
+    <channel id="tvg-id-channel103">
+        <display-name lang="pt">24/7 X-Men</display-name>
+    </channel>
     <programme start="20210224000000 +0000" stop="20210224010000 +0000" channel="tvg-id-channel1">
         <title lang="pt">Animaniacs</title>
         <desc lang="pt">The zany adventures of a trio of 1930s animated characters in the modern world.</desc>
@@ -10097,5 +10100,101 @@
     <programme start="20210224230000 +0000" stop="20210224235900 +0000" channel="tvg-id-channel102">
         <title lang="pt">Twilight</title>
         <desc lang="pt">Twilight</desc>
+    </programme>
+    <programme start="20210224000000 +0000" stop="20210224010000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224010000 +0000" stop="20210224020000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224020000 +0000" stop="20210224030000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224030000 +0000" stop="20210224040000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224040000 +0000" stop="20210224050000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224050000 +0000" stop="20210224060000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224060000 +0000" stop="20210224070000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224070000 +0000" stop="20210224080000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224080000 +0000" stop="20210224090000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224090000 +0000" stop="20210224100000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224100000 +0000" stop="20210224110000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224110000 +0000" stop="20210224120000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224120000 +0000" stop="20210224130000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224130000 +0000" stop="20210224140000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224140000 +0000" stop="20210224150000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224150000 +0000" stop="20210224160000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224160000 +0000" stop="20210224170000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224170000 +0000" stop="20210224180000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224180000 +0000" stop="20210224190000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224190000 +0000" stop="20210224200000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224200000 +0000" stop="20210224210000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224210000 +0000" stop="20210224220000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224220000 +0000" stop="20210224230000 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
+    </programme>
+    <programme start="20210224230000 +0000" stop="20210224235900 +0000" channel="tvg-id-channel103">
+        <title lang="pt">X-Men</title>
+        <desc lang="pt">X-Men</desc>
     </programme>
 </tv>
