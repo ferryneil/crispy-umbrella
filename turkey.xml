@@ -1,0 +1,475 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.1.4.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="beIN SPORTS 1">
+    <display-name lang="tr">beIN SPORTS 1</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS 2">
+    <display-name lang="tr">beIN SPORTS 2</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS 3">
+    <display-name lang="tr">beIN SPORTS 3</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <channel id="beIN SPORTS 4">
+    <display-name lang="tr">beIN SPORTS 4</display-name>
+    <url>http://www.turksatkablo.com.tr</url>
+  </channel>
+  <programme start="20210303000000 +0300" stop="20210303010000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN 1</title>
+  </programme>
+  <programme start="20210303010000 +0300" stop="20210303020000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İspanya'dan Futbol</title>
+  </programme>
+  <programme start="20210303020000 +0300" stop="20210303030000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İngiltere'den Futbol</title>
+  </programme>
+  <programme start="20210303030000 +0300" stop="20210303033000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">EFL Championship Maç Özetleri</title>
+  </programme>
+  <programme start="20210303033000 +0300" stop="20210303051500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303051500 +0300" stop="20210303070000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303070000 +0300" stop="20210303084500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303084500 +0300" stop="20210303103000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303103000 +0300" stop="20210303111500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Serie A Maç Özetleri</title>
+  </programme>
+  <programme start="20210303111500 +0300" stop="20210303114500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Şampiyonlar Ligi Maç Özetleri</title>
+  </programme>
+  <programme start="20210303114500 +0300" stop="20210303120000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Haftanın Golleri</title>
+  </programme>
+  <programme start="20210303120000 +0300" stop="20210303130000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">beIN 1</title>
+  </programme>
+  <programme start="20210303130000 +0300" stop="20210303140000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İspanya'dan Futbol</title>
+  </programme>
+  <programme start="20210303140000 +0300" stop="20210303154500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303154500 +0300" stop="20210303173000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303173000 +0300" stop="20210303180000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga World</title>
+  </programme>
+  <programme start="20210303180000 +0300" stop="20210303190000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İngiltere'den Futbol</title>
+  </programme>
+  <programme start="20210303190000 +0300" stop="20210303194500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Maç Özetleri</title>
+  </programme>
+  <programme start="20210303194500 +0300" stop="20210303200000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20210303200000 +0300" stop="20210303203000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20210303203000 +0300" stop="20210303210000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">UEFA Şampiyonlar Ligi Maç Özetleri</title>
+  </programme>
+  <programme start="20210303210000 +0300" stop="20210303220000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">İtalya'dan Futbol</title>
+  </programme>
+  <programme start="20210303220000 +0300" stop="20210303221500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20210303221500 +0300" stop="20210304014500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304014500 +0300" stop="20210304031500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304031500 +0300" stop="20210304033000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Hedef Madrid</title>
+  </programme>
+  <programme start="20210304033000 +0300" stop="20210304034500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304034500 +0300" stop="20210304044500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Maç Özetleri</title>
+  </programme>
+  <programme start="20210304044500 +0300" stop="20210304063000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304063000 +0300" stop="20210304070000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304084500 +0300" stop="20210304094500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304094500 +0300" stop="20210304121500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304121500 +0300" stop="20210304123000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304123000 +0300" stop="20210304130000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Alo beIN</title>
+  </programme>
+  <programme start="20210304130000 +0300" stop="20210304140000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Hedef Madrid</title>
+  </programme>
+  <programme start="20210304140000 +0300" stop="20210304154500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304154500 +0300" stop="20210304180000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304180000 +0300" stop="20210304183000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Files</title>
+  </programme>
+  <programme start="20210304183000 +0300" stop="20210304200000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Chronicles</title>
+  </programme>
+  <programme start="20210304200000 +0300" stop="20210304220000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">STSL Maç Özetleri</title>
+  </programme>
+  <programme start="20210304220000 +0300" stop="20210305000000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305000000 +0300" stop="20210305014500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305014500 +0300" stop="20210305033000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305033000 +0300" stop="20210305051500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305051500 +0300" stop="20210305070000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305084500 +0300" stop="20210305094500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305094500 +0300" stop="20210305103000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305103000 +0300" stop="20210305124500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305124500 +0300" stop="20210305143000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305143000 +0300" stop="20210305161500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305161500 +0300" stop="20210305180000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305180000 +0300" stop="20210305183000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Inside Serie A</title>
+  </programme>
+  <programme start="20210305183000 +0300" stop="20210305190000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">La Liga Show</title>
+  </programme>
+  <programme start="20210305190000 +0300" stop="20210305211500 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Ligue 1 Show</title>
+  </programme>
+  <programme start="20210305211500 +0300" stop="20210305220000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Devre Arası</title>
+  </programme>
+  <programme start="20210305220000 +0300" stop="20210305230000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">Serie A Kısa Özet</title>
+  </programme>
+  <programme start="20210305230000 +0300" stop="20210306000000 +0300" channel="beIN SPORTS 1">
+    <title lang="tr">West Bromwich Albion - Birmingham City</title>
+  </programme>
+  <programme start="20210303000000 +0300" stop="20210303014500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303014500 +0300" stop="20210303033000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303033000 +0300" stop="20210303051500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303051500 +0300" stop="20210303070000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303070000 +0300" stop="20210303084500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303084500 +0300" stop="20210303103000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303103000 +0300" stop="20210303121500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303121500 +0300" stop="20210303140000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303140000 +0300" stop="20210303154500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303154500 +0300" stop="20210303173000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303173000 +0300" stop="20210303183000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303183000 +0300" stop="20210303210000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20210303210000 +0300" stop="20210303230000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">PSG - Chelsea</title>
+  </programme>
+  <programme start="20210303230000 +0300" stop="20210303233000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20210303233000 +0300" stop="20210304000000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Serie A Geniş Özet</title>
+  </programme>
+  <programme start="20210304000000 +0300" stop="20210304014500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304014500 +0300" stop="20210304033000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304033000 +0300" stop="20210304051500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304140000 +0300" stop="20210304143000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304143000 +0300" stop="20210304154500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Premier League Maç Özetleri</title>
+  </programme>
+  <programme start="20210304154500 +0300" stop="20210304191500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304191500 +0300" stop="20210304210000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304210000 +0300" stop="20210304224500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304224500 +0300" stop="20210304230000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Ligue 1 Kısa Özet</title>
+  </programme>
+  <programme start="20210304230000 +0300" stop="20210305000000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">La Liga Maç Özetleri</title>
+  </programme>
+  <programme start="20210305000000 +0300" stop="20210305014500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305014500 +0300" stop="20210305033000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305033000 +0300" stop="20210305051500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305173000 +0300" stop="20210305190000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305190000 +0300" stop="20210305191500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Ligue 1 Show</title>
+  </programme>
+  <programme start="20210305191500 +0300" stop="20210305200000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305200000 +0300" stop="20210305210000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Başlıyor</title>
+  </programme>
+  <programme start="20210305210000 +0300" stop="20210305211500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305211500 +0300" stop="20210305220000 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Devre Arası</title>
+  </programme>
+  <programme start="20210305220000 +0300" stop="20210305221500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">La Liga Chronicles</title>
+  </programme>
+  <programme start="20210305221500 +0300" stop="20210305224500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Maç Sonu</title>
+  </programme>
+  <programme start="20210305224500 +0300" stop="20210306014500 +0300" channel="beIN SPORTS 2">
+    <title lang="tr">Rennes - O. Lyon</title>
+  </programme>
+  <programme start="20210303000000 +0300" stop="20210303040000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20210303040000 +0300" stop="20210303063000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20210303063000 +0300" stop="20210303084500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303084500 +0300" stop="20210303113000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303113000 +0300" stop="20210303140000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303140000 +0300" stop="20210303171500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303171500 +0300" stop="20210303173000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303173000 +0300" stop="20210303183000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210303183000 +0300" stop="20210303194500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20210303194500 +0300" stop="20210303200000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20210303200000 +0300" stop="20210303220000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20210303220000 +0300" stop="20210304000000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20210304000000 +0300" stop="20210304020000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20210304020000 +0300" stop="20210304040000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20210304040000 +0300" stop="20210304070000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Miami Open</title>
+  </programme>
+  <programme start="20210304070000 +0300" stop="20210304100000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304100000 +0300" stop="20210304130000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304130000 +0300" stop="20210304160000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304160000 +0300" stop="20210304190000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210304190000 +0300" stop="20210304191500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20210304191500 +0300" stop="20210304193000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Özel Röportaj</title>
+  </programme>
+  <programme start="20210304193000 +0300" stop="20210304200000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Otofan</title>
+  </programme>
+  <programme start="20210304200000 +0300" stop="20210304210000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Premier League Maç Özetleri</title>
+  </programme>
+  <programme start="20210304210000 +0300" stop="20210304220000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">La Liga Maç Özetleri</title>
+  </programme>
+  <programme start="20210304220000 +0300" stop="20210304224500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Potada Bugün</title>
+  </programme>
+  <programme start="20210304224500 +0300" stop="20210305014500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Olimpia Milano - Fenerbahçe Beko</title>
+  </programme>
+  <programme start="20210305014500 +0300" stop="20210305030000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305030000 +0300" stop="20210305033000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305033000 +0300" stop="20210305051500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305051500 +0300" stop="20210305070000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305070000 +0300" stop="20210305084500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305084500 +0300" stop="20210305103000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305103000 +0300" stop="20210305140000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305140000 +0300" stop="20210305154500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305154500 +0300" stop="20210305173000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305173000 +0300" stop="20210305191500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305191500 +0300" stop="20210305200000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Maç Saati</title>
+  </programme>
+  <programme start="20210305200000 +0300" stop="20210305223000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">KHIMKI - CSKA Moskova</title>
+  </programme>
+  <programme start="20210305223000 +0300" stop="20210305224500 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Baskonia - Anadolu Efes</title>
+  </programme>
+  <programme start="20210305224500 +0300" stop="20210305233000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">41. Dakika</title>
+  </programme>
+  <programme start="20210305233000 +0300" stop="20210306003000 +0300" channel="beIN SPORTS 3">
+    <title lang="tr">Premier League Preview</title>
+  </programme>
+  <programme start="20210303020000 +0300" stop="20210303040000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210303040000 +0300" stop="20210303080000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210303080000 +0300" stop="20210303120000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210303120000 +0300" stop="20210303160000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210303160000 +0300" stop="20210303200000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210303200000 +0300" stop="20210303210000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210303210000 +0300" stop="20210303230000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Dunkerque - Montpellier</title>
+  </programme>
+  <programme start="20210303230000 +0300" stop="20210304020000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Cesson Rennes - Nantes</title>
+  </programme>
+  <programme start="20210304080000 +0300" stop="20210304120000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210304120000 +0300" stop="20210304160000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210304160000 +0300" stop="20210304200000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210304200000 +0300" stop="20210304220000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210304220000 +0300" stop="20210305000000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Panathinaikos - Real Madrid</title>
+  </programme>
+  <programme start="20210305000000 +0300" stop="20210305040000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210305080000 +0300" stop="20210305160000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210305160000 +0300" stop="20210305200000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">beIN Sports Tanıtım</title>
+  </programme>
+  <programme start="20210305200000 +0300" stop="20210306020000 +0300" channel="beIN SPORTS 4">
+    <title lang="tr">Miami Open</title>
+  </programme>
+</tv>
