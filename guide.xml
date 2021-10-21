@@ -13,10 +13,9 @@
     <icon src="http://tvsmagazine.com/images/channels/sm_111.jpg" />
     <url>http://www.tvsmagazine.com</url>
   </channel>
-  <channel id="MBC2">
-    <display-name lang="ar">MBC2</display-name>
-    <icon src="https://www.mbc.net/dam/jcr:58f8ac46-66be-4f50-9766-0c09920c086a/mbc-2.png" />
-    <url>http://www.mbc.net</url>
+  <channel id="MBC 2">
+    <display-name lang="ar">MBC 2</display-name>
+    <url>http://www.elcinema.com</url>
   </channel>
   <channel id="OSN Comedy">
     <display-name lang="en">OSN Comedy 1</display-name>
@@ -6230,435 +6229,717 @@
     <category lang="en">Kids</category>
     <icon src="https://s3-ap-southeast-1.amazonaws.com/bms.dmpcdn.com/uploads/imdb/5ce53656ae21490b44ac805d4c9eb140.jpg" />
   </programme>
-  <programme start="20211021005400 +0000" stop="20211021023400 +0000" channel="MBC2">
-    <title lang="ar">سبيننج مان</title>
-    <desc lang="ar">تأخذ حياة أستاذ في الفلسفة ورب أسرة بالانهيار عندما تختفي امرأة شابة ويصبح المشتبه به الرئيسي في التحقيق.(n)</desc>
-    <category lang="ar">إثارة</category>
-  </programme>
-  <programme start="20211021023400 +0000" stop="20211021030000 +0000" channel="MBC2">
-    <title lang="ar">فيلمز &amp; ستارز</title>
-    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211021030000 +0000" stop="20211021043900 +0000" channel="MBC2">
-    <title lang="ar">ذا بيبربوي</title>
-    <desc lang="ar">يعود شاب إلى مسقط رأسه لمساعدة شقيقه المراسل على كشف الحقيقة حول رجل محكوم عليه بالإعدام يُعتقد بأنه أدين عن طريق الخطأ.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211021043900 +0000" stop="20211021063000 +0000" channel="MBC2">
-    <title lang="ar">88 مينيتس</title>
-    <desc lang="ar">يكتشف أستاذ جامعي وطبيب نفسي جنائي يعمل لدى مكتب التحقيقات الفيدرالي أن أمامه 88 دقيقة فقط قبل أن يواجه الموت.(n)</desc>
-    <category lang="ar">جريمة</category>
-  </programme>
-  <programme start="20211021063000 +0000" stop="20211021084400 +0000" channel="MBC2">
-    <title lang="ar">مورتال إنجينز</title>
-    <desc lang="ar">تقود امرأة شابة مجموعة من المنبوذين لمنع لندن، المدينة المفترسة على عجلات، من التهام كل شيء في طريقها.(n)</desc>
-    <category lang="ar">خيالي علمي</category>
-  </programme>
-  <programme start="20211021084400 +0000" stop="20211021090900 +0000" channel="MBC2">
-    <title lang="ar">فيلمز &amp; ستارز</title>
-    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211021090900 +0000" stop="20211021112900 +0000" channel="MBC2">
-    <title lang="ar">جوراسك ورلد: فولين كينجدوم</title>
-    <desc lang="ar">يعود أوين وكلير إلى أنقاض حديقة جوراسيك ورلد الترفيهية في سبيل إنقاذ الديناصورات المتبقية من ثوران بركاني يلوح في الأفق.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211021112900 +0000" stop="20211021132900 +0000" channel="MBC2">
-    <title lang="ar">ذا لاست ويتش هانتر</title>
-    <desc lang="ar">عندما يقدم السحرة الأكثر فتكاً في التاريخ على بعث الملكة الساحرة المتعطشة للدماء من جديد، يصبح كوالدر – وهو صائد سحرة خالد – الأمل الأخير للإنسانية، بينما يواجه الظواهر الخارقة، في معركة ملحمية لن تنسى على مر العصور.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211021132900 +0000" stop="20211021140000 +0000" channel="MBC2">
-    <title lang="ar">إنترتاينمنت تونايت</title>
-    <desc lang="ar">أحدث أخبار ومستجدات الوسط الفني والترفيهي وتغطية حصرية لأهم قصص هوليود، من العروض الأولى وحفلات توزيع الجوائز، إلى المقابلات الحصرية مع النجوم و الإصدارات القادمة.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211021140000 +0000" stop="20211021160000 +0000" channel="MBC2">
-    <title lang="ar">فيريس بويلرز داي أوف</title>
-    <desc lang="ar">يحاول كل مراهق في مرحلة عمرية معينة أن يتلاعب بوالديه لكي يتغيب عن يوم دراسي، كما سيحدث مع فيريس بيولر.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211021160000 +0000" stop="20211021180400 +0000" channel="MBC2">
-    <title lang="ar">آني</title>
-    <desc lang="ar">يهب رجل أعمال فاحش الثراء يدعى بنيامين ستاكس لنجدة فتاة صغيرة تعيش في دار للأيتام تديرها سيدة مستبدة تدعى الآنسة هانيجان.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211021180400 +0000" stop="20211021200000 +0000" channel="MBC2">
-    <title lang="ar">نايت سكول</title>
-    <desc lang="ar">عندما يؤدي تخريب مكان عمله عن طريق الخطأ إلى طرد مندوب المبيعات الناجح تيدي، لا يمكنه العثور على وظيفة أخرى لائقة مالم يحصل على شهادته الثانوية.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211021200000 +0000" stop="20211021215900 +0000" channel="MBC2">
-    <title lang="ar">جيت هارد</title>
-    <desc lang="ar">عندما توجه تهمة احتيال إلى مدير مالي ثري يدعى جيمس ويحكم عليه بالسجن عشر سنوات في سجن سان كوينتين، يلجأ جيمس إلى شخص يدعى دارنيل ليساعده جسديا ونفسيا على تخطي محكوميته، لكن ما يجهله هو أن دارنيل لم يحصل على مخالفة مرورية، ولم يدخل السجن قط.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211021215900 +0000" stop="20211022000500 +0000" channel="MBC2">
-    <title lang="ar">ذا باد باتش</title>
-    <desc lang="ar">قصة حب تدور أحداثها في واقع مرير في أراضي تكساس القاحلة في مجتمع من آكلي لحوم البشر.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211022000500 +0000" stop="20211022023000 +0000" channel="MBC2">
-    <title lang="ar">جوراسك ورلد: فولين كينجدوم</title>
-    <desc lang="ar">يعود أوين وكلير إلى أنقاض حديقة جوراسيك ورلد الترفيهية في سبيل إنقاذ الديناصورات المتبقية من ثوران بركاني يلوح في الأفق.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211022023000 +0000" stop="20211022041900 +0000" channel="MBC2">
-    <title lang="ar">ذا ليجو موفي 2: ذا سكند بارت</title>
-    <desc lang="ar">يجتمع أبطال بريكسبرج في مغامرة جديدة حافلة بالإثارة لإنقاذ مدينتهم المحبوبة من غزاة ليجو دوبلو القادمين من الفضاء الخارجي.(n)</desc>
-    <category lang="ar">رسوم متحركة</category>
-  </programme>
-  <programme start="20211022041900 +0000" stop="20211022060000 +0000" channel="MBC2">
-    <title lang="ar">ذا ليجو نينجاغو موفي</title>
-    <desc lang="ar">يهب الشاب لويد المعروف باسم جرين نينجا وأصدقاؤه من المحاربين السريين للمشاركة في حرب قامت من أجل نينجاجو سيتي.(n)</desc>
-    <category lang="ar">رسوم متحركة</category>
-  </programme>
-  <programme start="20211022060000 +0000" stop="20211022075900 +0000" channel="MBC2">
-    <title lang="ar">نايت سكول</title>
-    <desc lang="ar">عندما يؤدي تخريب مكان عمله عن طريق الخطأ إلى طرد مندوب المبيعات الناجح تيدي، لا يمكنه العثور على وظيفة أخرى لائقة مالم يحصل على شهادته الثانوية.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211022075900 +0000" stop="20211022082400 +0000" channel="MBC2">
-    <title lang="ar">سيليبريتي سكوب</title>
-    <desc lang="ar">يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211022082400 +0000" stop="20211022104400 +0000" channel="MBC2">
-    <title lang="ar">آني</title>
-    <desc lang="ar">يهب رجل أعمال فاحش الثراء يدعى بنيامين ستاكس لنجدة فتاة صغيرة تعيش في دار للأيتام تديرها سيدة مستبدة تدعى الآنسة هانيجان.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211022104400 +0000" stop="20211022130400 +0000" channel="MBC2">
-    <title lang="ar">ذا بروميس</title>
-    <desc lang="ar">تشتعل شرارة الحب عندما يقع طالب أرمني يدرس الطب في حب فنانة مرتبطة بصحفي ذائع الصيت. لكن مع تصاعد حدة التوتر في خضم اندلاع الحرب العالمية الأولى، يتوجب على الثلاثي أن يضعوا مشاعرهم جانبا من أجل البقاء على قيد الحياة بينما ينهار العالم من حولهم.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211022130400 +0000" stop="20211022132900 +0000" channel="MBC2">
-    <title lang="ar">إنترتاينمنت تونايت</title>
-    <desc lang="ar">أحدث أخبار ومستجدات الوسط الفني والترفيهي وتغطية حصرية لأهم قصص هوليود، من العروض الأولى وحفلات توزيع الجوائز، إلى المقابلات الحصرية مع النجوم و الإصدارات القادمة.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211022132900 +0000" stop="20211022153000 +0000" channel="MBC2">
-    <title lang="ar">هيل بوي 2: ذا جولدن أرمي</title>
-    <desc lang="ar">يخوض هيل بوي حرباً شرسة ضد جيش من المخلوقات يقوم بأعمال سلب ونهب والذي جاء إلى العالم عن طريق شرير شيطاني وغد من عالم آخر.(n)</desc>
-    <category lang="ar">خيالي</category>
-  </programme>
-  <programme start="20211022153000 +0000" stop="20211022173600 +0000" channel="MBC2">
-    <title lang="ar">ذا ولفرين</title>
-    <desc lang="ar">لوجان، المتحول الذي يبلغ من العمر قرناً من الزمان والمعروف للعالم باسم وولفرين، يتم إغراؤه للذهاب إلى اليابان المختلفة كلياً والتي لم يرها منذ الحرب العالمية الثانية - والعالم الغامض للياكوزا والساموراي.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211022173600 +0000" stop="20211022180000 +0000" channel="MBC2">
-    <title lang="ar">أكشن زون</title>
-    <desc lang="ar">كل ما تريده من أكشن ورعب وكوميديا وأخبار وما يتعلق بالنجوم وغيره الكثير تجدونه في برنامج أكشن زون الذي يضمن بأن يبقيك متحمسا طوال الوقت.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211022180000 +0000" stop="20211022200500 +0000" channel="MBC2">
-    <title lang="ar">جستس ليج</title>
-    <desc lang="ar">مندفعا بإيمانه بالإنسانية الذي استعاده من جديد، يستعين بروس واين بمساعدة حليفته الجديدة ديانا لمواجهة عدو لا يستهان به.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211022200500 +0000" stop="20211022223000 +0000" channel="MBC2">
-    <title lang="ar">جلاس</title>
-    <desc lang="ar">يلاحق دان شخصية كرامب الخارقة في الوقت الذي يظهر فيه برايس كعقل مدبر يحمل أسرارا مفصلية في حياة كلا الرجلين.(n)</desc>
-    <category lang="ar">إثارة</category>
-  </programme>
-  <programme start="20211022223000 +0000" stop="20211023003000 +0000" channel="MBC2">
-    <title lang="ar">ساكر بانش</title>
-    <desc lang="ar">فتاة صغيرة تجد في عالم أحلامها ملجأً لها من واقعها المرير، يتم احتجازها رغماً عنها، فتخوض معركة جريئة برفقة فتيات أخريات في وجه مخاطر عديدة كالأفاعي والساموراي من أجل حصولهن على الحرية.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211023003000 +0000" stop="20211023020500 +0000" channel="MBC2">
-    <title lang="ar">جيت هارد</title>
-    <desc lang="ar">عندما توجه تهمة احتيال إلى مدير مالي ثري يدعى جيمس ويحكم عليه بالسجن عشر سنوات في سجن سان كوينتين، يلجأ جيمس إلى شخص يدعى دارنيل ليساعده جسديا ونفسيا على تخطي محكوميته، لكن ما يجهله هو أن دارنيل لم يحصل على مخالفة مرورية، ولم يدخل السجن قط.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211023020500 +0000" stop="20211023040000 +0000" channel="MBC2">
-    <title lang="ar">نايت سكول</title>
-    <desc lang="ar">عندما يؤدي تخريب مكان عمله عن طريق الخطأ إلى طرد مندوب المبيعات الناجح تيدي، لا يمكنه العثور على وظيفة أخرى لائقة مالم يحصل على شهادته الثانوية.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211023040000 +0000" stop="20211023060400 +0000" channel="MBC2">
-    <title lang="ar">ذا بروميس</title>
-    <desc lang="ar">تشتعل شرارة الحب عندما يقع طالب أرمني يدرس الطب في حب فنانة مرتبطة بصحفي ذائع الصيت. لكن مع تصاعد حدة التوتر في خضم اندلاع الحرب العالمية الأولى، يتوجب على الثلاثي أن يضعوا مشاعرهم جانبا من أجل البقاء على قيد الحياة بينما ينهار العالم من حولهم.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211023060400 +0000" stop="20211023080900 +0000" channel="MBC2">
-    <title lang="ar">جستس ليج</title>
-    <desc lang="ar">مندفعا بإيمانه بالإنسانية الذي استعاده من جديد، يستعين بروس واين بمساعدة حليفته الجديدة ديانا لمواجهة عدو لا يستهان به.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211023080900 +0000" stop="20211023083500 +0000" channel="MBC2">
-    <title lang="ar">فيلمز &amp; ستارز</title>
-    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211023083500 +0000" stop="20211023104900 +0000" channel="MBC2">
-    <title lang="ar">ذا ولفرين</title>
-    <desc lang="ar">لوجان، المتحول الذي يبلغ من العمر قرناً من الزمان والمعروف للعالم باسم وولفرين، يتم إغراؤه للذهاب إلى اليابان المختلفة كلياً والتي لم يرها منذ الحرب العالمية الثانية - والعالم الغامض للياكوزا والساموراي.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211023104900 +0000" stop="20211023130400 +0000" channel="MBC2">
-    <title lang="ar">جلاس</title>
-    <desc lang="ar">يلاحق دان شخصية كرامب الخارقة في الوقت الذي يظهر فيه برايس كعقل مدبر يحمل أسرارا مفصلية في حياة كلا الرجلين.(n)</desc>
-    <category lang="ar">إثارة</category>
-  </programme>
-  <programme start="20211023130400 +0000" stop="20211023133000 +0000" channel="MBC2">
-    <title lang="ar">إنترتاينمنت تونايت</title>
-    <desc lang="ar">أحدث أخبار ومستجدات الوسط الفني والترفيهي وتغطية حصرية لأهم قصص هوليود، من العروض الأولى وحفلات توزيع الجوائز، إلى المقابلات الحصرية مع النجوم و الإصدارات القادمة.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211023133000 +0000" stop="20211023153400 +0000" channel="MBC2">
-    <title lang="ar">ذا سوشال نيتويرك</title>
-    <desc lang="ar">يتتبع الفيلم تطور منصة فيسبوك التي أبصرت النور لأول مرة في عام 2004 في حرم جامعة هارفورد، وكيف غير نجاحها منقطع النظير حياة كل من شارك في إنشائها.(n)</desc>
-    <category lang="ar">سيرة ذاتية</category>
-  </programme>
-  <programme start="20211023153400 +0000" stop="20211023175900 +0000" channel="MBC2">
-    <title lang="ar">وول ستريت: موني نيفر سليبس</title>
-    <desc lang="ar">يتم إطلاق سراح جوردن جيكو من السجن بعد قضائه عقدين من الزمن، ويقف أمام سوق وول سريت الذي يتجه نحو انهيار مالي جديد.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211023175900 +0000" stop="20211023195900 +0000" channel="MBC2">
-    <title lang="ar">ذا جامبلر</title>
-    <desc lang="ar">جيم هو أستاذ جامعي يعيش حياة سرية مزدوجة فهو مقامر مغامر أيضاً، ولكنه يعرض حياة أولئك الذين يحبهم للخطر عندما يقوم باقتراض المال من العصابات الخطرة.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211023195900 +0000" stop="20211023220000 +0000" channel="MBC2">
-    <title lang="ar">وور دوجز</title>
-    <desc lang="ar">قصة حقيقية لشابين من ميامي بيتش يقضيان جل وقتهما في تعاطي الممنوعات والمشروبات الكحولية، وأصبحا في يوم وليلة من أكبر موردي الأسلحة لصالح الحكومة الأمريكية.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211023220000 +0000" stop="20211023233900 +0000" channel="MBC2">
-    <title lang="ar">ستوكهولم</title>
-    <desc lang="ar">قصة تستند إلى أحداث حقيقية وقعت عام 1973 لعملية سطو مسلح واحتجاز رهائن في أحد مصارف ستوكهولم، والتي قامت بتوثيقها مجلة نيويوركر باعتبارها أصل متلازمة ستوكهولم.(n)</desc>
-    <category lang="ar">جريمة</category>
-  </programme>
-  <programme start="20211023233900 +0000" stop="20211024015500 +0000" channel="MBC2">
-    <title lang="ar">جلاس</title>
-    <desc lang="ar">يلاحق دان شخصية كرامب الخارقة في الوقت الذي يظهر فيه برايس كعقل مدبر يحمل أسرارا مفصلية في حياة كلا الرجلين.(n)</desc>
-    <category lang="ar">إثارة</category>
-  </programme>
-  <programme start="20211024015500 +0000" stop="20211024035900 +0000" channel="MBC2">
-    <title lang="ar">جستس ليج</title>
-    <desc lang="ar">مندفعا بإيمانه بالإنسانية الذي استعاده من جديد، يستعين بروس واين بمساعدة حليفته الجديدة ديانا لمواجهة عدو لا يستهان به.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211024035900 +0000" stop="20211024060400 +0000" channel="MBC2">
-    <title lang="ar">هيل بوي 2: ذا جولدن أرمي</title>
-    <desc lang="ar">يخوض هيل بوي حرباً شرسة ضد جيش من المخلوقات يقوم بأعمال سلب ونهب والذي جاء إلى العالم عن طريق شرير شيطاني وغد من عالم آخر.(n)</desc>
-    <category lang="ar">خيالي</category>
-  </programme>
-  <programme start="20211024060400 +0000" stop="20211024082000 +0000" channel="MBC2">
-    <title lang="ar">ذا بروميس</title>
-    <desc lang="ar">تشتعل شرارة الحب عندما يقع طالب أرمني يدرس الطب في حب فنانة مرتبطة بصحفي ذائع الصيت. لكن مع تصاعد حدة التوتر في خضم اندلاع الحرب العالمية الأولى، يتوجب على الثلاثي أن يضعوا مشاعرهم جانبا من أجل البقاء على قيد الحياة بينما ينهار العالم من حولهم.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211024082000 +0000" stop="20211024104400 +0000" channel="MBC2">
-    <title lang="ar">وول ستريت: موني نيفر سليبس</title>
-    <desc lang="ar">يتم إطلاق سراح جوردن جيكو من السجن بعد قضائه عقدين من الزمن، ويقف أمام سوق وول سريت الذي يتجه نحو انهيار مالي جديد.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211024104400 +0000" stop="20211024122900 +0000" channel="MBC2">
-    <title lang="ar">ذا كولد لايت أوف داي</title>
-    <desc lang="ar">خلال قضائه إجازة في إسبانيا، يهتز كيان ويل عندما يتم اختطاف عائلته على يد كيان عازم على استعادة حقيبة غامضة.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211024122900 +0000" stop="20211024140900 +0000" channel="MBC2">
-    <title lang="ar">ستوكهولم</title>
-    <desc lang="ar">قصة تستند إلى أحداث حقيقية وقعت عام 1973 لعملية سطو مسلح واحتجاز رهائن في أحد مصارف ستوكهولم، والتي قامت بتوثيقها مجلة نيويوركر باعتبارها أصل متلازمة ستوكهولم.(n)</desc>
-    <category lang="ar">جريمة</category>
-  </programme>
-  <programme start="20211024140900 +0000" stop="20211024143400 +0000" channel="MBC2">
-    <title lang="ar">سيليبريتي سكوب</title>
-    <desc lang="ar">يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211024143400 +0000" stop="20211024162400 +0000" channel="MBC2">
-    <title lang="ar">نيكست</title>
-    <desc lang="ar">يحاول عميل حكومي أن يقبض على كريس، وهو ساحر يمتلك قدرة على رؤية دقيقتين من أحداث ستقع في المستقبل، ليقنعه بالمساعدة في منع وقوع كارثة.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211024162400 +0000" stop="20211024175900 +0000" channel="MBC2">
-    <title lang="ar">سكيورتي</title>
-    <desc lang="ar">يتوجب على بطل حرب انتهى به المطاف بالعمل كحارس أمن حماية فتاة صغيرة من براثن عصابة من راكبي الدراجات لا ترحم.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211024175900 +0000" stop="20211024183400 +0000" channel="MBC2">
-    <title lang="ar">سكووب مع ريا</title>
-    <desc lang="ar">يعود إليكم برنامج سكووب مع ريا في موسم جديد مع آخر أخبار مشاهير هوليود، والمقابلات حصرية، وأحداث السجادة الحمراء، فضلا عن الشائعات التي تدور حول المشاهير.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211024183400 +0000" stop="20211024203500 +0000" channel="MBC2">
-    <title lang="ar">سيكاريو</title>
-    <desc lang="ar">يتم تجنيد عميلة فيدرالية مثالية في مهمة لملاحقة بارون ممنوعات، وسرعان ما تشرع في مهمة محفوفة بالمخاطر تجبرها على التشكيك بكل ما تؤمن به.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211024203500 +0000" stop="20211024224900 +0000" channel="MBC2">
-    <title lang="ar">جاك ريتشر: نيفير جو باك</title>
-    <desc lang="ar">يعود جاك ريتشر  إلى فرجينيا للقاء رئيسة وحدته السابقة، لكن سرعان ما يكتشف بأنها مفقودة، ويجد نفسه متهما بارتكاب جريمة مضى عليها عشرون عاما، ليس ذلك فقط بل قد يكون لديه ابنة أيضا.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211024224900 +0000" stop="20211025003000 +0000" channel="MBC2">
-    <title lang="ar">ذا فيرست بيرج</title>
-    <desc lang="ar">لخفض معدل الجريمة إلى أقل من واحد بالمائة، يختبر الآباء المؤسسون الجدد لأمريكا نظرية اجتماعية تضخ العنف في مجتمع منعزل واحد.(n)</desc>
-    <category lang="ar">إثارة</category>
-  </programme>
-  <programme start="20211025003000 +0000" stop="20211025022900 +0000" channel="MBC2">
-    <title lang="ar">وور دوجز</title>
-    <desc lang="ar">قصة حقيقية لشابين من ميامي بيتش يقضيان جل وقتهما في تعاطي الممنوعات والمشروبات الكحولية، وأصبحا في يوم وليلة من أكبر موردي الأسلحة لصالح الحكومة الأمريكية.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211025022900 +0000" stop="20211025042500 +0000" channel="MBC2">
-    <title lang="ar">ذا جامبلر</title>
-    <desc lang="ar">جيم هو أستاذ جامعي يعيش حياة سرية مزدوجة فهو مقامر مغامر أيضاً، ولكنه يعرض حياة أولئك الذين يحبهم للخطر عندما يقوم باقتراض المال من العصابات الخطرة.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211025042500 +0000" stop="20211025063000 +0000" channel="MBC2">
-    <title lang="ar">ذا سوشال نيتويرك</title>
-    <desc lang="ar">يتتبع الفيلم تطور منصة فيسبوك التي أبصرت النور لأول مرة في عام 2004 في حرم جامعة هارفورد، وكيف غير نجاحها منقطع النظير حياة كل من شارك في إنشائها.(n)</desc>
-    <category lang="ar">سيرة ذاتية</category>
-  </programme>
-  <programme start="20211025063000 +0000" stop="20211025070000 +0000" channel="MBC2">
-    <title lang="ar">سكووب مع ريا</title>
-    <desc lang="ar">يعود إليكم برنامج سكووب مع ريا في موسم جديد مع آخر أخبار مشاهير هوليود، والمقابلات حصرية، وأحداث السجادة الحمراء، فضلا عن الشائعات التي تدور حول المشاهير.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211025070000 +0000" stop="20211025083000 +0000" channel="MBC2">
-    <title lang="ar">سكيورتي</title>
-    <desc lang="ar">يتوجب على بطل حرب انتهى به المطاف بالعمل كحارس أمن حماية فتاة صغيرة من براثن عصابة من راكبي الدراجات لا ترحم.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211025083000 +0000" stop="20211025103000 +0000" channel="MBC2">
-    <title lang="ar">إراجون</title>
-    <desc lang="ar">في زمن أسطوري وبمساعدة رجل عجوز حكيم وتنينه الصغير، أصبح فتى في سن المراهقة فارساً لتنين، وحينها ينتقم الفتى من مقتل عمه، وينقذ محاربة جميلة، ويدخل في معركة ضد الملك المستبد.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211025103000 +0000" stop="20211025123000 +0000" channel="MBC2">
-    <title lang="ar">وورجيمز</title>
-    <desc lang="ar">يتمكن مراهق من الولوج بالصدفة إلى حاسوب تكتيكي يعود لوزارة الدفاع، الأمر الذي يطلق ما يعتقد الفتى ببراءة بأنها لعبة حربية يطلق عليها إسم \"جلوبال ثيرمونيوكلير وور\"، لكن اللعبة في الواقع هي شيء حقيقي.(n)</desc>
-    <category lang="ar">مغامرة</category>
-  </programme>
-  <programme start="20211025123000 +0000" stop="20211025130000 +0000" channel="MBC2">
-    <title lang="ar">سكووب مع ريا</title>
-    <desc lang="ar">يعود إليكم برنامج سكووب مع ريا في موسم جديد مع آخر أخبار مشاهير هوليود، والمقابلات حصرية، وأحداث السجادة الحمراء، فضلا عن الشائعات التي تدور حول المشاهير.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211025130000 +0000" stop="20211025153000 +0000" channel="MBC2">
-    <title lang="ar">سوبرمان ريتيرنز</title>
-    <desc lang="ar">بينما يخطط العدو القديم ليكس لوثر لسلبه قوته، ينطلق سوبرمان في رحلة خلاصٍ ملحمية لحماية العالم الذي يحب من الدمار الكارثي.(n)</desc>
-    <category lang="ar">إثارة</category>
-  </programme>
-  <programme start="20211025153000 +0000" stop="20211025180000 +0000" channel="MBC2">
-    <title lang="ar">مان أوف ستيل</title>
-    <desc lang="ar">عندما يكتشف شاب بأن لديه قدرات خارقة واستثنائية، ينطلق في رحلة لاكتشاف المكان الذي جاء منه. الآن يتعين على البطل الذي يكمن في داخله النهوض لإنقاذ العالم.(n)</desc>
-    <category lang="ar">دراما</category>
-  </programme>
-  <programme start="20211025180000 +0000" stop="20211025203000 +0000" channel="MBC2">
-    <title lang="ar">وندر ومن</title>
-    <desc lang="ar">عندما تتحطم طائرة أمريكية على شواطىء ثيمسكيرا ويتنبأ ذلك بصراع حامي الوطيس في العالم الخارجي، تترك ديانا، أميرة الأمازونز، موطنها للحد من الخطر والقتال جنبا إلى جنب رجل لإنهاء كل الحروب.(n)</desc>
-    <category lang="ar">خيالي</category>
-  </programme>
-  <programme start="20211025203000 +0000" stop="20211025223000 +0000" channel="MBC2">
-    <title lang="ar">كابتن مارفال</title>
-    <desc lang="ar">تصبح كارول دانفرز واحدة من أقوى الأبطال الخارقين عندما تجد كوكبها في وسط حرب مجرية بين جنسين فضائيين.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211025223000 +0000" stop="20211025230000 +0000" channel="MBC2">
-    <title lang="ar">فيلمز &amp; ستارز</title>
-    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211025230000 +0000" stop="20211026010000 +0000" channel="MBC2">
-    <title lang="ar">ذا مورتال إنسترومينتس: سيتي أوف بونز</title>
-    <desc lang="ar">تنقلب حياة كلاري رأساً على عقب بعد تعرض والدتها للاختطاف ليتبين فيما بعد بأنها ووالدتها تنحدران من سلالة محاربين مهمتهم حماية العالم من مخلوقات العالم السفلي أمثال الشياطين ومصاصي الدماء والمستذئبين.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211026010000 +0000" stop="20211026023000 +0000" channel="MBC2">
-    <title lang="ar">سكيورتي</title>
-    <desc lang="ar">يتوجب على بطل حرب انتهى به المطاف بالعمل كحارس أمن حماية فتاة صغيرة من براثن عصابة من راكبي الدراجات لا ترحم.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211026023000 +0000" stop="20211026040000 +0000" channel="MBC2">
-    <title lang="ar">ذا فيرست بيرج</title>
-    <desc lang="ar">لخفض معدل الجريمة إلى أقل من واحد بالمائة، يختبر الآباء المؤسسون الجدد لأمريكا نظرية اجتماعية تضخ العنف في مجتمع منعزل واحد.(n)</desc>
-    <category lang="ar">إثارة</category>
-  </programme>
-  <programme start="20211026040000 +0000" stop="20211026053000 +0000" channel="MBC2">
-    <title lang="ar">نيكست</title>
-    <desc lang="ar">يحاول عميل حكومي أن يقبض على كريس، وهو ساحر يمتلك قدرة على رؤية دقيقتين من أحداث ستقع في المستقبل، ليقنعه بالمساعدة في منع وقوع كارثة.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211026053000 +0000" stop="20211026080000 +0000" channel="MBC2">
-    <title lang="ar">سوبرمان ريتيرنز</title>
-    <desc lang="ar">بينما يخطط العدو القديم ليكس لوثر لسلبه قوته، ينطلق سوبرمان في رحلة خلاصٍ ملحمية لحماية العالم الذي يحب من الدمار الكارثي.(n)</desc>
-    <category lang="ar">إثارة</category>
-  </programme>
-  <programme start="20211026080000 +0000" stop="20211026083000 +0000" channel="MBC2">
-    <title lang="ar">فيلمز &amp; ستارز</title>
-    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211026083000 +0000" stop="20211026103000 +0000" channel="MBC2">
-    <title lang="ar">كابتن مارفال</title>
-    <desc lang="ar">تصبح كارول دانفرز واحدة من أقوى الأبطال الخارقين عندما تجد كوكبها في وسط حرب مجرية بين جنسين فضائيين.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211026103000 +0000" stop="20211026110000 +0000" channel="MBC2">
-    <title lang="ar">سيليبريتي سكوب</title>
-    <desc lang="ar">يلقي سيليبريتي سكوب نظرة على حياة أشهر النجوم ليأتيكم بكل أخبارهم المثيرة للاهتمام.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211026110000 +0000" stop="20211026133000 +0000" channel="MBC2">
-    <title lang="ar">وندر ومن</title>
-    <desc lang="ar">عندما تتحطم طائرة أمريكية على شواطىء ثيمسكيرا ويتنبأ ذلك بصراع حامي الوطيس في العالم الخارجي، تترك ديانا، أميرة الأمازونز، موطنها للحد من الخطر والقتال جنبا إلى جنب رجل لإنهاء كل الحروب.(n)</desc>
-    <category lang="ar">خيالي</category>
-  </programme>
-  <programme start="20211026133000 +0000" stop="20211026140000 +0000" channel="MBC2">
-    <title lang="ar">إنترتاينمنت تونايت</title>
-    <desc lang="ar">أحدث أخبار ومستجدات الوسط الفني والترفيهي وتغطية حصرية لأهم قصص هوليود، من العروض الأولى وحفلات توزيع الجوائز، إلى المقابلات الحصرية مع النجوم و الإصدارات القادمة.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211026140000 +0000" stop="20211026153000 +0000" channel="MBC2">
-    <title lang="ar">ماي مومز نيو بويفريند</title>
-    <desc lang="ar">يوكل إلى عميل فدرالي قضية جديدة وهي التجسس على والدته وعشيقها الجديد المتهمين بضلوعهما في سرقات فنية.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211026153000 +0000" stop="20211026160000 +0000" channel="MBC2">
-    <title lang="ar">أكشن زون</title>
-    <desc lang="ar">كل ما تريده من أكشن ورعب وكوميديا وأخبار وما يتعلق بالنجوم وغيره الكثير تجدونه في برنامج أكشن زون الذي يضمن بأن يبقيك متحمسا طوال الوقت.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211026160000 +0000" stop="20211026180000 +0000" channel="MBC2">
-    <title lang="ar">ذا باونتي هنتر</title>
-    <desc lang="ar">يحصل صائد جوائز قليل الحظ على الوظيفة التي كان يحلم بها عندما يتم تكليفه بمهمة تعقب زوجته السابقة التي تخلفت عن حضور جلسة محاكمتها.(n)</desc>
-    <category lang="ar">أكشن</category>
-  </programme>
-  <programme start="20211026180000 +0000" stop="20211026193000 +0000" channel="MBC2">
-    <title lang="ar">ذس مينز وار</title>
-    <desc lang="ar">بعد أن ساعدا في القضاء على أعتى الأعداء، يقع أخطر عميلين في وكالة الاستخبارات المركزية في حب المرأة نفسها، والآن يوظف كل منهما مهاراته التي لا تضاهى ومجموعة لا نهاية لها من الابتكارات عالية التقنية ضد العدو الحالي الأكبر: بعضهما البعض!(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211026193000 +0000" stop="20211026200000 +0000" channel="MBC2">
-    <title lang="ar">فيلمز &amp; ستارز</title>
-    <desc lang="ar">باقة من أهم أحداث عالم النجوم بما فيها من إصدارات هوليوود، ومقابلات مع الممثلين وصناع الأفلام، بالإضافة إلى تقارير متعلقة بالسجادة الحمراء.(n)</desc>
-    <category lang="ar">معلومات ترفيهية</category>
-  </programme>
-  <programme start="20211026200000 +0000" stop="20211026220000 +0000" channel="MBC2">
-    <title lang="ar">بيواتش</title>
-    <desc lang="ar">احتمالية أن يكونا منقذين بعيدة ولكنهما مع ذلك يتنافسان للحصول على وظيفة إلى جانب عدد من الرجال مفتولي العضلات الذين ينتشرون في أحد شواطئ كاليفورنيا.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211026220000 +0000" stop="20211026233500 +0000" channel="MBC2">
-    <title lang="ar">تشيبس</title>
-    <desc lang="ar">ينضم جون، وهو محترف سابق في قيادة الدراجات النارية أفل نجمه، إلى وكيل فيدرالي مغرور يعمل متخفيا يدعى فرانك، في دورية مرورية لمراقبة الطرق السريعة، لكنهما يجدان صعوبة في تقبل بعضهما البعض، وتصبح شراكتهما على المحك.(n)</desc>
-    <category lang="ar">كوميدي</category>
-  </programme>
-  <programme start="20211026233500 +0000" stop="20211027013000 +0000" channel="MBC2">
-    <title lang="ar">إراجون</title>
-    <desc lang="ar">في زمن أسطوري وبمساعدة رجل عجوز حكيم وتنينه الصغير، أصبح فتى في سن المراهقة فارساً لتنين، وحينها ينتقم الفتى من مقتل عمه، وينقذ محاربة جميلة، ويدخل في معركة ضد الملك المستبد.(n)</desc>
-    <category lang="ar">أكشن</category>
+  <programme start="20211021093000 +0200" stop="20211021100000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; stars</title>
+    <desc lang="ar">برنامج يُعرض في كل يوم أحد، يتناول العديد من أخبار عالم هوليوود، بجانب كواليس الأفلام والإيرادات والعديد من المواضيع والأخبار التي تهم محبي السينما في العالم.(n)</desc>
+    <credits>
+      <actor>آلان جرين</actor>
+    </credits>
+    <rating system="EG">
+      <value>5.9</value>
+    </rating>
+  </programme>
+  <programme start="20211021100000 +0200" stop="20211021120000 +0200" channel="MBC 2">
+    <title lang="ar">Jurassic World: Fallen Kingdom</title>
+    <desc lang="ar">بعد مرور أربع سنوات على الدمار الذي جرى للحديقة الجوراسية؛ بسبب الديناصورات التي خرجت عن السيطرة تمامًا، وبعد فوران أحد البراكين الخامدة على سطح الجزيرة، يتوجه كل من أوين (كريس برات)، وكلير (برايس دالاس هوارد) في مهمة بالغة الصعوبة في سبيل إنقاذ الديناصورات الباقية من الموت. Four years after the Jurassic World theme park was closed down and the eruption of a dormant volcano on the island, Owen (Chris Pratt) and Claire (Bryce Dallas Howard) return to Isla Nubar to save the dinosaurs before they extinguish.(n)</desc>
+    <credits>
+      <director>جيه أيه بايونا</director>
+      <actor>برايس دالاس هوارد</actor>
+      <actor>كريس برات</actor>
+      <actor>جيف جولدبلوم</actor>
+      <actor>جيمس كرومويل</actor>
+      <actor>تد ليفين</actor>
+      <actor>توبي جونز</actor>
+      <writer>كولين تريفورو</writer>
+      <writer>ديريك كونولي</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <rating system="EG">
+      <value>8</value>
+    </rating>
+  </programme>
+  <programme start="20211021120000 +0200" stop="20211021123000 +0200" channel="MBC 2">
+    <title lang="ar">Celebrity Scoop</title>
+    <desc lang="ar">برنامج ترفيهي إخباري، يتناول الحياة الشخصية لمشاهير السينما والتليفزيون والموسيقى، وأسرارهم الدفينة، وأحدث أخبارهم، ونصائح بخصوص الموضة والجمال واﻷزياء.(n)</desc>
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20211021123000 +0200" stop="20211021143000 +0200" channel="MBC 2">
+    <title lang="ar">The Last Witch Hunter</title>
+    <desc lang="ar">في ظل عالم تنتشر فيه الساحرات دون معرفة البشر بذلك، تحاول الساحرات أن تطلق الموت الأسود على العالم، وفي هذه الأثناء يحاول (كولدر)، صائد الساحرات الشجاع (فان ديزل) والمصاب بلعنة من الملكة الساحرة، أن يقف في مواجهة الشر القادم في مدينة نيويورك، في العصر الحالي، خاصة بعد بعث الساحرة الملكة من جديد بعد أن قضى عليها في السابق. Today, Kaulder is the last witch hunter remaining, and has spent centuries hunting down rogue witches, all the while yearning for his long-lost loved ones. However, unbeknownst to Kaulder, the Queen Witch is resurrected and seeks revenge on her killer causing an epic battle that will determine the survival of the human race.(n)</desc>
+    <credits>
+      <director>بريك إيسنر</director>
+      <actor>فين ديزل</actor>
+      <actor>روز ليزلي</actor>
+      <actor>إليجاه وود</actor>
+      <actor>مايكل كين</actor>
+      <actor>أولافور داري أولافسون</actor>
+      <actor>جولي إنجلبرخت</actor>
+      <writer>كوري جودمان</writer>
+      <writer>مات سازاما</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺧﻴﺎﻝ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <rating system="EG">
+      <value>6.9</value>
+    </rating>
+  </programme>
+  <programme start="20211021143000 +0200" stop="20211021150000 +0200" channel="MBC 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <desc lang="ar">برنامج يومي، يتم من خلاله تقديم العديد من الأخبار العالمية والمقابلات وما وراء الكواليس عن الأفلام والسينما العالمية ونجومها.(n)</desc>
+    <credits>
+      <director>ألفريد ماسيني</director>
+      <actor>ماري هارت</actor>
+      <actor>مارك ستاينز</actor>
+    </credits>
+    <rating system="EG">
+      <value>6.5</value>
+    </rating>
+  </programme>
+  <programme start="20211021150000 +0200" stop="20211021170000 +0200" channel="MBC 2">
+    <title lang="ar">Ferris Bueller's Day Off</title>
+    <desc lang="ar">يتظاهر الطالب فيريس بالمرض حتى لا يذهب إلى المدرسة، وينجح فى إقناع حبيبته سلون وصديقه كاميرون بالسفر إلى شيكاغو لقضاء بعض الوقت هناك من أجل مساعدته في الشفاء، وبالفعل يذهب الثلاثي بسيارة والد كاميرون، ولكن تتغير الأحداث حتى تأخذ منعطفًا كوميديًا. Ferris pretends to be sick so he doesn't go to school, and he persuades his girlfriend Sloane and his friend Cameron to go to Chicago to spend time there to help him heal. The triple go with the car of Cameron's father, and events take a comic turn.(n)</desc>
+    <credits>
+      <director>جون هيوز</director>
+      <actor>كريستي سوانسون</actor>
+      <actor>ميا سارا</actor>
+      <actor>ألان روك</actor>
+      <actor>ماثيو بروديريك</actor>
+      <actor>جيفري جونز</actor>
+      <actor>إدي مكلورج</actor>
+      <writer>جون هيوز</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <rating system="EG">
+      <value>5.7</value>
+    </rating>
+  </programme>
+  <programme start="20211021170000 +0200" stop="20211021190000 +0200" channel="MBC 2">
+    <title lang="ar">Annie</title>
+    <desc lang="ar">رجل أعمال وسياسي ثري يُدعى بنجامين ستاكس (جايمي فوكس) يقرر الترشح لمنصب سياسي رفيع المستوى، ولكن يتعين عليه تحسين صورته العامة؛ ولذلك يقوم باستضافة طفلة يتيمة من ملجأ تُدعى آني (جوفينزهاني واليز)، وعلى الرغم من صغر سن آني، إلا أنها تعاني كثيرًا ـ ليس فقط بسبب يُتمها ـ ولكن بسبب مديرة الملجأ هانيجان (كايرون دياز)؛ حيث إنها قاسية القلب ولا تعرف الرحمة. بشكل ما، تنشأ رابطة قوية بين آني وبين بنجامين ستاكس، ويتعلق كل منهما بالآخر، لكن ظهور والدي آي يعقد كل شيء. For the good of his public image, wealthy businessman and politician Will Stacks launches a campaign to take in the little girl Annie who has been living with her mean foster mom since she was abandoned as a baby.(n)</desc>
+    <credits>
+      <director>ويل جلوك</director>
+      <actor>كاميرون دياز</actor>
+      <actor>ديفيد زياس</actor>
+      <actor>أديوالي أكاننيويي أجباجي</actor>
+      <actor>بوبي كانافال</actor>
+      <actor>روز بيرن</actor>
+      <actor>كوفينزاني واليس</actor>
+      <writer>ألين بروش ماكينا</writer>
+      <writer>توماس ميهان</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">موسيقي / استعراضي</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻋﺎﺋﻠﻲ</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <rating system="EG">
+      <value>6.6</value>
+    </rating>
+  </programme>
+  <programme start="20211021190000 +0200" stop="20211021210000 +0200" channel="MBC 2">
+    <title lang="ar">Night School</title>
+    <desc lang="ar">في قالب كوميدي، يُجبَر عدد من اﻷشخاص مثيري الشغب على الالتحاق بمدرسة مسائية، وذلك على أمل اجتيازهم اختبار معادلة الثانوية لإنهاء مرحلة الدراسة الثانوية. A group of troublemakers are forced to attend night school in hope that they'll pass the GED exam to finish high school.(n)</desc>
+    <credits>
+      <director>مالكولم دي. لي</director>
+      <actor>كيفن هارت</actor>
+      <actor>تيفاني هاديش</actor>
+      <actor>ماري لين راجسكوب</actor>
+      <actor>إيفون أورجي</actor>
+      <actor>روب ريجلي</actor>
+      <actor>أوين هارن</actor>
+      <writer>نيكولاس ستولر</writer>
+      <writer>كيفن هارت</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <rating system="EG">
+      <value>5.4</value>
+    </rating>
+  </programme>
+  <programme start="20211021210000 +0200" stop="20211021223000 +0200" channel="MBC 2">
+    <title lang="ar">Get Hard</title>
+    <desc lang="ar">مدير بنك يدعى جيمس كينج يُتهم عن طريق الخطأ في قضية تزوير كبيرة، ويتم الحكم عليه بالحبس في سجن مشدد الحراسة لفترة طويلة تبلغ عشر سنوات، ومن أجل المساعدة في تحمل حياة السجن الشاقة، يقرر مدير البنك الاستعانة بعامل مغسلة السيارات من أجل إعداده لحياة السجن فى آخر شهر له كرجل حر. Accused of fraud and sentenced to prison, millionaire James King enlists the help of a friend, Darnell Lewis, to help teach him how to cope with prison life. Along the way, the two men discover they have been wrong about many things, even about their regard for one another.(n)</desc>
+    <credits>
+      <director>إيتان كوهين</director>
+      <actor>كيفن هارت</actor>
+      <actor>بول بن فيكتور</actor>
+      <actor>ويل فاريل</actor>
+      <actor>أليسون بري</actor>
+      <actor>تي. آي</actor>
+      <actor>جاري أوين</actor>
+      <writer>إيتان كوهين</writer>
+      <writer>إيان روبرتس</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <rating system="EG">
+      <value>5.6</value>
+    </rating>
+  </programme>
+  <programme start="20211021223000 +0200" stop="20211021230000 +0200" channel="MBC 2">
+    <title lang="ar">Action Zone</title>
+    <desc lang="ar">يقدم البرنامج أحدث الافلام التي تشهد عروضها اﻷولى في دور العرض العالمية، والمشاهد التي حيرت الجماهير في الأفلام، باﻹضافة إلى العديد من المقابلات الحصرية.(n)</desc>
+    <rating system="EG">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20211021230000 +0200" stop="20211022010000 +0200" channel="MBC 2">
+    <title lang="ar">Bad Teacher</title>
+    <desc lang="ar">بعد فسخ خطبتها مع رجل ثري، تعود (إليزابيث هالسي) مجددًا إلى عملها كمدرسة للمرحلة الثانوية، وتحاول توفير اﻷموال ﻷجل عملية تجميلية لتكبير الثدي، وتحاول كسب قلب (سكوت) المدرس الجديد الثري، كما تسعى للحصول على زيادة في راتبها لو حاز فصلها على الدرجات اﻷعلى في درجات الولاية. This is a comedy about a new teacher (Elisabeth) who joins a high school and is seen abusing her position and her resources. The movie portrays pranks and tricks amongst the teachers involving the new teacher , Mr. Scott and the PE teacher.(n)</desc>
+    <credits>
+      <director>جاك كاسدان</director>
+      <actor>جاستين تيمبرليك</actor>
+      <actor>مولي شانون</actor>
+      <actor>لوسي بانش</actor>
+      <actor>جيسون سيجال</actor>
+      <actor>كاميرون دياز</actor>
+      <actor>جون مايكل هيجينز</actor>
+      <writer>لي ايسينبرج</writer>
+      <writer>جين ستوبنتسكي</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>6.4</value>
+    </rating>
+  </programme>
+  <programme start="20211022010000 +0200" stop="20211022030000 +0200" channel="MBC 2">
+    <title lang="ar">Jurassic World: Fallen Kingdom</title>
+    <desc lang="ar">بعد مرور أربع سنوات على الدمار الذي جرى للحديقة الجوراسية؛ بسبب الديناصورات التي خرجت عن السيطرة تمامًا، وبعد فوران أحد البراكين الخامدة على سطح الجزيرة، يتوجه كل من أوين (كريس برات)، وكلير (برايس دالاس هوارد) في مهمة بالغة الصعوبة في سبيل إنقاذ الديناصورات الباقية من الموت. Four years after the Jurassic World theme park was closed down and the eruption of a dormant volcano on the island, Owen (Chris Pratt) and Claire (Bryce Dallas Howard) return to Isla Nubar to save the dinosaurs before they extinguish.(n)</desc>
+    <credits>
+      <director>جيه أيه بايونا</director>
+      <actor>برايس دالاس هوارد</actor>
+      <actor>كريس برات</actor>
+      <actor>جيف جولدبلوم</actor>
+      <actor>جيمس كرومويل</actor>
+      <actor>تد ليفين</actor>
+      <actor>توبي جونز</actor>
+      <writer>كولين تريفورو</writer>
+      <writer>ديريك كونولي</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <rating system="EG">
+      <value>8</value>
+    </rating>
+  </programme>
+  <programme start="20211022030000 +0200" stop="20211022033000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; stars</title>
+    <desc lang="ar">برنامج يُعرض في كل يوم أحد، يتناول العديد من أخبار عالم هوليوود، بجانب كواليس الأفلام والإيرادات والعديد من المواضيع والأخبار التي تهم محبي السينما في العالم.(n)</desc>
+    <credits>
+      <actor>آلان جرين</actor>
+    </credits>
+    <rating system="EG">
+      <value>5.9</value>
+    </rating>
+  </programme>
+  <programme start="20211022033000 +0200" stop="20211022053000 +0200" channel="MBC 2">
+    <title lang="ar">The Lego Movie 2: The Second Part</title>
+    <desc lang="ar">بعد مرور 5 سنوات على أحداث الفيلم الأول، والحياة المسالمة التي يحياها أهل البلدة، يكتشفوا أنهم في مواجهة خطر جديد، وهم غزاة ليجو دوبلو القادمين من الفضاء الخارجي، والذين يدمرون كل شيء بوتيرة أسرع مما يستطيعون بنائه. With their world endangered by Lego Duplo invaders, Emmett, Lucy, and their friends embark on a journey to save their world from destruction.(n)</desc>
+    <credits>
+      <director>مايك ميتشل</director>
+      <director>تريشا جيم</director>
+      <actor>كريس برات</actor>
+      <actor>إليزابيث بانكس</actor>
+      <actor>ويل أرنيت</actor>
+      <actor>تيفاني هاديش</actor>
+      <actor>ستيفاني بياتريس</actor>
+      <actor>أليسون بري</actor>
+      <writer>فيل لورد</writer>
+      <writer>كريستوفر ميلر</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</category>
+    <rating system="EG">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20211022053000 +0200" stop="20211022070000 +0200" channel="MBC 2">
+    <title lang="ar">The Lego Ninjago Movie</title>
+    <desc lang="ar">يتوجه ستة أفراد نينجا من الشباب في مهمة للدفاع عن جزيرتهم ومسقط رأسهم التي تُدعى (نينجاجو)، وليلًا، هم محاربون موهوبون، يستخدمون مهاراتهم وأسطول شاحناتهم الهائل لمقاتلة الأشرار والوحوش، ونهارًا، هم مراهقون اعتياديون، يكافحون ضد عدوهم الأعظم: مدرستهم الثانوية. The film follows six young ninjas who live a double life, as they are warriors who defend their city from evil forces by night while by day they're ordinary teens dealing with their biggest high school.(n)</desc>
+    <credits>
+      <director>بول فيشر</director>
+      <director>تشارلي بين</director>
+      <actor>جاكي شان</actor>
+      <actor>ديف فرانكو</actor>
+      <actor>فريد أرميسين</actor>
+      <actor>كميل نانجياني</actor>
+      <actor>مايكل بينا</actor>
+      <actor>آبي جاكوبسون</actor>
+      <writer>بول فيشر</writer>
+      <writer>كيفين هاجمان</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺭﺳﻮﻡ ﻣﺘﺤﺮﻛﺔ</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﻋﺎﺋﻠﻲ</category>
+    <rating system="EG">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20211022070000 +0200" stop="20211022090000 +0200" channel="MBC 2">
+    <title lang="ar">Night School</title>
+    <desc lang="ar">في قالب كوميدي، يُجبَر عدد من اﻷشخاص مثيري الشغب على الالتحاق بمدرسة مسائية، وذلك على أمل اجتيازهم اختبار معادلة الثانوية لإنهاء مرحلة الدراسة الثانوية. A group of troublemakers are forced to attend night school in hope that they'll pass the GED exam to finish high school.(n)</desc>
+    <credits>
+      <director>مالكولم دي. لي</director>
+      <actor>كيفن هارت</actor>
+      <actor>تيفاني هاديش</actor>
+      <actor>ماري لين راجسكوب</actor>
+      <actor>إيفون أورجي</actor>
+      <actor>روب ريجلي</actor>
+      <actor>أوين هارن</actor>
+      <writer>نيكولاس ستولر</writer>
+      <writer>كيفن هارت</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <rating system="EG">
+      <value>5.4</value>
+    </rating>
+  </programme>
+  <programme start="20211022090000 +0200" stop="20211022093000 +0200" channel="MBC 2">
+    <title lang="ar">Celebrity Scoop</title>
+    <desc lang="ar">برنامج ترفيهي إخباري، يتناول الحياة الشخصية لمشاهير السينما والتليفزيون والموسيقى، وأسرارهم الدفينة، وأحدث أخبارهم، ونصائح بخصوص الموضة والجمال واﻷزياء.(n)</desc>
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20211022093000 +0200" stop="20211022113000 +0200" channel="MBC 2">
+    <title lang="ar">Annie</title>
+    <desc lang="ar">رجل أعمال وسياسي ثري يُدعى بنجامين ستاكس (جايمي فوكس) يقرر الترشح لمنصب سياسي رفيع المستوى، ولكن يتعين عليه تحسين صورته العامة؛ ولذلك يقوم باستضافة طفلة يتيمة من ملجأ تُدعى آني (جوفينزهاني واليز)، وعلى الرغم من صغر سن آني، إلا أنها تعاني كثيرًا ـ ليس فقط بسبب يُتمها ـ ولكن بسبب مديرة الملجأ هانيجان (كايرون دياز)؛ حيث إنها قاسية القلب ولا تعرف الرحمة. بشكل ما، تنشأ رابطة قوية بين آني وبين بنجامين ستاكس، ويتعلق كل منهما بالآخر، لكن ظهور والدي آي يعقد كل شيء. For the good of his public image, wealthy businessman and politician Will Stacks launches a campaign to take in the little girl Annie who has been living with her mean foster mom since she was abandoned as a baby.(n)</desc>
+    <credits>
+      <director>ويل جلوك</director>
+      <actor>كاميرون دياز</actor>
+      <actor>ديفيد زياس</actor>
+      <actor>أديوالي أكاننيويي أجباجي</actor>
+      <actor>بوبي كانافال</actor>
+      <actor>روز بيرن</actor>
+      <actor>كوفينزاني واليس</actor>
+      <writer>ألين بروش ماكينا</writer>
+      <writer>توماس ميهان</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">موسيقي / استعراضي</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻋﺎﺋﻠﻲ</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <rating system="EG">
+      <value>6.6</value>
+    </rating>
+  </programme>
+  <programme start="20211022113000 +0200" stop="20211022120000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; stars</title>
+    <desc lang="ar">برنامج يُعرض في كل يوم أحد، يتناول العديد من أخبار عالم هوليوود، بجانب كواليس الأفلام والإيرادات والعديد من المواضيع والأخبار التي تهم محبي السينما في العالم.(n)</desc>
+    <credits>
+      <actor>آلان جرين</actor>
+    </credits>
+    <rating system="EG">
+      <value>5.9</value>
+    </rating>
+  </programme>
+  <programme start="20211022120000 +0200" stop="20211022140000 +0200" channel="MBC 2">
+    <title lang="ar">The Promise</title>
+    <desc lang="ar">تدور أحداث الفيلم أثناء الأيام الأخيرة للإمبراطورية العثمانية التي دامت لقرون طويلة، حيث يتتبع الفيلم ثالوث الحب بين (مايكل)، طالب الطب النجيب، الجميلة والراقية (آنّا)، و(كريس) الصحافي الأمريكي الشهير المستقر في (باريس). A love triangle brings together the brilliant medical student Michael, the attractive and sophisticated Ana, and the renowned photojournalist Chris. As the two men clash over Ana, they've to come together when public chaos follows the crumbling of the Ottoman Empire.(n)</desc>
+    <credits>
+      <director>تيري جورج</director>
+      <actor>كريستيان بيل</actor>
+      <actor>أوسكار إيزاك</actor>
+      <actor>شارلوت لوبون</actor>
+      <actor>رومان ميتيشيان</actor>
+      <actor>مروان كنزاري</actor>
+      <actor>شهريه أجهداشلو</actor>
+      <writer>روبن سويسورد</writer>
+      <writer>تيري جورج</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">تاريخي</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>7.1</value>
+    </rating>
+  </programme>
+  <programme start="20211022140000 +0200" stop="20211022143000 +0200" channel="MBC 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <desc lang="ar">برنامج يومي، يتم من خلاله تقديم العديد من الأخبار العالمية والمقابلات وما وراء الكواليس عن الأفلام والسينما العالمية ونجومها.(n)</desc>
+    <credits>
+      <director>ألفريد ماسيني</director>
+      <actor>ماري هارت</actor>
+      <actor>مارك ستاينز</actor>
+    </credits>
+    <rating system="EG">
+      <value>6.5</value>
+    </rating>
+  </programme>
+  <programme start="20211022143000 +0200" stop="20211022163000 +0200" channel="MBC 2">
+    <title lang="ar">Hellboy II: The Golden Army</title>
+    <desc lang="ar">يخرق قزم شرير ميثاق تاريخي بين البشر والمخلوقات الأسطورية، التي تعلن الحرب ضد الجنس البشري نتيجة ذلك، ويتم التخطيط لمهمة سرية يطلقوا بها سراح الجيش الذهبي، والمكون من مجموعة هائلة من الوحوش والمخلوقات الأسطورية، ومن هنا يتم استدعاء فتى الجحيم (رون بيرلمان) وفريقه لإيقاف مخطط المخلوقات الأسطورية. An evil dwarf penetrates the world between humans and mythical creatures, who declare war against the human race. A secret mission is planned to release the Golden Army, that is made up of a great number of strange and vicious creatures. Hellboy and his team are summoned to stop them and save humanity.(n)</desc>
+    <credits>
+      <director>جييرمو ديل تورو</director>
+      <actor>رون بيرلمان</actor>
+      <actor>سلمى بلير</actor>
+      <actor>دوج جونز</actor>
+      <actor>جون ألكسندر</actor>
+      <actor>جيمس دود</actor>
+      <actor>سيث ماكفرلين</actor>
+      <writer>جييرمو ديل تورو</writer>
+      <writer>مايك ميجنولا</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <rating system="EG">
+      <value>5.2</value>
+    </rating>
+  </programme>
+  <programme start="20211022163000 +0200" stop="20211022183000 +0200" channel="MBC 2">
+    <title lang="ar">The Wolverine</title>
+    <desc lang="ar">في أجواء الخيال العلمي الممزوجة بمشاهد الحركة،تدور أحداث الفيلم في العصر الحديث وتحديدًا في اليابان. يواجه وولفرين ألد أعدائه في عالمٍ غير مألوفٍ تمامًا، حيث يخوض معركة حياةٍ أو موتٍ مع الساموراي القاتل. ولكن على الجانب الآخر من المعركة يخوض وولفرين معركةً من نوعٍ آخر وهي معركته مع نفسه، ينفجر صراعٌ داخليٌ بداخل وولفرين يجعله ضعيفًا إلى حدٍ ما. ولكن في قلب المعركتين تبزغ قوةٌ جديدةٌ له ليعيد اكتشاف نفسه. During a trip to Japan to see a dying friend, Logan is forced to come to grips with his own powers and near-immortality as he is drawn into a confrontation with gangsters and ninjas that reveals a wider conspiracy.(n)</desc>
+    <credits>
+      <director>جيمس مانجولد</director>
+      <actor>هيو جاكمان</actor>
+      <actor>فامكي جانسن</actor>
+      <actor>براين تي</actor>
+      <actor>ويل يون لي</actor>
+      <actor>هيرويوكي سانادا</actor>
+      <actor>سفيتلانا خودشنكوفا</actor>
+      <writer>مارك بومباك</writer>
+      <writer>كريستوفر ماكويري</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <rating system="EG">
+      <value>8.5</value>
+    </rating>
+  </programme>
+  <programme start="20211022183000 +0200" stop="20211022190000 +0200" channel="MBC 2">
+    <title lang="ar">Action Zone</title>
+    <desc lang="ar">يقدم البرنامج أحدث الافلام التي تشهد عروضها اﻷولى في دور العرض العالمية، والمشاهد التي حيرت الجماهير في الأفلام، باﻹضافة إلى العديد من المقابلات الحصرية.(n)</desc>
+    <rating system="EG">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20211022190000 +0200" stop="20211022210000 +0200" channel="MBC 2">
+    <title lang="ar">Justice League</title>
+    <desc lang="ar">يبدأ (بروس واين) في استعادة ثقته بالإنسانية، ويعزم على تجميع فريق العدالة للدفاع عن الأرض، ويطلب من حليفته الجديدة (الأميرة ديانا) مساعدته في مواجهة أكبر عدو على الإطلاق، وتجنيد فريق العدالة للوقوف ضد هذا التهديد، ويهب (باتمان)، (المرأة العجيبة)، (أكوامان)، (سايبورج)، (الفلاش) لإنقاذ كوكب الأرض. After his restored faith in humanity and his inspiration by Superman’s neglection to himself, Batman unites with Princess Diana to defeat the strong villain.(n)</desc>
+    <credits>
+      <director>زاك سنايدر</director>
+      <actor>بن أفليك</actor>
+      <actor>جال جادوت</actor>
+      <actor>هنري كافيل</actor>
+      <actor>جايسون موموا</actor>
+      <actor>راى فيشر</actor>
+      <actor>إزرا ميلر</actor>
+      <writer>كريس تيريو</writer>
+      <writer>بيل فينجر</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺧﻴﺎﻝ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <rating system="EG">
+      <value>8</value>
+    </rating>
+  </programme>
+  <programme start="20211022210000 +0200" stop="20211022230000 +0200" channel="MBC 2">
+    <title lang="ar">Glass</title>
+    <desc lang="ar">بعد نهاية أحداث فيلم Split، يستخدم حارس الأمن (ديفيد دان) قوته الخارقة؛ للعثور على المضطرب نفسيًا (كيفين كيندل كرامب) ذو الأربعة وعشرين شخصية مختلفة، ويتقابلا مع السيد جلاس الذي يدبر مؤامرة خطيرة. Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. They both meet Mr. Glass who's masterminding a grand plan.(n)</desc>
+    <credits>
+      <director>إم. نايت شيامالان</director>
+      <actor>أنيا تايلور جوي</actor>
+      <actor>جيمس مكافوي</actor>
+      <actor>بروس ويلس</actor>
+      <actor>صامويل إل. جاكسون</actor>
+      <actor>سارة بولسون</actor>
+      <actor>لوك كيربي</actor>
+      <writer>إم. نايت شيامالان</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>6.7</value>
+    </rating>
+  </programme>
+  <programme start="20211022230000 +0200" stop="20211022233000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; stars</title>
+    <desc lang="ar">برنامج يُعرض في كل يوم أحد، يتناول العديد من أخبار عالم هوليوود، بجانب كواليس الأفلام والإيرادات والعديد من المواضيع والأخبار التي تهم محبي السينما في العالم.(n)</desc>
+    <credits>
+      <actor>آلان جرين</actor>
+    </credits>
+    <rating system="EG">
+      <value>5.9</value>
+    </rating>
+  </programme>
+  <programme start="20211022233000 +0200" stop="20211023013000 +0200" channel="MBC 2">
+    <title lang="ar">Sucker Punch</title>
+    <desc lang="ar">فتاة تدعى (بيبي دول) يحجزها زوج أمها في مستشفى للأمراض العقلية، وأثناء إجراءها لعملية بداخل المستشفى تخوض معركة في عالم فانتازي بداخل عقلها، تحاول فيه التحرر من سجنها بصحبة أربع فتيات أخريات، في مواجهة مجموعة من المخلوقات الغريبة. Baby Doll is detained in the mental hospital by her step-father. During an operation, she gets into a fantasy world in her head, where she attempts to escape her prison with four other girls and faces strange creatures.(n)</desc>
+    <credits>
+      <director>زاك سنايدر</director>
+      <actor>إميلي براوننج</actor>
+      <actor>آبي كورنيش</actor>
+      <actor>جينا مالون</actor>
+      <actor>فانيسا هادجنز</actor>
+      <actor>جيمي تشونج</actor>
+      <actor>أوسكار إيزاك</actor>
+      <writer>زاك سنايدر</writer>
+      <writer>ستيف شيبويا</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <category lang="ar">ﺧﻴﺎﻝ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>6.4</value>
+    </rating>
+  </programme>
+  <programme start="20211023013000 +0200" stop="20211023030000 +0200" channel="MBC 2">
+    <title lang="ar">Get Hard</title>
+    <desc lang="ar">مدير بنك يدعى جيمس كينج يُتهم عن طريق الخطأ في قضية تزوير كبيرة، ويتم الحكم عليه بالحبس في سجن مشدد الحراسة لفترة طويلة تبلغ عشر سنوات، ومن أجل المساعدة في تحمل حياة السجن الشاقة، يقرر مدير البنك الاستعانة بعامل مغسلة السيارات من أجل إعداده لحياة السجن فى آخر شهر له كرجل حر. Accused of fraud and sentenced to prison, millionaire James King enlists the help of a friend, Darnell Lewis, to help teach him how to cope with prison life. Along the way, the two men discover they have been wrong about many things, even about their regard for one another.(n)</desc>
+    <credits>
+      <director>إيتان كوهين</director>
+      <actor>كيفن هارت</actor>
+      <actor>بول بن فيكتور</actor>
+      <actor>ويل فاريل</actor>
+      <actor>أليسون بري</actor>
+      <actor>تي. آي</actor>
+      <actor>جاري أوين</actor>
+      <writer>إيتان كوهين</writer>
+      <writer>إيان روبرتس</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <rating system="EG">
+      <value>5.6</value>
+    </rating>
+  </programme>
+  <programme start="20211023030000 +0200" stop="20211023050000 +0200" channel="MBC 2">
+    <title lang="ar">Night School</title>
+    <desc lang="ar">في قالب كوميدي، يُجبَر عدد من اﻷشخاص مثيري الشغب على الالتحاق بمدرسة مسائية، وذلك على أمل اجتيازهم اختبار معادلة الثانوية لإنهاء مرحلة الدراسة الثانوية. A group of troublemakers are forced to attend night school in hope that they'll pass the GED exam to finish high school.(n)</desc>
+    <credits>
+      <director>مالكولم دي. لي</director>
+      <actor>كيفن هارت</actor>
+      <actor>تيفاني هاديش</actor>
+      <actor>ماري لين راجسكوب</actor>
+      <actor>إيفون أورجي</actor>
+      <actor>روب ريجلي</actor>
+      <actor>أوين هارن</actor>
+      <writer>نيكولاس ستولر</writer>
+      <writer>كيفن هارت</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﻛﻮﻣﻴﺪﻱ</category>
+    <rating system="EG">
+      <value>5.4</value>
+    </rating>
+  </programme>
+  <programme start="20211023050000 +0200" stop="20211023070000 +0200" channel="MBC 2">
+    <title lang="ar">The Promise</title>
+    <desc lang="ar">تدور أحداث الفيلم أثناء الأيام الأخيرة للإمبراطورية العثمانية التي دامت لقرون طويلة، حيث يتتبع الفيلم ثالوث الحب بين (مايكل)، طالب الطب النجيب، الجميلة والراقية (آنّا)، و(كريس) الصحافي الأمريكي الشهير المستقر في (باريس). A love triangle brings together the brilliant medical student Michael, the attractive and sophisticated Ana, and the renowned photojournalist Chris. As the two men clash over Ana, they've to come together when public chaos follows the crumbling of the Ottoman Empire.(n)</desc>
+    <credits>
+      <director>تيري جورج</director>
+      <actor>كريستيان بيل</actor>
+      <actor>أوسكار إيزاك</actor>
+      <actor>شارلوت لوبون</actor>
+      <actor>رومان ميتيشيان</actor>
+      <actor>مروان كنزاري</actor>
+      <actor>شهريه أجهداشلو</actor>
+      <writer>روبن سويسورد</writer>
+      <writer>تيري جورج</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">تاريخي</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>7.1</value>
+    </rating>
+  </programme>
+  <programme start="20211023070000 +0200" stop="20211023090000 +0200" channel="MBC 2">
+    <title lang="ar">Justice League</title>
+    <desc lang="ar">يبدأ (بروس واين) في استعادة ثقته بالإنسانية، ويعزم على تجميع فريق العدالة للدفاع عن الأرض، ويطلب من حليفته الجديدة (الأميرة ديانا) مساعدته في مواجهة أكبر عدو على الإطلاق، وتجنيد فريق العدالة للوقوف ضد هذا التهديد، ويهب (باتمان)، (المرأة العجيبة)، (أكوامان)، (سايبورج)، (الفلاش) لإنقاذ كوكب الأرض. After his restored faith in humanity and his inspiration by Superman’s neglection to himself, Batman unites with Princess Diana to defeat the strong villain.(n)</desc>
+    <credits>
+      <director>زاك سنايدر</director>
+      <actor>بن أفليك</actor>
+      <actor>جال جادوت</actor>
+      <actor>هنري كافيل</actor>
+      <actor>جايسون موموا</actor>
+      <actor>راى فيشر</actor>
+      <actor>إزرا ميلر</actor>
+      <writer>كريس تيريو</writer>
+      <writer>بيل فينجر</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺧﻴﺎﻝ</category>
+    <category lang="ar">ﻣﻐﺎﻣﺮاﺕ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <rating system="EG">
+      <value>8</value>
+    </rating>
+  </programme>
+  <programme start="20211023090000 +0200" stop="20211023093000 +0200" channel="MBC 2">
+    <title lang="ar">Films &amp; stars</title>
+    <desc lang="ar">برنامج يُعرض في كل يوم أحد، يتناول العديد من أخبار عالم هوليوود، بجانب كواليس الأفلام والإيرادات والعديد من المواضيع والأخبار التي تهم محبي السينما في العالم.(n)</desc>
+    <credits>
+      <actor>آلان جرين</actor>
+    </credits>
+    <rating system="EG">
+      <value>5.9</value>
+    </rating>
+  </programme>
+  <programme start="20211023093000 +0200" stop="20211023113000 +0200" channel="MBC 2">
+    <title lang="ar">The Wolverine</title>
+    <desc lang="ar">في أجواء الخيال العلمي الممزوجة بمشاهد الحركة،تدور أحداث الفيلم في العصر الحديث وتحديدًا في اليابان. يواجه وولفرين ألد أعدائه في عالمٍ غير مألوفٍ تمامًا، حيث يخوض معركة حياةٍ أو موتٍ مع الساموراي القاتل. ولكن على الجانب الآخر من المعركة يخوض وولفرين معركةً من نوعٍ آخر وهي معركته مع نفسه، ينفجر صراعٌ داخليٌ بداخل وولفرين يجعله ضعيفًا إلى حدٍ ما. ولكن في قلب المعركتين تبزغ قوةٌ جديدةٌ له ليعيد اكتشاف نفسه. During a trip to Japan to see a dying friend, Logan is forced to come to grips with his own powers and near-immortality as he is drawn into a confrontation with gangsters and ninjas that reveals a wider conspiracy.(n)</desc>
+    <credits>
+      <director>جيمس مانجولد</director>
+      <actor>هيو جاكمان</actor>
+      <actor>فامكي جانسن</actor>
+      <actor>براين تي</actor>
+      <actor>ويل يون لي</actor>
+      <actor>هيرويوكي سانادا</actor>
+      <actor>سفيتلانا خودشنكوفا</actor>
+      <writer>مارك بومباك</writer>
+      <writer>كريستوفر ماكويري</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺧﻴﺎﻝ</category>
+    <category lang="ar">ﺣﺮﻛﺔ</category>
+    <rating system="EG">
+      <value>8.5</value>
+    </rating>
+  </programme>
+  <programme start="20211023113000 +0200" stop="20211023120000 +0200" channel="MBC 2">
+    <title lang="ar">Action Zone</title>
+    <desc lang="ar">يقدم البرنامج أحدث الافلام التي تشهد عروضها اﻷولى في دور العرض العالمية، والمشاهد التي حيرت الجماهير في الأفلام، باﻹضافة إلى العديد من المقابلات الحصرية.(n)</desc>
+    <rating system="EG">
+      <value>7</value>
+    </rating>
+  </programme>
+  <programme start="20211023120000 +0200" stop="20211023140000 +0200" channel="MBC 2">
+    <title lang="ar">Glass</title>
+    <desc lang="ar">بعد نهاية أحداث فيلم Split، يستخدم حارس الأمن (ديفيد دان) قوته الخارقة؛ للعثور على المضطرب نفسيًا (كيفين كيندل كرامب) ذو الأربعة وعشرين شخصية مختلفة، ويتقابلا مع السيد جلاس الذي يدبر مؤامرة خطيرة. Security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. They both meet Mr. Glass who's masterminding a grand plan.(n)</desc>
+    <credits>
+      <director>إم. نايت شيامالان</director>
+      <actor>أنيا تايلور جوي</actor>
+      <actor>جيمس مكافوي</actor>
+      <actor>بروس ويلس</actor>
+      <actor>صامويل إل. جاكسون</actor>
+      <actor>سارة بولسون</actor>
+      <actor>لوك كيربي</actor>
+      <writer>إم. نايت شيامالان</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﻏﻤﻮﺽ</category>
+    <category lang="ar">ﺧﻴﺎﻝ ﻋﻠﻤﻲ</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <rating system="EG">
+      <value>6.7</value>
+    </rating>
+  </programme>
+  <programme start="20211023140000 +0200" stop="20211023143000 +0200" channel="MBC 2">
+    <title lang="ar">Entertainment Tonight</title>
+    <desc lang="ar">برنامج يومي، يتم من خلاله تقديم العديد من الأخبار العالمية والمقابلات وما وراء الكواليس عن الأفلام والسينما العالمية ونجومها.(n)</desc>
+    <credits>
+      <director>ألفريد ماسيني</director>
+      <actor>ماري هارت</actor>
+      <actor>مارك ستاينز</actor>
+    </credits>
+    <rating system="EG">
+      <value>6.5</value>
+    </rating>
+  </programme>
+  <programme start="20211023143000 +0200" stop="20211023163000 +0200" channel="MBC 2">
+    <title lang="ar">The Social Network</title>
+    <desc lang="ar">تتناول أحداث الفيلم، استنادًا إلى الكتاب الذي ألفه ابن ميزرك، جانبًا من حياة مارك زوكربيرج مؤسس فيس بوك، منذ أن كان طالبًا في الجامعة مرورًا بعمله مع صديقه إدواردو سافرين على تطوير الموقع، والدعوى القانونية التي حركها ضده الأخوان وينكلفوس، والتقلبات النفسية والاجتماعية التي مر بها زوكربيرج بعد تطور الموقع. This picture is a drama about the founding of the popular social network website “Facebook”. After breaking up with his girlfriend, Mark has the idea to create a website where Harvard students can rate the attractiveness of females at the school. Eventually, he launches a website with his friend Eduardo that allows people to look up their friends without violating privacy.(n)</desc>
+    <credits>
+      <director>ديفيد فينشر</director>
+      <actor>جيسي أيزنبرج</actor>
+      <actor>أندرو جارفيلد</actor>
+      <actor>جاستين تيمبرليك</actor>
+      <actor>روني مارا</actor>
+      <actor>والاس لانجهام</actor>
+      <actor>داكوتا جونسون</actor>
+      <writer>آرون سوركين</writer>
+      <writer>بين مزريتش</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺳﻴﺮﺓ ﺫاﺗﻴﺔ</category>
+    <rating system="EG">
+      <value>7.2</value>
+    </rating>
+  </programme>
+  <programme start="20211023163000 +0200" stop="20211023182300 +0200" channel="MBC 2">
+    <title lang="ar">Wall Street: Money Never Sleeps</title>
+    <desc lang="ar">تدور أحداث الفيلم حول شخصية مضارب البورصة (جوردون جيكو) الذي أمضى فترة عقوبة طويلة للغاية في السجن. قبل أن يجد نفسه خارج عالم المال الذي سيطر عليه يوماً ما، وحكمه بقبضة من حديد.د. ومن ناحية أخرى، وفي خلال مسعاه لإصلاح علاقته المتوترة مع ابنته، يشكل (جيكو) تحالفاً مع خطيبها (جاكوب)، الذي يرى فيه شخصية الأب، ويحاول السير على خطي (جوردون) مثله الأعلى. After serving a long prison term, Gordon Gekko finds himself out of the financial world he once controlled. He forms an alliance with Jake, his daughter's fiance, who sees him as a father figure and tries to follow Gordon's footsteps.(n)</desc>
+    <credits>
+      <director>أوليفر ستون</director>
+      <actor>شيا لابوف</actor>
+      <actor>مايكل دوجلاس</actor>
+      <actor>كاري موليجان</actor>
+      <actor>فرانك لانجيلا</actor>
+      <actor>أوليفر ستون</actor>
+      <actor>جوش برولين</actor>
+      <writer>ألان لوب</writer>
+      <writer>أوليفر ستون</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <rating system="EG">
+      <value>5.5</value>
+    </rating>
+  </programme>
+  <programme start="20211023182300 +0200" stop="20211023190000 +0200" channel="MBC 2">
+    <title lang="ar">Celebrity Scoop</title>
+    <desc lang="ar">برنامج ترفيهي إخباري، يتناول الحياة الشخصية لمشاهير السينما والتليفزيون والموسيقى، وأسرارهم الدفينة، وأحدث أخبارهم، ونصائح بخصوص الموضة والجمال واﻷزياء.(n)</desc>
+    <rating system="EG">
+      <value>4.3</value>
+    </rating>
+  </programme>
+  <programme start="20211023190000 +0200" stop="20211023210000 +0200" channel="MBC 2">
+    <title lang="ar">The Gambler</title>
+    <desc lang="ar">تدور أحداث الفيلم في إطار من التشويق والإثارة، حول البروفيسور في الآداب جيم بينيت (مارك ويلبرج) والذي يبدأ في إدمان المُقامرة وألعاب الورق، وهو الشيء الذي يسبب له مشاكل ضخمة مع حبيبته وأصدقائه، والأكثر خطورة مع مجموعة من أفراد العصابة الذين تورط في بعض الألعاب معهم. Jim Bennett is a literature professor who's suffering from a gambling addiction, which gets him in muddy waters with a group of gangsters.(n)</desc>
+    <credits>
+      <director>روبرت وايت</director>
+      <actor>مارك ويلبرج</actor>
+      <actor>بري لارسون</actor>
+      <actor>جون جودمان</actor>
+      <actor>جيسيكا لانج</actor>
+      <actor>جورج كينيدي</actor>
+      <actor>سونيا والجير</actor>
+      <writer>وليام موناهان</writer>
+      <writer>جيمس توباك</writer>
+    </credits>
+    <category lang="ar">تصنيف العمل</category>
+    <category lang="ar">ﺗﺸﻮﻳﻖ ﻭﺇﺛﺎﺭﺓ</category>
+    <category lang="ar">ﺩﺭاﻣﺎ</category>
+    <category lang="ar">ﺟﺮﻳﻤﺔ</category>
+    <rating system="EG">
+      <value>4.5</value>
+    </rating>
   </programme>
   <programme start="20211021000000 +0000" stop="20211021010000 +0000" channel="OSN Comedy">
     <title lang="en">Late Night With Seth Meyers</title>
@@ -10602,84 +10883,116 @@
     <episode-num system="onscreen">E14</episode-num>
   </programme>
   <programme start="20211022233000 +0000" stop="20211023002000 +0000" channel="OSN Series First">
-    <title lang="en">Yellowstone (?)</title>
+    <title lang="en">Yellowstone</title>
     <title lang="ar">يالوستون</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">John's enemies strike a direct hit on Yellowstone. Thomas Rainwater breaks ground on his casino, putting all the ranchers' businesses in jeopardy. يوجه أعداء جون ضربة مباشرة على يلوستون، يبدأ توماس رينواتر العمل على أساسات الملهى الجديد، مما يعرض تجارة المواشي للخطر.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR082152_LC_STB231938775.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
   </programme>
   <programme start="20211023002000 +0000" stop="20211023012000 +0000" channel="OSN Series First">
-    <title lang="en">Banshee (?)</title>
+    <title lang="en">Banshee</title>
     <title lang="ar">بانشي</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Lucas' secret is threatened when he's arrested by FBI Special Agent Robert Phillips, but both men end up at the mercy of Raymond Brantley, a mob kingpin with a deadly mobile agenda. Against Chayton's orders, Tommy Littlestone spearheads a second strike against Proctor. سر لوكاس مهدد عندما يقوم روبرت فيليبس العميل الخاص للـ أف بي آي باعتقاله، لكن ينتهي الأمر بالرجلين تحت رحمة ريموند برانتلي، وهو عضو في عصابة له ماض قاتل. يقود تومي ليتلستون، ضد إرادة شايتون، هجوما ثانيا على بروكتور.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR037757_LC_STB122507673.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
   <programme start="20211023012000 +0000" stop="20211023015000 +0000" channel="OSN Series First">
-    <title lang="en">Veep (?)</title>
+    <title lang="en">Veep</title>
     <title lang="ar">فييب</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Selina helps monitor the first free and democratic election in Georgia - the country, not the state – and is reunited with an old "friend". Meanwhile, Mike and Gary hide evidence of a major mishap, and Jonah and Richard have an eventful night out. تساعد سيلينا في مراقبة أول انتخابات حرة وديمقراطية في جورجيا - البلد، وليس الدولة - وتجتمع مع "صديق" قديم. وفي الوقت نفسه، يخفي مايك و غاري أدلة على وقوع حادث كبير، ويحصل كل من وجونا وريتشارد على ليلة مليئة بالأحداث.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR053161_LC_STB.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
   <programme start="20211023015000 +0000" stop="20211023022000 +0000" channel="OSN Series First">
-    <title lang="en">Room 104 (?)</title>
+    <title lang="en">Room 104</title>
     <title lang="ar">روم 104</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">With the help of therapeutic dolls, retired pro wrestler Raw Dog Avalanche taps into his memory of an epic bout gone wrong - along with other traumatic, repressed experiences. بمساعدة الدمى العلاجية ، يدخل المصارع المحترف المتقاعد رو دوغ أفلانش إلى ذاكرته المتعلقة بنوبة ملحمية سارت بطريقة خاطئة - جنبًا إلى جنب مع التجارب المؤلمة الأخرى المكبوتة.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR086171_LC_STB.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
   <programme start="20211023022000 +0000" stop="20211023030000 +0000" channel="OSN Series First">
-    <title lang="en">The View (?)</title>
+    <title lang="en">The View</title>
     <title lang="ar">The View</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">The host invites prominent personalities from different fields and interviews them about their lives, works and plans for the future. يقوم المضيف بدعوة شخصيات بارزة من مختلف المجالات وإجراء مقابلات معهم حول حياتهم وأعمالهم وخططهم المستقبلية.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/6720_LC_STB150153500.jpg" />
+    <episode-num system="onscreen">E32</episode-num>
   </programme>
   <programme start="20211023030000 +0000" stop="20211023040000 +0000" channel="OSN Series First">
-    <title lang="en">Watchmen (?)</title>
+    <title lang="en">Watchmen</title>
     <title lang="ar">ووتش مِن</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">The origin story of Looking Glass is at last revealed, as is the truth behind the greatest hoax in American history. Far away, The Smartest Man In The World plots a daring escape. أخيراً ، تم الكشف عن القصة الأصلية لـ لوكينغ غلاس ، وكذلك الحقيقة وراء أكبر خدعة في التاريخ الأمريكي. بعيدا ، أذكى رجل في العالم يخطط لهروب جريء.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR079629_LC_STB.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
   </programme>
   <programme start="20211023040000 +0000" stop="20211023043500 +0000" channel="OSN Series First">
-    <title lang="en">The Mandalorian (?)</title>
+    <title lang="en">The Mandalorian</title>
     <title lang="ar">ذا ماندلوريان</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">The battered Mandalorian returns to his client for reward. يعود الماندالوري المضروب إلى موكله من أجل الحصول على المكافأة.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR084301_LC_STB.jpg" />
+    <episode-num system="onscreen">E3</episode-num>
   </programme>
   <programme start="20211023043500 +0000" stop="20211023051500 +0000" channel="OSN Series First">
-    <title lang="en">The Mandalorian (?)</title>
+    <title lang="en">The Mandalorian</title>
     <title lang="ar">ذا ماندلوريان</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">The Mandalorian teams up with an ex-soldier to protect a village from raiders. يتحد الماندالوري مع جندي سابق لحماية قرية من المغيرين.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR084302_LC_STB.jpg" />
+    <episode-num system="onscreen">E4</episode-num>
   </programme>
   <programme start="20211023051500 +0000" stop="20211023060000 +0000" channel="OSN Series First">
-    <title lang="en">Harrow (?)</title>
+    <title lang="en">Harrow</title>
     <title lang="ar">هارو</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">While Harrow investigates a baffling crime involving siblings, James brings danger closer to his half-sister Fern than ever before - and pays a high price. بينما يحقق `` هارو '' في جريمة محيرة تتعلق بأشقاء ، يقرب `` جيمس '' الخطر من أخته غير الشقيقة `` فيرن '' أكثر من أي وقت مضى - ويدفع ثمنًا باهظًا.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090986_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
   </programme>
   <programme start="20211023060000 +0000" stop="20211023064500 +0000" channel="OSN Series First">
-    <title lang="en">L.A.'s Finest (?)</title>
+    <title lang="en">L.A.'s Finest</title>
     <title lang="ar">ال أيز فاينست</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">When the team connects a new mobile app to a string of crimes, they learn the Koreatown crime wave is far from over. Meanwhile, Syd discovers a shocking truth about who Jen really was. عندما يربط الفريق تطبيقًا جديدًا للجوّال بسلسلة من الجرائم ، يكتشف أن موجة جريمة كورياتاون لم تنته بعد. في هذه الأثناء ، تكتشف سيد حقيقة مروعة حول من كانت جين حقًا.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/16617-2_LC_STB.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
   </programme>
   <programme start="20211023064500 +0000" stop="20211023073000 +0000" channel="OSN Series First">
-    <title lang="en">Chicago P.D. (?)</title>
+    <title lang="en">Chicago P.D.</title>
     <title lang="ar">شيكاغو بي.دي.</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Ruzek's father, Bob, goes missing and the team races to find him before it's too late. يختفي بوب والد روزيك ويسارع الفريق للعثور عليه قبل فوات الأوان.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/17381-8_LC_STB125703266.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
   </programme>
   <programme start="20211023073000 +0000" stop="20211023081500 +0000" channel="OSN Series First">
-    <title lang="en">Resident Alien (?)</title>
+    <title lang="en">Resident Alien</title>
     <title lang="ar">رازيدنت اليان</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Harry and Asta attend an alien convention. يحضر هاري وأستا مؤتمرًا حول الفضائيين.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR093623_LC_STB.jpg" />
+    <episode-num system="onscreen">E9</episode-num>
   </programme>
   <programme start="20211023081500 +0000" stop="20211023090500 +0000" channel="OSN Series First">
-    <title lang="en">The Mysterious Benedict Society (?)</title>
+    <title lang="en">The Mysterious Benedict Society</title>
     <title lang="ar">ذا ميستيرياس بيندكت سوسايتي</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Kate embarks on a solo mission that raises Curtain's suspicions and endangers the team. Constance's unique sensitivity to the Whisperer comes to a head, and the team realises that their time is running out. تنطلق كيت في مهمة لوحدها والتي تثير شكوك كورتن وتعرض الفريق للخطر.  وشعور كونستانس تجاه ذا ويسبرر في ذروته ويدرك الفريق أن وقتهم ينفد.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR092967_LC_STB.jpg" />
+    <episode-num system="onscreen">E7</episode-num>
   </programme>
   <programme start="20211023090500 +0000" stop="20211023095000 +0000" channel="OSN Series First">
-    <title lang="en">Harrow (?)</title>
+    <title lang="en">Harrow</title>
     <title lang="ar">هارو</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">Harrow rides the storm when a deathly ill boy at QIFM needs his help at the very moment Mila Zoric summons him to negotiate his kidnapped son's release; but there's one lightning bolt shock he did not see coming. يركب هارو العاصفة عندما يحتاج صبي مريض في كيو اي اف ام إلى مساعدته في نفس اللحظة التي تستدعيه ميلا زوريك للتفاوض بشأن إطلاق سراح ابنه المخطوف ؛ ولكن هناك صاعقة لم يرها قادمة.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090987_LC_STB211744816.jpg" />
+    <episode-num system="onscreen">E10</episode-num>
   </programme>
   <programme start="20211023095000 +0000" stop="20211023103500 +0000" channel="OSN Series First">
-    <title lang="en">Chicago P.D. (?)</title>
+    <title lang="en">Chicago P.D.</title>
     <title lang="ar">شيكاغو بي.دي.</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">A wellness check on a family reveals signs of foul play and Detective Hailey Upton is determined to find the parents and young daughter. As Upton delves further into the troubled family dynamics, she finds herself reflecting on her own childhood trauma. يكشف فحص صحة الأسرة عن وجود علامات تدل على وجود مؤامرة بغيضة ، وتحرص المحققة "هايلي أبتون" على العثور على الوالدين والابنة الصغيرة. بينما تتعمق أبتون في ديناميكيات الأسرة المضطربة ، تجد نفسها تفكر في صدمة طفولتها.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/SR090683_LC_STB.jpg" />
+    <episode-num system="onscreen">E11</episode-num>
   </programme>
   <programme start="20211023103500 +0000" stop="20211023112000 +0000" channel="OSN Series First">
-    <title lang="en">L.A.'s Finest (?)</title>
+    <title lang="en">L.A.'s Finest</title>
     <title lang="ar">ال أيز فاينست</title>
-    <icon src="http://content.osn.com/bob/745x419/" />
+    <desc lang="en">When the team connects a new mobile app to a string of crimes, they learn the Koreatown crime wave is far from over. Meanwhile, Syd discovers a shocking truth about who Jen really was. عندما يربط الفريق تطبيقًا جديدًا للجوّال بسلسلة من الجرائم ، يكتشف أن موجة جريمة كورياتاون لم تنته بعد. في هذه الأثناء ، تكتشف سيد حقيقة مروعة حول من كانت جين حقًا.(n)</desc>
+    <icon src="http://content.osn.com/bob/745x419/16617-2_LC_STB.jpg" />
+    <episode-num system="onscreen">E5</episode-num>
   </programme>
   <programme start="20211023112000 +0000" stop="20211023120500 +0000" channel="OSN Series First">
     <title lang="en">Resident Alien</title>
