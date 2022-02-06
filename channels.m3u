@@ -1,0 +1,143 @@
+#EXTM3U url-tvg="http://192.168.1.250:8000/api/xmltv.xml" x-tvg-url="http://192.168.1.250:8000/api/xmltv.xml"
+#EXTINF:0 tvg-id="101" CUID="101" tvg-chno="101" tvg-name="My Cinema Premiere" tvg-logo="https://i.imgur.com/yzDkgg4.png" group-title="Cinema",My Cinema Premiere
+http://192.168.1.250:8000/video?channel=101
+#EXTINF:0 tvg-id="102" CUID="102" tvg-chno="102" tvg-name="My Cinema Select" tvg-logo="https://i.imgur.com/NKya4EP.png" group-title="Cinema",My Cinema Select
+http://192.168.1.250:8000/video?channel=102
+#EXTINF:0 tvg-id="103" CUID="103" tvg-chno="103" tvg-name="My Cinema Hits" tvg-logo="https://i.imgur.com/EhJhDvT.png" group-title="Cinema",My Cinema Hits
+http://192.168.1.250:8000/video?channel=103
+#EXTINF:0 tvg-id="104" CUID="104" tvg-chno="104" tvg-name="My Cinema Greats" tvg-logo="https://i.imgur.com/Md9b3sL.png" group-title="Cinema",My Cinema Greats
+http://192.168.1.250:8000/video?channel=104
+#EXTINF:0 tvg-id="105" CUID="105" tvg-chno="105" tvg-name="My Cinema Animation" tvg-logo="https://i.imgur.com/IfMsO5l.png" group-title="Cinema",My Cinema Animation
+http://192.168.1.250:8000/video?channel=105
+#EXTINF:0 tvg-id="106" CUID="106" tvg-chno="106" tvg-name="My Cinema Family" tvg-logo="https://i.imgur.com/vIyBkMG.png" group-title="Cinema",My Cinema Family
+http://192.168.1.250:8000/video?channel=106
+#EXTINF:0 tvg-id="107" CUID="107" tvg-chno="107" tvg-name="My Cinema Action" tvg-logo="https://i.imgur.com/34dUmfG.png" group-title="Cinema",My Cinema Action
+http://192.168.1.250:8000/video?channel=107
+#EXTINF:0 tvg-id="108" CUID="108" tvg-chno="108" tvg-name="My Cinema Comedy" tvg-logo="https://i.imgur.com/KkUc3jG.png" group-title="Cinema",My Cinema Comedy
+http://192.168.1.250:8000/video?channel=108
+#EXTINF:0 tvg-id="109" CUID="109" tvg-chno="109" tvg-name="My Cinema Thriller" tvg-logo="https://i.imgur.com/Q23uWeD.png" group-title="Cinema",My Cinema Thriller
+http://192.168.1.250:8000/video?channel=109
+#EXTINF:0 tvg-id="110" CUID="110" tvg-chno="110" tvg-name="My Cinema Drama" tvg-logo="https://i.imgur.com/aAzpfBJ.png" group-title="Cinema",My Cinema Drama
+http://192.168.1.250:8000/video?channel=110
+#EXTINF:0 tvg-id="111" CUID="111" tvg-chno="111" tvg-name="My Cinema Sci-Fi" tvg-logo="https://i.imgur.com/W1AiLzK.png" group-title="Cinema",My Cinema Sci-Fi
+http://192.168.1.250:8000/video?channel=111
+#EXTINF:0 tvg-id="112" CUID="112" tvg-chno="112" tvg-name="My Cinema Premiere +1" tvg-logo="https://i.imgur.com/bFA9Ild.png" group-title="Cinema",My Cinema Premiere +1
+http://192.168.1.250:8000/video?channel=112
+#EXTINF:0 tvg-id="151" CUID="151" tvg-chno="151" tvg-name="My Cinema 4K" tvg-logo="https://i.imgur.com/ZiDsbot.png" group-title="Cinema Plus",My Cinema 4K
+http://192.168.1.250:8000/video?channel=151
+#EXTINF:0 tvg-id="152" CUID="152" tvg-chno="152" tvg-name="My Cinema Disney Re-Imaginings" tvg-logo="https://i.imgur.com/Ybri8Mw.png" group-title="Cinema Plus",My Cinema Disney Re-Imaginings
+http://192.168.1.250:8000/video?channel=152
+#EXTINF:0 tvg-id="160" CUID="160" tvg-chno="160" tvg-name="My Cinema Chernin" tvg-logo="https://i.imgur.com/MR2YF92.png" group-title="Cinema Plus",My Cinema Chernin
+http://192.168.1.250:8000/video?channel=160
+#EXTINF:0 tvg-id="200" CUID="200" tvg-chno="200" tvg-name="My Cinema Aardman" tvg-logo="https://i.imgur.com/DaLGaML.png" group-title="Animation",My Cinema Aardman
+http://192.168.1.250:8000/video?channel=200
+#EXTINF:0 tvg-id="201" CUID="201" tvg-chno="201" tvg-name="My Cinema Blue Sky" tvg-logo="https://i.imgur.com/3nYJa1l.png" group-title="Animation",My Cinema Blue Sky
+http://192.168.1.250:8000/video?channel=201
+#EXTINF:0 tvg-id="202" CUID="202" tvg-chno="202" tvg-name="My Cinema DC Animated Universe" tvg-logo="https://i.imgur.com/QAEgwWx.png" group-title="Animation",My Cinema DC Animated Universe
+http://192.168.1.250:8000/video?channel=202
+#EXTINF:0 tvg-id="203" CUID="203" tvg-chno="203" tvg-name="My Cinema Disney" tvg-logo="https://i.imgur.com/7wRLjNa.png" group-title="Animation",My Cinema Disney
+http://192.168.1.250:8000/video?channel=203
+#EXTINF:0 tvg-id="204" CUID="204" tvg-chno="204" tvg-name="My Cinema DreamWorks" tvg-logo="https://i.imgur.com/nIczRhu.png" group-title="Animation",My Cinema DreamWorks
+http://192.168.1.250:8000/video?channel=204
+#EXTINF:0 tvg-id="205" CUID="205" tvg-chno="205" tvg-name="My Cinema Illumination" tvg-logo="https://i.imgur.com/5lAv9eW.png" group-title="Animation",My Cinema Illumination
+http://192.168.1.250:8000/video?channel=205
+#EXTINF:0 tvg-id="206" CUID="206" tvg-chno="206" tvg-name="My Cinema Laika" tvg-logo="https://i.imgur.com/Dm8qCpS.png" group-title="Animation",My Cinema Laika
+http://192.168.1.250:8000/video?channel=206
+#EXTINF:0 tvg-id="207" CUID="207" tvg-chno="207" tvg-name="My Cinema Paramount Animation" tvg-logo="https://i.imgur.com/d2ntdnj.png" group-title="Animation",My Cinema Paramount Animation
+http://192.168.1.250:8000/video?channel=207
+#EXTINF:0 tvg-id="208" CUID="208" tvg-chno="208" tvg-name="My Cinema Pixar" tvg-logo="https://i.imgur.com/8RfQLTo.png" group-title="Animation",My Cinema Pixar
+http://192.168.1.250:8000/video?channel=208
+#EXTINF:0 tvg-id="209" CUID="209" tvg-chno="209" tvg-name="My Cinema Sony Animation" tvg-logo="https://i.imgur.com/wkG6Wpw.png" group-title="Animation",My Cinema Sony Animation
+http://192.168.1.250:8000/video?channel=209
+#EXTINF:0 tvg-id="210" CUID="210" tvg-chno="210" tvg-name="My Cinema Universal Animation" tvg-logo="https://i.imgur.com/zt78JMZ.png" group-title="Animation",My Cinema Universal Animation
+http://192.168.1.250:8000/video?channel=210
+#EXTINF:0 tvg-id="301" CUID="301" tvg-chno="301" tvg-name="My Cinema Middle-Earth" tvg-logo="https://i.imgur.com/2PK9L1D.png" group-title="Action & Adventure",My Cinema Middle-Earth
+http://192.168.1.250:8000/video?channel=301
+#EXTINF:0 tvg-id="303" CUID="303" tvg-chno="303" tvg-name="My Cinema The Matrix" tvg-logo="https://i.imgur.com/W91q1ak.png" group-title="Action & Adventure",My Cinema The Matrix
+http://192.168.1.250:8000/video?channel=303
+#EXTINF:0 tvg-id="304" CUID="304" tvg-chno="304" tvg-name="My Cinema Mission Impossible" tvg-logo="https://i.imgur.com/Vgj6Bfi.png" group-title="Action & Adventure",My Cinema Mission Impossible
+http://192.168.1.250:8000/video?channel=304
+#EXTINF:0 tvg-id="305" CUID="305" tvg-chno="305" tvg-name="My Cinema Jurassic" tvg-logo="https://i.imgur.com/PyCfWEw.png" group-title="Action & Adventure",My Cinema Jurassic
+http://192.168.1.250:8000/video?channel=305
+#EXTINF:0 tvg-id="306" CUID="306" tvg-chno="306" tvg-name="My Cinema Indiana Jones" tvg-logo="https://i.imgur.com/ywDBFSA.png" group-title="Action & Adventure",My Cinema Indiana Jones
+http://192.168.1.250:8000/video?channel=306
+#EXTINF:0 tvg-id="307" CUID="307" tvg-chno="307" tvg-name="My Cinema 007" tvg-logo="https://i.imgur.com/oSOFeyT.png" group-title="Action & Adventure",My Cinema 007
+http://192.168.1.250:8000/video?channel=307
+#EXTINF:0 tvg-id="308" CUID="308" tvg-chno="308" tvg-name="My Cinema Pirates" tvg-logo="https://i.imgur.com/iM9fQEp.png" group-title="Action & Adventure",My Cinema Pirates
+http://192.168.1.250:8000/video?channel=308
+#EXTINF:0 tvg-id="309" CUID="309" tvg-chno="309" tvg-name="My Cinema Fast" tvg-logo="https://i.imgur.com/1Rj8rAm.png" group-title="Action & Adventure",My Cinema Fast
+http://192.168.1.250:8000/video?channel=309
+#EXTINF:0 tvg-id="310" CUID="310" tvg-chno="310" tvg-name="My Cinema Rocky" tvg-logo="https://i.imgur.com/gqNqptD.png" group-title="Action & Adventure",My Cinema Rocky
+http://192.168.1.250:8000/video?channel=310
+#EXTINF:0 tvg-id="370" CUID="370" tvg-chno="370" tvg-name="My Cinema Carry On" tvg-logo="https://i.imgur.com/82m17Am.png" group-title="Comedy",My Cinema Carry On
+http://192.168.1.250:8000/video?channel=370
+#EXTINF:0 tvg-id="371" CUID="371" tvg-chno="371" tvg-name="My Cinema Police Academy" tvg-logo="https://i.imgur.com/fnux1Ox.png" group-title="Comedy",My Cinema Police Academy
+http://192.168.1.250:8000/video?channel=371
+#EXTINF:0 tvg-id="372" CUID="372" tvg-chno="372" tvg-name="My Cinema Police Squad" tvg-logo="https://i.imgur.com/glauPMY.png" group-title="Comedy",My Cinema Police Squad
+http://192.168.1.250:8000/video?channel=372
+#EXTINF:0 tvg-id="401" CUID="401" tvg-chno="401" tvg-name="My Cinema Batman Animated" tvg-logo="https://i.imgur.com/q25cVL9.png" group-title="Kids",My Cinema Batman Animated
+http://192.168.1.250:8000/video?channel=401
+#EXTINF:0 tvg-id="402" CUID="402" tvg-chno="402" tvg-name="My Cinema Lego" tvg-logo="https://i.imgur.com/OPgVhqc.png" group-title="Kids",My Cinema Lego
+http://192.168.1.250:8000/video?channel=402
+#EXTINF:0 tvg-id="403" CUID="403" tvg-chno="403" tvg-name="My Cinema Muppets" tvg-logo="https://i.imgur.com/HYVk2qk.png" group-title="Kids",My Cinema Muppets
+http://192.168.1.250:8000/video?channel=403
+#EXTINF:0 tvg-id="404" CUID="404" tvg-chno="404" tvg-name="My Cinema Scooby-Doo" tvg-logo="https://i.imgur.com/8s4uQYb.png" group-title="Kids",My Cinema Scooby-Doo
+http://192.168.1.250:8000/video?channel=404
+#EXTINF:0 tvg-id="451" CUID="451" tvg-chno="451" tvg-name="My Cinema Night At The Museum" tvg-logo="https://i.imgur.com/vTyxEil.png" group-title="Family",My Cinema Night At The Museum
+http://192.168.1.250:8000/video?channel=451
+#EXTINF:0 tvg-id="452" CUID="452" tvg-chno="452" tvg-name="My Cinema Shrek" tvg-logo="https://i.imgur.com/0SPYbNT.png" group-title="Family",My Cinema Shrek
+http://192.168.1.250:8000/video?channel=452
+#EXTINF:0 tvg-id="500" CUID="500" tvg-chno="500" tvg-name="My Cinema Back To The Future" tvg-logo="https://i.imgur.com/2rshhel.png" group-title="Sci-Fi & Fantasy",My Cinema Back To The Future
+http://192.168.1.250:8000/video?channel=500
+#EXTINF:0 tvg-id="501" CUID="501" tvg-chno="501" tvg-name="My Cinema Ghostbusters" tvg-logo="https://i.imgur.com/Se7GPkU.png" group-title="Sci-Fi & Fantasy",My Cinema Ghostbusters
+http://192.168.1.250:8000/video?channel=501
+#EXTINF:0 tvg-id="502" CUID="502" tvg-chno="502" tvg-name="My Cinema Men In Black" tvg-logo="https://i.imgur.com/38EMxEu.png" group-title="Sci-Fi & Fantasy",My Cinema Men In Black
+http://192.168.1.250:8000/video?channel=502
+#EXTINF:0 tvg-id="503" CUID="503" tvg-chno="503" tvg-name="My Cinema Monsters" tvg-logo="https://i.imgur.com/RBODtVn.png" group-title="Sci-Fi & Fantasy",My Cinema Monsters
+http://192.168.1.250:8000/video?channel=503
+#EXTINF:0 tvg-id="504" CUID="504" tvg-chno="504" tvg-name="My Cinema Star Trek" tvg-logo="https://i.imgur.com/9z1vuCv.png" group-title="Sci-Fi & Fantasy",My Cinema Star Trek
+http://192.168.1.250:8000/video?channel=504
+#EXTINF:0 tvg-id="505" CUID="505" tvg-chno="505" tvg-name="My Cinema Star Wars" tvg-logo="https://i.imgur.com/PI6rvc3.png" group-title="Sci-Fi & Fantasy",My Cinema Star Wars
+http://192.168.1.250:8000/video?channel=505
+#EXTINF:0 tvg-id="506" CUID="506" tvg-chno="506" tvg-name="My Cinema Terminator" tvg-logo="https://i.imgur.com/Fxc2q8q.png" group-title="Sci-Fi & Fantasy",My Cinema Terminator
+http://192.168.1.250:8000/video?channel=506
+#EXTINF:0 tvg-id="507" CUID="507" tvg-chno="507" tvg-name="My Cinema Transformers" tvg-logo="https://i.imgur.com/PCGI6LI.png" group-title="Sci-Fi & Fantasy",My Cinema Transformers
+http://192.168.1.250:8000/video?channel=507
+#EXTINF:0 tvg-id="601" CUID="601" tvg-chno="601" tvg-name="My Cinema Batman" tvg-logo="https://i.imgur.com/BvJd9Df.png" group-title="DC Films",My Cinema Batman
+http://192.168.1.250:8000/video?channel=601
+#EXTINF:0 tvg-id="602" CUID="602" tvg-chno="602" tvg-name="My Cinema Superman" tvg-logo="https://i.imgur.com/koO4bbq.png" group-title="DC Films",My Cinema Superman
+http://192.168.1.250:8000/video?channel=602
+#EXTINF:0 tvg-id="603" CUID="603" tvg-chno="603" tvg-name="My Cinema Wonder Woman" tvg-logo="https://i.imgur.com/cp7QvOQ.png" group-title="DC Films",My Cinema Wonder Woman
+http://192.168.1.250:8000/video?channel=603
+#EXTINF:0 tvg-id="604" CUID="604" tvg-chno="604" tvg-name="My Cinema Justice" tvg-logo="https://i.imgur.com/EsOyEjg.png" group-title="DC Films",My Cinema Justice
+http://192.168.1.250:8000/video?channel=604
+#EXTINF:0 tvg-id="651" CUID="651" tvg-chno="651" tvg-name="My Cinema Marvel Studios" tvg-logo="https://i.imgur.com/UI55l5l.png" group-title="Marvel Studios",My Cinema Marvel Studios
+http://192.168.1.250:8000/video?channel=651
+#EXTINF:0 tvg-id="652" CUID="652" tvg-chno="652" tvg-name="My Cinema Avengers" tvg-logo="https://i.imgur.com/YZaPHK1.png" group-title="Marvel Studios",My Cinema Avengers
+http://192.168.1.250:8000/video?channel=652
+#EXTINF:0 tvg-id="653" CUID="653" tvg-chno="653" tvg-name="My Cinema Captain America" tvg-logo="https://i.imgur.com/lmheJNc.png" group-title="Marvel Studios",My Cinema Captain America
+http://192.168.1.250:8000/video?channel=653
+#EXTINF:0 tvg-id="654" CUID="654" tvg-chno="654" tvg-name="My Cinema Hulk" tvg-logo="https://i.imgur.com/iOQAUcP.png" group-title="Marvel Studios",My Cinema Hulk
+http://192.168.1.250:8000/video?channel=654
+#EXTINF:0 tvg-id="655" CUID="655" tvg-chno="655" tvg-name="My Cinema Iron Man" tvg-logo="https://i.imgur.com/p9AeaLQ.png" group-title="Marvel Studios",My Cinema Iron Man
+http://192.168.1.250:8000/video?channel=655
+#EXTINF:0 tvg-id="656" CUID="656" tvg-chno="656" tvg-name="My Cinema Thor" tvg-logo="https://i.imgur.com/9b1c6Tu.png" group-title="Marvel Studios",My Cinema Thor
+http://192.168.1.250:8000/video?channel=656
+#EXTINF:0 tvg-id="657" CUID="657" tvg-chno="657" tvg-name="My Cinema Spider-Man" tvg-logo="https://i.imgur.com/9zwXyDI.png" group-title="Marvel Studios",My Cinema Spider-Man
+http://192.168.1.250:8000/video?channel=657
+#EXTINF:0 tvg-id="900" CUID="900" tvg-chno="900" tvg-name="My Cinema Christmas" tvg-logo="https://i.imgur.com/lLmMDG7.png" group-title="Christmas",My Cinema Christmas
+http://192.168.1.250:8000/video?channel=900
+#EXTINF:0 tvg-id="950" CUID="950" tvg-chno="950" tvg-name="My Arts" tvg-logo="https://i.imgur.com/qHsxdhP.png" group-title="TV",My Arts
+http://192.168.1.250:8000/video?channel=950
+#EXTINF:0 tvg-id="952" CUID="952" tvg-chno="952" tvg-name="My Comedy" tvg-logo="https://i.imgur.com/ePmcF4K.png" group-title="TV",My Comedy
+http://192.168.1.250:8000/video?channel=952
+#EXTINF:0 tvg-id="955" CUID="955" tvg-chno="955" tvg-name="My Crime" tvg-logo="https://i.imgur.com/2wY6Ye5.png" group-title="TV",My Crime
+http://192.168.1.250:8000/video?channel=955
+#EXTINF:0 tvg-id="956" CUID="956" tvg-chno="956" tvg-name="My Documentaries" tvg-logo="https://i.imgur.com/keA8loh.png" group-title="TV",My Documentaries
+http://192.168.1.250:8000/video?channel=956
+#EXTINF:0 tvg-id="957" CUID="957" tvg-chno="957" tvg-name="My History" tvg-logo="https://i.imgur.com/ZWzWxAu.png" group-title="TV",My History
+http://192.168.1.250:8000/video?channel=957
+#EXTINF:0 tvg-id="959" CUID="959" tvg-chno="959" tvg-name="My Nature" tvg-logo="https://i.imgur.com/knlbVYq.png" group-title="TV",My Nature
+http://192.168.1.250:8000/video?channel=959
+#EXTINF:0 tvg-id="960" CUID="960" tvg-chno="960" tvg-name="My Witness" tvg-logo="https://i.imgur.com/tZs81hj.png" group-title="TV",My Witness
+http://192.168.1.250:8000/video?channel=960
