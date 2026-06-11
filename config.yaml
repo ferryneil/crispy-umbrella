@@ -70,12 +70,12 @@ live_channels:
   - channel_id: "BBCFour.uk"
     display_name: "BBC Four"
 
-  - channel_id: "BBCNewsChannel.uk"
+  - channel_id: "BBCNews.uk"
     display_name: "BBC News"
 
   # ITV
-  - channel_id: "ITV.uk"
-    display_name: "ITV"
+  - channel_id: "ITV1.uk"
+    display_name: "ITV1"
 
   - channel_id: "ITV2.uk"
     display_name: "ITV2"
@@ -85,6 +85,9 @@ live_channels:
 
   - channel_id: "ITV4.uk"
     display_name: "ITV4"
+
+  - channel_id: "ITVBe.uk"
+    display_name: "ITVBe"
 
   # Channel 4 group
   - channel_id: "Channel4.uk"
@@ -103,7 +106,7 @@ live_channels:
   - channel_id: "Channel5.uk"
     display_name: "Channel 5"
 
-  - channel_id: "5Star.uk"
+  - channel_id: "5STAR.uk"
     display_name: "5Star"
 
   - channel_id: "5USA.uk"
@@ -128,17 +131,54 @@ live_channels:
   - channel_id: "SkyNature.uk"
     display_name: "Sky Nature"
 
-  # UKTV
-  - channel_id: "Dave.uk"
+  - channel_id: "SkyArts.uk"
+    display_name: "Sky Arts"
+
+  - channel_id: "SkyHistory.uk"
+    display_name: "Sky History"
+
+  - channel_id: "SkyNews.uk"
+    display_name: "Sky News"
+
+  - channel_id: "SkyWitness.uk"
+    display_name: "Sky Witness"
+
+  # Sky Sports
+  - channel_id: "SkySportsMainEvent.uk"
+    display_name: "Sky Sports Main Event"
+
+  - channel_id: "SkySportsFootball.uk"
+    display_name: "Sky Sports Football"
+
+  - channel_id: "SkySportsPremierLeague.uk"
+    display_name: "Sky Sports Premier League"
+
+  - channel_id: "SkySportsCricket.uk"
+    display_name: "Sky Sports Cricket"
+
+  - channel_id: "SkySportsGolf.uk"
+    display_name: "Sky Sports Golf"
+
+  - channel_id: "SkySportsF1.uk"
+    display_name: "Sky Sports F1"
+
+  - channel_id: "SkySportsArena.uk"
+    display_name: "Sky Sports Arena"
+
+  - channel_id: "SkySportsNews.uk"
+    display_name: "Sky Sports News"
+
+  # UKTV  (iptv-org uses "U&" prefix — id=UDave.uk, UGold.uk etc.)
+  - channel_id: "UDave.uk"
     display_name: "Dave"
 
-  - channel_id: "Gold.uk"
+  - channel_id: "UGold.uk"
     display_name: "Gold"
 
-  - channel_id: "W.uk"
+  - channel_id: "UW.uk"
     display_name: "W"
 
-  - channel_id: "Yesterday.uk"
+  - channel_id: "UYesterday.uk"
     display_name: "Yesterday"
 
   # Add more channels here — use --discover to find the right channel_id
