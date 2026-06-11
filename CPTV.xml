@@ -12,11 +12,11 @@
     <channel id="BBCFour.uk">
         <display-name lang="en">BBC Four</display-name>
     </channel>
-    <channel id="BBCNewsChannel.uk">
+    <channel id="BBCNews.uk">
         <display-name lang="en">BBC News</display-name>
     </channel>
-    <channel id="ITV.uk">
-        <display-name lang="en">ITV</display-name>
+    <channel id="ITV1.uk">
+        <display-name lang="en">ITV1</display-name>
     </channel>
     <channel id="ITV2.uk">
         <display-name lang="en">ITV2</display-name>
@@ -26,6 +26,9 @@
     </channel>
     <channel id="ITV4.uk">
         <display-name lang="en">ITV4</display-name>
+    </channel>
+    <channel id="ITVBe.uk">
+        <display-name lang="en">ITVBe</display-name>
     </channel>
     <channel id="Channel4.uk">
         <display-name lang="en">Channel 4</display-name>
@@ -42,7 +45,7 @@
     <channel id="Channel5.uk">
         <display-name lang="en">Channel 5</display-name>
     </channel>
-    <channel id="5Star.uk">
+    <channel id="5STAR.uk">
         <display-name lang="en">5Star</display-name>
     </channel>
     <channel id="5USA.uk">
@@ -66,16 +69,52 @@
     <channel id="SkyNature.uk">
         <display-name lang="en">Sky Nature</display-name>
     </channel>
-    <channel id="Dave.uk">
+    <channel id="SkyArts.uk">
+        <display-name lang="en">Sky Arts</display-name>
+    </channel>
+    <channel id="SkyHistory.uk">
+        <display-name lang="en">Sky History</display-name>
+    </channel>
+    <channel id="SkyNews.uk">
+        <display-name lang="en">Sky News</display-name>
+    </channel>
+    <channel id="SkyWitness.uk">
+        <display-name lang="en">Sky Witness</display-name>
+    </channel>
+    <channel id="SkySportsMainEvent.uk">
+        <display-name lang="en">Sky Sports Main Event</display-name>
+    </channel>
+    <channel id="SkySportsFootball.uk">
+        <display-name lang="en">Sky Sports Football</display-name>
+    </channel>
+    <channel id="SkySportsPremierLeague.uk">
+        <display-name lang="en">Sky Sports Premier League</display-name>
+    </channel>
+    <channel id="SkySportsCricket.uk">
+        <display-name lang="en">Sky Sports Cricket</display-name>
+    </channel>
+    <channel id="SkySportsGolf.uk">
+        <display-name lang="en">Sky Sports Golf</display-name>
+    </channel>
+    <channel id="SkySportsF1.uk">
+        <display-name lang="en">Sky Sports F1</display-name>
+    </channel>
+    <channel id="SkySportsArena.uk">
+        <display-name lang="en">Sky Sports Arena</display-name>
+    </channel>
+    <channel id="SkySportsNews.uk">
+        <display-name lang="en">Sky Sports News</display-name>
+    </channel>
+    <channel id="UDave.uk">
         <display-name lang="en">Dave</display-name>
     </channel>
-    <channel id="Gold.uk">
+    <channel id="UGold.uk">
         <display-name lang="en">Gold</display-name>
     </channel>
-    <channel id="W.uk">
+    <channel id="UW.uk">
         <display-name lang="en">W</display-name>
     </channel>
-    <channel id="Yesterday.uk">
+    <channel id="UYesterday.uk">
         <display-name lang="en">Yesterday</display-name>
     </channel>
 </tv>
