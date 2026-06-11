@@ -3,14 +3,15 @@
 EPG generator
 
 Normal usage:
-    python generate_epg.py            # fetch sources, write epg.xml
+    python generate_epg.py            # fetch sources, write CPTV.xml
 
-Discover channel IDs available in a source feed:
+Discover channel IDs available in any EPG feed or M3U Plus URL:
     python generate_epg.py --discover <url>
 """
 
 import argparse
 import gzip
+import re
 import sys
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -24,9 +25,43 @@ except ImportError:
     sys.exit("Missing dependency — run: pip install pyyaml")
 
 CONFIG_FILE = Path(__file__).parent / "config.yaml"
+ENV_FILE    = Path(__file__).parent / ".env"
 OUTPUT_FILE = Path(__file__).parent / "CPTV.xml"
 CUSTOM_DAYS = 7
 TIMEOUT = 60
+
+
+# ---------------------------------------------------------------------------
+# .env loader  (key=value, lines starting with # ignored)
+# ---------------------------------------------------------------------------
+
+def load_env() -> dict[str, str]:
+    if not ENV_FILE.exists():
+        return {}
+    env: dict[str, str] = {}
+    for line in ENV_FILE.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#"):
+            continue
+        if "=" in line:
+            k, _, v = line.partition("=")
+            env[k.strip()] = v.strip().strip('"').strip("'")
+    return env
+
+
+def resolve_url(raw: str, env: dict[str, str]) -> str:
+    """Replace ${VAR} or $VAR placeholders with values from env / os.environ."""
+    import os
+    combined = {**os.environ, **env}
+
+    def replacer(m):
+        key = m.group(1) or m.group(2)
+        val = combined.get(key, "")
+        if not val:
+            print(f"  WARNING: env var {key!r} not set — URL may be incomplete", file=sys.stderr)
+        return val
+
+    return re.sub(r'\$\{(\w+)\}|\$(\w+)', replacer, raw)
 
 
 # ---------------------------------------------------------------------------
@@ -34,7 +69,7 @@ TIMEOUT = 60
 # ---------------------------------------------------------------------------
 
 def fetch_url(url: str) -> bytes | None:
-    req = Request(url, headers={"User-Agent": "epg-generator/1.0"})
+    req = Request(url, headers={"User-Agent": "VLC/3.0.18"})
     try:
         with urlopen(req, timeout=TIMEOUT) as r:
             return r.read()
@@ -56,6 +91,25 @@ def fetch_xmltv(url: str) -> ET.Element | None:
     except ET.ParseError as exc:
         print(f"  WARNING: XML parse error for {url}: {exc}", file=sys.stderr)
         return None
+
+
+def epg_url_from_m3u(m3u_url: str) -> str | None:
+    """Fetch an M3U Plus playlist and return the EPG URL from its header."""
+    print(f"  Reading M3U header from {m3u_url} ...")
+    data = fetch_url(m3u_url)
+    if data is None:
+        return None
+    header = data[:4096].decode("utf-8", errors="replace")
+    for line in header.splitlines():
+        if line.upper().startswith("#EXTM3U"):
+            for attr in ("url-tvg", "x-tvg-url"):
+                m = re.search(rf'{attr}="([^"]+)"', line, re.IGNORECASE)
+                if m and m.group(1).strip():
+                    epg = m.group(1).strip()
+                    print(f"  -> EPG URL found: {epg}")
+                    return epg
+    print("  WARNING: no url-tvg found in M3U header", file=sys.stderr)
+    return None
 
 
 # ---------------------------------------------------------------------------
@@ -129,7 +183,18 @@ def indent(elem: ET.Element, level: int = 0) -> None:
 # ---------------------------------------------------------------------------
 
 def cmd_discover(url: str) -> None:
-    root = fetch_xmltv(url)
+    env = load_env()
+    resolved = resolve_url(url, env)
+
+    # If it looks like an M3U Plus URL, extract the EPG URL first
+    if "type=m3u" in resolved.lower() or resolved.lower().endswith(".m3u"):
+        print("Detected M3U URL — extracting EPG URL from header...")
+        epg_url = epg_url_from_m3u(resolved)
+        if not epg_url:
+            sys.exit(1)
+        resolved = epg_url
+
+    root = fetch_xmltv(resolved)
     if root is None:
         sys.exit(1)
     channels = root.findall("channel")
@@ -154,6 +219,8 @@ def cmd_generate() -> None:
     if not CONFIG_FILE.exists():
         sys.exit(f"Config not found: {CONFIG_FILE}")
 
+    env = load_env()
+
     with open(CONFIG_FILE, encoding="utf-8") as f:
         cfg = yaml.safe_load(f) or {}
 
@@ -169,7 +236,23 @@ def cmd_generate() -> None:
     if sources and wanted_ids:
         print("Fetching live EPG sources...")
         for src in sources:
-            root = fetch_xmltv(src["url"])
+            label = src.get("label", "")
+
+            # m3u_url: extract EPG URL from the playlist header first
+            if src.get("m3u_url"):
+                m3u = resolve_url(src["m3u_url"], env)
+                epg_url = epg_url_from_m3u(m3u)
+                if not epg_url:
+                    print(f"  Skipping {label} — could not find EPG URL in M3U")
+                    continue
+            elif src.get("url"):
+                epg_url = resolve_url(src["url"], env)
+            else:
+                print(f"  Skipping {label} — no url or m3u_url defined")
+                continue
+
+            print(f"  [{label}] {epg_url}")
+            root = fetch_xmltv(epg_url)
             if root is None:
                 continue
             chs, progs = extract_channels_and_programmes(root, wanted_ids)

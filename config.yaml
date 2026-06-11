@@ -24,30 +24,23 @@
 #   python generate_epg.py --discover <url>
 # That will print every channel ID in the feed so you can match them below.
 sources:
-  # iptv-org EPG project — UK (tvguide.co.uk scraper)
-  # Full list of available guides: https://github.com/iptv-org/epg/tree/master/guides
-  - label: "iptv-org UK (tvguide)"
-    url: "https://iptv-org.github.io/epg/guides/uk/tvguide.co.uk.epg.xml.gz"
-
-  # Alternative UK sources — uncomment whichever works for your channels:
-  # - label: "iptv-org UK (sky)"
-  #   url: "https://iptv-org.github.io/epg/guides/uk/sky.co.uk.epg.xml.gz"
+  # Your IPTV provider's M3U Plus URL — EPG URL is auto-extracted from the header.
+  # The URL contains credentials so it lives in .env (never committed to the repo).
   #
-  # - label: "iptv-org UK (bbc)"
-  #   url: "https://iptv-org.github.io/epg/guides/uk/bbc.co.uk.epg.xml.gz"
-
-  # ── Other countries ────────────────────────────────────────────────────────
-  # The iptv-org URL pattern is always:
-  #   https://iptv-org.github.io/epg/guides/<country_code>/<provider>.epg.xml.gz
+  # In .env put:
+  #   M3U_URL=https://yourprovider.com/get.php?username=...&password=...&type=m3u_plus
   #
-  # - label: "iptv-org US (tvguide)"
+  # For GitHub Actions, add M3U_URL as a repository secret (Settings → Secrets).
+  - label: "IPTV provider"
+    m3u_url: "${M3U_URL}"
+
+  # ── Fallback / additional sources (direct EPG URLs, no credentials needed) ─
+  # - label: "iptv-org UK (tvguide)"
+  #   url: "https://iptv-org.github.io/epg/guides/uk/tvguide.co.uk.epg.xml.gz"
+  #
+  # ── Other countries ──────────────────────────────────────────────────────────
+  # - label: "iptv-org US"
   #   url: "https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz"
-  #
-  # - label: "iptv-org AU (foxtel)"
-  #   url: "https://iptv-org.github.io/epg/guides/au/foxtel.com.au.epg.xml.gz"
-  #
-  # - label: "iptv-org CA (tvguide)"
-  #   url: "https://iptv-org.github.io/epg/guides/ca/tvguide.com.epg.xml.gz"
 
 
 # ─────────────────────────────────────────────────────────────────────────────

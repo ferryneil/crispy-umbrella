@@ -22,9 +22,11 @@ jobs:
         run: pip install pyyaml
 
       - name: Generate EPG
+        env:
+          M3U_URL: ${{ secrets.M3U_URL }}
         run: python generate_epg.py
 
-      - name: Commit and push if epg.xml changed
+      - name: Commit and push if CPTV.xml changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
