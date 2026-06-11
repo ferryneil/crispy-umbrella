@@ -1,0 +1,35 @@
+name: Update EPG
+
+on:
+  schedule:
+    - cron: '30 0 * * *'   # daily at 00:30 UTC
+  workflow_dispatch:         # allow manual trigger from GitHub UI
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Generate EPG
+        run: python generate_epg.py
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add epg.xml
+          git diff --cached --quiet && echo "No changes" || (
+            git commit -m "chore: regenerate epg.xml [skip ci]"
+            git push
+          )
