@@ -28,7 +28,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add epg.xml
+          git add CPTV.xml
           git diff --cached --quiet \
-            && echo "epg.xml unchanged — nothing to commit" \
-            || (git commit -m "chore: regenerate epg.xml [skip ci]" && git push)
+            && echo "CPTV.xml unchanged — nothing to commit" \
+            || (git commit -m "chore: regenerate CPTV.xml [skip ci]" && git push)

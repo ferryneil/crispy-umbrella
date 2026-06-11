@@ -24,7 +24,7 @@ except ImportError:
     sys.exit("Missing dependency — run: pip install pyyaml")
 
 CONFIG_FILE = Path(__file__).parent / "config.yaml"
-OUTPUT_FILE = Path(__file__).parent / "epg.xml"
+OUTPUT_FILE = Path(__file__).parent / "CPTV.xml"
 CUSTOM_DAYS = 7
 TIMEOUT = 60
 

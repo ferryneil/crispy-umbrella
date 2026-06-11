@@ -4,7 +4,7 @@
 #   1. The script downloads each URL in 'sources' (XMLTV format, .gz supported)
 #   2. It extracts only the channels listed under 'live_channels'
 #   3. It generates a dummy hourly schedule for 'custom_channels'
-#   4. Everything is merged into epg.xml, which GitHub Actions refreshes daily
+#   4. Everything is merged into CPTV.xml, which GitHub Actions refreshes daily
 #
 # FINDING CHANNEL IDs
 #   Run the discover tool against any source feed to see all available IDs:
