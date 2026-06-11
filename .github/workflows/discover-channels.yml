@@ -1,0 +1,36 @@
+name: Discover Channels
+
+on:
+  workflow_dispatch:   # run manually from GitHub Actions UI
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Discover channels from M3U EPG
+        env:
+          M3U_URL: ${{ secrets.M3U_URL }}
+        run: |
+          python generate_epg.py --discover "${M3U_URL}" > discovered_channels.txt 2>&1
+          cat discovered_channels.txt
+
+      - name: Commit discovered channel list
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add discovered_channels.txt
+          git diff --cached --quiet \
+            && echo "No changes" \
+            || (git commit -m "chore: update discovered_channels.txt [skip ci]" && git push)
