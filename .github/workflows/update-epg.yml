@@ -3,7 +3,7 @@ name: Update EPG
 on:
   schedule:
     - cron: '30 0 * * *'   # daily at 00:30 UTC
-  workflow_dispatch:         # allow manual trigger from GitHub UI
+  workflow_dispatch:         # allow manual trigger from the GitHub Actions UI
 
 jobs:
   generate:
@@ -24,12 +24,11 @@ jobs:
       - name: Generate EPG
         run: python generate_epg.py
 
-      - name: Commit and push if changed
+      - name: Commit and push if epg.xml changed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add epg.xml
-          git diff --cached --quiet && echo "No changes" || (
-            git commit -m "chore: regenerate epg.xml [skip ci]"
-            git push
-          )
+          git diff --cached --quiet \
+            && echo "epg.xml unchanged — nothing to commit" \
+            || (git commit -m "chore: regenerate epg.xml [skip ci]" && git push)
