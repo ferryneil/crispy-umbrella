@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CPTV — EPG Config Builder</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body { background: #f8f9fa; }
+    .logo-thumb { width: 32px; height: 20px; object-fit: contain; background: #222; border-radius: 3px; }
+    .cat-header { cursor: pointer; user-select: none; background: #e9ecef; border-radius: 6px; padding: 8px 12px; margin-bottom: 4px; display: flex; align-items: center; gap: 8px; }
+    .cat-header:hover { background: #dee2e6; }
+    .cat-chevron { transition: transform .2s; }
+    .cat-collapsed .cat-chevron { transform: rotate(-90deg); }
+    .channel-row { display: flex; align-items: center; gap: 8px; padding: 5px 12px; border-bottom: 1px solid #f0f0f0; }
+    .channel-row:hover { background: #f1f3f5; }
+    .channel-name { flex: 1; font-size: .9rem; }
+    .tvg-id-cell { width: 220px; font-size: .8rem; }
+    .tvg-id-input { font-size: .8rem; border: 1px solid #ced4da; border-radius: 4px; padding: 2px 6px; width: 100%; }
+    .tvg-id-input.matched { border-color: #28a745; background: #f0fff4; }
+    .tvg-id-input.unmatched { border-color: #dc3545; background: #fff5f5; }
+    .match-badge { font-size: .7rem; white-space: nowrap; }
+    .suggest-list { position: absolute; z-index: 999; background: white; border: 1px solid #ccc; border-radius: 4px; max-height: 180px; overflow-y: auto; width: 280px; box-shadow: 0 4px 12px rgba(0,0,0,.15); }
+    .suggest-item { padding: 5px 10px; font-size: .8rem; cursor: pointer; }
+    .suggest-item:hover { background: #e9ecef; }
+    .suggest-item .epg-id { color: #6c757d; font-size: .75rem; }
+    .stats-bar { font-size: .85rem; color: #6c757d; }
+    #saveBtn { min-width: 160px; }
+    .spinner-border-sm { width: 1rem; height: 1rem; }
+    .section-card { background: white; border-radius: 8px; box-shadow: 0 1px 4px rgba(0,0,0,.08); padding: 20px; margin-bottom: 20px; }
+    .epg-status { font-size: .75rem; }
+  </style>
+</head>
+<body>
+
+<div class="container-fluid py-3" style="max-width:1200px">
+
+  <!-- Header -->
+  <div class="d-flex align-items-center mb-3">
+    <h4 class="mb-0 me-3">CPTV — EPG Config Builder</h4>
+    <span class="text-muted small">Load an M3U Plus playlist, pick channels, fix EPG IDs, save to config.yaml</span>
+  </div>
+
+  <!-- Step 1: M3U URL -->
+  <div class="section-card">
+    <h6 class="fw-semibold mb-3">1 — Load M3U Plus playlist</h6>
+    <div class="d-flex gap-2">
+      <input id="m3uUrl" type="url" class="form-control" placeholder="https://yourprovider.com/get.php?username=…&type=m3u_plus">
+      <button id="loadM3uBtn" class="btn btn-primary" onclick="loadM3u()">Load</button>
+    </div>
+    <div id="m3uStatus" class="mt-2 small text-muted"></div>
+  </div>
+
+  <!-- Step 2: EPG source (auto-filled from M3U header, editable) -->
+  <div id="epgSection" class="section-card d-none">
+    <h6 class="fw-semibold mb-3">2 — EPG source <span class="text-muted fw-normal small">(auto-detected from playlist)</span></h6>
+    <div class="d-flex gap-2">
+      <input id="epgUrl" type="url" class="form-control" placeholder="https://… XMLTV URL">
+      <button id="loadEpgBtn" class="btn btn-secondary" onclick="loadEpg()">Load EPG</button>
+    </div>
+    <div id="epgStatus" class="mt-2 small text-muted"></div>
+  </div>
+
+  <!-- Step 3: Channel browser -->
+  <div id="channelSection" class="section-card d-none">
+    <div class="d-flex align-items-center mb-3 gap-3 flex-wrap">
+      <h6 class="fw-semibold mb-0">3 — Pick channels</h6>
+      <input id="searchBox" type="search" class="form-control form-control-sm" style="max-width:260px" placeholder="Search channels…" oninput="filterChannels()">
+      <div class="stats-bar ms-auto" id="statsBar"></div>
+    </div>
+
+    <!-- Category controls -->
+    <div class="d-flex gap-2 mb-3 flex-wrap" id="catButtons"></div>
+
+    <!-- Channel list -->
+    <div id="channelList"></div>
+  </div>
+
+  <!-- Save -->
+  <div id="saveSection" class="section-card d-none">
+    <h6 class="fw-semibold mb-3">4 — Save to config.yaml</h6>
+    <div class="d-flex align-items-center gap-3">
+      <button id="saveBtn" class="btn btn-success" onclick="saveConfig()">
+        Save selected channels
+      </button>
+      <span id="saveStatus" class="small text-muted"></span>
+    </div>
+  </div>
+
+</div>
+
+<!-- Autocomplete suggestion list (floating, shared) -->
+<div id="suggestList" class="suggest-list d-none"></div>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+<script>
+// ─── State ────────────────────────────────────────────────────────────────
+let allChannels   = [];   // raw channels from M3U
+let epgChannels   = [];   // [{id, name}] from EPG source
+let epgIdSet      = new Set();
+let categoryState = {};   // catName → { visible: bool, checked: bool }
+let overrides     = {};   // tvg_id_original → override_id (if reassigned)
+let suggestTarget = null; // input element being suggested for
+let m3uEpgUrl     = "";
+
+// ─── Helpers ──────────────────────────────────────────────────────────────
+function setStatus(id, msg, cls = "text-muted") {
+  const el = document.getElementById(id);
+  el.textContent = msg;
+  el.className = "mt-2 small " + cls;
+}
+
+function setLoading(btnId, loading) {
+  const btn = document.getElementById(btnId);
+  btn.disabled = loading;
+  btn.innerHTML = loading
+    ? '<span class="spinner-border spinner-border-sm me-1"></span>Loading…'
+    : (btnId === "loadM3uBtn" ? "Load" : btnId === "loadEpgBtn" ? "Load EPG" : "Save selected channels");
+}
+
+async function apiFetch(path, body) {
+  const r = await fetch(path, {
+    method: "POST",
+    headers: {"Content-Type": "application/json"},
+    body: JSON.stringify(body)
+  });
+  return r.json();
+}
+
+// ─── M3U loading ──────────────────────────────────────────────────────────
+async function loadM3u() {
+  const url = document.getElementById("m3uUrl").value.trim();
+  if (!url) return;
+  setLoading("loadM3uBtn", true);
+  setStatus("m3uStatus", "Fetching playlist…");
+
+  const res = await apiFetch("/api/load_m3u", {url});
+  setLoading("loadM3uBtn", false);
+
+  if (res.error) {
+    setStatus("m3uStatus", "Error: " + res.error, "text-danger");
+    return;
+  }
+
+  allChannels = res.channels;
+  m3uEpgUrl   = res.epg_url || "";
+  overrides   = {};
+
+  // Build category state
+  categoryState = {};
+  res.categories.forEach(c => categoryState[c] = {visible: true, checked: true});
+
+  setStatus("m3uStatus",
+    `Loaded ${res.count} channels in ${res.categories.length} categories.`,
+    "text-success");
+
+  // Pre-fill EPG URL
+  if (m3uEpgUrl) {
+    document.getElementById("epgUrl").value = m3uEpgUrl;
+  }
+  document.getElementById("epgSection").classList.remove("d-none");
+  document.getElementById("channelSection").classList.remove("d-none");
+  document.getElementById("saveSection").classList.remove("d-none");
+
+  renderCatButtons();
+  renderChannels();
+}
+
+// ─── EPG loading ──────────────────────────────────────────────────────────
+async function loadEpg() {
+  const url = document.getElementById("epgUrl").value.trim();
+  if (!url) return;
+  setLoading("loadEpgBtn", true);
+  setStatus("epgStatus", "Fetching EPG source…");
+
+  const res = await apiFetch("/api/load_epg", {url});
+  setLoading("loadEpgBtn", false);
+
+  if (res.error) {
+    setStatus("epgStatus", "Error: " + res.error, "text-danger");
+    return;
+  }
+
+  epgChannels = res.channels;
+  epgIdSet    = new Set(epgChannels.map(c => c.id));
+
+  setStatus("epgStatus",
+    `EPG loaded — ${res.count} channels available for matching.`,
+    "text-success");
+
+  renderChannels(); // re-render with match status
+}
+
+// ─── Category buttons ─────────────────────────────────────────────────────
+function renderCatButtons() {
+  const container = document.getElementById("catButtons");
+  container.innerHTML = "";
+
+  // "All / None" buttons
+  const allBtn = document.createElement("button");
+  allBtn.className = "btn btn-sm btn-outline-secondary";
+  allBtn.textContent = "Select all";
+  allBtn.onclick = () => { Object.keys(categoryState).forEach(c => categoryState[c].checked = true); renderChannels(); };
+  container.appendChild(allBtn);
+
+  const noneBtn = document.createElement("button");
+  noneBtn.className = "btn btn-sm btn-outline-secondary";
+  noneBtn.textContent = "Deselect all";
+  noneBtn.onclick = () => { Object.keys(categoryState).forEach(c => categoryState[c].checked = false); renderChannels(); };
+  container.appendChild(noneBtn);
+
+  // Per-category toggles
+  Object.keys(categoryState).sort().forEach(cat => {
+    const btn = document.createElement("button");
+    const st = categoryState[cat];
+    btn.className = "btn btn-sm " + (st.checked ? "btn-primary" : "btn-outline-primary");
+    btn.textContent = cat;
+    btn.title = "Toggle all in category";
+    btn.onclick = () => {
+      st.checked = !st.checked;
+      // Check/uncheck all channels in this category
+      document.querySelectorAll(`.ch-check[data-group="${CSS.escape(cat)}"]`).forEach(cb => {
+        cb.checked = st.checked;
+      });
+      btn.className = "btn btn-sm " + (st.checked ? "btn-primary" : "btn-outline-primary");
+      updateStats();
+    };
+    container.appendChild(btn);
+  });
+}
+
+// ─── Channel list rendering ───────────────────────────────────────────────
+function renderChannels() {
+  const container = document.getElementById("channelList");
+  container.innerHTML = "";
+
+  const query = document.getElementById("searchBox").value.toLowerCase();
+  const grouped = {};
+
+  allChannels.forEach(ch => {
+    if (query && !ch.display_name.toLowerCase().includes(query) && !ch.tvg_id.toLowerCase().includes(query)) return;
+    const g = ch.group;
+    if (!grouped[g]) grouped[g] = [];
+    grouped[g].push(ch);
+  });
+
+  Object.keys(grouped).sort().forEach(cat => {
+    const st = categoryState[cat] || {visible: true, checked: true};
+    const catEl = buildCategoryBlock(cat, grouped[cat], st);
+    container.appendChild(catEl);
+  });
+
+  updateStats();
+}
+
+function buildCategoryBlock(cat, channels, st) {
+  const wrapper = document.createElement("div");
+  wrapper.className = "mb-2";
+
+  // Category header
+  const header = document.createElement("div");
+  header.className = "cat-header" + (st.visible ? "" : " cat-collapsed");
+  header.innerHTML = `
+    <input type="checkbox" class="form-check-input cat-check" data-cat="${escHtml(cat)}" ${st.checked ? "checked" : ""}>
+    <span class="cat-chevron">▼</span>
+    <strong>${escHtml(cat)}</strong>
+    <span class="text-muted ms-1 fw-normal small">${channels.length} channel${channels.length !== 1 ? "s" : ""}</span>
+  `;
+
+  header.querySelector(".cat-check").addEventListener("change", e => {
+    e.stopPropagation();
+    const checked = e.target.checked;
+    st.checked = checked;
+    wrapper.querySelectorAll(".ch-check").forEach(cb => cb.checked = checked);
+    // update cat button
+    document.querySelectorAll("#catButtons button").forEach(btn => {
+      if (btn.textContent === cat) btn.className = "btn btn-sm " + (checked ? "btn-primary" : "btn-outline-primary");
+    });
+    updateStats();
+  });
+
+  header.addEventListener("click", e => {
+    if (e.target.type === "checkbox") return;
+    st.visible = !st.visible;
+    header.classList.toggle("cat-collapsed", !st.visible);
+    body.style.display = st.visible ? "" : "none";
+  });
+
+  const body = document.createElement("div");
+  body.style.display = st.visible ? "" : "none";
+
+  channels.forEach(ch => {
+    const row = buildChannelRow(ch, st.checked);
+    body.appendChild(row);
+  });
+
+  wrapper.appendChild(header);
+  wrapper.appendChild(body);
+  return wrapper;
+}
+
+function buildChannelRow(ch, defaultChecked) {
+  const effectiveId = overrides[ch.tvg_id] !== undefined ? overrides[ch.tvg_id] : ch.tvg_id;
+  const isMatched = epgIdSet.size > 0 && epgIdSet.has(effectiveId);
+  const hasEpg = epgIdSet.size > 0;
+
+  const row = document.createElement("div");
+  row.className = "channel-row";
+
+  // Checkbox
+  const cb = document.createElement("input");
+  cb.type = "checkbox";
+  cb.className = "form-check-input ch-check";
+  cb.dataset.group = ch.group;
+  cb.checked = defaultChecked;
+  cb.addEventListener("change", updateStats);
+
+  // Logo
+  const logoWrap = document.createElement("span");
+  if (ch.tvg_logo) {
+    const img = document.createElement("img");
+    img.className = "logo-thumb";
+    img.src = ch.tvg_logo;
+    img.alt = "";
+    img.onerror = () => img.style.display = "none";
+    logoWrap.appendChild(img);
+  } else {
+    logoWrap.innerHTML = `<span class="logo-thumb d-inline-flex align-items-center justify-content-center text-secondary" style="font-size:.6rem">no logo</span>`;
+  }
+
+  // Name
+  const nameEl = document.createElement("span");
+  nameEl.className = "channel-name";
+  nameEl.textContent = ch.display_name || ch.tvg_name;
+
+  // EPG ID input
+  const idWrap = document.createElement("div");
+  idWrap.className = "tvg-id-cell position-relative";
+
+  const input = document.createElement("input");
+  input.type = "text";
+  input.className = "tvg-id-input" + (hasEpg ? (isMatched ? " matched" : " unmatched") : "");
+  input.value = effectiveId;
+  input.title = "EPG channel ID (tvg-id)";
+  input.dataset.original = ch.tvg_id;
+
+  input.addEventListener("input", () => {
+    const val = input.value.trim();
+    overrides[ch.tvg_id] = val;
+    if (epgIdSet.size > 0) {
+      const m = epgIdSet.has(val);
+      input.className = "tvg-id-input " + (m ? "matched" : "unmatched");
+    }
+    showSuggestions(input, val);
+  });
+  input.addEventListener("focus", () => {
+    if (epgChannels.length > 0) showSuggestions(input, input.value.trim());
+  });
+  input.addEventListener("blur", () => {
+    setTimeout(() => hideSuggestions(), 200);
+  });
+
+  idWrap.appendChild(input);
+
+  // Match badge
+  const badge = document.createElement("span");
+  if (hasEpg) {
+    badge.className = "match-badge badge " + (isMatched ? "bg-success" : "bg-danger");
+    badge.textContent = isMatched ? "✓ matched" : "✗ no match";
+  }
+
+  row.appendChild(cb);
+  row.appendChild(logoWrap);
+  row.appendChild(nameEl);
+  row.appendChild(idWrap);
+  row.appendChild(badge);
+
+  return row;
+}
+
+// ─── Autocomplete suggestions ─────────────────────────────────────────────
+function showSuggestions(input, query) {
+  suggestTarget = input;
+  const list = document.getElementById("suggestList");
+
+  const q = query.toLowerCase();
+  const matches = epgChannels.filter(c =>
+    c.name.toLowerCase().includes(q) || c.id.toLowerCase().includes(q)
+  ).slice(0, 20);
+
+  if (matches.length === 0) { hideSuggestions(); return; }
+
+  list.innerHTML = "";
+  matches.forEach(c => {
+    const item = document.createElement("div");
+    item.className = "suggest-item";
+    item.innerHTML = `<div>${escHtml(c.name)}</div><div class="epg-id">${escHtml(c.id)}</div>`;
+    item.addEventListener("mousedown", () => {
+      input.value = c.id;
+      overrides[input.dataset.original] = c.id;
+      input.className = "tvg-id-input matched";
+      // update badge in parent row
+      const badge = input.closest(".channel-row").querySelector(".match-badge");
+      if (badge) { badge.className = "match-badge badge bg-success"; badge.textContent = "✓ matched"; }
+      hideSuggestions();
+    });
+    list.appendChild(item);
+  });
+
+  // Position below input
+  const rect = input.getBoundingClientRect();
+  list.style.top  = (rect.bottom + window.scrollY + 2) + "px";
+  list.style.left = (rect.left + window.scrollX) + "px";
+  list.classList.remove("d-none");
+}
+
+function hideSuggestions() {
+  document.getElementById("suggestList").classList.add("d-none");
+  suggestTarget = null;
+}
+
+document.addEventListener("click", e => {
+  if (!e.target.closest(".tvg-id-cell") && !e.target.closest("#suggestList")) hideSuggestions();
+});
+
+// ─── Search ───────────────────────────────────────────────────────────────
+function filterChannels() {
+  renderChannels();
+}
+
+// ─── Stats ────────────────────────────────────────────────────────────────
+function updateStats() {
+  const all = document.querySelectorAll(".ch-check").length;
+  const sel = document.querySelectorAll(".ch-check:checked").length;
+  const matched = document.querySelectorAll(".tvg-id-input.matched").length;
+  const unmatched = document.querySelectorAll(".tvg-id-input.unmatched").length;
+
+  let s = `${sel} / ${all} selected`;
+  if (epgIdSet.size > 0) s += ` — ${matched} EPG matched, ${unmatched} unmatched`;
+  document.getElementById("statsBar").textContent = s;
+}
+
+// ─── Save ─────────────────────────────────────────────────────────────────
+async function saveConfig() {
+  setLoading("saveBtn", true);
+  document.getElementById("saveStatus").textContent = "";
+
+  // Collect checked channels
+  const live = [];
+  document.querySelectorAll(".channel-row").forEach(row => {
+    const cb = row.querySelector(".ch-check");
+    if (!cb || !cb.checked) return;
+    const input = row.querySelector(".tvg-id-input");
+    if (!input) return;
+    const channelId = input.value.trim();
+    if (!channelId) return;
+    const nameEl = row.querySelector(".channel-name");
+    const logoEl = row.querySelector(".logo-thumb");
+    live.push({
+      channel_id: channelId,
+      display_name: nameEl ? nameEl.textContent : channelId,
+      logo: logoEl && logoEl.tagName === "IMG" ? logoEl.src : "",
+    });
+  });
+
+  if (live.length === 0) {
+    setLoading("saveBtn", false);
+    document.getElementById("saveStatus").textContent = "No channels selected.";
+    return;
+  }
+
+  const epgUrl = document.getElementById("epgUrl").value.trim();
+  const source = epgUrl ? {label: "M3U source EPG", url: epgUrl} : null;
+
+  const res = await apiFetch("/api/save_config", {live_channels: live, source});
+  setLoading("saveBtn", false);
+
+  if (res.ok) {
+    document.getElementById("saveStatus").textContent =
+      `Saved — ${res.live_count} channels, ${res.source_count} source(s) in config.yaml`;
+    document.getElementById("saveStatus").className = "small text-success";
+  } else {
+    document.getElementById("saveStatus").textContent = res.error || "Save failed";
+    document.getElementById("saveStatus").className = "small text-danger";
+  }
+}
+
+// ─── Util ─────────────────────────────────────────────────────────────────
+function escHtml(s) {
+  return String(s ?? "").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+</script>
+</body>
+</html>

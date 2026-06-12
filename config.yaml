@@ -1,0 +1,197 @@
+# EPG Generator Configuration
+# ─────────────────────────────────────────────────────────────────────────────
+# HOW IT WORKS
+#   1. The script downloads each URL in 'sources' (XMLTV format, .gz supported)
+#   2. It extracts only the channels listed under 'live_channels'
+#   3. It generates a dummy hourly schedule for 'custom_channels'
+#   4. Everything is merged into CPTV.xml, which GitHub Actions refreshes daily
+#
+# FINDING CHANNEL IDs
+#   Run the discover tool against any source feed to see all available IDs:
+#     python generate_epg.py --discover <source_url>
+#
+# ADDING MORE COUNTRIES
+#   Add more entries to 'sources' and add channel entries with matching
+#   channel_id values.  The iptv-org EPG project covers 100+ countries:
+#     https://github.com/iptv-org/epg  →  guides/<country>/<provider>.epg.xml.gz
+# ─────────────────────────────────────────────────────────────────────────────
+
+
+# XMLTV source feeds to download
+# Add as many as you need; the script fetches all of them each run.
+#
+# TIP: If a URL returns no channels, run the discover tool to inspect it:
+#   python generate_epg.py --discover <url>
+# That will print every channel ID in the feed so you can match them below.
+sources:
+  # Your IPTV provider's M3U Plus URL — EPG URL is auto-extracted from the header.
+  # The URL contains credentials so it lives in .env (never committed to the repo).
+  #
+  # In .env put:
+  #   M3U_URL=https://yourprovider.com/get.php?username=...&password=...&type=m3u_plus
+  #
+  # For GitHub Actions, add M3U_URL as a repository secret (Settings → Secrets).
+  - label: "IPTV provider"
+    m3u_url: "${M3U_URL}"
+
+  # ── Fallback / additional sources (direct EPG URLs, no credentials needed) ─
+  # - label: "iptv-org UK (tvguide)"
+  #   url: "https://iptv-org.github.io/epg/guides/uk/tvguide.co.uk.epg.xml.gz"
+  #
+  # ── Other countries ──────────────────────────────────────────────────────────
+  # - label: "iptv-org US"
+  #   url: "https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml.gz"
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# LIVE CHANNELS
+# channel_id must exactly match the id attribute in the source XMLTV feed.
+# Use --discover to find the right id for your channels.
+# ─────────────────────────────────────────────────────────────────────────────
+live_channels:
+
+  # BBC
+  - channel_id: "BBCOne.uk"
+    display_name: "BBC One"
+
+  - channel_id: "BBCTwo.uk"
+    display_name: "BBC Two"
+
+  - channel_id: "BBCThree.uk"
+    display_name: "BBC Three"
+
+  - channel_id: "BBCFour.uk"
+    display_name: "BBC Four"
+
+  - channel_id: "BBCNews.uk"
+    display_name: "BBC News"
+
+  # ITV
+  - channel_id: "ITV1.uk"
+    display_name: "ITV1"
+
+  - channel_id: "ITV2.uk"
+    display_name: "ITV2"
+
+  - channel_id: "ITV3.uk"
+    display_name: "ITV3"
+
+  - channel_id: "ITV4.uk"
+    display_name: "ITV4"
+
+  - channel_id: "ITVBe.uk"
+    display_name: "ITVBe"
+
+  # Channel 4 group
+  - channel_id: "Channel4.uk"
+    display_name: "Channel 4"
+
+  - channel_id: "E4.uk"
+    display_name: "E4"
+
+  - channel_id: "More4.uk"
+    display_name: "More4"
+
+  - channel_id: "Film4.uk"
+    display_name: "Film4"
+
+  # Channel 5 group
+  - channel_id: "Channel5.uk"
+    display_name: "Channel 5"
+
+  - channel_id: "5STAR.uk"
+    display_name: "5Star"
+
+  - channel_id: "5USA.uk"
+    display_name: "5USA"
+
+  # Sky
+  - channel_id: "SkyOne.uk"
+    display_name: "Sky One"
+
+  - channel_id: "SkyAtlantic.uk"
+    display_name: "Sky Atlantic"
+
+  - channel_id: "SkyMax.uk"
+    display_name: "Sky Max"
+
+  - channel_id: "SkyCrime.uk"
+    display_name: "Sky Crime"
+
+  - channel_id: "SkyDocumentaries.uk"
+    display_name: "Sky Documentaries"
+
+  - channel_id: "SkyNature.uk"
+    display_name: "Sky Nature"
+
+  - channel_id: "SkyArts.uk"
+    display_name: "Sky Arts"
+
+  - channel_id: "SkyHistory.uk"
+    display_name: "Sky History"
+
+  - channel_id: "SkyNews.uk"
+    display_name: "Sky News"
+
+  - channel_id: "SkyWitness.uk"
+    display_name: "Sky Witness"
+
+  # Sky Sports
+  - channel_id: "SkySportsMainEvent.uk"
+    display_name: "Sky Sports Main Event"
+
+  - channel_id: "SkySportsFootball.uk"
+    display_name: "Sky Sports Football"
+
+  - channel_id: "SkySportsPremierLeague.uk"
+    display_name: "Sky Sports Premier League"
+
+  - channel_id: "SkySportsCricket.uk"
+    display_name: "Sky Sports Cricket"
+
+  - channel_id: "SkySportsGolf.uk"
+    display_name: "Sky Sports Golf"
+
+  - channel_id: "SkySportsF1.uk"
+    display_name: "Sky Sports F1"
+
+  - channel_id: "SkySportsArena.uk"
+    display_name: "Sky Sports Arena"
+
+  - channel_id: "SkySportsNews.uk"
+    display_name: "Sky Sports News"
+
+  # UKTV  (iptv-org uses "U&" prefix — id=UDave.uk, UGold.uk etc.)
+  - channel_id: "UDave.uk"
+    display_name: "Dave"
+
+  - channel_id: "UGold.uk"
+    display_name: "Gold"
+
+  - channel_id: "UW.uk"
+    display_name: "W"
+
+  - channel_id: "UYesterday.uk"
+    display_name: "Yesterday"
+
+  # Add more channels here — use --discover to find the right channel_id
+
+
+# ─────────────────────────────────────────────────────────────────────────────
+# CUSTOM CHANNELS
+# These are 24/7 loop channels with no real EPG data.
+# The script generates a repeating hourly schedule for the next 7 days.
+# ─────────────────────────────────────────────────────────────────────────────
+custom_channels: []
+
+  # Example — uncomment and add your own:
+  # - id: "my-friends-channel"
+  #   display_name: "24/7 Friends"
+  #   title: "Friends"
+  #   description: "Six friends navigate life and love in New York City."
+  #   logo: ""  # optional: https://... image URL
+  #
+  # - id: "my-simpsons-channel"
+  #   display_name: "24/7 Simpsons"
+  #   title: "The Simpsons"
+  #   description: "The animated misadventures of a working-class family."

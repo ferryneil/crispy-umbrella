@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="epg-generator" generator-info-url="https://github.com/ferryneil/crispy-umbrella">
+    <channel id="BBCOne.uk">
+        <display-name lang="en">BBC One</display-name>
+    </channel>
+    <channel id="BBCTwo.uk">
+        <display-name lang="en">BBC Two</display-name>
+    </channel>
+    <channel id="BBCThree.uk">
+        <display-name lang="en">BBC Three</display-name>
+    </channel>
+    <channel id="BBCFour.uk">
+        <display-name lang="en">BBC Four</display-name>
+    </channel>
+    <channel id="BBCNews.uk">
+        <display-name lang="en">BBC News</display-name>
+    </channel>
+    <channel id="ITV1.uk">
+        <display-name lang="en">ITV1</display-name>
+    </channel>
+    <channel id="ITV2.uk">
+        <display-name lang="en">ITV2</display-name>
+    </channel>
+    <channel id="ITV3.uk">
+        <display-name lang="en">ITV3</display-name>
+    </channel>
+    <channel id="ITV4.uk">
+        <display-name lang="en">ITV4</display-name>
+    </channel>
+    <channel id="ITVBe.uk">
+        <display-name lang="en">ITVBe</display-name>
+    </channel>
+    <channel id="Channel4.uk">
+        <display-name lang="en">Channel 4</display-name>
+    </channel>
+    <channel id="E4.uk">
+        <display-name lang="en">E4</display-name>
+    </channel>
+    <channel id="More4.uk">
+        <display-name lang="en">More4</display-name>
+    </channel>
+    <channel id="Film4.uk">
+        <display-name lang="en">Film4</display-name>
+    </channel>
+    <channel id="Channel5.uk">
+        <display-name lang="en">Channel 5</display-name>
+    </channel>
+    <channel id="5STAR.uk">
+        <display-name lang="en">5Star</display-name>
+    </channel>
+    <channel id="5USA.uk">
+        <display-name lang="en">5USA</display-name>
+    </channel>
+    <channel id="SkyOne.uk">
+        <display-name lang="en">Sky One</display-name>
+    </channel>
+    <channel id="SkyAtlantic.uk">
+        <display-name lang="en">Sky Atlantic</display-name>
+    </channel>
+    <channel id="SkyMax.uk">
+        <display-name lang="en">Sky Max</display-name>
+    </channel>
+    <channel id="SkyCrime.uk">
+        <display-name lang="en">Sky Crime</display-name>
+    </channel>
+    <channel id="SkyDocumentaries.uk">
+        <display-name lang="en">Sky Documentaries</display-name>
+    </channel>
+    <channel id="SkyNature.uk">
+        <display-name lang="en">Sky Nature</display-name>
+    </channel>
+    <channel id="SkyArts.uk">
+        <display-name lang="en">Sky Arts</display-name>
+    </channel>
+    <channel id="SkyHistory.uk">
+        <display-name lang="en">Sky History</display-name>
+    </channel>
+    <channel id="SkyNews.uk">
+        <display-name lang="en">Sky News</display-name>
+    </channel>
+    <channel id="SkyWitness.uk">
+        <display-name lang="en">Sky Witness</display-name>
+    </channel>
+    <channel id="SkySportsMainEvent.uk">
+        <display-name lang="en">Sky Sports Main Event</display-name>
+    </channel>
+    <channel id="SkySportsFootball.uk">
+        <display-name lang="en">Sky Sports Football</display-name>
+    </channel>
+    <channel id="SkySportsPremierLeague.uk">
+        <display-name lang="en">Sky Sports Premier League</display-name>
+    </channel>
+    <channel id="SkySportsCricket.uk">
+        <display-name lang="en">Sky Sports Cricket</display-name>
+    </channel>
+    <channel id="SkySportsGolf.uk">
+        <display-name lang="en">Sky Sports Golf</display-name>
+    </channel>
+    <channel id="SkySportsF1.uk">
+        <display-name lang="en">Sky Sports F1</display-name>
+    </channel>
+    <channel id="SkySportsArena.uk">
+        <display-name lang="en">Sky Sports Arena</display-name>
+    </channel>
+    <channel id="SkySportsNews.uk">
+        <display-name lang="en">Sky Sports News</display-name>
+    </channel>
+    <channel id="UDave.uk">
+        <display-name lang="en">Dave</display-name>
+    </channel>
+    <channel id="UGold.uk">
+        <display-name lang="en">Gold</display-name>
+    </channel>
+    <channel id="UW.uk">
+        <display-name lang="en">W</display-name>
+    </channel>
+    <channel id="UYesterday.uk">
+        <display-name lang="en">Yesterday</display-name>
+    </channel>
+</tv>
